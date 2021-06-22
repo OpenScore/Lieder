@@ -1,0 +1,1471 @@
+# Parse this file with StrictYAML - https://github.com/crdoconnor/strictyaml
+60159846:
+  path: Abbott,_Jane_Bingham
+  name: Jane Bingham Abbott
+  gender: Female
+  born: 1851
+  died: 1934
+  desc: US pianist, singer and composer
+  sets: 1
+  scores: 2
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Abbott,+Jane
+  wikidata: Q60159846
+  wikipedia: https://de.wikipedia.org/wiki/Jane_Abbott_(Komponistin)
+  imslp: https://imslp.org/wiki/Category:Abbott,_Jane_Bingham
+  image:
+11925257:
+  path: Abrams,_Harriett
+  name: Harriett Abrams
+  gender: Female
+  born: 1758
+  died: 1821
+  desc: English musician, singer, composer
+  sets: 1
+  scores: 2
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Abrams,+Harriett
+  wikidata: Q11925257
+  wikipedia: https://en.wikipedia.org/wiki/Harriett_Abrams
+  imslp: https://imslp.org/wiki/Category:Abrams,_Harriett
+  image: https://upload.wikimedia.org/wikipedia/commons/c/cc/A_duet_by_Miss_Harriet_and_Miss_Theodosia_Abrams,_Harrison's_Concert,_Hanover_Square.jpg
+552010:
+  path: Bantock,_Granville
+  name: Granville Bantock
+  gender: Male
+  born: 1868
+  died: 1946
+  desc: British composer and conductor
+  sets: 1
+  scores: 5
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Bantock,+Granville
+  wikidata: Q552010
+  wikipedia: https://en.wikipedia.org/wiki/Granville_Bantock
+  imslp: https://imslp.org/wiki/Category:Bantock,_Granville
+  image: https://upload.wikimedia.org/wikipedia/commons/8/8d/Granville_Bantock.jpg
+5085825:
+  path: Barnard,_Charlotte_Alington_-_aka_Claribel
+  name: Charlotte Alington Barnard
+  gender: Female
+  born: 1830
+  died: 1869
+  desc: British composer and hymnwriter
+  sets: 1
+  scores: 5
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Barnard,+Charlotte
+  wikidata: Q5085825
+  wikipedia: https://en.wikipedia.org/wiki/Charlotte_Alington_Barnard
+  imslp: https://imslp.org/wiki/Category:Barnard,_Charlotte_Alington
+  image:
+5566022:
+  path: Barnby,_Joseph
+  name: Joseph Barnby
+  gender: Male
+  born: 1838
+  died: 1896
+  desc: British musician
+  sets: 1
+  scores: 2
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Barnby,+Joseph
+  wikidata: Q5566022
+  wikipedia: https://en.wikipedia.org/wiki/Joseph_Barnby
+  imslp: https://imslp.org/wiki/Category:Barnby,_Joseph
+  image: https://upload.wikimedia.org/wikipedia/commons/b/b3/Joseph_Barnby.jpg
+5403071:
+  path: Barns,_Ethel
+  name: Ethel Barns
+  gender: Female
+  born: 1874
+  died: 1948
+  desc: British composer and violinist
+  sets: 1
+  scores: 1
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Barns,+Ethel
+  wikidata: Q5403071
+  wikipedia: https://en.wikipedia.org/wiki/Ethel_Barns
+  imslp: https://imslp.org/wiki/Category:Barns,_Ethel
+  image:
+235699:
+  path: Beach,_Amy
+  name: Amy Beach
+  gender: Female
+  born: 1867
+  died: 1944
+  desc: American composer and pianist
+  sets: 3
+  scores: 10
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Beach,+Amy
+  wikidata: Q235699
+  wikipedia: https://en.wikipedia.org/wiki/Amy_Beach
+  imslp: https://imslp.org/wiki/Category:Beach,_Amy_Marcy
+  image: https://upload.wikimedia.org/wikipedia/commons/9/91/Amy_March_(Cheney)_Beach,_1867-1944,_head_and_shoulders,_facing_slightly_left_LCCN2006690272.jpg
+255:
+  path: Beethoven,_Ludwig_van
+  name: Ludwig van Beethoven
+  gender: Male
+  born: 1770
+  died: 1827
+  desc: German classical and romantic composer
+  sets: 2
+  scores: 14
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Beethoven,+Ludwig
+  wikidata: Q255
+  wikipedia: https://en.wikipedia.org/wiki/Ludwig_van_Beethoven
+  imslp: https://imslp.org/wiki/Category:Beethoven,_Ludwig_van
+  image: https://upload.wikimedia.org/wikipedia/commons/6/6f/Beethoven.jpg
+18529943:
+  path: Bianchi_Lacy,_Jane
+  name: Jane Bianchi
+  gender: Female
+  born: 1776
+  died: 1858
+  desc: English singer in London and Oudh
+  sets: 1
+  scores: 1
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Bianchi+Lacy,+Jane
+  wikidata: Q18529943
+  wikipedia: https://en.wikipedia.org/wiki/Jane_Bianchi
+  imslp: https://imslp.org/wiki/Category:Bianchi_Lacy,_Jane
+  image:
+1200639:
+  path: Bishop,_Henry
+  name: Henry Bishop
+  gender: Male
+  born: 1786
+  died: 1855
+  desc: British composer
+  sets: 1
+  scores: 2
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Bishop,+Henry
+  wikidata: Q1200639
+  wikipedia: https://en.wikipedia.org/wiki/Henry_Bishop_(composer)
+  imslp: https://imslp.org/wiki/Category:Bishop,_Henry_Rowley
+  image: https://upload.wikimedia.org/wikipedia/commons/9/9f/Sir_Henry_Rowley_Bishop_by_Isaac_Pocock.jpg
+56158:
+  path: Bizet,_Georges
+  name: Georges Bizet
+  gender: Male
+  born: 1838
+  died: 1875
+  desc: French composer
+  sets: 2
+  scores: 7
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Bizet,+Georges
+  wikidata: Q56158
+  wikipedia: https://en.wikipedia.org/wiki/Georges_Bizet
+  imslp: https://imslp.org/wiki/Category:Bizet,_Georges
+  image: https://upload.wikimedia.org/wikipedia/commons/9/96/Georges_bizet.jpg
+467452:
+  path: Bonis,_Mel
+  name: Mélanie Bonis
+  gender: Female
+  born: 1858
+  died: 1937
+  desc: French composer
+  sets: 1
+  scores: 1
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Bonis,+Mel
+  wikidata: Q467452
+  wikipedia: https://en.wikipedia.org/wiki/Mélanie_Bonis
+  imslp: https://imslp.org/wiki/Category:Bonis,_Mel
+  image: https://upload.wikimedia.org/wikipedia/commons/0/07/Mel_Bonis_1.jpg
+230412:
+  path: Boulanger,_Lili
+  name: Lili Boulanger
+  gender: Female
+  born: 1893
+  died: 1918
+  desc: French composer
+  sets: 2
+  scores: 16
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Boulanger,+Lili
+  wikidata: Q230412
+  wikipedia: https://en.wikipedia.org/wiki/Lili_Boulanger
+  imslp: https://imslp.org/wiki/Category:Boulanger,_Lili
+  image: https://upload.wikimedia.org/wikipedia/commons/d/da/Lili_Boulanger_1.jpg
+7527034:
+  path: Boulton,_Harold
+  name: Sir Harold Boulton, 2nd Baronet
+  gender: Male
+  born: 1859
+  died: 1935
+  desc: British songwriter
+  sets: 1
+  scores: 12
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Boulton,+Harold
+  wikidata: Q7527034
+  wikipedia: https://en.wikipedia.org/wiki/Harold_Boulton
+  imslp: https://imslp.org/wiki/Category:Boulton,_Harold
+  image:
+7294:
+  path: Brahms,_Johannes
+  name: Johannes Brahms
+  gender: Male
+  born: 1833
+  died: 1897
+  desc: German composer and pianist
+  sets: 17
+  scores: 104
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Brahms,+Johannes
+  wikidata: Q7294
+  wikipedia: https://en.wikipedia.org/wiki/Johannes_Brahms
+  imslp: https://imslp.org/wiki/Category:Brahms,_Johannes
+  image: https://upload.wikimedia.org/wikipedia/commons/1/15/JohannesBrahms.jpg
+366636:
+  path: Bridge,_Frank
+  name: Frank Bridge
+  gender: Male
+  born: 1879
+  died: 1941
+  desc: English composer and violist
+  sets: 1
+  scores: 9
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Bridge,+Frank
+  wikidata: Q366636
+  wikipedia: https://en.wikipedia.org/wiki/Frank_Bridge
+  imslp: https://imslp.org/wiki/Category:Bridge,_Frank
+  image:
+4820896:
+  path: Browne,_Augusta
+  name: Augusta Browne
+  gender: Female
+  born: 1820
+  died: 1882
+  desc: American composer
+  sets: 1
+  scores: 3
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Browne,+Augusta
+  wikidata: Q4820896
+  wikipedia: https://en.wikipedia.org/wiki/Augusta_Browne
+  imslp: https://imslp.org/wiki/Category:Browne,_Augusta
+  image:
+1586825:
+  path: Burleigh,_Harry_Thacker
+  name: Harry T. Burleigh
+  gender: Male
+  born: 1866
+  died: 1949
+  desc: American composer, arranger, and baritone
+  sets: 2
+  scores: 8
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Burleigh,+Harry
+  wikidata: Q1586825
+  wikipedia: https://en.wikipedia.org/wiki/Harry_Burleigh
+  imslp: https://imslp.org/wiki/Category:Burleigh,_Harry_Thacker
+  image: https://upload.wikimedia.org/wikipedia/commons/9/96/Maud_Cuney_Hare-Harry_T_Burleigh_328.jpg
+774863:
+  path: Butterworth,_George
+  name: George Butterworth
+  gender: Male
+  born: 1885
+  died: 1916
+  desc: British composer
+  sets: 3
+  scores: 12
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Butterworth,+George
+  wikidata: Q774863
+  wikipedia: https://en.wikipedia.org/wiki/George_Butterworth
+  imslp: https://imslp.org/wiki/Category:Butterworth,_George
+  image:
+2603318:
+  path: Cellier,_Alfred
+  name: Alfred Cellier
+  gender: Male
+  born: 1844
+  died: 1891
+  desc: British composer and conductor
+  sets: 1
+  scores: 1
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Cellier,+Alfred
+  wikidata: Q2603318
+  wikipedia: https://en.wikipedia.org/wiki/Alfred_Cellier
+  imslp: https://imslp.org/wiki/Category:Cellier,_Alfred
+  image: https://upload.wikimedia.org/wikipedia/commons/5/57/A_Cellier,_H_J_Leslie,_B_C_Stephenson.jpg
+313374:
+  path: Chabrier,_Emmanuel
+  name: Emmanuel Chabrier
+  gender: Male
+  born: 1841
+  died: 1894
+  desc: French Romantic composer and pianist
+  sets: 1
+  scores: 3
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Chabrier,+Emmanuel
+  wikidata: Q313374
+  wikipedia: https://en.wikipedia.org/wiki/Emmanuel_Chabrier
+  imslp: https://imslp.org/wiki/Category:Chabrier,_Emmanuel
+  image: https://upload.wikimedia.org/wikipedia/commons/c/ce/Emmanuel_Chabrier.jpg
+236438:
+  path: Chaminade,_Cécile
+  name: Cécile Chaminade
+  gender: Female
+  born: 1857
+  died: 1944
+  desc: French composer and pianist
+  sets: 1
+  scores: 31
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Chaminade,+Cécile
+  wikidata: Q236438
+  wikipedia: https://en.wikipedia.org/wiki/Cécile_Chaminade
+  imslp: https://imslp.org/wiki/Category:Chaminade,_Cécile
+  image: https://upload.wikimedia.org/wikipedia/commons/a/ae/Cecile_chaminade.jpg
+312368:
+  path: Chausson,_Ernest
+  name: Ernest Chausson
+  gender: Male
+  born: 1855
+  died: 1899
+  desc: French composer
+  sets: 2
+  scores: 12
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Chausson,+Ernest
+  wikidata: Q312368
+  wikipedia: https://en.wikipedia.org/wiki/Ernest_Chausson
+  imslp: https://imslp.org/wiki/Category:Chausson,_Ernest
+  image: https://upload.wikimedia.org/wikipedia/commons/1/11/Ernest_Chausson.jpg
+739229:
+  path: Coleridge-Taylor,_Samuel
+  name: Samuel Coleridge-Taylor
+  gender: Male
+  born: 1875
+  died: 1912
+  desc: English composer
+  sets: 2
+  scores: 8
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Coleridge-Taylor,+Samuel
+  wikidata: Q739229
+  wikipedia: https://en.wikipedia.org/wiki/Samuel_Coleridge-Taylor
+  imslp: https://imslp.org/wiki/Category:Coleridge-Taylor,_Samuel
+  image: https://upload.wikimedia.org/wikipedia/commons/b/b6/Samuel_Coleridge-Taylor.jpg
+706644:
+  path: Corder,_Frederick
+  name: Frederick Corder
+  gender: Male
+  born: 1852
+  died: 1932
+  desc: English composer and music teacher
+  sets: 1
+  scores: 1
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Corder,+Frederick
+  wikidata: Q706644
+  wikipedia: https://en.wikipedia.org/wiki/Frederick_Corder
+  imslp: https://imslp.org/wiki/Category:Corder,_Frederick
+  image: https://upload.wikimedia.org/wikipedia/commons/f/f9/Frederick_Corder_001.jpg
+57257:
+  path: Cornelius,_Peter
+  name: Peter Cornelius
+  gender: Male
+  born: 1824
+  died: 1874
+  desc: German composer
+  sets: 5
+  scores: 25
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Cornelius,+Peter
+  wikidata: Q57257
+  wikipedia: https://en.wikipedia.org/wiki/Peter_Cornelius
+  imslp: https://imslp.org/wiki/Category:Cornelius,_Peter
+  image: https://upload.wikimedia.org/wikipedia/commons/3/34/Peter_cornelius.jpg
+1452734:
+  path: Cowen,_Frederic_Hymen
+  name: Frederic Hymen Cowen
+  gender: Male
+  born: 1852
+  died: 1935
+  desc: British pianist, conductor and composer
+  sets: 1
+  scores: 3
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Cowen,+Frederic
+  wikidata: Q1452734
+  wikipedia: https://en.wikipedia.org/wiki/Frederic_Hymen_Cowen
+  imslp: https://imslp.org/wiki/Category:Cowen,_Frederic_Hymen
+  image: https://upload.wikimedia.org/wikipedia/commons/5/5a/FredericCowen.png
+3131948:
+  path: Davies,_Walford
+  name: Walford Davies
+  gender: Male
+  born: 1869
+  died: 1941
+  desc: British composer
+  sets: 1
+  scores: 8
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Davies,+Walford
+  wikidata: Q3131948
+  wikipedia: https://en.wikipedia.org/wiki/Walford_Davies
+  imslp: https://imslp.org/wiki/Category:Davies,_Walford
+  image: https://upload.wikimedia.org/wikipedia/commons/0/0d/Walford_Davies_001.jpg
+4700:
+  path: Debussy,_Claude
+  name: Claude Debussy
+  gender: Male
+  born: 1862
+  died: 1918
+  desc: French composer
+  sets: 3
+  scores: 14
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Debussy,+Claude
+  wikidata: Q4700
+  wikipedia: https://en.wikipedia.org/wiki/Claude_Debussy
+  imslp: https://imslp.org/wiki/Category:Debussy,_Claude
+  image: https://upload.wikimedia.org/wikipedia/commons/f/f9/Claude_Debussy_ca_1908,_foto_av_Félix_Nadar.jpg
+312698:
+  path: Delius,_Frederick
+  name: Frederick Delius
+  gender: Male
+  born: 1862
+  died: 1934
+  desc: English composer
+  sets: 2
+  scores: 6
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Delius,+Frederick
+  wikidata: Q312698
+  wikipedia: https://en.wikipedia.org/wiki/Frederick_Delius
+  imslp: https://imslp.org/wiki/Category:Delius,_Frederick
+  image: https://upload.wikimedia.org/wikipedia/commons/3/37/Frederich_Delius_portrait_(5427720404)_(cropped).jpg
+5364812:
+  path: Dickson,_Ellen
+  name: Ellen Dickson
+  gender: Female
+  born: 1819
+  died: 1878
+  desc: English ballad composer
+  sets: 1
+  scores: 4
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Dickson,+Ellen
+  wikidata: Q5364812
+  wikipedia: https://en.wikipedia.org/wiki/Ellen_Dickson
+  imslp: https://imslp.org/wiki/Category:Dickson,_Ellen
+  image:
+3372712:
+  path: Duchambge,_Pauline
+  name: Pauline Duchambge
+  gender: Female
+  born: 1776
+  died: 1858
+  desc: French composer
+  sets: 1
+  scores: 4
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Duchambge,+Pauline
+  wikidata: Q3372712
+  wikipedia: https://en.wikipedia.org/wiki/Pauline_Duchambge
+  imslp: https://imslp.org/wiki/Category:Duchambge,_Pauline
+  image: https://upload.wikimedia.org/wikipedia/commons/4/46/Robert_Lefevre_12.jpg
+179631:
+  path: Elgar,_Edward
+  name: Edward Elgar
+  gender: Male
+  born: 1857
+  died: 1934
+  desc: English composer
+  sets: 3
+  scores: 10
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Elgar,+Edward
+  wikidata: Q179631
+  wikipedia: https://en.wikipedia.org/wiki/Edward_Elgar
+  imslp: https://imslp.org/wiki/Category:Elgar,_Edward
+  image: https://upload.wikimedia.org/wikipedia/commons/c/ce/Edward_Elgar.jpg
+17626542:
+  path: Faisst,_Clara_Mathilda
+  name: Clara Mathilda Faisst
+  gender: Female
+  born: 1872
+  died: 1948
+  desc: German composer, pianist and teacher
+  sets: 9
+  scores: 26
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Faisst,+Clara
+  wikidata: Q17626542
+  wikipedia: https://en.wikipedia.org/wiki/Clara_Mathilda_Faisst
+  imslp: https://imslp.org/wiki/Category:Faisst,_Clara
+  image:
+5416317:
+  path: Faltis,_Evelyn
+  name: Evelyn Faltis
+  gender: Female
+  born: 1887
+  died: 1937
+  desc: Bohemian composer
+  sets: 1
+  scores: 4
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Faltis,+Evelyn
+  wikidata: Q5416317
+  wikipedia: https://en.wikipedia.org/wiki/Evelyn_Faltis
+  imslp: https://imslp.org/wiki/Category:Faltis,_Evelyn
+  image:
+442198:
+  path: Farrenc,_Louise
+  name: Louise Farrenc
+  gender: Female
+  born: 1804
+  died: 1875
+  desc: French composer, virtuosa pianist and teacher
+  sets: 1
+  scores: 1
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Farrenc,+Louise
+  wikidata: Q442198
+  wikipedia: https://en.wikipedia.org/wiki/Louise_Farrenc
+  imslp: https://imslp.org/wiki/Category:Farrenc,_Louise
+  image: https://upload.wikimedia.org/wikipedia/commons/f/f5/Louise_Farrenc.jpg
+104919:
+  path: Fauré,_Gabriel
+  name: Gabriel Fauré
+  gender: Male
+  born: 1845
+  died: 1924
+  desc: French composer, organist, pianist and teacher
+  sets: 3
+  scores: 11
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Fauré,+Gabriel
+  wikidata: Q104919
+  wikipedia: https://en.wikipedia.org/wiki/Gabriel_Fauré
+  imslp: https://imslp.org/wiki/Category:Fauré,_Gabriel
+  image: https://upload.wikimedia.org/wikipedia/commons/0/09/Gabriel_Fauré_Paul_Nadar_1905.JPG
+5516070:
+  path: Ferrari,_Gabrielle
+  name: Gabrielle Ferrari
+  gender: Female
+  born: 1851
+  died: 1921
+  desc: French pianist and composer
+  sets: 1
+  scores: 2
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Ferrari,+Gabrielle
+  wikidata: Q5516070
+  wikipedia: https://en.wikipedia.org/wiki/Gabrielle_Ferrari
+  imslp: https://imslp.org/wiki/Category:Ferrari,_Gabrielle
+  image: https://upload.wikimedia.org/wikipedia/commons/1/17/Gabrielle_Ferrari.jpg
+561967:
+  path: Franz,_Robert
+  name: Robert Franz
+  gender: Male
+  born: 1815
+  died: 1892
+  desc: German composer
+  sets: 5
+  scores: 28
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Franz,+Robert
+  wikidata: Q561967
+  wikipedia: https://en.wikipedia.org/wiki/Robert_Franz
+  imslp: https://imslp.org/wiki/Category:Franz,_Robert
+  image: https://upload.wikimedia.org/wikipedia/commons/b/b6/Robert_Franz.jpg
+4492825:
+  path: Freer,_Eleanor_Everest
+  name: Eleanor Everest Freer
+  gender: Female
+  born: 1864
+  died: 1942
+  desc: American composer and philanthropist
+  sets: 1
+  scores: 2
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Freer,+Eleanor
+  wikidata: Q4492825
+  wikipedia: https://en.wikipedia.org/wiki/Eleanor_Everest_Freer
+  imslp: https://imslp.org/wiki/Category:Freer,_Eleanor_Everest
+  image: https://upload.wikimedia.org/wikipedia/commons/d/d8/Eleanor_Everest_Freer_1.jpg
+7934272:
+  path: Gabriel,_Virginia
+  name: Virginia Gabriel
+  gender: Female
+  born: 1825
+  died: 1877
+  desc: English singer and composer
+  sets: 1
+  scores: 4
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Gabriel,+Virginia
+  wikidata: Q7934272
+  wikipedia: https://en.wikipedia.org/wiki/Virginia_Gabriel
+  imslp: https://imslp.org/wiki/Category:Gabriel,_Virginia
+  image: https://upload.wikimedia.org/wikipedia/commons/a/a3/Virginia_Gabriel.jpg
+3490938:
+  path: Gail,_Sophie
+  name: Sophie Gail
+  gender: Female
+  born: 1775
+  died: 1819
+  desc: French singer and composer
+  sets: 1
+  scores: 2
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Gail,+Sophie
+  wikidata: Q3490938
+  wikipedia: https://en.wikipedia.org/wiki/Sophie_Gail
+  imslp: https://imslp.org/wiki/Category:Gail,_Sophie
+  image: https://upload.wikimedia.org/wikipedia/commons/5/5a/Sophie_Gail_d'après_Eugène_Isabey.jpg
+2442794:
+  path: Gambarini,_Elisabetta_de
+  name: Elisabetta de Gambarini
+  gender: Female
+  born: 1730
+  died: 1765
+  desc: British composer
+  sets: 1
+  scores: 1
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Gambarini,+Elisabetta
+  wikidata: Q2442794
+  wikipedia: https://en.wikipedia.org/wiki/Elisabetta_de_Gambarini
+  imslp: https://imslp.org/wiki/Category:Gambarini,_Elisabetta_de
+  image: https://upload.wikimedia.org/wikipedia/commons/e/e1/Portrait_of_Elizabetta_de_Gambarini,_print,_frontispiece_(cropped).jpg
+2355124:
+  path: German,_Edward
+  name: Edward German
+  gender: Male
+  born: 1862
+  died: 1936
+  desc: English musician and composer
+  sets: 1
+  scores: 3
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=German,+Edward
+  wikidata: Q2355124
+  wikipedia: https://en.wikipedia.org/wiki/Edward_German
+  imslp: https://imslp.org/wiki/Category:German,_Edward
+  image: https://upload.wikimedia.org/wikipedia/commons/2/2c/Edwardgerman.jpg
+465902:
+  path: Gonzaga,_Chiquinha
+  name: Chiquinha Gonzaga
+  gender: Female
+  born: 1847
+  died: 1935
+  desc: Brazilian musician and composer
+  sets: 1
+  scores: 12
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Gonzaga,+Chiquinha
+  wikidata: Q465902
+  wikipedia: https://en.wikipedia.org/wiki/Chiquinha_Gonzaga
+  imslp: https://imslp.org/wiki/Category:Gonzaga,_Chiquinha
+  image: https://upload.wikimedia.org/wikipedia/commons/8/80/Chiquinha_6a.jpg
+180278:
+  path: Gounod,_Charles
+  name: Charles Gounod
+  gender: Male
+  born: 1818
+  died: 1893
+  desc: French composer
+  sets: 1
+  scores: 6
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Gounod,+Charles
+  wikidata: Q180278
+  wikipedia: https://en.wikipedia.org/wiki/Charles_Gounod
+  imslp: https://imslp.org/wiki/Category:Gounod,_Charles
+  image: https://upload.wikimedia.org/wikipedia/commons/e/e4/Charles_Gounod_(1890)_by_Nadar.jpg
+2980557:
+  path: Grandval,_Clémence_de
+  name: Clémence de Grandval
+  gender: Female
+  born: 1828
+  died: 1907
+  desc: French composer
+  sets: 3
+  scores: 12
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Grandval,+Clémence
+  wikidata: Q2980557
+  wikipedia: https://en.wikipedia.org/wiki/Clémence_de_Grandval
+  imslp: https://imslp.org/wiki/Category:Grandval,_Clémence_de
+  image: https://upload.wikimedia.org/wikipedia/commons/0/00/Mme_de_Grandval.png
+105376516:
+  path: Gray,_Louisa
+  name: Louisa Gray
+  gender: Female
+  born:
+  died: 1911
+  desc: Composer of songs
+  sets: 1
+  scores: 7
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Gray,+Louisa
+  wikidata: Q105376516
+  wikipedia:
+  imslp: https://imslp.org/wiki/Category:Gray,_Louisa
+  image:
+1472118:
+  path: Greger,_Luise
+  name: Luise Greger
+  gender: Female
+  born: 1862
+  died: 1944
+  desc: German composer and pianist
+  sets: 4
+  scores: 9
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Greger,+Luise
+  wikidata: Q1472118
+  wikipedia: https://en.wikipedia.org/wiki/Luise_Greger
+  imslp: https://imslp.org/wiki/Category:Greger,_Luise
+  image: https://upload.wikimedia.org/wikipedia/commons/e/ef/Luise_Greger.jpg
+6152538:
+  path: Guest,_Jane_Mary
+  name: Jane Mary Guest
+  gender: Female
+  born: 1762
+  died: 1846
+  desc: English composer and pianist
+  sets: 1
+  scores: 2
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Guest,+Jane
+  wikidata: Q6152538
+  wikipedia: https://en.wikipedia.org/wiki/Jane_Mary_Guest
+  imslp: https://imslp.org/wiki/Category:Guest,_Jane_Mary
+  image:
+323048:
+  path: Gurney,_Ivor
+  name: Ivor Gurney
+  gender: Male
+  born: 1890
+  died: 1937
+  desc: British composer and poet
+  sets: 2
+  scores: 6
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Gurney,+Ivor
+  wikidata: Q323048
+  wikipedia: https://en.wikipedia.org/wiki/Ivor_Gurney
+  imslp: https://imslp.org/wiki/Category:Gurney,_Ivor
+  image:
+5622702:
+  path: Hardelot,_Guy_d’
+  name: Guy d'Hardelot
+  gender: Female
+  born: 1858
+  died: 1936
+  desc: French-English composer
+  sets: 1
+  scores: 9
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Hardelot,+Guy
+  wikidata: Q5622702
+  wikipedia: https://en.wikipedia.org/wiki/Guy_d'Hardelot
+  imslp: https://imslp.org/wiki/Category:Hardelot,_Guy_d'
+  image: https://upload.wikimedia.org/wikipedia/commons/f/fe/Guy_d-Hardelot.jpg
+7349:
+  path: Haydn,_Joseph
+  name: Joseph Haydn
+  gender: Male
+  born: 1732
+  died: 1809
+  desc: Austrian composer
+  sets: 1
+  scores: 10
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Haydn,+Joseph
+  wikidata: Q7349
+  wikipedia: https://en.wikipedia.org/wiki/Joseph_Haydn
+  imslp: https://imslp.org/wiki/Category:Haydn,_Joseph
+  image: https://upload.wikimedia.org/wikipedia/commons/6/69/Joseph_Haydn,_målning_av_Thomas_Hardy_från_1792.jpg
+57286:
+  path: Hensel,_Fanny_(Mendelssohn)
+  name: Fanny Mendelssohn
+  gender: Female
+  born: 1805
+  died: 1847
+  desc: German pianist and composer
+  sets: 7
+  scores: 35
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Hensel,+Fanny
+  wikidata: Q57286
+  wikipedia: https://en.wikipedia.org/wiki/Fanny_Mendelssohn
+  imslp: https://imslp.org/wiki/Category:Hensel,_Fanny
+  image: https://upload.wikimedia.org/wikipedia/commons/0/0b/Fannymendelssohn-improved.jpg
+1398729:
+  path: Hodges,_Faustina_Hasse
+  name: Faustina Hasse Hodges
+  gender: Female
+  born: 1823
+  died: 1895
+  desc: English-American organist and composer
+  sets: 1
+  scores: 1
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Hodges,+Faustina
+  wikidata: Q1398729
+  wikipedia: https://en.wikipedia.org/wiki/Faustina_Hasse_Hodges
+  imslp: https://imslp.org/wiki/Category:Hodges,_Faustina_Hasse
+  image: https://upload.wikimedia.org/wikipedia/commons/a/ad/Small_portrait_of_Faustina_Hasse_Hodges.png
+464636:
+  path: Holmès,_Augusta_Mary_Anne
+  name: Augusta Holmès
+  gender: Female
+  born: 1847
+  died: 1903
+  desc: French composer
+  sets: 9
+  scores: 73
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Holmès,+Augusta
+  wikidata: Q464636
+  wikipedia: https://en.wikipedia.org/wiki/Augusta_Holmès
+  imslp: https://imslp.org/wiki/Category:Holmès,_Augusta_Mary_Anne
+  image: https://upload.wikimedia.org/wikipedia/commons/4/4c/Augusta_Holmes.jpg
+5702488:
+  path: Hopekirk,_Helen
+  name: Helen Hopekirk
+  gender: Female
+  born: 1856
+  died: 1945
+  desc: American pianist and composer of Scottish descent
+  sets: 1
+  scores: 1
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Hopekirk,+Helen
+  wikidata: Q5702488
+  wikipedia: https://en.wikipedia.org/wiki/Helen_Hopekirk
+  imslp: https://imslp.org/wiki/Category:Hopekirk,_Helen
+  image: https://upload.wikimedia.org/wikipedia/commons/0/0f/Hopekirk.jpg
+4749174:
+  path: Horrocks,_Amy_Elsie
+  name: Amy Elsie Horrocks
+  gender: Female
+  born: 1867
+  died: 1920
+  desc: English pianist and composer
+  sets: 1
+  scores: 4
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Horrocks,+Amy
+  wikidata: Q4749174
+  wikipedia: https://en.wikipedia.org/wiki/Amy_Elsie_Horrocks
+  imslp: https://imslp.org/wiki/Category:Horrocks,_Amy_Elsie
+  image:
+5046241:
+  path: Jacobs-Bond,_Carrie
+  name: Carrie Jacobs-Bond
+  gender: Female
+  born: 1862
+  died: 1946
+  desc: American composer
+  sets: 2
+  scores: 5
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Jacobs-Bond,+Carrie
+  wikidata: Q5046241
+  wikipedia: https://en.wikipedia.org/wiki/Carrie_Jacobs-Bond
+  imslp: https://imslp.org/wiki/Category:Jacobs-Bond,_Carrie
+  image: https://upload.wikimedia.org/wikipedia/commons/b/bb/Carrie_Jacobs-Bond,_Who's_who_among_the_women_of_California.jpg
+2706282:
+  path: Jaëll,_Marie
+  name: Marie Jaëll
+  gender: Female
+  born: 1846
+  died: 1925
+  desc: French composer
+  sets: 3
+  scores: 17
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Jaëll,+Marie
+  wikidata: Q2706282
+  wikipedia: https://en.wikipedia.org/wiki/Marie_Jaëll
+  imslp: https://imslp.org/wiki/Category:Jaëll,_Marie
+  image: https://upload.wikimedia.org/wikipedia/commons/0/0c/Marie_Jaell-Jeune_femme.jpg
+191499:
+  path: Joplin,_Scott
+  name: Scott Joplin
+  gender: Male
+  born: 1868
+  died: 1917
+  desc: American composer, musician, and pianist
+  sets: 1
+  scores: 1
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Joplin,+Scott
+  wikidata: Q191499
+  wikipedia: https://en.wikipedia.org/wiki/Scott_Joplin
+  imslp: https://imslp.org/wiki/Category:Joplin,_Scott
+  image: https://upload.wikimedia.org/wikipedia/commons/6/6d/Scott_Joplin.jpg
+165824:
+  path: Kinkel,_Johanna
+  name: Johanna Kinkel
+  gender: Female
+  born: 1810
+  died: 1858
+  desc: German composer and author, editor
+  sets: 8
+  scores: 45
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Kinkel,+Johanna
+  wikidata: Q165824
+  wikipedia: https://en.wikipedia.org/wiki/Johanna_Kinkel
+  imslp: https://imslp.org/wiki/Category:Kinkel,_Johanna
+  image: https://upload.wikimedia.org/wikipedia/commons/8/80/Bildnis_Johanna_Kinkel_1840.jpg
+89972:
+  path: Kralik,_Mathilde
+  name: Mathilde Kralik
+  gender: Female
+  born: 1857
+  died: 1944
+  desc: Austrian pianist and composer
+  sets: 2
+  scores: 18
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Kralik,+Mathilde
+  wikidata: Q89972
+  wikipedia: https://en.wikipedia.org/wiki/Mathilde_Kralik
+  imslp: https://imslp.org/wiki/Category:Kralik,_Mathilde
+  image: https://upload.wikimedia.org/wikipedia/commons/a/a3/Mathilde_Kralik.png
+276246:
+  path: Lang,_Josephine
+  name: Josephine Caroline Lang
+  gender: Female
+  born: 1815
+  died: 1880
+  desc: German composer
+  sets: 12
+  scores: 52
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Lang,+Josephine
+  wikidata: Q276246
+  wikipedia: https://en.wikipedia.org/wiki/Josephine_Lang
+  imslp: https://imslp.org/wiki/Category:Lang,_Josephine
+  image: https://upload.wikimedia.org/wikipedia/commons/3/3d/Josephine_Caroline_Lang.jpg
+467888:
+  path: Le_Beau,_Luise_Adolpha
+  name: Luise Adolpha Le Beau
+  gender: Female
+  born: 1850
+  died: 1927
+  desc: German composer
+  sets: 2
+  scores: 7
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Le+Beau,+Luise
+  wikidata: Q467888
+  wikipedia: https://en.wikipedia.org/wiki/Luise_Adolpha_Le_Beau
+  imslp: https://imslp.org/wiki/Category:Le_Beau,_Luise_Adolpha
+  image: https://upload.wikimedia.org/wikipedia/commons/0/0a/Luise_Adolpha_Le_Beau_1872.jpg
+17479334:
+  path: Lehmann,_Amelia
+  name: Amelia Lehmann
+  gender: Female
+  born: 1838
+  died: 1903
+  desc: British composer
+  sets: 1
+  scores: 5
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Lehmann,+Amelia
+  wikidata: Q17479334
+  wikipedia: https://en.wikipedia.org/wiki/Amelia_Lehmann
+  imslp: https://imslp.org/wiki/Category:Lehmann,_Amelia
+  image: https://upload.wikimedia.org/wikipedia/commons/9/9b/Amelia_Lehmann_by_Rudolf_Lehmann.jpg
+4887488:
+  path: Lehmann,_Liza
+  name: Liza Lehmann
+  gender: Female
+  born: 1862
+  died: 1918
+  desc: English operatic soprano and composer
+  sets: 5
+  scores: 26
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Lehmann,+Liza
+  wikidata: Q4887488
+  wikipedia: https://en.wikipedia.org/wiki/Liza_Lehmann
+  imslp: https://imslp.org/wiki/Category:Lehmann,_Liza
+  image: https://upload.wikimedia.org/wikipedia/commons/a/ae/Liza_Lehmann_1.jpg
+107288:
+  path: Liliuokalani,_Queen_of_the_Hawaiian_Islands
+  name: Liliʻuokalani
+  gender: Female
+  born: 1838
+  died: 1917
+  desc: last monarch of the Kingdom of Hawaii
+  sets: 1
+  scores: 1
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Liliuokalani,+Queen
+  wikidata: Q107288
+  wikipedia: https://en.wikipedia.org/wiki/Liliʻuokalani
+  imslp: https://imslp.org/wiki/Category:Liliuokalani
+  image: https://upload.wikimedia.org/wikipedia/commons/6/64/Liliuokalani,_c._1891.jpg
+6761364:
+  path: Lindsay,_Maria
+  name: Maria Lindsay
+  gender: Female
+  born: 1827
+  died: 1898
+  desc: British composer
+  sets: 1
+  scores: 2
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Lindsay,+Maria
+  wikidata: Q6761364
+  wikipedia: https://en.wikipedia.org/wiki/Maria_Lindsay
+  imslp:
+  image:
+674739:
+  path: Mackenzie,_Alexander
+  name: Alexander Mackenzie
+  gender: Male
+  born: 1847
+  died: 1935
+  desc: Scottish conductor and composer
+  sets: 3
+  scores: 8
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Mackenzie,+Alexander
+  wikidata: Q674739
+  wikipedia: https://en.wikipedia.org/wiki/Alexander_Mackenzie_(composer)
+  imslp: https://imslp.org/wiki/Category:Mackenzie,_Alexander_Campbell
+  image: https://upload.wikimedia.org/wikipedia/commons/8/81/Alexander_mackenzie_by_spy.jpg
+7304:
+  path: Mahler,_Gustav
+  name: Gustav Mahler
+  gender: Male
+  born: 1860
+  died: 1911
+  desc: Austrian late-Romantic composer
+  sets: 2
+  scores: 9
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Mahler,+Gustav
+  wikidata: Q7304
+  wikipedia: https://en.wikipedia.org/wiki/Gustav_Mahler
+  imslp: https://imslp.org/wiki/Category:Mahler,_Gustav
+  image: https://upload.wikimedia.org/wikipedia/commons/b/b7/Gustav-Mahler-Kohut.jpg
+5460551:
+  path: Marshall,_Florence_Ashton
+  name: Florence Ashton Marshall
+  gender: Female
+  born: 1843
+  died: 1922
+  desc: English writer, composer and conductor
+  sets: 1
+  scores: 2
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Marshall,+Florence
+  wikidata: Q5460551
+  wikipedia: https://en.wikipedia.org/wiki/Florence_Ashton_Marshall
+  imslp: https://imslp.org/wiki/Category:Marshall,_Florence
+  image:
+447851:
+  path: Mayer,_Emilie
+  name: Emilie Mayer
+  gender: Female
+  born: 1812
+  died: 1883
+  desc: German composer
+  sets: 3
+  scores: 6
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Mayer,+Emilie
+  wikidata: Q447851
+  wikipedia: https://en.wikipedia.org/wiki/Emilie_Mayer
+  imslp: https://imslp.org/wiki/Category:Mayer,_Emilie
+  image: https://upload.wikimedia.org/wikipedia/commons/d/d0/Emilie-mayer.jpg
+4766585:
+  path: Mounsey_Bartholomew,_Ann
+  name: Ann Mounsey
+  gender: Female
+  born: 1811
+  died: 1891
+  desc: English composer, pianist, and organist
+  sets: 1
+  scores: 7
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Mounsey+Bartholomew,+Ann
+  wikidata: Q4766585
+  wikipedia: https://en.wikipedia.org/wiki/Ann_Mounsey
+  imslp:
+  image: https://upload.wikimedia.org/wikipedia/commons/9/9c/Ann_S_Mounsey.jpg
+4968368:
+  path: Munktell,_Helena
+  name: Helena Munktell
+  gender: Female
+  born: 1852
+  died: 1919
+  desc: Swedish composer
+  sets: 2
+  scores: 12
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Munktell,+Helena
+  wikidata: Q4968368
+  wikipedia: https://en.wikipedia.org/wiki/Helena_Munktell
+  imslp: https://imslp.org/wiki/Category:Munktell,_Helena
+  image: https://upload.wikimedia.org/wikipedia/commons/0/0a/Helena_Munktell.jpg
+4989335:
+  path: Netzel,_Laura
+  name: Laura Netzel
+  gender: Female
+  born: 1839
+  died: 1927
+  desc: Swedish composer, pianist, conductor
+  sets: 2
+  scores: 7
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Netzel,+Laura
+  wikidata: Q4989335
+  wikipedia: https://en.wikipedia.org/wiki/Laura_Netzel
+  imslp: https://imslp.org/wiki/Category:Netzel,_Laura
+  image: https://upload.wikimedia.org/wikipedia/commons/f/f9/Laura_Netzel.jpg
+293171:
+  path: Paradis,_Maria_Theresia_von
+  name: Maria Theresia von Paradis
+  gender: Female
+  born: 1759
+  died: 1824
+  desc: Austrian musician and composer, contemporary of Mozart
+  sets: 1
+  scores: 12
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Paradis,+Maria
+  wikidata: Q293171
+  wikipedia: https://en.wikipedia.org/wiki/Maria_Theresia_von_Paradis
+  imslp: https://imslp.org/wiki/Category:Paradis,_Maria_Theresia_von
+  image: https://upload.wikimedia.org/wikipedia/commons/0/09/F._Parmantié,_1784_-_Maria_Theresia_Paradis.jpg
+1992128:
+  path: Parratt,_Walter
+  name: Walter Parratt
+  gender: Male
+  born: 1841
+  died: 1924
+  desc: English organist and composer
+  sets: 1
+  scores: 13
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Parratt,+Walter
+  wikidata: Q1992128
+  wikipedia: https://en.wikipedia.org/wiki/Walter_Parratt
+  imslp: https://imslp.org/wiki/Category:Parratt,_Walter
+  image: https://upload.wikimedia.org/wikipedia/commons/9/9b/Sir_Walter_Parratt.png
+354250:
+  path: Parry,_Hubert
+  name: Hubert Parry
+  gender: Male
+  born: 1848
+  died: 1918
+  desc: British composer, teacher and historian of music
+  sets: 4
+  scores: 8
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Parry,+Hubert
+  wikidata: Q354250
+  wikipedia: https://en.wikipedia.org/wiki/Hubert_Parry
+  imslp: https://imslp.org/wiki/Category:Parry,_Charles_Hubert_Hastings
+  image: https://upload.wikimedia.org/wikipedia/commons/d/d2/Hubert_Parry_c1893cr.jpg
+105407464:
+  path: Phillips,_Elizabeth
+  name: Elizabeth Phillips
+  gender: Female
+  born: 1822
+  died: 1876
+  desc: English singer, song composer, actress and playwright
+  sets: 1
+  scores: 1
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Phillips,+Elizabeth
+  wikidata: Q105407464
+  wikipedia:
+  imslp: https://imslp.org/wiki/Category:Phillips,_Elizabeth
+  image:
+5363347:
+  path: Philp,_Elizabeth
+  name: Elizabeth Philp
+  gender: Female
+  born: 1827
+  died: 1885
+  desc: British singer, music educator and composer
+  sets: 1
+  scores: 2
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Philp,+Elizabeth
+  wikidata: Q5363347
+  wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Philp
+  imslp: https://imslp.org/wiki/Category:Philp,_Elizabeth
+  image: https://upload.wikimedia.org/wikipedia/commons/2/2f/Elizabeth_Philp.tif
+4107299:
+  path: Poldowski
+  name: Poldowski
+  gender: Female
+  born: 1880
+  died: 1932
+  desc: British composer
+  sets: 1
+  scores: 3
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Poldowski
+  wikidata: Q4107299
+  wikipedia: https://en.wikipedia.org/wiki/Poldowski
+  imslp: https://imslp.org/wiki/Category:Poldowski
+  image: https://upload.wikimedia.org/wikipedia/commons/c/c6/Poldowski_(Régine_(née_Wieniawski),_Lady_Dean_Paul).jpg
+3264560:
+  path: Puget,_Loïsa
+  name: Loïsa Puget
+  gender: Female
+  born: 1810
+  died: 1889
+  desc: French composer
+  sets: 1
+  scores: 3
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Puget,+Loïsa
+  wikidata: Q3264560
+  wikipedia: https://en.wikipedia.org/wiki/Loïsa_Puget
+  imslp: https://imslp.org/wiki/Category:Puget,_Loïsa
+  image: https://upload.wikimedia.org/wikipedia/commons/6/6c/Loïsa_Puget_by_Marie-Alexandre_Alophe.jpg
+6688923:
+  path: Reichardt,_Louise
+  name: Louise Reichardt
+  gender: Female
+  born: 1779
+  died: 1826
+  desc: German composer
+  sets: 4
+  scores: 43
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Reichardt,+Louise
+  wikidata: Q6688923
+  wikipedia: https://en.wikipedia.org/wiki/Louise_Reichardt
+  imslp: https://imslp.org/wiki/Category:Reichardt,_Louise
+  image:
+323117:
+  path: Rootham,_Cyril
+  name: Cyril Rootham
+  gender: Male
+  born: 1875
+  died: 1938
+  desc: English composer, educator and organist
+  sets: 1
+  scores: 1
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Rootham,+Cyril
+  wikidata: Q323117
+  wikipedia: https://en.wikipedia.org/wiki/Cyril_Rootham
+  imslp: https://imslp.org/wiki/Category:Rootham,_Cyril_Bradley
+  image: https://upload.wikimedia.org/wikipedia/commons/0/01/Cyril_Bradley_Rootham.jpg
+187192:
+  path: Satie,_Erik
+  name: Erik Satie
+  gender: Male
+  born: 1866
+  died: 1925
+  desc: French composer and pianist
+  sets: 1
+  scores: 2
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Satie,+Erik
+  wikidata: Q187192
+  wikipedia: https://en.wikipedia.org/wiki/Erik_Satie
+  imslp: https://imslp.org/wiki/Category:Satie,_Erik
+  image: https://upload.wikimedia.org/wikipedia/commons/7/77/Satie-erik-4ff9d0bde1749.jpg
+64880:
+  path: Schröter,_Corona
+  name: Corona Schröter
+  gender: Female
+  born: 1751
+  died: 1802
+  desc: German musician and singer
+  sets: 1
+  scores: 25
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Schröter,+Corona
+  wikidata: Q64880
+  wikipedia: https://en.wikipedia.org/wiki/Corona_Schröter
+  imslp: https://imslp.org/wiki/Category:Schröter,_Corona
+  image: https://upload.wikimedia.org/wikipedia/commons/c/c2/Korona_Schröter.jpg
+7312:
+  path: Schubert,_Franz
+  name: Franz Schubert
+  gender: Male
+  born: 1797
+  died: 1828
+  desc: Austrian composer
+  sets: 9
+  scores: 82
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Schubert,+Franz
+  wikidata: Q7312
+  wikipedia: https://en.wikipedia.org/wiki/Franz_Schubert
+  imslp: https://imslp.org/wiki/Category:Schubert,_Franz
+  image: https://upload.wikimedia.org/wikipedia/commons/3/39/Franz_Schubert_by_Wilhelm_August_Rieder_1875_cropped.jpg
+132232:
+  path: Schumann,_Clara
+  name: Clara Schumann
+  gender: Female
+  born: 1819
+  died: 1896
+  desc: German musician and composer
+  sets: 4
+  scores: 17
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Schumann,+Clara
+  wikidata: Q132232
+  wikipedia: https://en.wikipedia.org/wiki/Clara_Schumann
+  imslp: https://imslp.org/wiki/Category:Schumann,_Clara
+  image: https://upload.wikimedia.org/wikipedia/commons/e/e7/Franz_Hanfstaengl_-_Clara_Schumann_(1857).jpg
+7351:
+  path: Schumann,_Robert
+  name: Robert Schumann
+  gender: Male
+  born: 1810
+  died: 1856
+  desc: German composer
+  sets: 3
+  scores: 36
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Schumann,+Robert
+  wikidata: Q7351
+  wikipedia: https://en.wikipedia.org/wiki/Robert_Schumann
+  imslp: https://imslp.org/wiki/Category:Schumann,_Robert
+  image: https://upload.wikimedia.org/wikipedia/commons/1/18/Germany_Bonn_Schumannhaus_Bust_Robert_Schumann_made_by_Alfred_Hrdlicka_2003.JPG
+3568956:
+  path: Shield,_William
+  name: William Shield
+  gender: Male
+  born: 1748
+  died: 1829
+  desc: British musician
+  sets: 1
+  scores: 1
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Shield,+William
+  wikidata: Q3568956
+  wikipedia: https://en.wikipedia.org/wiki/William_Shield
+  imslp: https://imslp.org/wiki/Category:Shield,_William
+  image: https://upload.wikimedia.org/wikipedia/commons/b/b9/William_Shield_1795.jpg
+236599:
+  path: Smyth,_Ethel
+  name: Ethel Smyth
+  gender: Female
+  born: 1858
+  died: 1944
+  desc: English composer
+  sets: 1
+  scores: 1
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Smyth,+Ethel
+  wikidata: Q236599
+  wikipedia: https://en.wikipedia.org/wiki/Ethel_Smyth
+  imslp: https://imslp.org/wiki/Category:Smyth,_Ethel
+  image: https://upload.wikimedia.org/wikipedia/commons/6/68/Ethel_Smyth.jpg
+4800330:
+  path: Somervell,_Arthur
+  name: Arthur Somervell
+  gender: Male
+  born: 1863
+  died: 1937
+  desc: British composer and art song writer
+  sets: 1
+  scores: 10
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Somervell,+Arthur
+  wikidata: Q4800330
+  wikipedia: https://en.wikipedia.org/wiki/Arthur_Somervell
+  imslp: https://imslp.org/wiki/Category:Somervell,_Arthur
+  image:
+368264:
+  path: Stanford,_Charles_Villiers
+  name: Charles Villiers Stanford
+  gender: Male
+  born: 1852
+  died: 1924
+  desc: Irish composer, music teacher, and conductor
+  sets: 3
+  scores: 10
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Stanford,+Charles
+  wikidata: Q368264
+  wikipedia: https://en.wikipedia.org/wiki/Charles_Villiers_Stanford
+  imslp: https://imslp.org/wiki/Category:Stanford,_Charles_Villiers
+  image: https://upload.wikimedia.org/wikipedia/commons/c/cf/Charles_Villiers_Stanford_c1894bw.jpg
+13894:
+  path: Strauss,_Richard
+  name: Richard Strauss
+  gender: Male
+  born: 1866
+  died: 1949
+  desc: German composer and orchestra director
+  sets: 1
+  scores: 4
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Strauss,+Richard
+  wikidata: Q13894
+  wikipedia: https://en.wikipedia.org/wiki/Richard_Strauss
+  imslp: https://imslp.org/wiki/Category:Strauss,_Richard
+  image: https://upload.wikimedia.org/wikipedia/commons/2/2d/Strauss3.jpg
+212692:
+  path: Sullivan,_Arthur
+  name: Arthur Sullivan
+  gender: Male
+  born: 1842
+  died: 1900
+  desc: English composer of the Gilbert & Sullivan duo
+  sets: 1
+  scores: 2
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Sullivan,+Arthur
+  wikidata: Q212692
+  wikipedia: https://en.wikipedia.org/wiki/Arthur_Sullivan
+  imslp: https://imslp.org/wiki/Category:Sullivan,_Arthur
+  image: https://upload.wikimedia.org/wikipedia/commons/5/53/Arthur_Sullivan_1898cr.jpg
+1487925:
+  path: Thys,_Pauline
+  name: Pauline-Marie-Elisa Thys
+  gender: Female
+  born: 1835
+  died: 1909
+  desc: French composer
+  sets: 1
+  scores: 1
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Thys,+Pauline
+  wikidata: Q1487925
+  wikipedia: https://en.wikipedia.org/wiki/Pauline_Thys
+  imslp: https://imslp.org/wiki/Category:Thys,_Pauline
+  image:
+122998:
+  path: Viardot,_Pauline
+  name: Pauline Viardot
+  gender: Female
+  born: 1821
+  died: 1910
+  desc: French mezzo-soprano and composer
+  sets: 3
+  scores: 21
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Viardot,+Pauline
+  wikidata: Q122998
+  wikipedia: https://en.wikipedia.org/wiki/Pauline_Viardot
+  imslp: https://imslp.org/wiki/Category:Viardot,_Pauline
+  image: https://upload.wikimedia.org/wikipedia/commons/6/64/Pauline_Viardot-Garcia_3.jpg
+1511:
+  path: Wagner,_Richard
+  name: Richard Wagner
+  gender: Male
+  born: 1813
+  died: 1883
+  desc: German composer and conductor
+  sets: 1
+  scores: 5
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Wagner,+Richard
+  wikidata: Q1511
+  wikipedia: https://en.wikipedia.org/wiki/Richard_Wagner
+  imslp: https://imslp.org/wiki/Category:Wagner,_Richard
+  image: https://upload.wikimedia.org/wikipedia/commons/9/9d/RichardWagner.jpg
+934413:
+  path: Warlock,_Peter
+  name: Peter Warlock
+  gender: Male
+  born: 1894
+  died: 1930
+  desc: British composer and music critic
+  sets: 4
+  scores: 22
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Warlock,+Peter
+  wikidata: Q934413
+  wikipedia: https://en.wikipedia.org/wiki/Peter_Warlock
+  imslp: https://imslp.org/wiki/Category:Warlock,_Peter
+  image:
+190933:
+  path: Webern,_Anton
+  name: Anton Webern
+  gender: Male
+  born: 1883
+  died: 1945
+  desc: Austrian composer and conductor
+  sets: 2
+  scores: 10
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Webern,+Anton
+  wikidata: Q190933
+  wikipedia: https://en.wikipedia.org/wiki/Anton_Webern
+  imslp: https://imslp.org/wiki/Category:Webern,_Anton
+  image: https://upload.wikimedia.org/wikipedia/commons/1/13/Anton_Webern_(1883–1945)_1927_©_Georg_Fayer_(1891–1950)_OeNB_10450290.png
+6006797:
+  path: White,_Maude_Valérie
+  name: Maude Valerie White
+  gender: Female
+  born: 1855
+  died: 1937
+  desc: French-born English composer
+  sets: 2
+  scores: 6
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=White,+Maude
+  wikidata: Q6006797
+  wikipedia: https://en.wikipedia.org/wiki/Maude_Valérie_White
+  imslp: https://imslp.org/wiki/Category:White,_Maude_Valérie
+  image: https://upload.wikimedia.org/wikipedia/commons/a/a6/MaudeValerieWhite1901.jpg
+215747:
+  path: Wolf,_Hugo
+  name: Hugo Wolf
+  gender: Male
+  born: 1860
+  died: 1903
+  desc: Austrian composer
+  sets: 3
+  scores: 22
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Wolf,+Hugo
+  wikidata: Q215747
+  wikipedia: https://en.wikipedia.org/wiki/Hugo_Wolf
+  imslp: https://imslp.org/wiki/Category:Wolf,_Hugo
+  image: https://upload.wikimedia.org/wikipedia/commons/4/44/Postcard-1910_Hugo_Wolf.jpg
+246913:
+  path: Wood,_Charles
+  name: Charles Wood
+  gender: Male
+  born: 1866
+  died: 1926
+  desc: Irish composer and teacher
+  sets: 1
+  scores: 1
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Wood,+Charles
+  wikidata: Q246913
+  wikipedia: https://en.wikipedia.org/wiki/Charles_Wood_(composer)
+  imslp: https://imslp.org/wiki/Category:Wood,_Charles
+  image: https://upload.wikimedia.org/wikipedia/commons/c/c5/Charles_Wood_(composer).jpg
+98799:
+  path: Zumsteeg,_Emilie
+  name: Emilie Zumsteeg
+  gender: Female
+  born: 1796
+  died: 1857
+  desc: German composer, music teacher, choir conductor, singer and pianist
+  sets: 2
+  scores: 11
+  link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Zumsteeg,+Emilie
+  wikidata: Q98799
+  wikipedia: https://en.wikipedia.org/wiki/Emilie_Zumsteeg
+  imslp: https://imslp.org/wiki/Category:Zumsteeg,_Emilie
+  image: https://upload.wikimedia.org/wikipedia/commons/d/d1/Emilie_Zumsteeg,_Porträt.jpg

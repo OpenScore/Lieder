@@ -1,0 +1,30 @@
+# Unrecognized formats: Let Git decide whether the file is text or binary.
+# If text, checkout system line endings (or follow `git config core.eol`).
+# If binary, don't mess with line endings (avoid corrupting the file).
+*               text=auto
+
+# Text files: Checkout system line endings (or follow `git config core.eol`).
+*.txt           text
+*.md            text
+*.mscx          text
+*.musicxml      text
+*.xml           text
+*.json          text
+*.yaml          text
+*.py            text
+
+# Shell scripts: Checkout with LF line endings (Unix-style).
+*.sh            text            eol=lf
+
+# Batch files: Checkout with CRLF line endings (Windows-style).
+*.bat           text            eol=crlf
+*.cmd           text            eol=crlf
+
+# Binary files: Don't mess with line endings (avoid corrupting the file).
+*.mscz          binary
+*.mxl           binary
+*.pdf           binary
+*.mid           binary
+*.wav           binary
+*.mp3           binary
+*.zip           binary

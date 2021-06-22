@@ -1,0 +1,14 @@
+# Binary formats
+*.mscz
+*.mxl
+*.pdf
+*.mid
+*.wav
+*.mp3
+*.zip
+
+# Backup and temporary files
+.mscbackup
+.*.mscx,
+.*.mscz,
+*~
