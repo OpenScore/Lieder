@@ -9,12 +9,30 @@ Collection of songs by 19th century composers in MuseScore format with associate
 
 Scores can be downloaded individually in PDF, MIDI, MusicXML, MP3 and other formats from
 their [official pages][OpenScore Lieder] on MuseScore.com. Alternatively, scores can be
-converted to other formats *en masse* using MuseScore's free destop software using either
-the [command line interface][MuseScore Command Line] or the [Batch Convert Plugin].
+converted to other formats *en masse* using MuseScore's free desktop software using either
+the [Batch Convert Plugin] 
+or the [command line interface][MuseScore Command Line] as explained below.
 
 [MuseScore]: https://musescore.org/
 [Batch Convert Plugin]: https://musescore.org/en/project/batch-convert
 [MuseScore Command Line]: https://musescore.org/en/handbook/3/command-line-options#EXAMPLES
+
+## Batch conversion with the [command line interface][MuseScore Command Line]
+
+To convert the corpus using the [command line interface][MuseScore Command Line], you need a json file with in / out path pairs.
+We provide such a file [here](./data/corpus_conversion.json) with the latest contents of the corpus, ready for converting the scores as given (mscx files) to mxl.
+Implement the batch conversion with the current 
+`corpus_conversion.json` from this folder with the command:
+`mscore -j corpus_conversion.json`
+
+We aim to keep this contents file up to date so you should not need to adjust it for simple conversions (of whole corpus from mscx to mxl).
+That said, we also provide the means to do so if necessary: see [this script](./corpus_conversion.py).
+
+To create a new / updated version of the `corpus_conversion.json`, run `python3 corpus_conversion.py` from this folder.
+
+For conversion to another file format, before the relevant step/s above,
+replace `.mxl` with the desired format (`.pdf` or `.mid`) either directly for every instance in the `corpus_conversion.json` file or
+in the [corpus_conversion.py script](./corpus_conversion.py) (as the `out_format` in the `prep_conversion_doc` function).
 
 ## Directory structure
 
@@ -111,9 +129,9 @@ These scores are released under Creative Commons Zero (CC0). See LICENSE.txt.
 We kindly ask that you credit OpenScore Lieder and provide a link to
 https://musescore.com/openscore-lieder-corpus or this repository for any public-facing use of these scores.
 
-For academic publications, please cite the report we published with DLfM in 2018:
-
-Mark Gotham, Peter Jonas, Bruno Bower, William Bosworth, Daniel Rootham, and Leigh VanHandel. 2018. ‘Scores of Scores: An OpenScore project to encode and share sheet music.’ In Proceedings of the 5th International Conference on Digital Libraries for Musicology (DLfM’18). ACM, New York, NY, USA. https://doi.org/10.1145/3273024.3273026
+For academic publications, please cite one or both of the reports we published in 2018 and 2021:
+- Mark Gotham, Peter Jonas, Bruno Bower, William Bosworth, Daniel Rootham, and Leigh VanHandel. 2018. ‘Scores of Scores: An OpenScore project to encode and share sheet music.’ In Proceedings of the 5th International Conference on Digital Libraries for Musicology (DLfM’18). ACM, New York, NY, USA. https://doi.org/10.1145/3273024.3273026
+- [Music Encoding Conference 2021](https://music-encoding.org/conference/2021/), details and DOI to follow.
 
 ## Credits and more about this corpus
 
