@@ -17,7 +17,7 @@ or the [command line interface][MuseScore Command Line] as explained below.
 [Batch Convert Plugin]: https://musescore.org/en/project/batch-convert
 [MuseScore Command Line]: https://musescore.org/en/handbook/3/command-line-options#EXAMPLES
 
-## Batch conversion with the [command line interface][MuseScore Command Line]
+# Batch conversion with the [command line interface][MuseScore Command Line]
 
 To convert the corpus using the [command line interface][MuseScore Command Line], you need a json file with in / out path pairs.
 We provide such a file [here](./data/corpus_conversion.json) with the latest contents of the corpus, ready for converting the scores as given (mscx files) to mxl.
@@ -34,7 +34,7 @@ For conversion to another file format, before the relevant step/s above,
 replace `.mxl` with the desired format (`.pdf` or `.mid`) either directly for every instance in the `corpus_conversion.json` file or
 in the [corpus_conversion.py script](./corpus_conversion.py) (as the `out_format` in the `prep_conversion_doc` function).
 
-## Directory structure
+# [Scores directory](./scores/)
 
 Score and lyric files are arranged in the following directory structure:
 
@@ -122,25 +122,73 @@ git config core.precomposeunicode true
 __Tip:__ Add `--global` after `config` in the above commands to make `git`
 behave this way by default for all repositories on your local machine.
 
-## License and acknowledgement
+# [Data directory](./data/)
+
+The `Data/` directory contains the following:
+- composers.tsv and composers.yaml: information about the corpus composers.
+- corpus.tsv and corpus.yaml: total numbers of composers, sets, and scores.
+- corpus_conversion.json: for batch conversion as described above.
+- corpus_conversion.py: a basic script for updating the `corpus_conversion.json` file.
+- plot.py: for producing the summative plots contained in ... 
+- plots/: a folder for the summative plots as discussed below.
+- scores.tsv and scores.yaml: information about each score
+- sets.tsv and sets.yaml: information about each set (collection of scores).
+
+## [Data plots](./data/plots/)
+
+Summative plots of the corpus contents:
+
+1. The number of corpus composers alive and active over time.
+![composer_dates](./data/plots/composer_dates.png)
+
+1. The number of songs by the top 15 most represented composers.
+![composer_songs](./data/plots/composer_songs.png)
+
+1. The number of songs per 'set' (a.k.a. 'collection', 'cycle').
+![songs_per_set](./data/plots/songs_per_set.png)
+
+# License and acknowledgement
 
 These scores are released under Creative Commons Zero (CC0). See LICENSE.txt.
 
 We kindly ask that you credit OpenScore Lieder and provide a link to
 https://musescore.com/openscore-lieder-corpus or this repository for any public-facing use of these scores.
 
-For academic publications, please cite one or both of the reports we published in 2018 and 2021:
+For academic publications, please cite the report on this mirror we published in M.E.C.:
+- Gotham, M. R. H.; and Jonas, P. The OpenScore Lieder Corpus. In Münnich, S.; and Rizo, D., editor(s), Music Encoding Conference Proceedings 2021, pages 131–136, 2022. Humanities Commons. Best Poster Award. https://doi.org/10.17613/1my2-dm23
+
+```
+@inproceedings{GothamJonas2022,
+ abstract = {The OpenScore Lieder Corpus is a collection of over 1,200 nineteenth century songs encoded by a dedicated team of mostly volunteers over several years. Having reported on the initial phase, motivations, design, and community-oriented aspects of the project before, we present here the first, stable, large-scale release of this corpus specifically designed for MIR researchers, complete with comprehensive, structured, linked metadata. The corpus continues to be available under the open CC0 licence and represents a compelling dataset for a range of MIR tasks, not least given its unusual balance of large-scale with high-quality encoding, and of diversity (songs by over 100 composers, from many countries, and in a range of languages) with unity (centred on the nineteenth-century lieder tradition).},
+ author = {Gotham, Mark Robert Haigh and Jonas, Peter},
+ title = {{The OpenScore Lieder Corpus}},
+ keywords = {mec-proceedings, mec-proceedings-2021},
+ pages = {131--136},
+ publisher = {{Humanities Commons}},
+ isbn = {978-84-1302-173-7},
+ editor = {M{\"u}nnich, Stefan and Rizo, David},
+ booktitle = {{Music Encoding Conference Proceedings 2021}},
+ year = {2022},
+ doi = {10.17613/1my2-dm23},
+ bibbase_note = {<span style="color: green; font-weight: bold">Best Poster Award.</span>},
+ displayby = {Contributions from MEC 2021}
+}
+```
+
+For some use / interest cases, you may also wish to check out either or both of: 
+our initial 2018 report on the project,
+and a 2021 discussion:
 - Mark Gotham, Peter Jonas, Bruno Bower, William Bosworth, Daniel Rootham, and Leigh VanHandel. 2018. ‘Scores of Scores: An OpenScore project to encode and share sheet music.’ In Proceedings of the 5th International Conference on Digital Libraries for Musicology (DLfM’18). ACM, New York, NY, USA. https://doi.org/10.1145/3273024.3273026
-- [Music Encoding Conference 2021](https://music-encoding.org/conference/2021/), details and DOI to follow.
+- Gotham, M. Connecting the dots: Recognizing and implementing more kinds of “open science” to connect musicians and musicologists. Empirical Musicology Review 16 (2021). https://doi.org/10.18061/emr.v16i1.7644
 
 ## Credits and more about this corpus
 
-These scores were transcribed by contributors to OpenScore Lieder after vocal line templates by Leigh Van Handel et al., and moderated by a professional team of proofreaders.
+These scores were transcribed by contributors to OpenScore Lieder, many of them after vocal line templates by Leigh Van Handel et al., and moderated by a professional team of proofreaders.
 
 For more about this corpus, its motivations, how to contribute, who has contributed, and the funding that has supported this social initiative, please see https://fourscoreandmore.org/scores-of-scores/
 
 ## Summary of external links
 
 - Scores online: https://musescore.com/openscore-lieder-corpus
-- Academic report: https://doi.org/10.1145/3273024.3273026
+- Academic report: https://doi.org/10.17613/1my2-dm23
 - Motivation, explanation, credits, and more: https://fourscoreandmore.org/scores-of-scores/
