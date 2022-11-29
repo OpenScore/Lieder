@@ -24,6 +24,7 @@ Basic script for extracting summary information about the corpus.
 from collections import Counter
 import matplotlib.pyplot as plt
 import numpy as np
+import os
 import yaml
 
 
@@ -32,11 +33,18 @@ import yaml
 # Shared
 
 def get_info(what: str = 'composers',
-             path_to_data: str = './'):
+             path_to_data: str = '.'):
+    
     validTypes = ['composers', 'sets', 'scores']
     if what not in validTypes:
         raise ValueError('Argument `what` invalid: must be one of validTypes')
-    with open(path_to_data + what + '.yaml') as f:
+
+    if path_to_data == '.':
+        path_to_data = os.path.join(os.path.dirname((os.path.realpath(__file__))))
+    
+    path_to_data = os.path.join(path_to_data, f'{what}.yaml')
+
+    with open(path_to_data) as f:
         data = yaml.load(f, Loader=yaml.FullLoader)
 
     return data
