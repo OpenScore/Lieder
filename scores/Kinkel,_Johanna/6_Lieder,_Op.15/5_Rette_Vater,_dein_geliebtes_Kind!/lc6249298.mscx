@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.01">
-  <programVersion>3.5.0</programVersion>
-  <programRevision>43c5553</programRevision>
+<museScore version="3.02">
+  <programVersion>3.6.2</programVersion>
+  <programRevision></programRevision>
   <Score>
-    <LayerTag id="0" tag="default"/>
+    <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
@@ -13,105 +13,176 @@
       <akkoladeDistance>8</akkoladeDistance>
       <maxSystemDistance>19.5</maxSystemDistance>
       <lyricsPosBelow x="0" y="1"/>
-      <lyricsMinDistance>0.6</lyricsMinDistance>
+      <lyricsMinDistance>0.25</lyricsMinDistance>
       <lyricsDashMaxDistance>10</lyricsDashMaxDistance>
       <lyricsDashForce>0</lyricsDashForce>
       <lyricsMelismaPad>0.5</lyricsMelismaPad>
-      <lyricsOddFontSize>12</lyricsOddFontSize>
+      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
+      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
+      <lyricsOddFontSize>10</lyricsOddFontSize>
+      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
+      <lyricsEvenFontSize>10</lyricsEvenFontSize>
       <lyricsEvenFramePadding>0</lyricsEvenFramePadding>
       <lyricsEvenFrameWidth>0</lyricsEvenFrameWidth>
-      <doubleBarDistance>0.46</doubleBarDistance>
-      <endBarDistance>0.65</endBarDistance>
+      <barWidth>0.18</barWidth>
+      <doubleBarWidth>0.18</doubleBarWidth>
+      <endBarWidth>0.55</endBarWidth>
+      <doubleBarDistance>0.55</doubleBarDistance>
+      <endBarDistance>0.7</endBarDistance>
+      <repeatBarlineDotSeparation>0.7</repeatBarlineDotSeparation>
+      <bracketWidth>0.44</bracketWidth>
       <clefLeftMargin>0.64</clefLeftMargin>
       <clefKeyRightMargin>1.75</clefKeyRightMargin>
+      <stemWidth>0.11</stemWidth>
       <measureSpacing>1</measureSpacing>
+      <staffLineWidth>0.11</staffLineWidth>
+      <ledgerLineLength>0.35</ledgerLineLength>
       <lastSystemFillLimit>0</lastSystemFillLimit>
       <hairpinPlacement>0</hairpinPlacement>
       <hairpinLinePosAbove x="0" y="-2"/>
+      <hairpinWidth>0.12</hairpinWidth>
+      <hairpinFontFace>Edwin</hairpinFontFace>
+      <hairpinFontSize>10</hairpinFontSize>
       <hairpinFramePadding>0</hairpinFramePadding>
       <hairpinFrameWidth>0</hairpinFrameWidth>
+      <pedalLineWidth>0.11</pedalLineWidth>
+      <pedalFontFace>Edwin</pedalFontFace>
       <pedalFramePadding>0</pedalFramePadding>
       <pedalFrameWidth>0</pedalFrameWidth>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
+      <chordSymbolAFontSize>11</chordSymbolAFontSize>
       <chordSymbolAFramePadding>0</chordSymbolAFramePadding>
       <chordSymbolAFrameWidth>0</chordSymbolAFrameWidth>
+      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
+      <chordSymbolBFontSize>11</chordSymbolBFontSize>
+      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
+      <slurMidWidth>0.21</slurMidWidth>
+      <musicalSymbolFont>Leland</musicalSymbolFont>
+      <musicalTextFont>Leland Text</musicalTextFont>
+      <voltaLineWidth>0.11</voltaLineWidth>
       <voltaFramePadding>0</voltaFramePadding>
       <voltaFrameWidth>0</voltaFrameWidth>
       <ottava8VBText>&lt;sym&gt;ottavaBassaBa&lt;/sym&gt;</ottava8VBText>
+      <ottavaLineWidth>0.11</ottavaLineWidth>
+      <ottavaFontFace>Edwin</ottavaFontFace>
       <ottavaFontStyle>2</ottavaFontStyle>
       <ottavaFramePadding>0</ottavaFramePadding>
       <ottavaFrameWidth>0</ottavaFrameWidth>
       <tabClef>29</tabClef>
+      <tupletFontFace>Edwin</tupletFontFace>
+      <tupletFontSize>9</tupletFontSize>
       <tupletFramePadding>0</tupletFramePadding>
       <tupletFrameWidth>0</tupletFrameWidth>
       <dynamicsPlacement>0</dynamicsPlacement>
       <dynamicsPosAbove x="-2" y="-2"/>
       <textLineFramePadding>0</textLineFramePadding>
       <textLineFrameWidth>0</textLineFrameWidth>
+      <defaultFontFace>Edwin</defaultFontFace>
       <defaultFontSpatiumDependent>0</defaultFontSpatiumDependent>
       <defaultAlign>left,baseline</defaultAlign>
       <defaultFramePadding>0</defaultFramePadding>
       <defaultFrameWidth>0</defaultFrameWidth>
       <defaultFrameRound>25</defaultFrameRound>
+      <titleFontFace>Edwin</titleFontFace>
+      <titleFontSize>22</titleFontSize>
       <titleFramePadding>0</titleFramePadding>
       <titleFrameWidth>0</titleFrameWidth>
       <titleFrameRound>25</titleFrameRound>
+      <subTitleFontFace>Edwin</subTitleFontFace>
+      <subTitleFontSize>16</subTitleFontSize>
       <subTitleFramePadding>0</subTitleFramePadding>
       <subTitleFrameWidth>0</subTitleFrameWidth>
       <subTitleFrameRound>25</subTitleFrameRound>
+      <composerFontFace>Edwin</composerFontFace>
+      <composerFontSize>10</composerFontSize>
       <composerFramePadding>0</composerFramePadding>
       <composerFrameWidth>0</composerFrameWidth>
       <composerFrameRound>25</composerFrameRound>
+      <lyricistFontFace>Edwin</lyricistFontFace>
+      <lyricistFontSize>10</lyricistFontSize>
       <lyricistFramePadding>0</lyricistFramePadding>
       <lyricistFrameWidth>0</lyricistFrameWidth>
       <lyricistFrameRound>25</lyricistFrameRound>
+      <fingeringFontFace>Edwin</fingeringFontFace>
       <fingeringFramePadding>0</fingeringFramePadding>
       <fingeringFrameWidth>0</fingeringFrameWidth>
       <fingeringFrameRound>25</fingeringFrameRound>
+      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
       <lhGuitarFingeringFramePadding>0</lhGuitarFingeringFramePadding>
       <lhGuitarFingeringFrameWidth>0</lhGuitarFingeringFrameWidth>
       <lhGuitarFingeringFrameRound>25</lhGuitarFingeringFrameRound>
+      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
+      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
       <rhGuitarFingeringFramePadding>0</rhGuitarFingeringFramePadding>
       <rhGuitarFingeringFrameWidth>0</rhGuitarFingeringFrameWidth>
       <rhGuitarFingeringFrameRound>25</rhGuitarFingeringFrameRound>
+      <stringNumberFontFace>Edwin</stringNumberFontFace>
+      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
+      <longInstrumentFontSize>10</longInstrumentFontSize>
       <longInstrumentFramePadding>0</longInstrumentFramePadding>
       <longInstrumentFrameWidth>0</longInstrumentFrameWidth>
+      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
+      <shortInstrumentFontSize>10</shortInstrumentFontSize>
       <shortInstrumentFramePadding>0</shortInstrumentFramePadding>
       <shortInstrumentFrameWidth>0</shortInstrumentFrameWidth>
+      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
+      <partInstrumentFontSize>14</partInstrumentFontSize>
       <partInstrumentFramePadding>0</partInstrumentFramePadding>
       <partInstrumentFrameWidth>0</partInstrumentFrameWidth>
       <partInstrumentFrameRound>25</partInstrumentFrameRound>
+      <dynamicsFontFace>Edwin</dynamicsFontFace>
+      <dynamicsFontSize>11</dynamicsFontSize>
       <dynamicsFramePadding>0</dynamicsFramePadding>
       <dynamicsFrameWidth>0</dynamicsFrameWidth>
-      <expressionFontSize>12</expressionFontSize>
+      <expressionFontFace>Edwin</expressionFontFace>
+      <expressionFontSize>10</expressionFontSize>
       <expressionFramePadding>0</expressionFramePadding>
       <expressionFrameWidth>0</expressionFrameWidth>
+      <tempoFontFace>Edwin</tempoFontFace>
       <tempoFramePadding>0</tempoFramePadding>
       <tempoFrameWidth>0</tempoFrameWidth>
       <tempoFrameRound>25</tempoFrameRound>
+      <metronomeFontFace>Edwin</metronomeFontFace>
+      <metronomeFontStyle>0</metronomeFontStyle>
       <metronomeFramePadding>0</metronomeFramePadding>
       <metronomeFrameWidth>0</metronomeFrameWidth>
-      <measureNumberAlign>center,bottom</measureNumberAlign>
+      <measureNumberFontFace>Edwin</measureNumberFontFace>
+      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
+      <measureNumberFontStyle>2</measureNumberFontStyle>
       <measureNumberFramePadding>0</measureNumberFramePadding>
       <measureNumberFrameWidth>0</measureNumberFrameWidth>
+      <translatorFontFace>Edwin</translatorFontFace>
+      <translatorFontSize>10</translatorFontSize>
       <translatorAlign>center,top</translatorAlign>
       <translatorFramePadding>0</translatorFramePadding>
       <translatorFrameWidth>0</translatorFrameWidth>
+      <systemFontFace>Edwin</systemFontFace>
       <systemAlign>left,top</systemAlign>
       <systemFramePadding>0</systemFramePadding>
       <systemFrameWidth>0</systemFrameWidth>
       <systemFrameRound>25</systemFrameRound>
+      <staffFontFace>Edwin</staffFontFace>
       <staffAlign>left,top</staffAlign>
       <staffPosAbove x="0" y="-4"/>
       <staffFramePadding>0</staffFramePadding>
       <staffFrameWidth>0</staffFrameWidth>
       <staffFrameRound>25</staffFrameRound>
+      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
+      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
+      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
+      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
+      <repeatLeftFontSize>18</repeatLeftFontSize>
       <repeatLeftFramePadding>0</repeatLeftFramePadding>
       <repeatLeftFrameWidth>0</repeatLeftFrameWidth>
       <repeatLeftFrameRound>25</repeatLeftFrameRound>
+      <repeatRightFontFace>Edwin</repeatRightFontFace>
+      <repeatRightFontSize>11</repeatRightFontSize>
       <repeatRightFramePadding>0</repeatRightFramePadding>
       <repeatRightFrameWidth>0</repeatRightFrameWidth>
       <repeatRightFrameRound>25</repeatRightFrameRound>
+      <frameFontFace>Edwin</frameFontFace>
+      <frameFontSize>10</frameFontSize>
       <frameFramePadding>0</frameFramePadding>
       <frameFrameWidth>0</frameFrameWidth>
       <glissandoAlign>center,baseline</glissandoAlign>
@@ -153,6 +224,8 @@
       <user4Align>right,baseline</user4Align>
       <user4FramePadding>0</user4FramePadding>
       <user4FrameWidth>0</user4FrameWidth>
+      <usePre_3_6_defaults>1</usePre_3_6_defaults>
+      <defaultsVersion>301</defaultsVersion>
       <Spatium>1.32</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -161,15 +234,15 @@
     <showMargins>0</showMargins>
     <metaTag name="arranger">Transcribed by markpearse from IMSLP #618863.  Source: https://imslp.org/wiki/6_Lieder,_Op.15_(Kinkel,_Johanna)</metaTag>
     <metaTag name="composer">Johanna Kinkel</metaTag>
-    <metaTag name="copyright">OpenScore (CC)</metaTag>
+    <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2020-07-13</metaTag>
     <metaTag name="lyricist">Gottfried Kinkel</metaTag>
     <metaTag name="movementNumber">5</metaTag>
     <metaTag name="movementTitle">Rette Vater, Dein geliebtes Kind!</metaTag>
     <metaTag name="platform">Windows 10</metaTag>
-    <metaTag name="poet"/>
+    <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/6249298</metaTag>
-    <metaTag name="translator"/>
+    <metaTag name="translator"></metaTag>
     <metaTag name="workNumber">15</metaTag>
     <metaTag name="workTitle">6 Lieder, Op.15</metaTag>
     <Part>
@@ -178,7 +251,7 @@
           </StaffType>
         </Staff>
       <trackName>Voice</trackName>
-      <Instrument>
+      <Instrument id="voice">
         <longName>Gesang
 <i>Voice</i></longName>
         <trackName>Voice</trackName>
@@ -250,7 +323,7 @@
         <defaultClef>F</defaultClef>
         </Staff>
       <trackName>Piano</trackName>
-      <Instrument>
+      <Instrument id="piano">
         <longName>Pianoforte</longName>
         <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
@@ -308,8 +381,9 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>19</height>
-        <bottomGap>11.3454</bottomGap>
+        <height>20</height>
+        <bottomGap>11</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>User-3</style>
           <offset x="0" y="13.825"/>
@@ -333,6 +407,7 @@
         </VBox>
       <HBox>
         <width>2</width>
+        <boxAutoSize>0</boxAutoSize>
         </HBox>
       <Measure>
         <voice>
@@ -376,8 +451,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>2. Mag</text>
               </Lyrics>
             <Lyrics>
@@ -399,8 +472,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>ich</text>
               </Lyrics>
             <Lyrics>
@@ -425,8 +496,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>denn</text>
               </Lyrics>
             <Lyrics>
@@ -446,8 +515,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>auch</text>
               </Lyrics>
             <Lyrics>
@@ -469,8 +536,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>rin</text>
               </Lyrics>
             <Lyrics>
@@ -493,8 +558,6 @@
               <no>1</no>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
-              <size>12</size>
-              <italic>1</italic>
               <text>gen,</text>
               </Lyrics>
             <Lyrics>
@@ -527,8 +590,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>stre</text>
               </Lyrics>
             <Lyrics>
@@ -551,8 +612,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>ben,</text>
               </Lyrics>
             <Lyrics>
@@ -577,8 +636,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>ganz</text>
               </Lyrics>
             <Lyrics>
@@ -598,8 +655,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>die</text>
               </Lyrics>
             <Lyrics>
@@ -623,8 +678,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>Welt</text>
               </Lyrics>
             <Lyrics>
@@ -644,8 +697,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>mir</text>
               </Lyrics>
             <Lyrics>
@@ -665,8 +716,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>zu</text>
               </Lyrics>
             <Lyrics>
@@ -688,8 +737,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>er</text>
               </Lyrics>
             <Lyrics>
@@ -715,8 +762,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>middle</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>käm</text>
               </Lyrics>
             <Lyrics>
@@ -739,8 +784,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>pfen,</text>
               </Lyrics>
             <Lyrics>
@@ -774,8 +817,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>dass</text>
               </Lyrics>
             <Lyrics>
@@ -798,8 +839,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>sie</text>
               </Lyrics>
             <Lyrics>
@@ -830,8 +869,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>die</text>
               </Lyrics>
             <Lyrics>
@@ -854,8 +891,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>ne</text>
               </Lyrics>
             <Lyrics>
@@ -881,8 +916,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>dei</text>
               </Lyrics>
             <Lyrics>
@@ -907,8 +940,6 @@
               <no>1</no>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
-              <size>12</size>
-              <italic>1</italic>
               <text>nem</text>
               </Lyrics>
             <Lyrics>
@@ -940,8 +971,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>Reich!</text>
               </Lyrics>
             <Lyrics>
@@ -967,8 +996,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>Ach</text>
               </Lyrics>
             <Lyrics>
@@ -990,8 +1017,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>ich</text>
               </Lyrics>
             <Lyrics>
@@ -1017,8 +1042,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>kann</text>
               </Lyrics>
             <Lyrics>
@@ -1044,8 +1067,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>sie</text>
               </Lyrics>
             <Lyrics>
@@ -1068,8 +1089,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>doch</text>
               </Lyrics>
             <Lyrics>
@@ -1091,8 +1110,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>nicht</text>
               </Lyrics>
             <Lyrics>
@@ -1123,8 +1140,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>däm</text>
               </Lyrics>
             <Lyrics>
@@ -1154,8 +1169,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>pfen,</text>
               </Lyrics>
             <Lyrics>
@@ -1180,8 +1193,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>oft</text>
               </Lyrics>
             <Lyrics>
@@ -1201,8 +1212,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>noch</text>
               </Lyrics>
             <Lyrics>
@@ -1229,8 +1238,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>muss</text>
               </Lyrics>
             <Lyrics>
@@ -1252,8 +1259,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>ich</text>
               </Lyrics>
             <Lyrics>
@@ -1275,8 +1280,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>mich</text>
               </Lyrics>
             <Lyrics>
@@ -1300,8 +1303,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>er</text>
               </Lyrics>
             <Lyrics>
@@ -1329,8 +1330,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>middle</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>ge</text>
               </Lyrics>
             <Lyrics>
@@ -1362,8 +1361,6 @@
               <no>1</no>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
-              <size>12</size>
-              <italic>1</italic>
               <text>ben</text>
               </Lyrics>
             <Lyrics>
@@ -1388,10 +1385,9 @@
           <Spanner type="TextLine">
             <TextLine>
               <beginText>* Die zweite Strophe muss hier piano und rallentando vorgetragen werden.   </beginText>
+              <beginTextAlign>left,baseline</beginTextAlign>
               <beginTextPlace>auto</beginTextPlace>
               <beginFontSize>7</beginFontSize>
-              <endText>*</endText>
-              <endFontSize>7</endFontSize>
               <diagonal>1</diagonal>
               <lineWidth>0.120909</lineWidth>
               <lineStyle>6</lineStyle>
@@ -1399,7 +1395,7 @@
               <Segment>
                 <subtype>0</subtype>
                 <offset x="0.127181" y="-3.26313"/>
-                <off2 x="2.01515" y="0"/>
+                <off2 x="0.01515" y="0"/>
                 </Segment>
               </TextLine>
             <next>
@@ -1412,18 +1408,17 @@
           <Spanner type="TextLine">
             <TextLine>
               <beginText>* For the second verse play this passage &lt;i&gt;piano&lt;/i&gt; and &lt;i&gt;rallentando&lt;/i&gt;     </beginText>
+              <beginTextAlign>left,baseline</beginTextAlign>
               <beginTextPlace>auto</beginTextPlace>
               <beginFontSize>7</beginFontSize>
-              <endText>*</endText>
-              <endFontSize>7</endFontSize>
               <diagonal>1</diagonal>
               <lineWidth>0.120909</lineWidth>
               <lineStyle>6</lineStyle>
               <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-1.48754"/>
-                <off2 x="2.01515" y="0"/>
+                <offset x="0.1" y="-1.51194"/>
+                <off2 x="0.61515" y="0"/>
                 <minDistance>0.2</minDistance>
                 </Segment>
               </TextLine>
@@ -1444,8 +1439,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>ih</text>
               </Lyrics>
             <Lyrics>
@@ -1466,8 +1459,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>rem</text>
               </Lyrics>
             <Lyrics>
@@ -1493,8 +1484,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>Loc</text>
               </Lyrics>
             <Lyrics>
@@ -1519,8 +1508,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>ken</text>
               </Lyrics>
             <Lyrics>
@@ -1543,8 +1530,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>süss</text>
               </Lyrics>
             <Lyrics>
@@ -1569,8 +1554,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>und</text>
               </Lyrics>
             <Lyrics>
@@ -1618,8 +1601,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>weich.</text>
               </Lyrics>
             <Lyrics>
@@ -1653,8 +1634,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>Schau</text>
               </Lyrics>
             <Lyrics>
@@ -1677,8 +1656,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>wie</text>
               </Lyrics>
             <Lyrics>
@@ -1699,8 +1676,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>sie</text>
               </Lyrics>
             <Lyrics>
@@ -1721,8 +1696,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>mit</text>
               </Lyrics>
             <Lyrics>
@@ -1747,8 +1720,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>Zau</text>
               </Lyrics>
             <Lyrics>
@@ -1772,8 +1743,6 @@
               <no>1</no>
               <syllabic>end</syllabic>
               <ticks_f>0/16</ticks_f>
-              <size>12</size>
-              <italic>1</italic>
               <text>ber</text>
               </Lyrics>
             <Lyrics>
@@ -1799,8 +1768,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>flech</text>
               </Lyrics>
             <Lyrics>
@@ -1823,8 +1790,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>ten</text>
               </Lyrics>
             <Lyrics>
@@ -1862,8 +1827,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>ih</text>
               </Lyrics>
             <Lyrics>
@@ -1883,8 +1846,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>rer</text>
               </Lyrics>
             <Lyrics>
@@ -1905,8 +1866,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>Schön</text>
               </Lyrics>
             <Lyrics>
@@ -1929,8 +1888,6 @@
               <no>1</no>
               <syllabic>end</syllabic>
               <ticks_f>0/16</ticks_f>
-              <size>12</size>
-              <italic>1</italic>
               <text>heit</text>
               </Lyrics>
             <Lyrics>
@@ -1958,8 +1915,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>mich</text>
               </Lyrics>
             <Lyrics>
@@ -1981,8 +1936,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>um</text>
               </Lyrics>
             <Lyrics>
@@ -2007,8 +1960,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>spinnt;</text>
               </Lyrics>
             <Lyrics>
@@ -2047,8 +1998,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <align>left,baseline</align>
               <offset x="-0.2" y="1"/>
               <text>Ret</text>
@@ -2077,8 +2026,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>te,</text>
               </Lyrics>
             <Lyrics>
@@ -2109,8 +2056,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <align>left,baseline</align>
               <offset x="-0.2" y="1"/>
               <text>ret</text>
@@ -2136,8 +2081,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>te</text>
               </Lyrics>
             <Lyrics>
@@ -2167,8 +2110,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <align>left,baseline</align>
               <offset x="-0.2" y="1"/>
               <text>Du</text>
@@ -2196,8 +2137,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
-              <italic>1</italic>
               <text>aus</text>
               </Lyrics>
             <Lyrics>
@@ -2236,8 +2175,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>Sün</text>
               </Lyrics>
             <Lyrics>
@@ -2264,8 +2201,6 @@
               <no>1</no>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
-              <size>12</size>
-              <italic>1</italic>
               <text>den</text>
               </Lyrics>
             <Lyrics>
@@ -2296,8 +2231,6 @@
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <size>12</size>
-              <italic>1</italic>
               <text>Näch</text>
               </Lyrics>
             <Lyrics>
@@ -2367,8 +2300,6 @@
               <no>1</no>
               <syllabic>end</syllabic>
               <ticks_f>0/16</ticks_f>
-              <size>12</size>
-              <italic>1</italic>
               <text>ten,</text>
               </Lyrics>
             <Lyrics>
@@ -2400,14 +2331,15 @@
             <style>Tempo</style>
             <bold>0</bold>
             <offset x="1.5" y="-1.53"/>
-            <text>ritenuto un poco.</text>
+            <text>ritenuto un poco</text>
             </StaffText>
           <Tempo>
-            <tempo>0.85</tempo>
+            <tempo>0.84999999999999998</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <family>FreeSerif</family>
             <offset x="0" y="-4"/>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 51</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 51</b></text>
             </Tempo>
           <Spanner type="HairPin">
             <HairPin>
@@ -2435,7 +2367,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
               <offset x="0" y="1.51136"/>
               <text>&quot;</text>
               </Lyrics>
@@ -2456,7 +2387,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
               <offset x="0" y="1.51136"/>
               <text>&quot;</text>
               </Lyrics>
@@ -2482,7 +2412,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
               <offset x="0" y="1.51136"/>
               <text>&quot;</text>
               </Lyrics>
@@ -2527,7 +2456,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
               <offset x="0" y="1.51136"/>
               <text>&quot;</text>
               </Lyrics>
@@ -2548,14 +2476,15 @@
             <style>Tempo</style>
             <bold>0</bold>
             <offset x="0" y="-1.53409"/>
-            <text>molto rallent:</text>
+            <text>molto rallentando</text>
             </StaffText>
           <Tempo>
-            <tempo>0.8</tempo>
+            <tempo>0.80000000000000004</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <family>FreeSerif</family>
             <offset x="0" y="-4"/>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 48</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 48</b></text>
             </Tempo>
           <Chord>
             <durationType>half</durationType>
@@ -2565,7 +2494,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
               <offset x="0" y="1.51136"/>
               <text>&quot;</text>
               </Lyrics>
@@ -2589,11 +2517,12 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.733333</tempo>
+            <tempo>0.73333300000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <family>FreeSerif</family>
             <offset x="0" y="-4"/>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 44</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 44</b></text>
             </Tempo>
           <Dynamic>
             <subtype>f</subtype>
@@ -2653,7 +2582,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
               <offset x="0" y="1.51136"/>
               <text>&quot;</text>
               </Lyrics>
@@ -2677,7 +2605,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
               <offset x="0" y="1.51136"/>
               <text>&quot;</text>
               </Lyrics>
@@ -2697,11 +2624,12 @@
             <fractions>-3/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.816667</tempo>
+            <tempo>0.81666700000000003</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <family>FreeSerif</family>
             <offset x="0" y="-4"/>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 49</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 49</b></text>
             </Tempo>
           <location>
             <fractions>3/8</fractions>
@@ -2728,14 +2656,15 @@
             <minDistance>0.465905</minDistance>
             <bold>0</bold>
             <offset x="0" y="-1.80205"/>
-            <text>a tempo.</text>
+            <text>a tempo</text>
             </StaffText>
           <Tempo>
             <tempo>0.875</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <family>FreeSerif</family>
             <offset x="0" y="-4"/>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 52.5</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 52.5</b></text>
             </Tempo>
           <Dynamic>
             <subtype>mf</subtype>
@@ -2750,7 +2679,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
               <offset x="0" y="1.51136"/>
               <text>&quot;</text>
               </Lyrics>
@@ -2771,7 +2699,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
               <offset x="0" y="1.51136"/>
               <text>&quot;</text>
               </Lyrics>
@@ -2846,7 +2773,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
               <offset x="0" y="1.51136"/>
               <text>&quot;</text>
               </Lyrics>
@@ -2867,7 +2793,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
               <offset x="0" y="1.51136"/>
               <text>&quot;</text>
               </Lyrics>
@@ -2885,7 +2810,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
               <offset x="0" y="1.51136"/>
               <text>&quot;</text>
               </Lyrics>
@@ -2906,14 +2830,15 @@
             <style>Tempo</style>
             <bold>0</bold>
             <offset x="0" y="-1.5"/>
-            <text>calando.</text>
+            <text>calando</text>
             </StaffText>
           <Tempo>
-            <tempo>0.85</tempo>
+            <tempo>0.84999999999999998</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <family>FreeSerif</family>
             <offset x="0" y="-4"/>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 51</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 51</b></text>
             </Tempo>
           <Chord>
             <offset x="-0.3" y="0"/>
@@ -2953,7 +2878,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
               <offset x="0" y="1.51136"/>
               <text>&quot;</text>
               </Lyrics>
@@ -2985,11 +2909,12 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.816667</tempo>
+            <tempo>0.81666700000000003</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <family>FreeSerif</family>
             <offset x="0" y="-4"/>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 49</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 49</b></text>
             </Tempo>
           <Chord>
             <dots>1</dots>
@@ -3015,7 +2940,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
               <offset x="0" y="1.51136"/>
               <text>&quot;</text>
               </Lyrics>
@@ -3039,11 +2963,12 @@
             <visible>0</visible>
             </Dynamic>
           <Tempo>
-            <tempo>0.85</tempo>
+            <tempo>0.84999999999999998</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <family>FreeSerif</family>
             <offset x="0" y="-4"/>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 51</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 51</b></text>
             </Tempo>
           <Spanner type="HairPin">
             <prev>
@@ -3059,7 +2984,6 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <size>12</size>
               <offset x="0" y="1.51136"/>
               <text>&quot;</text>
               </Lyrics>
@@ -3076,8 +3000,9 @@
             <tempo>0.875</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <family>FreeSerif</family>
             <offset x="0" y="-4"/>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 52.5</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 52.5</b></text>
             </Tempo>
           <Rest>
             <durationType>half</durationType>
@@ -4620,12 +4545,10 @@
       <Measure>
         <voice>
           <Tuplet>
-            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
-              <visible>0</visible>
               <style>Tuplet</style>
               <text>3</text>
               </Number>
@@ -4694,12 +4617,10 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
-              <visible>0</visible>
               <style>Tuplet</style>
               <text>3</text>
               </Number>
@@ -4751,15 +4672,15 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <visible>0</visible>
+            <offset x="0" y="0.5"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
-              <visible>0</visible>
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>down</direction>
             </Tuplet>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -4788,6 +4709,8 @@
               </Note>
             <Note>
               <Fingering>
+                <minDistance>-999</minDistance>
+                <offset x="0" y="-5"/>
                 <text>3
 1
 </text>
@@ -4805,6 +4728,8 @@
               </Note>
             <Note>
               <Fingering>
+                <minDistance>-4.91632</minDistance>
+                <offset x="0" y="-5"/>
                 <text>4
 1
 </text>
@@ -4816,12 +4741,10 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
-              <visible>0</visible>
               <style>Tuplet</style>
               <text>3</text>
               </Number>
@@ -6436,7 +6359,7 @@
             <style>Tempo</style>
             <bold>0</bold>
             <offset x="0" y="-1.53409"/>
-            <text>calando.</text>
+            <text>calando</text>
             </StaffText>
           <Rest>
             <durationType>eighth</durationType>
@@ -7911,12 +7834,11 @@
       <Measure>
         <voice>
           <Tuplet>
-            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
+            <p2 x="0" y="1.7"/>
             <baseNote>eighth</baseNote>
             <Number>
-              <visible>0</visible>
               <style>Tuplet</style>
               <text>3</text>
               </Number>
@@ -7987,6 +7909,10 @@
               <velocity>15</velocity>
               </Note>
             </Chord>
+          <StaffText>
+            <placement>below</placement>
+            <text>sim.</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>

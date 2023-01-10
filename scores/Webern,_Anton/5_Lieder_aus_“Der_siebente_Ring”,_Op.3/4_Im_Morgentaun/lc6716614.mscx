@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -266,7 +266,7 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>User-1</style>
-          <text>5 Lieder aus Der siebente Ring, Op.3</text>
+          <text>5 Lieder aus “Der siebente Ring”, Op.3</text>
           </Text>
         <Text>
           <style>User-2</style>
@@ -941,7 +941,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.9</tempo>
+            <tempo>1.8999999999999999</tempo>
             <offset x="0" y="-3"/>
             <text>Mässig</text>
             </Tempo>

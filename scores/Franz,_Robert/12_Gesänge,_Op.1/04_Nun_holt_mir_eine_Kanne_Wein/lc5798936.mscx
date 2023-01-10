@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.01">
-  <programVersion>3.2.3</programVersion>
-  <programRevision>d2d863f</programRevision>
+<museScore version="3.02">
+  <programVersion>3.6.2</programVersion>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.27008</pageWidth>
-      <pageHeight>11.6902</pageHeight>
-      <pagePrintableWidth>7.48268</pagePrintableWidth>
+      <pageWidth>8.26772</pageWidth>
+      <pageHeight>11.6929</pageHeight>
+      <pagePrintableWidth>7.08661</pagePrintableWidth>
+      <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
+      <pageOddLeftMargin>0.590551</pageOddLeftMargin>
+      <pageEvenTopMargin>0.590551</pageEvenTopMargin>
       <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
+      <pageOddTopMargin>0.590551</pageOddTopMargin>
       <pageOddBottomMargin>0.590551</pageOddBottomMargin>
       <staffUpperBorder>9</staffUpperBorder>
-      <akkoladeDistance>7</akkoladeDistance>
+      <staffLowerBorder>6.5</staffLowerBorder>
       <maxSystemDistance>14</maxSystemDistance>
-      <lyricsPosBelow x="0" y="1"></lyricsPosBelow>
+      <enableVerticalSpread>1</enableVerticalSpread>
+      <lyricsPosBelow x="0" y="1"/>
       <lyricsMinBottomDistance>1.5</lyricsMinBottomDistance>
-      <lyricsDashMaxDistance>12</lyricsDashMaxDistance>
+      <lyricsMinDistance>0.6</lyricsMinDistance>
+      <lyricsDashMaxDistance>10</lyricsDashMaxDistance>
       <lyricsDashForce>0</lyricsDashForce>
-      <lyricsMelismaPad>0.4</lyricsMelismaPad>
-      <lyricsOddFontSize>12</lyricsOddFontSize>
-      <lyricsEvenFontSize>12</lyricsEvenFontSize>
+      <lyricsMelismaPad>0.5</lyricsMelismaPad>
       <lyricsEvenFontStyle>2</lyricsEvenFontStyle>
-      <doubleBarDistance>0.46</doubleBarDistance>
-      <endBarDistance>0.65</endBarDistance>
       <clefLeftMargin>0.64</clefLeftMargin>
       <clefKeyRightMargin>1.75</clefKeyRightMargin>
       <measureSpacing>1</measureSpacing>
-      <lastSystemFillLimit>0</lastSystemFillLimit>
+      <lastSystemFillLimit>0.1</lastSystemFillLimit>
       <hairpinPlacement>0</hairpinPlacement>
+      <hairpinHeight>1.3</hairpinHeight>
       <hairpinFramePadding>0</hairpinFramePadding>
       <hairpinFrameWidth>0</hairpinFrameWidth>
+      <pedalFontSize>11</pedalFontSize>
       <pedalFramePadding>0</pedalFramePadding>
       <pedalFrameWidth>0</pedalFrameWidth>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <harmonyPlay>0</harmonyPlay>
       <chordSymbolAFramePadding>0</chordSymbolAFramePadding>
       <chordSymbolAFrameWidth>0</chordSymbolAFrameWidth>
       <voltaFramePadding>0</voltaFramePadding>
@@ -42,10 +47,10 @@
       <ottavaFontStyle>2</ottavaFontStyle>
       <ottavaFramePadding>0</ottavaFramePadding>
       <ottavaFrameWidth>0</ottavaFrameWidth>
+      <tupletMaxSlope>0</tupletMaxSlope>
       <tupletFramePadding>0</tupletFramePadding>
       <tupletFrameWidth>0</tupletFrameWidth>
       <dynamicsPlacement>0</dynamicsPlacement>
-      <dynamicsPosAbove x="0" y="-2"></dynamicsPosAbove>
       <textLineFramePadding>0</textLineFramePadding>
       <textLineFrameWidth>0</textLineFrameWidth>
       <defaultFontSpatiumDependent>0</defaultFontSpatiumDependent>
@@ -91,7 +96,6 @@
       <tempoFrameRound>25</tempoFrameRound>
       <metronomeFramePadding>0</metronomeFramePadding>
       <metronomeFrameWidth>0</metronomeFrameWidth>
-      <measureNumberAlign>center,bottom</measureNumberAlign>
       <measureNumberFramePadding>0</measureNumberFramePadding>
       <measureNumberFrameWidth>0</measureNumberFrameWidth>
       <translatorAlign>center,top</translatorAlign>
@@ -102,7 +106,6 @@
       <systemFrameWidth>0</systemFrameWidth>
       <systemFrameRound>25</systemFrameRound>
       <staffAlign>left,top</staffAlign>
-      <staffPosAbove x="0" y="-4"></staffPosAbove>
       <staffFramePadding>0</staffFramePadding>
       <staffFrameWidth>0</staffFrameWidth>
       <staffFrameRound>25</staffFrameRound>
@@ -129,22 +132,24 @@
       <instrumentChangeAlign>left,bottom</instrumentChangeAlign>
       <instrumentChangeFramePadding>0</instrumentChangeFramePadding>
       <instrumentChangeFrameWidth>0</instrumentChangeFrameWidth>
-      <user1Name>Repeat Text</user1Name>
-      <user1FontSize>12</user1FontSize>
-      <user1Align>right,baseline</user1Align>
+      <user1Name>Work Title</user1Name>
+      <user1FontSize>14</user1FontSize>
+      <user1FontSpatiumDependent>0</user1FontSpatiumDependent>
+      <user1Align>center,top</user1Align>
       <user1FramePadding>0</user1FramePadding>
       <user1FrameWidth>0</user1FrameWidth>
-      <user2Name>Work Title</user2Name>
-      <user2FontSize>14</user2FontSize>
+      <user2Name>Movement Title</user2Name>
+      <user2FontSize>22</user2FontSize>
       <user2FontSpatiumDependent>0</user2FontSpatiumDependent>
       <user2Align>center,top</user2Align>
+      <user2Offset x="0" y="7"/>
       <user2FramePadding>0</user2FramePadding>
       <user2FrameWidth>0</user2FrameWidth>
       <user3Name>Movement Title</user3Name>
       <user3FontSize>24</user3FontSize>
       <user3FontSpatiumDependent>0</user3FontSpatiumDependent>
       <user3Align>center,top</user3Align>
-      <user3Offset x="0" y="10"></user3Offset>
+      <user3Offset x="0" y="10"/>
       <user3FramePadding>0</user3FramePadding>
       <user3FrameWidth>0</user3FrameWidth>
       <user4Name>Dynamics (Vocal Staff)</user4Name>
@@ -178,16 +183,16 @@
           <name>stdNormal</name>
           </StaffType>
         </Staff>
-      <trackName>Oboe</trackName>
-      <Instrument>
+      <trackName>Voice</trackName>
+      <Instrument id="voice">
         <longName>Singstimme
 <i>Voice</i></longName>
-        <trackName>Oboe</trackName>
-        <minPitchP>58</minPitchP>
-        <maxPitchP>96</maxPitchP>
-        <minPitchA>58</minPitchA>
-        <maxPitchA>87</maxPitchA>
-        <instrumentId>wind.reed.oboe</instrumentId>
+        <trackName>Voice</trackName>
+        <minPitchP>38</minPitchP>
+        <maxPitchP>84</maxPitchP>
+        <minPitchA>41</minPitchA>
+        <maxPitchA>79</maxPitchA>
+        <instrumentId>voice.vocals</instrumentId>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -229,9 +234,10 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <controller ctrl="0" value="0"></controller>
-          <controller ctrl="32" value="17"></controller>
-          <program value="68"></program>
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="68"/>
+          <controller ctrl="10" value="40"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -241,7 +247,7 @@
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
-        <bracket type="1" span="2" col="0"></bracket>
+        <bracket type="1" span="2" col="0"/>
         </Staff>
       <Staff id="3">
         <StaffType group="pitched">
@@ -250,7 +256,7 @@
         <defaultClef>F</defaultClef>
         </Staff>
       <trackName>Grand Piano</trackName>
-      <Instrument>
+      <Instrument id="grand-piano">
         <longName>Pianoforte</longName>
         <trackName>Grand Piano</trackName>
         <minPitchP>21</minPitchP>
@@ -288,44 +294,48 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <program value="0"></program>
+          <program value="0"/>
+          <controller ctrl="10" value="89"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
       <VBox>
-        <height>18</height>
-        <bottomGap>9</bottomGap>
+        <height>21</height>
+        <bottomGap>11.5</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
-          <style>User-2</style>
+          <style>User-1</style>
           <text>12 Gesänge, Op.1 </text>
           </Text>
         <Text>
           <style>User-3</style>
-          <offset x="0" y="6.5"></offset>
-          <text><font size="20"></font>4. &#34;Nun holt mir eine Kanne Wein&#34;
-<i><font size="15"></font>&#34;Go, fetch a flask of sparkling wine&#34;
-</i></text>
+          <size>20</size>
+          <offset x="0" y="8"/>
+          <text>4. “Nun holt mir eine Kanne Wein”
+<i><font size="18"></font>“Go, fetch a flask of sparkling wine”
+<font size="20"></font></i></text>
           </Text>
         <Text>
           <style>Composer</style>
-          <text><font size="11"></font>Robert  Franz</text>
+          <text>Robert  Franz</text>
           </Text>
         <Text>
           <style>Lyricist</style>
-          <offset x="0" y="0.67"></offset>
-          <text><font size="11"></font>Robert Burns
+          <offset x="0" y="2.68"/>
+          <text>Robert Burns
 (German text: Ferdinand Freiligrath)
 </text>
           </Text>
         </VBox>
       <HBox>
         <width>8</width>
+        <boxAutoSize>0</boxAutoSize>
         </HBox>
       <Measure len="1/8">
         <irregular>1</irregular>
-        <vspacerFixed>14.6784</vspacerFixed>
+        <vspacerFixed>11.9395</vspacerFixed>
         <voice>
           <KeySig>
             <accidental>-2</accidental>
@@ -341,7 +351,7 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <offset x="0" y="-1.24489"></offset>
+            <offset x="0" y="-0.95323"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -399,8 +409,8 @@
               <diagonal>1</diagonal>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-3"></offset>
-                <off2 x="0" y="-0.5"></off2>
+                <offset x="0" y="-2.29714"/>
+                <off2 x="0" y="-0.382857"/>
                 </Segment>
               </HairPin>
             <next>
@@ -668,8 +678,8 @@
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-2.46758"></offset>
-                <off2 x="2" y="0"></off2>
+                <offset x="0" y="-1.88946"/>
+                <off2 x="1.53143" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -727,7 +737,7 @@
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
-            <offset x="0" y="-1.24489"></offset>
+            <offset x="0" y="-0.95323"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -736,7 +746,7 @@
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>I&#39;ll</text>
+              <text>I'll</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -851,14 +861,13 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>11.5692</vspacerFixed>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text>weih&#39;n</text>
+              <text>weih’n</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -955,7 +964,6 @@
               </Note>
             </Chord>
           <Tuplet>
-            <direction>up</direction>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -963,6 +971,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -1003,7 +1012,7 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -1013,8 +1022,8 @@
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-3"></offset>
-                <off2 x="2" y="0"></off2>
+                <offset x="0" y="-2.29714"/>
+                <off2 x="1.53143" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -1082,7 +1091,7 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>12.9458</vspacerFixed>
+        <vspacerFixed>11.5128</vspacerFixed>
         <voice>
           <Rest>
             <durationType>quarter</durationType>
@@ -1096,7 +1105,7 @@
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
-            <offset x="0" y="-1.5"></offset>
+            <offset x="0" y="-1.14857"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -1156,7 +1165,7 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -1203,7 +1212,7 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -1241,7 +1250,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -1285,7 +1294,6 @@
       <Measure>
         <voice>
           <Tuplet>
-            <direction>up</direction>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -1293,6 +1301,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -1316,7 +1325,6 @@
               <veloChange>20</veloChange>
               <endText></endText>
               <lineVisible>0</lineVisible>
-              <beginFontSize>11</beginFontSize>
               </HairPin>
             <next>
               <location>
@@ -1343,9 +1351,8 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
-            <direction>up</direction>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -1353,6 +1360,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -1386,9 +1394,8 @@
               <tpc>7</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
-            <direction>up</direction>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -1396,6 +1403,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -1431,7 +1439,7 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -1451,8 +1459,8 @@
               <hairpinHeight>1.4</hairpinHeight>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-2.98379"></offset>
-                <off2 x="2" y="0"></off2>
+                <offset x="0" y="-2.28473"/>
+                <off2 x="1.53143" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -1596,8 +1604,7 @@
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="0" y="-1"></offset>
-            <direction>up</direction>
+            <offset x="0" y="-0.765714"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -1605,6 +1612,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -1658,7 +1666,7 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -1753,8 +1761,8 @@
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-3.5"></offset>
-                <off2 x="2" y="0"></off2>
+                <offset x="0" y="-2.68"/>
+                <off2 x="1.53143" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -1821,7 +1829,7 @@
             <velocity>49</velocity>
             <autoplace>0</autoplace>
             <minDistance>-999</minDistance>
-            <offset x="0.309726" y="-1.46396"></offset>
+            <offset x="0.237162" y="-1.12098"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1889,8 +1897,7 @@
           </LayoutBreak>
         <voice>
           <Tempo>
-            <tempo>1.66667</tempo>
-            <size>14</size>
+            <tempo>1.6666700000000001</tempo>
             <bold>0</bold>
             <italic>1</italic>
             <text>poco riten.</text>
@@ -1900,8 +1907,8 @@
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-3"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="-2.29714"/>
+                <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -1940,6 +1947,8 @@
             <tempo>1.5</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <family>FreeSerif</family>
+            <size>10</size>
             <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 90</b></text>
             </Tempo>
           <Chord>
@@ -1991,10 +2000,9 @@
             </Dynamic>
           <Tempo>
             <tempo>1.93333</tempo>
-            <size>14</size>
             <bold>0</bold>
             <italic>1</italic>
-            <offset x="-2.8" y="-2"></offset>
+            <offset x="-2.144" y="-1.53143"/>
             <text>a tempo</text>
             </Tempo>
           <Chord>
@@ -2133,7 +2141,7 @@
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text>Reih&#39;</text>
+              <text>Reih’</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -2281,8 +2289,8 @@
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-2.5"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="-1.91429"/>
+                <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -2379,11 +2387,10 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <hairpinHeight>1.3</hairpinHeight>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-2.5"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="-1.91429"/>
+                <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -2672,8 +2679,8 @@
               <hairpinHeight>1.4</hairpinHeight>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-3"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="-2.29714"/>
+                <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -2735,11 +2742,10 @@
             <HairPin>
               <subtype>1</subtype>
               <veloChange>20</veloChange>
-              <hairpinHeight>1.3</hairpinHeight>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-3"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="-2.29714"/>
+                <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -2797,7 +2803,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>s&#39;ist</text>
+              <text>s’ist</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -2840,7 +2846,6 @@
             <HairPin>
               <subtype>0</subtype>
               <veloChange>30</veloChange>
-              <hairpinHeight>1.3</hairpinHeight>
               </HairPin>
             <next>
               <location>
@@ -2864,7 +2869,7 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -2908,7 +2913,7 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -2956,7 +2961,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -2998,10 +3003,8 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerUp>17.5</vspacerUp>
         <voice>
           <Tuplet>
-            <direction>up</direction>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -3009,6 +3012,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -3030,14 +3034,13 @@
               <veloChange>20</veloChange>
               <endText></endText>
               <lineVisible>0</lineVisible>
-              <beginFontSize>11</beginFontSize>
               <beginText>cresc.  </beginText>
               <continueText>(cresc.)  </continueText>
               <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-3"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="-2.29714"/>
+                <off2 x="0" y="0"/>
                 <autoplace>0</autoplace>
                 </Segment>
               </HairPin>
@@ -3062,9 +3065,8 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
-            <direction>up</direction>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -3072,6 +3074,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -3107,9 +3110,8 @@
               <tpc>7</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
-            <direction>up</direction>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -3117,6 +3119,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -3151,7 +3154,7 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -3167,7 +3170,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <hairpinHeight>1.3</hairpinHeight>
               </HairPin>
             <next>
               <location>
@@ -3336,13 +3338,13 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <offset x="0" y="-1.7611"></offset>
+            <offset x="0" y="-1.3485"/>
             </Dynamic>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
-              <text>s&#39;ist</text>
+              <text>s’ist</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -3383,15 +3385,23 @@
             <velocity>80</velocity>
             </Dynamic>
           <Tempo>
-            <tempo>1.66667</tempo>
+            <tempo>1.6666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <family>FreeSerif</family>
+            <size>10</size>
+            <offset x="0.8" y="-5"/>
             <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 100</b></text>
             </Tempo>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
               <veloChange>30</veloChange>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-3"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -3451,10 +3461,12 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.58333</tempo>
+            <tempo>1.5833299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <offset x="0" y="-5"></offset>
+            <family>FreeSerif</family>
+            <size>10</size>
+            <offset x="0.8" y="-5"/>
             <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 95</b></text>
             </Tempo>
           <Spanner type="HairPin">
@@ -3504,8 +3516,8 @@
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-1.7" y="-3.5"></offset>
-                <off2 x="1.7" y="0"></off2>
+                <offset x="0" y="-3"/>
+                <off2 x="1.30171" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -3541,6 +3553,9 @@
             <tempo>1.5</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <family>FreeSerif</family>
+            <size>10</size>
+            <offset x="0.8" y="-5"/>
             <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 90</b></text>
             </Tempo>
           <Spanner type="HairPin">
@@ -3593,10 +3608,12 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.41667</tempo>
+            <tempo>1.4166700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <offset x="0" y="-4.5"></offset>
+            <family>FreeSerif</family>
+            <size>10</size>
+            <offset x="0.8" y="-5"/>
             <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 85</b></text>
             </Tempo>
           <Spanner type="HairPin">
@@ -3604,8 +3621,8 @@
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="6" y="-3.5"></offset>
-                <off2 x="-12" y="0"></off2>
+                <offset x="0" y="-3"/>
+                <off2 x="-9.18857" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -3641,9 +3658,11 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>1.33333</tempo>
+            <tempo>1.3333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
+            <offset x="0.8" y="-5"/>
             <text><sym>metNoteQuarterUp</sym> = 80</text>
             </Tempo>
           <Chord>
@@ -3689,6 +3708,7 @@
             <subtype>ppp</subtype>
             <velocity>20</velocity>
             <visible>0</visible>
+            <offset x="0" y="9.5"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -3709,7 +3729,6 @@
       </Staff>
     <Staff id="2">
       <Measure len="1/8">
-        <vspacerFixed>7.37561</vspacerFixed>
         <voice>
           <BarLine>
             <span>1</span>
@@ -3725,7 +3744,7 @@
             <subtype>f</subtype>
             <velocity>96</velocity>
             <placement>below</placement>
-            <offset x="0" y="4.5"></offset>
+            <offset x="0" y="3.44571"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -3741,6 +3760,12 @@
         </Measure>
       <Measure>
         <voice>
+          <Beam>
+            <Fragment>
+              <y1>-1.25</y1>
+              <y2>-2.25</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <dots>1</dots>
@@ -3748,7 +3773,8 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o3 x="3.27037" y="-2.95802"></o3>
+                  <o2 x="0" y="0.7"/>
+                  <o3 x="2.50417" y="-1.565"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -3784,10 +3810,9 @@
               <diagonal>1</diagonal>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="2.9"></offset>
-                <off2 x="0" y="-0.5"></off2>
+                <offset x="0" y="2.22057"/>
+                <off2 x="0" y="-0.382857"/>
                 <minDistance>0.616625</minDistance>
-                <offset x="0" y="2.9"></offset>
                 </Segment>
               </HairPin>
             <next>
@@ -4007,8 +4032,8 @@
               <placement>below</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4.09504"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="3.13563"/>
+                <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -4108,9 +4133,8 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="-0.1"></o1>
-                  <o4 x="-1.1" y="-0.2"></o4>
-                  <offset x="0" y="3.81"></offset>
+                  <o4 x="-0.612571" y="0.153143"/>
+                  <offset x="0" y="1.33234"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -4122,8 +4146,9 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="-0.8" y="0.2"></o4>
-                  <offset x="0" y="1.74"></offset>
+                  <o1 x="0" y="-0.0765714"/>
+                  <o4 x="-0.842286" y="-0.153143"/>
+                  <offset x="0" y="2.91737"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -4233,7 +4258,7 @@
             <subtype>mf</subtype>
             <velocity>80</velocity>
             <placement>below</placement>
-            <offset x="0" y="5"></offset>
+            <offset x="0" y="3.82857"/>
             </Dynamic>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -4265,7 +4290,7 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -4296,11 +4321,11 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
-            <p2 x="0" y="-0.6"></p2>
+            <p2 x="0" y="-0.1"/>
             <baseNote>eighth</baseNote>
             <Number>
               <style>Tuplet</style>
@@ -4331,7 +4356,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <BarLine>
             <span>1</span>
             </BarLine>
@@ -4345,7 +4370,6 @@
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
-            <p1 x="0" y="-0.3"></p1>
             <baseNote>eighth</baseNote>
             <Number>
               <style>Tuplet</style>
@@ -4373,12 +4397,12 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
-            <p1 x="0" y="0.1"></p1>
-            <p2 x="0" y="0.3"></p2>
+            <p1 x="0" y="0.2"/>
+            <p2 x="0" y="0.3"/>
             <baseNote>eighth</baseNote>
             <Number>
               <style>Tuplet</style>
@@ -4406,11 +4430,12 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
-            <p2 x="0" y="0.2"></p2>
+            <p1 x="0" y="0.1"/>
+            <p2 x="0" y="0.2"/>
             <baseNote>eighth</baseNote>
             <Number>
               <style>Tuplet</style>
@@ -4438,7 +4463,7 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <BarLine>
             <span>1</span>
             </BarLine>
@@ -4499,7 +4524,7 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -4531,7 +4556,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -4598,7 +4623,8 @@
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
-            <p2 x="0" y="0.4"></p2>
+            <p1 x="0" y="0.4"/>
+            <p2 x="0" y="0.4"/>
             <baseNote>eighth</baseNote>
             <Number>
               <style>Tuplet</style>
@@ -4606,7 +4632,7 @@
               </Number>
             </Tuplet>
           <Rest>
-            <offset x="0" y="2"></offset>
+            <offset x="0" y="1.53143"/>
             <durationType>quarter</durationType>
             </Rest>
           <Chord>
@@ -4614,14 +4640,15 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="-0.9"></o1>
-                  <o2 x="-7.76382e-19" y="-1.7"></o2>
-                  <o3 x="-7.76382e-19" y="-1.7"></o3>
-                  <o4 x="-0.223456" y="-1.80555"></o4>
-                  <offset x="0" y="-1.7"></offset>
+                  <o1 x="0" y="-0.689143"/>
+                  <o2 x="-5.94487e-19" y="0.69829"/>
+                  <o3 x="-5.94487e-19" y="0.69829"/>
+                  <o4 x="-0.171103" y="-1.38254"/>
+                  <offset x="0" y="-1.30171"/>
                   </SlurSegment>
                 <SlurSegment no="1">
-                  <offset x="-0.309726" y="-4.33616"></offset>
+                  <o4 x="0.2" y="0"/>
+                  <offset x="-0.237162" y="-4.62026"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -4636,7 +4663,7 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -4660,7 +4687,7 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <BarLine>
             <span>1</span>
             </BarLine>
@@ -4670,14 +4697,14 @@
             <fractions>1/4</fractions>
             </location>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
-            <offset x="0" y="1"></offset>
+            <offset x="0" y="0.765714"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -4691,16 +4718,16 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
-            <offset x="0.206484" y="1.16808"></offset>
+            <offset x="0.158108" y="0.894416"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -4714,7 +4741,7 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -4735,7 +4762,7 @@
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="-0.103242" y="0.929178"></offset>
+            <offset x="-0.0790539" y="0.711485"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -4765,7 +4792,7 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <BarLine>
             <span>1</span>
             </BarLine>
@@ -4774,7 +4801,6 @@
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
-            <p2 x="0" y="0.3"></p2>
             <baseNote>eighth</baseNote>
             <Number>
               <style>Tuplet</style>
@@ -4809,7 +4835,7 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -4860,10 +4886,10 @@
             <span>1</span>
             </BarLine>
           <Tuplet>
-            <numberType>2</numberType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -4886,9 +4912,9 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="-0.2" y="-1.2"></o1>
-                  <o4 x="-1.2389" y="2.78753"></o4>
-                  <offset x="0.51621" y="-2.47781"></offset>
+                  <o1 x="-0.153143" y="-0.918857"/>
+                  <o4 x="-0.948643" y="2.13445"/>
+                  <offset x="0.395269" y="-1.89729"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -4910,12 +4936,12 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
-            <numberType>2</numberType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -4937,9 +4963,9 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="-1"></o1>
-                  <o4 x="-0.103242" y="0.51621"></o4>
-                  <offset x="0.412968" y="-3.30374"></offset>
+                  <o1 x="0" y="-0.765714"/>
+                  <o4 x="-0.0790539" y="0.395269"/>
+                  <offset x="0.316215" y="-2.52972"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -4964,7 +4990,7 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Chord>
             <staffMove>1</staffMove>
             <durationType>eighth</durationType>
@@ -4986,9 +5012,10 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="-1.2389" y="-3.71671"></o1>
-                  <o4 x="-1.03242" y="0.722694"></o4>
+                  <o1 x="-0.948643" y="-3.64594"/>
+                  <o4 x="-0.790539" y="0.553377"/>
                   </SlurSegment>
+                <up>up</up>
                 </Slur>
               <next>
                 <location>
@@ -5035,33 +5062,25 @@
             <subtype>mf</subtype>
             <velocity>80</velocity>
             <placement>below</placement>
-            <offset x="0" y="5"></offset>
+            <offset x="0" y="3.82857"/>
             </Dynamic>
           <Tuplet>
-            <offset x="0" y="0.722694"></offset>
-            <numberType>2</numberType>
+            <offset x="0" y="0.553377"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
-              <prev>
-                <location>
-                  <measures>-1</measures>
-                  <fractions>5/8</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="0.9"></o1>
-                  <o2 x="-4.1" y="-0.9"></o2>
-                  <o3 x="5.1" y="0"></o3>
-                  <o4 x="-0.5" y="1.4"></o4>
-                  <offset x="-0.309726" y="-0.722694"></offset>
+                  <o1 x="0" y="0.689143"/>
+                  <o2 x="-3.13943" y="-0.689143"/>
+                  <o3 x="3.90514" y="0"/>
+                  <o4 x="-0.382857" y="1.072"/>
+                  <offset x="-0.237162" y="-0.553377"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -5070,6 +5089,14 @@
                   <fractions>1/2</fractions>
                   </location>
                 </next>
+              </Spanner>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  <fractions>5/8</fractions>
+                  </location>
+                </prev>
               </Spanner>
             <Note>
               <pitch>62</pitch>
@@ -5098,16 +5125,15 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <hairpinHeight>1.3</hairpinHeight>
               <placement>below</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4.5"></offset>
-                <off2 x="1.5" y="0"></off2>
+                <offset x="0" y="3.44571"/>
+                <off2 x="1.14857" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -5117,10 +5143,10 @@
               </next>
             </Spanner>
           <Tuplet>
-            <numberType>2</numberType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -5154,12 +5180,12 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
-            <numberType>2</numberType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -5200,7 +5226,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <BarLine>
             <span>1</span>
             </BarLine>
@@ -5209,7 +5235,6 @@
       <Measure>
         <voice>
           <Tuplet>
-            <direction>up</direction>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -5217,6 +5242,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -5246,7 +5272,7 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -5277,11 +5303,11 @@
               </Note>
             </Chord>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -5338,7 +5364,7 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <BarLine>
             <span>1</span>
             </BarLine>
@@ -5363,7 +5389,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <offset x="-0.309726" y="-1.44539"></offset>
+                  <offset x="-0.237162" y="-1.10676"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -5395,12 +5421,11 @@
               <veloChange>20</veloChange>
               <endText></endText>
               <lineVisible>0</lineVisible>
-              <beginFontSize>11</beginFontSize>
               <placement>below</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4.5"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="3.44571"/>
+                <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -5421,7 +5446,7 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -5469,7 +5494,7 @@
               <tpc>7</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -5515,7 +5540,7 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <BarLine>
             <span>1</span>
             </BarLine>
@@ -5532,7 +5557,7 @@
               </prev>
             </Spanner>
           <Tuplet>
-            <offset x="0" y="0.309726"></offset>
+            <offset x="0" y="0.237162"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -5570,7 +5595,7 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
@@ -5636,7 +5661,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -5696,8 +5721,8 @@
               <placement>below</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.08703"></offset>
-                <off2 x="2" y="0"></off2>
+                <offset x="0" y="2.36378"/>
+                <off2 x="1.53143" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -5750,32 +5775,32 @@
           </voice>
         <voice>
           <Rest>
-            <offset x="0" y="1"></offset>
+            <offset x="0" y="0.765714"/>
             <visible>0</visible>
             <durationType>eighth</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="1"></offset>
+            <offset x="0" y="0.765714"/>
             <visible>0</visible>
             <durationType>eighth</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="1"></offset>
+            <offset x="0" y="0.765714"/>
             <visible>0</visible>
             <durationType>eighth</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="1"></offset>
+            <offset x="0" y="0.765714"/>
             <visible>0</visible>
             <durationType>eighth</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="1"></offset>
+            <offset x="0" y="0.765714"/>
             <visible>0</visible>
             <durationType>eighth</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="1"></offset>
+            <offset x="0" y="0.765714"/>
             <visible>0</visible>
             <durationType>eighth</durationType>
             </Rest>
@@ -5792,8 +5817,8 @@
               <placement>below</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4.5"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="5"/>
+                <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -5837,8 +5862,8 @@
               <placement>below</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4.5"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="5"/>
+                <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -5895,8 +5920,8 @@
               <placement>below</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4.5"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="5"/>
+                <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -5952,7 +5977,7 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <placement>below</placement>
-            <offset x="0" y="6"></offset>
+            <offset x="0" y="4.59429"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -5974,8 +5999,7 @@
           <StaffText>
             <style>Expression</style>
             <placement>below</placement>
-            <size>14</size>
-            <offset x="2.7" y="4.5"></offset>
+            <offset x="2.46743" y="3.44571"/>
             <text>poco  riten.</text>
             </StaffText>
           <Chord>
@@ -6014,8 +6038,9 @@
               <placement>below</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-0.206484" y="5.43571"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="1.84189" y="3.7622"/>
+                <off2 x="-2" y="0"/>
+                <autoplace>0</autoplace>
                 </Segment>
               </HairPin>
             <next>
@@ -6028,7 +6053,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <up>down</up>
                 </Slur>
               <next>
                 <location>
@@ -6036,19 +6060,6 @@
                   </location>
                 </next>
               </Spanner>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/4</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              </Note>
             <Note>
               <Accidental>
                 <role>1</role>
@@ -6086,13 +6097,6 @@
                   </location>
                 </prev>
               </Spanner>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/4</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
@@ -6108,20 +6112,22 @@
             <subtype>f</subtype>
             <velocity>96</velocity>
             <placement>below</placement>
-            <offset x="0" y="5"></offset>
+            <offset x="0" y="4.82857"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="-0.7"></o4>
+                  <o4 x="0" y="-0.536"/>
                   </SlurSegment>
                 <SlurSegment no="1">
-                  <o1 x="0" y="-1.1"></o1>
-                  <o3 x="0" y="-0.5"></o3>
-                  <offset x="0" y="-0.3"></offset>
+                  <o1 x="0" y="-0.842286"/>
+                  <o2 x="0" y="-1.1"/>
+                  <o3 x="0" y="-1.48286"/>
+                  <offset x="0" y="-0.729714"/>
                   </SlurSegment>
+                <up>up</up>
                 </Slur>
               <next>
                 <location>
@@ -6140,16 +6146,49 @@
             </BarLine>
           </voice>
         <voice>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <SlurSegment no="0">
+                  <offset x="0" y="-0.1"/>
+                  </SlurSegment>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Note>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <offset x="0" y="4"/>
+            <visible>0</visible>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <offset x="0" y="4"/>
+            <visible>0</visible>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -6161,6 +6200,11 @@
             <HairPin>
               <subtype>0</subtype>
               <placement>below</placement>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="3.43184"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -6385,9 +6429,9 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="0.5"></o1>
-                  <o4 x="0" y="-0.9"></o4>
-                  <offset x="0" y="-0.7"></offset>
+                  <o1 x="0" y="0.382857"/>
+                  <o4 x="0" y="-0.689143"/>
+                  <offset x="0" y="-0.536"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -6408,12 +6452,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <hairpinHeight>1.3</hairpinHeight>
               <placement>below</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"></offset>
-                <off2 x="-2" y="0"></off2>
+                <offset x="0" y="2.68"/>
+                <off2 x="-1.53143" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -6489,9 +6532,6 @@
               <pitch>79</pitch>
               <tpc>15</tpc>
               </Note>
-            <Arpeggio>
-              <subtype>0</subtype>
-              </Arpeggio>
             </Chord>
           <BarLine>
             <span>1</span>
@@ -6515,10 +6555,10 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="-0.4" y="-0.3"></o1>
-                  <o4 x="-1.8" y="-0.5"></o4>
+                  <o1 x="-0.306286" y="-0.229714"/>
+                  <o4 x="-1.37829" y="-0.382857"/>
                   <autoplace>0</autoplace>
-                  <offset x="0.52" y="3.98"></offset>
+                  <offset x="0.398171" y="3.04754"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -6531,8 +6571,8 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0.4" y="0"></o1>
-                  <offset x="-0.309726" y="1.03242"></offset>
+                  <o1 x="0.306286" y="0"/>
+                  <offset x="-0.237162" y="0.790539"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -6651,9 +6691,9 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="0.8"></o1>
-                  <o3 x="1.7" y="-0.6"></o3>
-                  <offset x="0" y="-0.6"></offset>
+                  <o1 x="0" y="0.612571"/>
+                  <o3 x="1.30171" y="-0.459429"/>
+                  <offset x="0" y="-0.459429"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -6680,8 +6720,8 @@
               <diagonal>1</diagonal>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"></offset>
-                <off2 x="2" y="-0.5"></off2>
+                <offset x="0" y="4.06286"/>
+                <off2 x="1.53143" y="-0.382857"/>
                 </Segment>
               </HairPin>
             <next>
@@ -6773,7 +6813,6 @@
       <Measure>
         <voice>
           <Tuplet>
-            <direction>up</direction>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -6781,6 +6820,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>down</direction>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -6838,7 +6878,7 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -7110,7 +7150,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -7203,8 +7243,8 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="1.2" y="1.2"></o1>
-                  <offset x="0" y="-0.9"></offset>
+                  <o1 x="0.918857" y="0.918857"/>
+                  <offset x="0" y="-0.689143"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -7231,9 +7271,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <BarLine>
-            <span>1</span>
+            <spanToOffset>9</spanToOffset>
             </BarLine>
           </voice>
         </Measure>
@@ -7244,7 +7284,10 @@
             <velocity>96</velocity>
             <placement>below</placement>
             <minDistance>-0.168036</minDistance>
-            <offset x="0" y="7.75585"></offset>
+            <offset x="-2" y="5.93877"/>
+            <frameType>1</frameType>
+            <frameFgColor r="255" g="255" b="255" a="255"/>
+            <frameBgColor r="255" g="255" b="255" a="255"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -7253,9 +7296,9 @@
               <placement>below</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="6.64855"></offset>
-                <off2 x="0" y="0"></off2>
-                <minDistance>0.0926944</minDistance>
+                <offset x="0" y="6"/>
+                <off2 x="0" y="0"/>
+                <minDistance>0.215612</minDistance>
                 </Segment>
               </HairPin>
             <next>
@@ -7295,7 +7338,7 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -7323,6 +7366,28 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/12</fractions>
+            </location>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>1</subtype>
+              <placement>below</placement>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="6"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <fractions>1/6</fractions>
+                </location>
+              </next>
+            </Spanner>
+          <location>
+            <fractions>1/12</fractions>
+            </location>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -7334,9 +7399,16 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <fractions>-1/6</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Tuplet>
-            <offset x="0" y="0.825936"></offset>
+            <offset x="0" y="0.632431"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -7378,21 +7450,21 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <BarLine>
             <span>1</span>
             </BarLine>
           </voice>
         <voice>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
-            <offset x="0" y="4"></offset>
+            <offset x="0" y="4.06286"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -7402,35 +7474,18 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
-            <offset x="0" y="4"></offset>
+            <offset x="0" y="3.06286"/>
             <durationType>eighth</durationType>
             </Rest>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>1</subtype>
-              <veloChange>10</veloChange>
-              <placement>below</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-1" y="7.10268"></offset>
-                <off2 x="1" y="0"></off2>
-                </Segment>
-              </HairPin>
-            <next>
-              <location>
-                <fractions>1/6</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -7442,27 +7497,20 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <fractions>-1/6</fractions>
-                </location>
-              </prev>
-            </Spanner>
+          <endTuplet/>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
-            <offset x="0" y="4"></offset>
+            <offset x="0" y="4.06286"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
-            <offset x="-0.5" y="0"></offset>
+            <offset x="-0.5" y="0"/>
             <durationType>quarter</durationType>
             <Note>
               <pitch>62</pitch>
@@ -7473,20 +7521,19 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>9.71073</vspacerDown>
         <voice>
           <BarLine>
             <span>1</span>
             </BarLine>
           <Tuplet>
-            <numberType>2</numberType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -7501,9 +7548,9 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="-0.670368" y="-2.12283"></o1>
-                  <o4 x="-1.2389" y="2.78753"></o4>
-                  <offset x="0.51621" y="-2.47781"></offset>
+                  <o1 x="-0.51331" y="-2.32548"/>
+                  <o4 x="-0.948643" y="2.13445"/>
+                  <offset x="0.395269" y="-1.89729"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -7524,9 +7571,8 @@
               <placement>below</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-1" y="2.8"></offset>
-                <off2 x="2" y="0"></off2>
-                <minDistance>0.595813</minDistance>
+                <offset x="-0.765714" y="3.38031"/>
+                <off2 x="1.53143" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -7543,17 +7589,17 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
-            <numberType>2</numberType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
             </Tuplet>
           <Beam>
             <Fragment>
-              <y1>9.35537</y1>
-              <y2>10.3554</y2>
+              <y1>8.91354</y1>
+              <y2>9.67928</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -7576,10 +7622,13 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="-1.56419"></o1>
-                  <o4 x="-0.103242" y="0.51621"></o4>
-                  <offset x="0.412968" y="-3.30374"></offset>
+                  <o1 x="0" y="0.3"/>
+                  <o2 x="2.92285e-18" y="-0.2"/>
+                  <o3 x="2.92285e-18" y="-0.2"/>
+                  <o4 x="-0.0790539" y="0.395269"/>
+                  <offset x="0.316215" y="-0.32972"/>
                   </SlurSegment>
+                <up>down</up>
                 </Slur>
               <next>
                 <location>
@@ -7603,7 +7652,7 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -7632,11 +7681,12 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="-1.2389" y="-3.71671"></o1>
-                  <o2 x="-0.6" y="-0.8"></o2>
-                  <o3 x="-0.6" y="-0.5"></o3>
-                  <o4 x="-1.03242" y="0.522694"></o4>
+                  <o1 x="-0.948643" y="-3.84594"/>
+                  <o2 x="0.040571" y="-0.612571"/>
+                  <o3 x="0.040571" y="-0.382857"/>
+                  <o4 x="-0.790539" y="0.400234"/>
                   </SlurSegment>
+                <up>up</up>
                 </Slur>
               <next>
                 <location>
@@ -7684,14 +7734,14 @@
             <subtype>mf</subtype>
             <velocity>80</velocity>
             <placement>below</placement>
-            <offset x="0" y="6"></offset>
+            <offset x="0" y="4.59429"/>
             </Dynamic>
           <Tuplet>
-            <offset x="0" y="0.722694"></offset>
-            <numberType>2</numberType>
+            <offset x="0" y="0.553377"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -7706,7 +7756,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <offset x="-0.309726" y="-0.722694"></offset>
+                  <offset x="-0.237162" y="-0.553377"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -7740,8 +7790,8 @@
               <placement>below</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="5.5"></offset>
-                <off2 x="2" y="0"></off2>
+                <offset x="0" y="4.21143"/>
+                <off2 x="1.53143" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -7761,12 +7811,12 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
-            <numberType>2</numberType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -7800,7 +7850,7 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -7809,10 +7859,10 @@
               </prev>
             </Spanner>
           <Tuplet>
-            <numberType>2</numberType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -7857,7 +7907,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <BarLine>
             <span>1</span>
             </BarLine>
@@ -7866,11 +7916,11 @@
       <Measure>
         <voice>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -7893,8 +7943,8 @@
               <placement>below</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"></offset>
-                <off2 x="-7" y="0"></off2>
+                <offset x="0" y="2.68"/>
+                <off2 x="-5.36" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -7935,7 +7985,7 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -7993,11 +8043,11 @@
               </next>
             </Spanner>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -8046,7 +8096,7 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <BarLine>
             <span>1</span>
             </BarLine>
@@ -8066,21 +8116,21 @@
               </prev>
             </Spanner>
           <Tuplet>
-            <numberType>2</numberType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="1.1"></o1>
-                  <o2 x="0" y="-1.7"></o2>
-                  <o3 x="0" y="-1.7"></o3>
-                  <o4 x="-0.1" y="1.6"></o4>
-                  <offset x="-0.309726" y="-0.825936"></offset>
+                  <o1 x="0" y="0.842286"/>
+                  <o2 x="0" y="-1.30171"/>
+                  <o3 x="0" y="-1.30171"/>
+                  <o4 x="-0.0765714" y="1.22514"/>
+                  <offset x="-0.237162" y="-0.632431"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -8112,13 +8162,12 @@
               <veloChange>20</veloChange>
               <endText></endText>
               <lineVisible>0</lineVisible>
-              <beginFontSize>11</beginFontSize>
               <placement>below</placement>
               <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-0.103242" y="4.60324"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="-0.0790539" y="4.52477"/>
+                <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -8139,12 +8188,12 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
-            <numberType>2</numberType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -8184,12 +8233,12 @@
               <tpc>7</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
-            <numberType>2</numberType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -8227,7 +8276,7 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <BarLine>
             <span>1</span>
             </BarLine>
@@ -8244,10 +8293,10 @@
               </prev>
             </Spanner>
           <Tuplet>
-            <numberType>2</numberType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -8266,8 +8315,8 @@
               <placement>below</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-0.4" y="3.9"></offset>
-                <off2 x="0.4" y="0"></off2>
+                <offset x="-0.306286" y="3.98629"/>
+                <off2 x="0.306286" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -8294,12 +8343,12 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
-            <numberType>2</numberType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -8337,7 +8386,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Dynamic>
             <subtype>mp</subtype>
             <velocity>64</velocity>
@@ -8636,12 +8685,12 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="1"></offset>
+            <offset x="0" y="0.765714"/>
             <visible>0</visible>
             <durationType>eighth</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="1"></offset>
+            <offset x="0" y="0.765714"/>
             <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
@@ -8653,7 +8702,7 @@
             <subtype>mf</subtype>
             <velocity>80</velocity>
             <placement>below</placement>
-            <offset x="0" y="5.34215"></offset>
+            <offset x="0" y="4.09056"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -8661,8 +8710,8 @@
               <placement>below</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="3" y="5.5"></offset>
-                <off2 x="-0.2" y="0"></off2>
+                <offset x="2.3" y="5"/>
+                <off2 x="-0.153143" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -8739,8 +8788,8 @@
               <placement>below</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="3" y="5.5"></offset>
-                <off2 x="-3" y="0"></off2>
+                <offset x="2.3" y="5"/>
+                <off2 x="-2.29714" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -8755,9 +8804,9 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o2 x="0" y="-0.7"></o2>
-                  <o3 x="0" y="-0.7"></o3>
-                  <o4 x="-0.7" y="0.4"></o4>
+                  <o2 x="0" y="-0.536"/>
+                  <o3 x="0" y="-0.536"/>
+                  <o4 x="-0.536" y="0.306286"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -8815,8 +8864,9 @@
               <placement>below</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="2" y="3.5"></offset>
-                <off2 x="-6" y="0"></off2>
+                <offset x="2.3" y="5"/>
+                <off2 x="-4.59429" y="0"/>
+                <minDistance>0.0031592</minDistance>
                 </Segment>
               </HairPin>
             <next>
@@ -9042,8 +9092,8 @@
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="2.68"/>
+                <off2 x="0" y="0"/>
                 </Segment>
               </Pedal>
             <next>
@@ -9078,8 +9128,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.3" y="0"></o1>
-                    <o4 x="-0.2" y="0"></o4>
+                    <o1 x="0.229714" y="0"/>
+                    <o4 x="-0.153143" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -9281,11 +9331,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.7" y="-0.3"></o4>
-                  <offset x="0.607306" y="-2.12557"></offset>
-                  </SlurSegment>
-                <up>down</up>
                 </Slur>
               <next>
                 <location>
@@ -9296,10 +9341,10 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="1.34074" y="0.711728"></o1>
-                  <o4 x="-0.857078" y="-0.117808"></o4>
+                  <o1 x="1.02662" y="0.54498"/>
+                  <o4 x="-0.656277" y="-0.0902073"/>
                   <autoplace>0</autoplace>
-                  <offset x="0" y="2"></offset>
+                  <offset x="0" y="1.53143"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -9311,6 +9356,11 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o4 x="-0.536" y="-0.229714"/>
+                  <offset x="0.465023" y="-1.62758"/>
+                  </SlurSegment>
+                <up>down</up>
                 </Slur>
               <next>
                 <location>
@@ -9636,11 +9686,11 @@
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
-              <endTextOffset x="0" y="-4.35"></endTextOffset>
+              <endTextOffset x="0" y="-4.35"/>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"></offset>
-                <off2 x="6" y="0"></off2>
+                <offset x="0" y="3.06286"/>
+                <off2 x="4.59429" y="0"/>
                 </Segment>
               </Pedal>
             <next>
@@ -9655,8 +9705,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"></o1>
-                    <o4 x="-0.2" y="0"></o4>
+                    <o1 x="0.153143" y="0"/>
+                    <o4 x="-0.153143" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -9672,8 +9722,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.6" y="0"></o1>
-                    <o4 x="-0.2" y="0"></o4>
+                    <o1 x="0.459429" y="0"/>
+                    <o4 x="-0.153143" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -9712,11 +9762,11 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="4"></offset>
+            <offset x="0" y="3.06286"/>
             <durationType>eighth</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="4"></offset>
+            <offset x="0" y="3.06286"/>
             <durationType>quarter</durationType>
             </Rest>
           </voice>
@@ -9735,9 +9785,10 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o2 x="0" y="0.4"></o2>
-                  <o3 x="1.5" y="2.01945"></o3>
-                  <offset x="-0.309726" y="0.929178"></offset>
+                  <o2 x="0" y="0.306286"/>
+                  <o3 x="1.14857" y="2.14632"/>
+                  <o4 x="0" y="0.3"/>
+                  <offset x="-0.237162" y="0.711485"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -9767,16 +9818,16 @@
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="-0.1" y="0.26"></offset>
-            <direction>down</direction>
+            <offset x="-0.0765714" y="0.199086"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
-            <p2 x="0" y="-0.2"></p2>
+            <p2 x="0" y="-0.9"/>
             <baseNote>eighth</baseNote>
             <Number>
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>down</direction>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -9800,7 +9851,7 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -9812,8 +9863,8 @@
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="5"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="4.92857"/>
+                <off2 x="0" y="0"/>
                 <autoplace>0</autoplace>
                 </Segment>
               </Pedal>
@@ -9860,7 +9911,7 @@
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="0" y="-0.5"></offset>
+            <offset x="0" y="-0.88"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -9868,6 +9919,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <minDistance>0.425979</minDistance>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -9916,7 +9968,7 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -9999,8 +10051,8 @@
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-1" y="4"></offset>
-                <off2 x="4" y="0"></off2>
+                <offset x="-0.765714" y="3.06286"/>
+                <off2 x="3.06286" y="0"/>
                 </Segment>
               </Pedal>
             <next>
@@ -10093,7 +10145,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="1">
-                  <offset x="0" y="0.5"></offset>
+                  <offset x="0" y="0.382857"/>
                   </SlurSegment>
                 <up>down</up>
                 </Slur>
@@ -10167,7 +10219,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0.2" y="0.2"></o1>
+                  <o1 x="0.153143" y="0.153143"/>
                   </SlurSegment>
                 <up>down</up>
                 </Slur>
@@ -10266,7 +10318,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <offset x="-0.103242" y="-1.75511"></offset>
+                  <offset x="-0.0790539" y="-1.34391"/>
                   </SlurSegment>
                 <up>down</up>
                 </Slur>
@@ -10331,8 +10383,10 @@
             </Rest>
           <StaffText>
             <style>Expression</style>
-            <size>14</size>
-            <offset x="-2.5" y="-2.5"></offset>
+            <offset x="-1.91429" y="-1.91429"/>
+            <frameType>1</frameType>
+            <frameFgColor r="255" g="255" b="255" a="255"/>
+            <frameBgColor r="255" g="255" b="255" a="255"/>
             <text>a tempo</text>
             </StaffText>
           <Chord>
@@ -10340,13 +10394,13 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="0.1"></o4>
-                  <offset x="0" y="0.5"></offset>
+                  <o4 x="0" y="0.0765714"/>
+                  <offset x="0" y="0.382857"/>
                   </SlurSegment>
                 <SlurSegment no="1">
-                  <o1 x="0" y="2.6"></o1>
-                  <o2 x="5.8457e-18" y="0.8"></o2>
-                  <o3 x="5.8457e-18" y="0.8"></o3>
+                  <o1 x="0" y="1.99086"/>
+                  <o2 x="4.47614e-18" y="0.612571"/>
+                  <o3 x="4.47614e-18" y="0.612571"/>
                   </SlurSegment>
                 <up>down</up>
                 </Slur>
@@ -10497,8 +10551,8 @@
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="2.5"></offset>
-                <off2 x="4" y="0"></off2>
+                <offset x="0" y="1.91429"/>
+                <off2 x="3.06286" y="0"/>
                 </Segment>
               </Pedal>
             <next>
@@ -10534,8 +10588,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.5" y="0"></o1>
-                    <o4 x="-0.3" y="0"></o4>
+                    <o1 x="0.382857" y="0"/>
+                    <o4 x="-0.229714" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -10551,7 +10605,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"></o1>
+                    <o1 x="0.0765714" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -10620,7 +10674,10 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="0.9"></o4>
+                  <o4 x="0" y="0.689143"/>
+                  </SlurSegment>
+                <SlurSegment no="1">
+                  <offset x="0" y="-0.4"/>
                   </SlurSegment>
                 <up>down</up>
                 </Slur>
@@ -10722,8 +10779,8 @@
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4.5"></offset>
-                <off2 x="-1.2" y="0"></off2>
+                <offset x="0" y="3.94571"/>
+                <off2 x="-0.918857" y="0"/>
                 <autoplace>0</autoplace>
                 </Segment>
               </Pedal>
@@ -10745,9 +10802,9 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="1" y="0"></o1>
-                  <o4 x="-1.4" y="-0.7"></o4>
-                  <offset x="0.151827" y="2.58105"></offset>
+                  <o1 x="0.765714" y="0"/>
+                  <o4 x="-1.072" y="-0.536"/>
+                  <offset x="0.116256" y="1.97635"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -10760,9 +10817,9 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="1.4" y="-0.4"></o1>
-                  <o4 x="-0.7" y="-0.3"></o4>
-                  <offset x="-0.309726" y="1.03242"></offset>
+                  <o1 x="1.072" y="-0.306286"/>
+                  <o4 x="-0.536" y="-0.229714"/>
+                  <offset x="-0.237162" y="0.790539"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -10825,8 +10882,8 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -10835,8 +10892,8 @@
         <voice>
           <Beam>
             <Fragment>
-              <y1>5.75</y1>
-              <y2>4.75</y2>
+              <y1>4.40286</y1>
+              <y2>3.63714</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -10934,11 +10991,11 @@
       <Measure>
         <voice>
           <Tuplet>
-            <direction>up</direction>
-            <numberType>2</numberType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <direction>up</direction>
+            <numberType>2</numberType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -10997,7 +11054,7 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Spanner type="Pedal">
             <Pedal>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
@@ -11029,8 +11086,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"></o1>
-                    <o4 x="-0.2" y="0"></o4>
+                    <o1 x="0.153143" y="0"/>
+                    <o4 x="-0.153143" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -11046,7 +11103,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <offset x="0" y="-0.2"></offset>
+                    <offset x="0" y="-0.153143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -11197,9 +11254,8 @@
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.02043"></offset>
-                <off2 x="0" y="0"></off2>
-                <minDistance>-3.3</minDistance>
+                <offset x="0" y="3.01279"/>
+                <off2 x="0" y="0"/>
                 <autoplace>0</autoplace>
                 </Segment>
               </Pedal>
@@ -11228,11 +11284,11 @@
               </Note>
             </Chord>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -11277,13 +11333,13 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -11311,25 +11367,29 @@
               </Note>
             <Arpeggio>
               <subtype>0</subtype>
+              <userLen2>6</userLen2>
               </Arpeggio>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
+          <BarLine>
+            </BarLine>
           </voice>
         <voice>
           <location>
             <fractions>1/2</fractions>
             </location>
           <Tuplet>
-            <offset x="-0.309726" y="0.815729"></offset>
+            <offset x="0" y="0.752535"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
-            <p1 x="0.722694" y="0.687032"></p1>
-            <p2 x="-0.51621" y="-1.34215"></p2>
+            <p1 x="0.722694" y="-1.31297"/>
+            <p2 x="-0.51621" y="-1.34215"/>
             <baseNote>eighth</baseNote>
             <Number>
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <minDistance>-0.124615</minDistance>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -11345,11 +11405,12 @@
               <tpc>16</tpc>
               </Note>
             <Arpeggio>
+              <visible>0</visible>
               <subtype>0</subtype>
-              <userLen1>4.3726</userLen1>
+              <userLen1>3.34816</userLen1>
               </Arpeggio>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -11413,7 +11474,7 @@
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
-              <endTextOffset x="0" y="-2.85"></endTextOffset>
+              <endTextOffset x="0" y="-2.85"/>
               </Pedal>
             <next>
               <location>
@@ -11427,7 +11488,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.2" y="0"></o4>
+                    <o4 x="-0.153143" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -11443,8 +11504,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.5" y="0"></o1>
-                    <o4 x="-0.3" y="0"></o4>
+                    <o1 x="0.382857" y="0"/>
+                    <o4 x="-0.229714" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -11483,11 +11544,11 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="4"></offset>
+            <offset x="0" y="3.06286"/>
             <durationType>eighth</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="4"></offset>
+            <offset x="0" y="3.06286"/>
             <durationType>quarter</durationType>
             </Rest>
           </voice>
@@ -11506,8 +11567,8 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o3 x="0" y="0.619452"></o3>
-                  <offset x="-0.309726" y="0.929178"></offset>
+                  <o3 x="0" y="1.27432"/>
+                  <offset x="-0.237162" y="0.711485"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -11537,15 +11598,16 @@
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="-0.1" y="-0.24"></offset>
-            <direction>down</direction>
+            <offset x="-0.0765714" y="-0.183771"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
+            <p2 x="0" y="-0.9"/>
             <baseNote>eighth</baseNote>
             <Number>
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>down</direction>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -11569,7 +11631,7 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -11581,9 +11643,8 @@
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4.86444"></offset>
-                <off2 x="0" y="0"></off2>
-                <minDistance>0.66419</minDistance>
+                <offset x="0" y="4.72477"/>
+                <off2 x="0" y="0"/>
                 <autoplace>0</autoplace>
                 </Segment>
               </Pedal>
@@ -11630,16 +11691,16 @@
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="0" y="-1"></offset>
-            <direction>up</direction>
+            <offset x="0" y="-0.765714"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
-            <p1 x="0" y="0.6"></p1>
+            <p1 x="0" y="0.6"/>
             <baseNote>eighth</baseNote>
             <Number>
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -11698,7 +11759,7 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -11837,11 +11898,11 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="1" y="-0.6"></o1>
-                    <o2 x="0" y="0.2"></o2>
-                    <o3 x="0" y="0.2"></o3>
-                    <o4 x="-0.1" y="-0.4"></o4>
-                    <offset x="-0.206484" y="0.619452"></offset>
+                    <o1 x="0.765714" y="-0.459429"/>
+                    <o2 x="0" y="0.153143"/>
+                    <o3 x="0" y="0.153143"/>
+                    <o4 x="-0.0765714" y="-0.306286"/>
+                    <offset x="-0.158108" y="0.474323"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -11865,11 +11926,11 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="-0.3" y="0"></o1>
-                  <o2 x="0" y="-0.6"></o2>
-                  <o3 x="0" y="-0.6"></o3>
-                  <o4 x="-1" y="0.8"></o4>
-                  <offset x="0" y="0.3"></offset>
+                  <o1 x="-0.229714" y="0"/>
+                  <o2 x="0" y="-0.459429"/>
+                  <o3 x="0" y="-0.459429"/>
+                  <o4 x="-0.765714" y="0.612571"/>
+                  <offset x="0" y="0.229714"/>
                   </SlurSegment>
                 <up>down</up>
                 </Slur>
@@ -12088,7 +12149,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="-0.6" y="-0.1"></o4>
+                  <o4 x="-0.459429" y="-0.0765714"/>
                   </SlurSegment>
                 <up>down</up>
                 </Slur>
@@ -12133,8 +12194,8 @@
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4.5"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="3.44571"/>
+                <off2 x="0" y="0"/>
                 </Segment>
               </Pedal>
             <next>

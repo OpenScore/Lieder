@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -10,6 +10,7 @@
       <pageWidth>8.27008</pageWidth>
       <pageHeight>11.6902</pageHeight>
       <pagePrintableWidth>7.48268</pagePrintableWidth>
+      <staffLowerBorder>5</staffLowerBorder>
       <maxSystemDistance>25</maxSystemDistance>
       <enableVerticalSpread>1</enableVerticalSpread>
       <lyricsMinDistance>0.25</lyricsMinDistance>
@@ -110,8 +111,8 @@
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.1</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
-    <showUnprintable>0</showUnprintable>
+    <showInvisible>1</showInvisible>
+    <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger">Transcribed from IMSLP #578230. Source: https://imslp.org/wiki/Special:ReverseLookup/578230</metaTag>
@@ -311,7 +312,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.6</tempo>
+            <tempo>1.6000000000000001</tempo>
             <text>Andante con moto</text>
             </Tempo>
           <Rest>
@@ -380,7 +381,7 @@
             <fractions>-3/8</fractions>
             </location>
           <Tempo>
-            <tempo>1.33333</tempo>
+            <tempo>1.3333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 80</text>
@@ -394,7 +395,7 @@
             <text>Chant / <i>Voice</i></text>
             </StaffText>
           <Tempo>
-            <tempo>1.6</tempo>
+            <tempo>1.6000000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 96</b></text>
@@ -595,7 +596,7 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-4.4"/>
+                <offset x="0" y="-3.9"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -634,8 +635,9 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o3 x="-2.94796" y="-1.02538"/>
-                  <o4 x="-1.02538" y="-2.05075"/>
+                  <o2 x="3.56056e-18" y="0.4"/>
+                  <o3 x="-2.94796" y="-0.62538"/>
+                  <o4 x="-1.02538" y="-1.65075"/>
                   <autoplace>0</autoplace>
                   </SlurSegment>
                 </Slur>
@@ -1917,7 +1919,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.6</tempo>
+            <tempo>1.6000000000000001</tempo>
             <size>10</size>
             <bold>0</bold>
             <text>a Tempo</text>
@@ -1946,7 +1948,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>1.6</tempo>
+            <tempo>1.6000000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 96</b></text>
@@ -2863,7 +2865,7 @@
             <text>Pour finir</text>
             </StaffText>
           <Tempo>
-            <tempo>1.33333</tempo>
+            <tempo>1.3333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-0.640861" y="-4.69161"/>
@@ -2902,7 +2904,7 @@
             <fractions>-3/8</fractions>
             </location>
           <Tempo>
-            <tempo>1.16667</tempo>
+            <tempo>1.1666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0.128172" y="-4.81979"/>
@@ -2946,6 +2948,7 @@
         <width>13.7303</width>
         <Text>
           <style>Frame</style>
+          <size>8</size>
           <text>2<sup>e</sup> Couplet
 <i>Verse 2</i></text>
           </Text>
@@ -2958,7 +2961,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.6</tempo>
+            <tempo>1.6000000000000001</tempo>
             <followText>1</followText>
             <linkedMain/>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 96</b></text>
@@ -2980,7 +2983,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.6</tempo>
+            <tempo>1.6000000000000001</tempo>
             <followText>1</followText>
             <linked>
               <indexDiff>-2</indexDiff>
@@ -4537,7 +4540,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>1.6</tempo>
+            <tempo>1.6000000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 96</b></text>
@@ -4766,6 +4769,7 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerFixed>14.0525</vspacerFixed>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -5390,7 +5394,7 @@
             <text>a Tempo</text>
             </StaffText>
           <Tempo>
-            <tempo>1.6</tempo>
+            <tempo>1.6000000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 96</b></text>
@@ -5431,6 +5435,7 @@
         <width>14.3071</width>
         <Text>
           <style>Frame</style>
+          <size>8</size>
           <text>3<sup>e</sup> Couplet
 <i>Verse 3</i></text>
           </Text>
@@ -5443,7 +5448,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.6</tempo>
+            <tempo>1.6000000000000001</tempo>
             <followText>1</followText>
             <linkedMain/>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 96</b></text>
@@ -5465,7 +5470,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.6</tempo>
+            <tempo>1.6000000000000001</tempo>
             <followText>1</followText>
             <linked>
               <indexDiff>-2</indexDiff>
@@ -7030,7 +7035,7 @@
             <text>a Tempo</text>
             </StaffText>
           <Tempo>
-            <tempo>1.6</tempo>
+            <tempo>1.6000000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-3.831"/>
@@ -7951,7 +7956,7 @@
             <text>a Tempo</text>
             </StaffText>
           <Tempo>
-            <tempo>1.6</tempo>
+            <tempo>1.6000000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="2.11484" y="-6.13021"/>
@@ -16842,6 +16847,7 @@ C instead B
           </voice>
         </Measure>
       <Measure>
+        <vspacerFixed>14.2082</vspacerFixed>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>

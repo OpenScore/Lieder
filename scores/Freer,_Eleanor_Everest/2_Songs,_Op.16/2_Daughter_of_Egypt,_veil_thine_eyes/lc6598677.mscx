@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -119,7 +119,7 @@
     <metaTag name="movementTitle">Daughter of Egypt, veil thine eyes</metaTag>
     <metaTag name="platform"></metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">http://musescore.com/scores/freer-eleanor-everest/2-songs-op16-57136448003321</metaTag>
+    <metaTag name="source">http://musescore.com/user/27638568/scores/6598677</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">2 Songs, Op.16</metaTag>
@@ -305,7 +305,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.33333</tempo>
+            <tempo>1.3333299999999999</tempo>
             <text>Recitando</text>
             </Tempo>
           <Dynamic>
@@ -321,7 +321,6 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -458,7 +457,6 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -543,7 +541,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -759,7 +756,7 @@
           </LayoutBreak>
         <voice>
           <Tempo>
-            <tempo>1.53333</tempo>
+            <tempo>1.5333300000000001</tempo>
             <text>Andante</text>
             </Tempo>
           <Spanner type="HairPin">
@@ -1430,9 +1427,10 @@
             <durationType>eighth</durationType>
             </Rest>
           <Tempo>
-            <tempo>1.4</tempo>
+            <tempo>1.3999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 84</b></text>
             </Tempo>
           <Chord>
@@ -1454,7 +1452,6 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -1491,9 +1488,10 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>1.33333</tempo>
+            <tempo>1.3333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 80</text>
             </Tempo>
           <Chord>
@@ -1569,9 +1567,10 @@
           </LayoutBreak>
         <voice>
           <Tempo>
-            <tempo>1.53333</tempo>
+            <tempo>1.5333300000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 92</b></text>
             </Tempo>
           <Rest>
@@ -1936,6 +1935,8 @@
             <tempo>1.43333</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-7"/>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 86</b></text>
             </Tempo>
           <Spanner type="TextLine">
@@ -2027,9 +2028,11 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.38333</tempo>
+            <tempo>1.3833299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-7"/>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 83</b></text>
             </Tempo>
           <Spanner type="TextLine">
@@ -2071,9 +2074,11 @@
             <accidental>-5</accidental>
             </KeySig>
           <Tempo>
-            <tempo>1.33333</tempo>
+            <tempo>1.3333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-7"/>
             <text><sym>metNoteQuarterUp</sym> = 80</text>
             </Tempo>
           <Rest>

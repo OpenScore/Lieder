@@ -1,123 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.01">
-  <programVersion>3.5.0</programVersion>
-  <programRevision>43c5553</programRevision>
+<museScore version="3.02">
+  <programVersion>3.6.2</programVersion>
+  <programRevision></programRevision>
   <Score>
-    <LayerTag id="0" tag="default"/>
+    <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
       <pageWidth>8.27008</pageWidth>
       <pageHeight>11.6902</pageHeight>
       <pagePrintableWidth>7.48268</pagePrintableWidth>
-      <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-      <pageEvenTopMargin>0.393701</pageEvenTopMargin>
-      <pageEvenBottomMargin>0.787402</pageEvenBottomMargin>
-      <pageOddTopMargin>0.393701</pageOddTopMargin>
-      <pageOddBottomMargin>0.787402</pageOddBottomMargin>
       <staffDistance>8</staffDistance>
       <akkoladeDistance>8</akkoladeDistance>
       <maxSystemDistance>25</maxSystemDistance>
       <lyricsMinBottomDistance>3</lyricsMinBottomDistance>
-      <lyricsMinDistance>0.6</lyricsMinDistance>
+      <lyricsMinDistance>0.25</lyricsMinDistance>
       <lyricsDashMaxDistance>10</lyricsDashMaxDistance>
       <lyricsDashForce>0</lyricsDashForce>
       <lyricsMelismaPad>0.5</lyricsMelismaPad>
-      <lyricsOddFontSize>12</lyricsOddFontSize>
+      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
+      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
+      <lyricsOddFontSize>10</lyricsOddFontSize>
       <lyricsOddFramePadding>0</lyricsOddFramePadding>
       <lyricsOddFrameWidth>0</lyricsOddFrameWidth>
-      <lyricsEvenFontSize>12</lyricsEvenFontSize>
-      <doubleBarDistance>0.46</doubleBarDistance>
-      <endBarDistance>0.65</endBarDistance>
+      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
+      <lyricsEvenFontSize>10</lyricsEvenFontSize>
+      <barWidth>0.18</barWidth>
+      <doubleBarWidth>0.18</doubleBarWidth>
+      <endBarWidth>0.55</endBarWidth>
+      <doubleBarDistance>0.55</doubleBarDistance>
+      <endBarDistance>0.7</endBarDistance>
+      <repeatBarlineDotSeparation>0.7</repeatBarlineDotSeparation>
+      <bracketWidth>0.44</bracketWidth>
       <clefLeftMargin>0.64</clefLeftMargin>
       <clefKeyRightMargin>1.75</clefKeyRightMargin>
+      <stemWidth>0.11</stemWidth>
       <barNoteDistance>1.2</barNoteDistance>
       <measureSpacing>1</measureSpacing>
+      <staffLineWidth>0.11</staffLineWidth>
+      <ledgerLineLength>0.35</ledgerLineLength>
       <lastSystemFillLimit>0</lastSystemFillLimit>
       <hairpinPosAbove x="0" y="-2.5"/>
       <hairpinHeight>1.3</hairpinHeight>
+      <hairpinWidth>0.12</hairpinWidth>
+      <hairpinFontFace>Edwin</hairpinFontFace>
+      <hairpinFontSize>10</hairpinFontSize>
       <hairpinFramePadding>0</hairpinFramePadding>
       <hairpinFrameWidth>0</hairpinFrameWidth>
+      <pedalLineWidth>0.11</pedalLineWidth>
+      <pedalFontFace>Edwin</pedalFontFace>
       <pedalFramePadding>0</pedalFramePadding>
       <pedalFrameWidth>0</pedalFrameWidth>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
+      <chordSymbolAFontSize>11</chordSymbolAFontSize>
       <chordSymbolAFramePadding>0</chordSymbolAFramePadding>
       <chordSymbolAFrameWidth>0</chordSymbolAFrameWidth>
+      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
+      <chordSymbolBFontSize>11</chordSymbolBFontSize>
+      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
+      <slurMidWidth>0.21</slurMidWidth>
+      <musicalSymbolFont>Leland</musicalSymbolFont>
+      <musicalTextFont>Leland Text</musicalTextFont>
+      <voltaLineWidth>0.11</voltaLineWidth>
       <voltaFramePadding>0</voltaFramePadding>
       <voltaFrameWidth>0</voltaFrameWidth>
+      <ottavaLineWidth>0.11</ottavaLineWidth>
+      <ottavaFontFace>Edwin</ottavaFontFace>
       <ottavaFontStyle>2</ottavaFontStyle>
       <ottavaFramePadding>0</ottavaFramePadding>
       <ottavaFrameWidth>0</ottavaFrameWidth>
+      <tupletFontFace>Edwin</tupletFontFace>
+      <tupletFontSize>9</tupletFontSize>
       <tupletFramePadding>0</tupletFramePadding>
       <tupletFrameWidth>0</tupletFrameWidth>
       <dynamicsPosAbove x="0" y="-2"/>
       <textLineFramePadding>0</textLineFramePadding>
       <textLineFrameWidth>0</textLineFrameWidth>
+      <defaultFontFace>Edwin</defaultFontFace>
       <defaultFontSpatiumDependent>0</defaultFontSpatiumDependent>
       <defaultAlign>left,baseline</defaultAlign>
       <defaultFramePadding>0</defaultFramePadding>
       <defaultFrameWidth>0</defaultFrameWidth>
       <defaultFrameRound>25</defaultFrameRound>
+      <titleFontFace>Edwin</titleFontFace>
+      <titleFontSize>22</titleFontSize>
       <titleFramePadding>0</titleFramePadding>
       <titleFrameWidth>0</titleFrameWidth>
       <titleFrameRound>25</titleFrameRound>
+      <subTitleFontFace>Edwin</subTitleFontFace>
+      <subTitleFontSize>16</subTitleFontSize>
       <subTitleFramePadding>0</subTitleFramePadding>
       <subTitleFrameWidth>0</subTitleFrameWidth>
       <subTitleFrameRound>25</subTitleFrameRound>
+      <composerFontFace>Edwin</composerFontFace>
+      <composerFontSize>10</composerFontSize>
       <composerFramePadding>0</composerFramePadding>
       <composerFrameWidth>0</composerFrameWidth>
       <composerFrameRound>25</composerFrameRound>
+      <lyricistFontFace>Edwin</lyricistFontFace>
+      <lyricistFontSize>10</lyricistFontSize>
       <lyricistFramePadding>0</lyricistFramePadding>
       <lyricistFrameWidth>0</lyricistFrameWidth>
       <lyricistFrameRound>25</lyricistFrameRound>
+      <fingeringFontFace>Edwin</fingeringFontFace>
       <fingeringFramePadding>0</fingeringFramePadding>
       <fingeringFrameWidth>0</fingeringFrameWidth>
       <fingeringFrameRound>25</fingeringFrameRound>
+      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
       <lhGuitarFingeringFramePadding>0</lhGuitarFingeringFramePadding>
       <lhGuitarFingeringFrameWidth>0</lhGuitarFingeringFrameWidth>
       <lhGuitarFingeringFrameRound>25</lhGuitarFingeringFrameRound>
+      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
+      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
       <rhGuitarFingeringFramePadding>0</rhGuitarFingeringFramePadding>
       <rhGuitarFingeringFrameWidth>0</rhGuitarFingeringFrameWidth>
       <rhGuitarFingeringFrameRound>25</rhGuitarFingeringFrameRound>
+      <stringNumberFontFace>Edwin</stringNumberFontFace>
+      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
+      <longInstrumentFontSize>10</longInstrumentFontSize>
       <longInstrumentFramePadding>0</longInstrumentFramePadding>
       <longInstrumentFrameWidth>0</longInstrumentFrameWidth>
+      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
+      <shortInstrumentFontSize>10</shortInstrumentFontSize>
       <shortInstrumentFramePadding>0</shortInstrumentFramePadding>
       <shortInstrumentFrameWidth>0</shortInstrumentFrameWidth>
+      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
+      <partInstrumentFontSize>14</partInstrumentFontSize>
       <partInstrumentFramePadding>0</partInstrumentFramePadding>
       <partInstrumentFrameWidth>0</partInstrumentFrameWidth>
       <partInstrumentFrameRound>25</partInstrumentFrameRound>
+      <dynamicsFontFace>Edwin</dynamicsFontFace>
+      <dynamicsFontSize>11</dynamicsFontSize>
       <dynamicsFramePadding>0</dynamicsFramePadding>
       <dynamicsFrameWidth>0</dynamicsFrameWidth>
-      <expressionFontSize>12</expressionFontSize>
+      <expressionFontFace>Edwin</expressionFontFace>
+      <expressionFontSize>10</expressionFontSize>
       <expressionFramePadding>0</expressionFramePadding>
       <expressionFrameWidth>0</expressionFrameWidth>
+      <tempoFontFace>Edwin</tempoFontFace>
       <tempoFramePadding>0</tempoFramePadding>
       <tempoFrameWidth>0</tempoFrameWidth>
       <tempoFrameRound>25</tempoFrameRound>
+      <metronomeFontFace>Edwin</metronomeFontFace>
+      <metronomeFontStyle>0</metronomeFontStyle>
       <metronomeFramePadding>0</metronomeFramePadding>
       <metronomeFrameWidth>0</metronomeFrameWidth>
-      <measureNumberAlign>center,bottom</measureNumberAlign>
+      <measureNumberFontFace>Edwin</measureNumberFontFace>
+      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
+      <measureNumberFontStyle>2</measureNumberFontStyle>
       <measureNumberFramePadding>0</measureNumberFramePadding>
       <measureNumberFrameWidth>0</measureNumberFrameWidth>
+      <translatorFontFace>Edwin</translatorFontFace>
+      <translatorFontSize>10</translatorFontSize>
       <translatorAlign>center,top</translatorAlign>
       <translatorFramePadding>0</translatorFramePadding>
       <translatorFrameWidth>0</translatorFrameWidth>
+      <systemFontFace>Edwin</systemFontFace>
       <systemAlign>left,top</systemAlign>
       <systemFramePadding>0</systemFramePadding>
       <systemFrameWidth>0</systemFrameWidth>
       <systemFrameRound>25</systemFrameRound>
+      <staffFontFace>Edwin</staffFontFace>
       <staffAlign>left,top</staffAlign>
       <staffPosAbove x="0" y="-4"/>
       <staffFramePadding>0</staffFramePadding>
       <staffFrameWidth>0</staffFrameWidth>
       <staffFrameRound>25</staffFrameRound>
+      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
+      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
+      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
+      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
+      <repeatLeftFontSize>18</repeatLeftFontSize>
       <repeatLeftFramePadding>0</repeatLeftFramePadding>
       <repeatLeftFrameWidth>0</repeatLeftFrameWidth>
       <repeatLeftFrameRound>25</repeatLeftFrameRound>
+      <repeatRightFontFace>Edwin</repeatRightFontFace>
+      <repeatRightFontSize>11</repeatRightFontSize>
       <repeatRightFramePadding>0</repeatRightFramePadding>
       <repeatRightFrameWidth>0</repeatRightFrameWidth>
       <repeatRightFrameRound>25</repeatRightFrameRound>
+      <frameFontFace>Edwin</frameFontFace>
+      <frameFontSize>10</frameFontSize>
       <frameFramePadding>0</frameFramePadding>
       <frameFrameWidth>0</frameFrameWidth>
       <glissandoAlign>center,baseline</glissandoAlign>
@@ -159,25 +223,26 @@
       <user4Align>right,baseline</user4Align>
       <user4FramePadding>0</user4FramePadding>
       <user4FrameWidth>0</user4FrameWidth>
+      <usePre_3_6_defaults>1</usePre_3_6_defaults>
+      <defaultsVersion>301</defaultsVersion>
       <Spatium>1.6</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger">Transcribed by markpearse from IMSLP #154299.  Source: https://imslp.org/wiki/Amertume_(Chaminade%2C_C%C3%A9cile)</metaTag>
     <metaTag name="composer">Cécile Chaminade</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
-    <metaTag name="creationDate"/>
+    <metaTag name="creationDate"></metaTag>
     <metaTag name="lyricist">D. Enoch  (probably Daniel Enoch, head of the music publishing house Enoch &amp; Cie from about 1910, and who died in Auschwitz-Birkenau in 1944)</metaTag>
-    <metaTag name="movementNumber"/>
-    <metaTag name="movementTitle"/>
-    <metaTag name="originalFormat"/>
-    <metaTag name="platform"/>
-    <metaTag name="poet"/>
+    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="platform"></metaTag>
+    <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/6261036</metaTag>
-    <metaTag name="translator"/>
-    <metaTag name="workNumber"/>
+    <metaTag name="translator"></metaTag>
+    <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Amertume</metaTag>
     <Part>
       <Staff id="1">
@@ -186,7 +251,7 @@
           </StaffType>
         </Staff>
       <trackName>Voice</trackName>
-      <Instrument>
+      <Instrument id="voice">
         <longName>Voice</longName>
         <trackName>Voice</trackName>
         <minPitchP>38</minPitchP>
@@ -258,7 +323,7 @@
         <defaultClef>F</defaultClef>
         </Staff>
       <trackName>Piano</trackName>
-      <Instrument>
+      <Instrument id="piano">
         <longName>Piano</longName>
         <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
@@ -318,9 +383,10 @@
       <VBox>
         <height>2.06268</height>
         <bottomGap>0</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Frame</style>
-          <size>10</size>
+          <italic>1</italic>
           <align>center,top</align>
           <text>à Madame la Comtesse Mniszech</text>
           </Text>
@@ -329,6 +395,7 @@
         <height>18</height>
         <topGap>3.75</topGap>
         <bottomGap>16</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
           <text>Cécile Chaminade</text>
@@ -344,8 +411,10 @@
         </VBox>
       <HBox>
         <width>3</width>
+        <boxAutoSize>0</boxAutoSize>
         </HBox>
       <Measure len="1/4">
+        <irregular>1</irregular>
         <voice>
           <KeySig>
             <accidental>1</accidental>
@@ -356,8 +425,9 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.33333</tempo>
-            <text><b>Andante sostenuto  </b><font size="18"/><font face="ScoreText"/><b><font size="12"/><font face="FreeSerif"/> = 80</b></text>
+            <tempo>1.3333299999999999</tempo>
+            <family>FreeSerif</family>
+            <text><b>Andante sostenuto  </b><font size="18"></font><font face="ScoreText"></font><b><font size="12"></font><font face="FreeSerif"></font> = 80</b></text>
             </Tempo>
           <Rest>
             <durationType>quarter</durationType>
@@ -537,10 +607,13 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>2</subtype>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>11</beginFontSize>
+              <beginText>cresc.   </beginText>
+              <continueText>(cresc.)   </continueText>
               <placement>above</placement>
+              <dashGapLength>20</dashGapLength>
               </HairPin>
             <next>
               <location>
@@ -1176,8 +1249,9 @@
             <tempo>1.5</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <family>FreeSerif</family>
             <offset x="-1.07022" y="-7.98493"/>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 90</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 90</b></text>
             </Tempo>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -1553,8 +1627,9 @@
             <velocity>96</velocity>
             <placement>above</placement>
             <minDistance>-0.214592</minDistance>
+            <family>FreeSerif</family>
             <offset x="-2" y="-1.8927"/>
-            <text><i>  sempre </i><font face="ScoreText"/></text>
+            <text><i>  sempre </i><font face="ScoreText"></font></text>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -1733,10 +1808,12 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>3</subtype>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>11</beginFontSize>
+              <beginText>dim.   </beginText>
               <placement>above</placement>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="0" y="-1.5"/>
@@ -1964,11 +2041,12 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>2</subtype>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>11</beginFontSize>
-              <beginText>poco cresc.</beginText>
+              <beginText>poco cresc.   </beginText>
               <placement>above</placement>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="-2" y="-1.5"/>
@@ -2104,6 +2182,7 @@
             </Chord>
           <Breath>
             <symbol>breathMarkComma</symbol>
+            <pause>0.3</pause>
             </Breath>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -2135,10 +2214,12 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>2</subtype>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>11</beginFontSize>
+              <beginText>cresc.   </beginText>
               <placement>above</placement>
+              <dashGapLength>20</dashGapLength>
               </HairPin>
             <next>
               <location>
@@ -2483,7 +2564,8 @@
             <tempo>1.26667</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 76</b></text>
+            <family>FreeSerif</family>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 76</b></text>
             </Tempo>
           <Spanner type="HairPin">
             <prev>
@@ -2538,7 +2620,8 @@
             <tempo>1.2</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 72</b></text>
+            <family>FreeSerif</family>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 72</b></text>
             </Tempo>
           <Spanner type="HairPin">
             <prev>
@@ -2564,6 +2647,7 @@
             </Chord>
           <Breath>
             <symbol>breathMarkComma</symbol>
+            <pause>0.3</pause>
             <offset x="-3" y="0"/>
             </Breath>
           <Dynamic>
@@ -2596,10 +2680,11 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>1.33333</tempo>
+            <tempo>1.3333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 80</b></text>
+            <family>FreeSerif</family>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80</b></text>
             </Tempo>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -2733,16 +2818,19 @@
             </Chord>
           <Breath>
             <symbol>breathMarkComma</symbol>
+            <pause>0.3</pause>
             </Breath>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>2</subtype>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>11</beginFontSize>
+              <beginText>cresc.   </beginText>
               <continueFontSize>11</continueFontSize>
-              <continueText>cresc.</continueText>
+              <continueText>cresc.   </continueText>
               <placement>above</placement>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>1</subtype>
                 <offset x="0" y="-3"/>
@@ -2805,7 +2893,8 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text>se<font face="ScoreText"/><font face="FreeSerif"/>ai</text>
+              <family>FreeSerif</family>
+              <text>se<font face="ScoreText"></font><font face="FreeSerif"></font>ai</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -2942,10 +3031,13 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>2</subtype>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>11</beginFontSize>
+              <beginText>cresc.   </beginText>
+              <continueText>(cresc.)   </continueText>
               <placement>above</placement>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="0" y="-1.5"/>
@@ -3099,7 +3191,8 @@
             <tempo>1.26667</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 76</b></text>
+            <family>FreeSerif</family>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 76</b></text>
             </Tempo>
           <Rest>
             <durationType>quarter</durationType>
@@ -3283,21 +3376,28 @@
             <tempo>1.2</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 72</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 72</b></text>
             </Tempo>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Tempo>
-            <tempo>1.13333</tempo>
+            <tempo>1.1333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 68</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 68</b></text>
             </Tempo>
           </voice>
         </Measure>
       <Measure len="3/4">
         <voice>
+          <Tempo>
+            <tempo>1</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>11</size>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 60</b></text>
+            </Tempo>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/4</duration>
@@ -3506,7 +3606,7 @@
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="1" y="3.5"/>
+                <offset x="1" y="4"/>
                 <off2 x="-5" y="0"/>
                 </Segment>
               </HairPin>
@@ -3719,9 +3819,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>3</subtype>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>11</beginFontSize>
+              <beginText>dim.   </beginText>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="-4.89508" y="4.20985"/>
@@ -3971,9 +4073,12 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>2</subtype>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>11</beginFontSize>
+              <beginText>cresc.   </beginText>
+              <continueText>(cresc.)   </continueText>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="-1.5" y="5"/>
@@ -5407,9 +5512,10 @@
           <Dynamic>
             <subtype>other-dynamics</subtype>
             <velocity>96</velocity>
+            <family>FreeSerif</family>
             <align>left,baseline</align>
             <offset x="-2" y="4"/>
-            <text><i>  sempre </i><font face="ScoreText"/></text>
+            <text><i>  sempre </i><font face="ScoreText"></font></text>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -5623,8 +5729,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>3</subtype>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
+              <beginText>dim.   </beginText>
+              <continueText>(dim.)   </continueText>
+              <dashGapLength>20</dashGapLength>
               </HairPin>
             <next>
               <location>
@@ -5758,10 +5867,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>2</subtype>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>11</beginFontSize>
-              <beginText>poco cresc.</beginText>
+              <beginText>poco cresc.   </beginText>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="-5" y="4"/>
@@ -5834,9 +5944,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>2</subtype>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>11</beginFontSize>
+              <beginText>cresc.   </beginText>
+              <dashGapLength>20</dashGapLength>
               </HairPin>
             <next>
               <location>
@@ -5925,9 +6037,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>2</subtype>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>11</beginFontSize>
+              <beginText>cresc.   </beginText>
+              <dashGapLength>20</dashGapLength>
               </HairPin>
             <next>
               <location>
@@ -6608,11 +6722,13 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>2</subtype>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>11</beginFontSize>
+              <beginText>cresc.   </beginText>
               <continueFontSize>11</continueFontSize>
-              <continueText>cresc.</continueText>
+              <continueText>cresc.   </continueText>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>1</subtype>
                 <offset x="0" y="5.5"/>
@@ -9778,25 +9894,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>0</subtype>
-              <veloChange>20</veloChange>
-              <dynType>0</dynType>
-              <visible>0</visible>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
-                <off2 x="0" y="0"/>
-                <visible>0</visible>
-                </Segment>
-              </HairPin>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -9805,6 +9902,27 @@
               <velocity>12</velocity>
               </Note>
             </Chord>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <veloChange>20</veloChange>
+              <dynType>0</dynType>
+              <placement>above</placement>
+              <visible>0</visible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-4" y="-4.61736"/>
+                <off2 x="4" y="0"/>
+                <visible>0</visible>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                <fractions>-1/4</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -9889,6 +10007,7 @@
             <prev>
               <location>
                 <measures>-1</measures>
+                <fractions>1/4</fractions>
                 </location>
               </prev>
             </Spanner>

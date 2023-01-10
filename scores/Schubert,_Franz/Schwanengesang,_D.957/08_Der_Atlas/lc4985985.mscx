@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.01">
-  <programVersion>3.5.1</programVersion>
-  <programRevision>12ab1d9</programRevision>
+<museScore version="3.02">
+  <programVersion>3.6.2</programVersion>
+  <programRevision></programRevision>
   <Score>
-    <LayerTag id="0" tag="default"/>
+    <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
@@ -18,116 +18,183 @@
       <akkoladeDistance>7</akkoladeDistance>
       <minSystemDistance>10</minSystemDistance>
       <maxSystemDistance>18.5</maxSystemDistance>
-      <lyricsMinDistance>0.6</lyricsMinDistance>
+      <lyricsMinDistance>0.5</lyricsMinDistance>
       <lyricsDashMaxDistance>10</lyricsDashMaxDistance>
       <lyricsDashForce>0</lyricsDashForce>
       <lyricsMelismaPad>0.5</lyricsMelismaPad>
-      <lyricsOddFontSize>14</lyricsOddFontSize>
+      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
+      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
+      <lyricsOddFontSize>10</lyricsOddFontSize>
       <lyricsOddAlign>left,baseline</lyricsOddAlign>
       <lyricsOddFramePadding>0</lyricsOddFramePadding>
       <lyricsOddFrameWidth>0</lyricsOddFrameWidth>
-      <lyricsEvenFontSize>14</lyricsEvenFontSize>
+      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
+      <lyricsEvenFontSize>10</lyricsEvenFontSize>
       <lyricsEvenFontStyle>2</lyricsEvenFontStyle>
       <lyricsEvenFramePadding>0</lyricsEvenFramePadding>
       <lyricsEvenFrameWidth>0</lyricsEvenFrameWidth>
       <systemFrameDistance>5</systemFrameDistance>
       <frameSystemDistance>10</frameSystemDistance>
-      <doubleBarDistance>0.46</doubleBarDistance>
-      <endBarDistance>0.65</endBarDistance>
+      <barWidth>0.18</barWidth>
+      <doubleBarWidth>0.18</doubleBarWidth>
+      <endBarWidth>0.55</endBarWidth>
+      <doubleBarDistance>0.55</doubleBarDistance>
+      <endBarDistance>0.7</endBarDistance>
+      <repeatBarlineDotSeparation>0.7</repeatBarlineDotSeparation>
+      <bracketWidth>0.44</bracketWidth>
       <clefLeftMargin>0.64</clefLeftMargin>
       <clefKeyRightMargin>1.75</clefKeyRightMargin>
+      <stemWidth>0.11</stemWidth>
       <barNoteDistance>1.2</barNoteDistance>
       <measureSpacing>1</measureSpacing>
+      <staffLineWidth>0.11</staffLineWidth>
+      <ledgerLineLength>0.35</ledgerLineLength>
       <lastSystemFillLimit>0</lastSystemFillLimit>
-      <hairpinFontSize>11</hairpinFontSize>
+      <hairpinWidth>0.12</hairpinWidth>
+      <hairpinFontFace>Edwin</hairpinFontFace>
+      <hairpinFontSize>10</hairpinFontSize>
       <hairpinFramePadding>0</hairpinFramePadding>
       <hairpinFrameWidth>0</hairpinFrameWidth>
+      <pedalLineWidth>0.11</pedalLineWidth>
+      <pedalFontFace>Edwin</pedalFontFace>
       <pedalFramePadding>0</pedalFramePadding>
       <pedalFrameWidth>0</pedalFrameWidth>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
+      <chordSymbolAFontSize>11</chordSymbolAFontSize>
       <chordSymbolAFramePadding>0</chordSymbolAFramePadding>
       <chordSymbolAFrameWidth>0</chordSymbolAFrameWidth>
+      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
+      <chordSymbolBFontSize>11</chordSymbolBFontSize>
+      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
       <measureNumberInterval>1</measureNumberInterval>
       <useStandardNoteNames>0</useStandardNoteNames>
       <concertPitch>1</concertPitch>
+      <slurMidWidth>0.21</slurMidWidth>
+      <musicalSymbolFont>Leland</musicalSymbolFont>
+      <musicalTextFont>Leland Text</musicalTextFont>
+      <voltaLineWidth>0.11</voltaLineWidth>
       <voltaFramePadding>0</voltaFramePadding>
       <voltaFrameWidth>0</voltaFrameWidth>
+      <ottavaLineWidth>0.11</ottavaLineWidth>
+      <ottavaFontFace>Edwin</ottavaFontFace>
       <ottavaFontSize>12</ottavaFontSize>
       <ottavaFontStyle>2</ottavaFontStyle>
       <ottavaFramePadding>0</ottavaFramePadding>
       <ottavaFrameWidth>0</ottavaFrameWidth>
+      <tupletFontFace>Edwin</tupletFontFace>
+      <tupletFontSize>9</tupletFontSize>
       <tupletFramePadding>0</tupletFramePadding>
       <tupletFrameWidth>0</tupletFrameWidth>
       <textLineFramePadding>0</textLineFramePadding>
       <textLineFrameWidth>0</textLineFrameWidth>
+      <defaultFontFace>Edwin</defaultFontFace>
       <defaultFontSpatiumDependent>0</defaultFontSpatiumDependent>
       <defaultAlign>left,baseline</defaultAlign>
       <defaultFramePadding>0</defaultFramePadding>
       <defaultFrameWidth>0</defaultFrameWidth>
       <defaultFrameRound>25</defaultFrameRound>
+      <titleFontFace>Edwin</titleFontFace>
+      <titleFontSize>22</titleFontSize>
       <titleFramePadding>0</titleFramePadding>
       <titleFrameWidth>0</titleFrameWidth>
       <titleFrameRound>25</titleFrameRound>
+      <subTitleFontFace>Edwin</subTitleFontFace>
+      <subTitleFontSize>16</subTitleFontSize>
       <subTitleFramePadding>0</subTitleFramePadding>
       <subTitleFrameWidth>0</subTitleFrameWidth>
       <subTitleFrameRound>25</subTitleFrameRound>
+      <composerFontFace>Edwin</composerFontFace>
+      <composerFontSize>10</composerFontSize>
       <composerFramePadding>0</composerFramePadding>
       <composerFrameWidth>0</composerFrameWidth>
       <composerFrameRound>25</composerFrameRound>
+      <lyricistFontFace>Edwin</lyricistFontFace>
+      <lyricistFontSize>10</lyricistFontSize>
       <lyricistFramePadding>0</lyricistFramePadding>
       <lyricistFrameWidth>0</lyricistFrameWidth>
       <lyricistFrameRound>25</lyricistFrameRound>
+      <fingeringFontFace>Edwin</fingeringFontFace>
       <fingeringFramePadding>0</fingeringFramePadding>
       <fingeringFrameWidth>0</fingeringFrameWidth>
       <fingeringFrameRound>25</fingeringFrameRound>
+      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
       <lhGuitarFingeringFramePadding>0</lhGuitarFingeringFramePadding>
       <lhGuitarFingeringFrameWidth>0</lhGuitarFingeringFrameWidth>
       <lhGuitarFingeringFrameRound>25</lhGuitarFingeringFrameRound>
+      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
+      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
       <rhGuitarFingeringFramePadding>0</rhGuitarFingeringFramePadding>
       <rhGuitarFingeringFrameWidth>0</rhGuitarFingeringFrameWidth>
       <rhGuitarFingeringFrameRound>25</rhGuitarFingeringFrameRound>
-      <longInstrumentFontSize>13</longInstrumentFontSize>
+      <stringNumberFontFace>Edwin</stringNumberFontFace>
+      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
+      <longInstrumentFontSize>10</longInstrumentFontSize>
       <longInstrumentFontStyle>1</longInstrumentFontStyle>
       <longInstrumentFramePadding>0</longInstrumentFramePadding>
       <longInstrumentFrameWidth>0</longInstrumentFrameWidth>
+      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
+      <shortInstrumentFontSize>10</shortInstrumentFontSize>
       <shortInstrumentFramePadding>0</shortInstrumentFramePadding>
       <shortInstrumentFrameWidth>0</shortInstrumentFrameWidth>
+      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
+      <partInstrumentFontSize>14</partInstrumentFontSize>
       <partInstrumentFramePadding>0</partInstrumentFramePadding>
       <partInstrumentFrameWidth>0</partInstrumentFrameWidth>
       <partInstrumentFrameRound>25</partInstrumentFrameRound>
-      <dynamicsFontSize>14</dynamicsFontSize>
+      <dynamicsFontFace>Edwin</dynamicsFontFace>
+      <dynamicsFontSize>11</dynamicsFontSize>
       <dynamicsFramePadding>0</dynamicsFramePadding>
       <dynamicsFrameWidth>0</dynamicsFrameWidth>
-      <expressionFontSize>12</expressionFontSize>
+      <expressionFontFace>Edwin</expressionFontFace>
+      <expressionFontSize>10</expressionFontSize>
       <expressionFramePadding>0</expressionFramePadding>
       <expressionFrameWidth>0</expressionFrameWidth>
+      <tempoFontFace>Edwin</tempoFontFace>
       <tempoFramePadding>0</tempoFramePadding>
       <tempoFrameWidth>0</tempoFrameWidth>
       <tempoFrameRound>25</tempoFrameRound>
+      <metronomeFontFace>Edwin</metronomeFontFace>
+      <metronomeFontStyle>0</metronomeFontStyle>
       <metronomeFramePadding>0</metronomeFramePadding>
       <metronomeFrameWidth>0</metronomeFrameWidth>
+      <measureNumberFontFace>Edwin</measureNumberFontFace>
       <measureNumberFontSize>9</measureNumberFontSize>
-      <measureNumberAlign>center,bottom</measureNumberAlign>
+      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
+      <measureNumberFontStyle>2</measureNumberFontStyle>
       <measureNumberFramePadding>0</measureNumberFramePadding>
       <measureNumberFrameWidth>0</measureNumberFrameWidth>
+      <translatorFontFace>Edwin</translatorFontFace>
+      <translatorFontSize>10</translatorFontSize>
       <translatorAlign>center,top</translatorAlign>
       <translatorFramePadding>0</translatorFramePadding>
       <translatorFrameWidth>0</translatorFrameWidth>
+      <systemFontFace>Edwin</systemFontFace>
       <systemAlign>left,top</systemAlign>
       <systemFramePadding>0</systemFramePadding>
       <systemFrameWidth>0</systemFrameWidth>
       <systemFrameRound>25</systemFrameRound>
+      <staffFontFace>Edwin</staffFontFace>
       <staffAlign>left,top</staffAlign>
       <staffPosAbove x="0" y="-4"/>
       <staffFramePadding>0</staffFramePadding>
       <staffFrameWidth>0</staffFrameWidth>
       <staffFrameRound>25</staffFrameRound>
+      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
+      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
+      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
+      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
+      <repeatLeftFontSize>18</repeatLeftFontSize>
       <repeatLeftFramePadding>0</repeatLeftFramePadding>
       <repeatLeftFrameWidth>0</repeatLeftFrameWidth>
       <repeatLeftFrameRound>25</repeatLeftFrameRound>
+      <repeatRightFontFace>Edwin</repeatRightFontFace>
+      <repeatRightFontSize>11</repeatRightFontSize>
       <repeatRightFramePadding>0</repeatRightFramePadding>
       <repeatRightFrameWidth>0</repeatRightFrameWidth>
       <repeatRightFrameRound>25</repeatRightFrameRound>
+      <frameFontFace>Edwin</frameFontFace>
+      <frameFontSize>10</frameFontSize>
       <frameFramePadding>0</frameFramePadding>
       <frameFrameWidth>0</frameFrameWidth>
       <glissandoAlign>center,baseline</glissandoAlign>
@@ -163,24 +230,25 @@
       <user3Align>right,baseline</user3Align>
       <user3FramePadding>0</user3FramePadding>
       <user3FrameWidth>0</user3FrameWidth>
+      <usePre_3_6_defaults>1</usePre_3_6_defaults>
+      <defaultsVersion>301</defaultsVersion>
       <Spatium>1.42</Spatium>
       </Style>
     <showInvisible>0</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger"/>
+    <metaTag name="arranger">Transcribed by fredipi from IMSLP #60828.  Source: https://imslp.org/wiki/Schwanengesang,_D.957_(Schubert,_Franz)</metaTag>
     <metaTag name="composer">Franz Schubert</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2018-02-21</metaTag>
     <metaTag name="lyricist">Heinrich Heine</metaTag>
     <metaTag name="movementNumber">8</metaTag>
     <metaTag name="movementTitle">Der Atlas</metaTag>
-    <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
-    <metaTag name="poet"/>
-    <metaTag name="source">http://musescore.com/user/27638568/scores/4985985</metaTag>
-    <metaTag name="translator"/>
+    <metaTag name="poet"></metaTag>
+    <metaTag name="source">http://musescore.com/scores/franz-schubert/schwanengesang-d957-851700777501089</metaTag>
+    <metaTag name="translator"></metaTag>
     <metaTag name="workNumber">D.957</metaTag>
     <metaTag name="workTitle">Schwanengesang</metaTag>
     <Part>
@@ -189,7 +257,7 @@
           </StaffType>
         </Staff>
       <trackName>Voice</trackName>
-      <Instrument>
+      <Instrument id="voice">
         <longName>Voice</longName>
         <trackName>Voice</trackName>
         <minPitchP>36</minPitchP>
@@ -250,7 +318,7 @@
         <defaultClef>F</defaultClef>
         </Staff>
       <trackName>Piano</trackName>
-      <Instrument>
+      <Instrument id="grand-piano">
         <longName>Piano</longName>
         <trackName>Grand Piano</trackName>
         <minPitchP>21</minPitchP>
@@ -298,6 +366,7 @@
       <VBox>
         <height>12</height>
         <bottomGap>11.6197</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>User-2</style>
           <offset x="0" y="7.5"/>
@@ -318,6 +387,7 @@
         </VBox>
       <HBox>
         <width>7</width>
+        <boxAutoSize>0</boxAutoSize>
         </HBox>
       <Measure>
         <voice>
@@ -332,7 +402,7 @@
           <Tempo>
             <tempo>1.5</tempo>
             <followText>1</followText>
-            <text><font size="13"/>Etwas geschwind</text>
+            <text><font size="13"></font>Etwas geschwind</text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
@@ -412,6 +482,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
               <text>glück</text>
               </Lyrics>
             <Note>
@@ -425,7 +496,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>sel&apos;</text>
+              <text>sel’</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -525,7 +596,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text>sel&apos;</text>
+              <text>sel’</text>
               </Lyrics>
             <Note>
               <pitch>70</pitch>
@@ -2080,7 +2151,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text>sel&apos;</text>
+              <text>sel’</text>
               </Lyrics>
             <Note>
               <pitch>70</pitch>
@@ -2179,7 +2250,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text>sel&apos;</text>
+              <text>sel’</text>
               </Lyrics>
             <Note>
               <pitch>70</pitch>
@@ -2509,7 +2580,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.47667</tempo>
+            <tempo>1.4766699999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <size>10</size>
@@ -2588,7 +2659,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.33333</tempo>
+            <tempo>1.3333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <size>10</size>
@@ -2611,7 +2682,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>1.26167</tempo>
+            <tempo>1.2616700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <size>10</size>
@@ -2630,7 +2701,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>1.23833</tempo>
+            <tempo>1.2383299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <size>10</size>
@@ -2648,7 +2719,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>1.215</tempo>
+            <tempo>1.2150000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <size>10</size>
@@ -2673,7 +2744,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.19</tempo>
+            <tempo>1.1899999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <size>10</size>
@@ -3994,7 +4065,6 @@
                 <subtype>0</subtype>
                 <offset x="0" y="4.16125"/>
                 <off2 x="0" y="0"/>
-                <offset x="0" y="4.16125"/>
                 </Segment>
               </HairPin>
             <next>
@@ -4331,7 +4401,6 @@
                 <subtype>0</subtype>
                 <offset x="-1" y="3.6577"/>
                 <off2 x="1.50245" y="0"/>
-                <offset x="-1" y="3.6577"/>
                 </Segment>
               </HairPin>
             <next>
@@ -7457,8 +7526,6 @@
           <Chord>
             <durationType>half</durationType>
             <duration>1/4</duration>
-            <Stem>
-              </Stem>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
@@ -8881,9 +8948,9 @@
             <HairPin>
               <subtype>2</subtype>
               <dynType>2</dynType>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
-              <continueText/>
+              <continueText></continueText>
               <placement>above</placement>
               </HairPin>
             <next>
@@ -9828,7 +9895,7 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>3</subtype>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               <placement>above</placement>
               <Segment>
@@ -10134,7 +10201,7 @@
             <HairPin>
               <subtype>2</subtype>
               <dynType>2</dynType>
-              <endText/>
+              <endText></endText>
               <beginText>crescendo  </beginText>
               <placement>above</placement>
               <dashGapLength>20</dashGapLength>
@@ -10142,7 +10209,6 @@
                 <subtype>0</subtype>
                 <offset x="0" y="-2.5"/>
                 <off2 x="0" y="0"/>
-                <offset x="0" y="-2.5"/>
                 </Segment>
               </HairPin>
             <next>

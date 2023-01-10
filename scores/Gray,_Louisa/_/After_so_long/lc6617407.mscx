@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -10,7 +10,7 @@
       <pageWidth>8.27008</pageWidth>
       <pageHeight>11.6902</pageHeight>
       <pagePrintableWidth>7.48268</pagePrintableWidth>
-      <maxSystemDistance>25</maxSystemDistance>
+      <maxSystemDistance>19.5</maxSystemDistance>
       <lyricsMinDistance>0.25</lyricsMinDistance>
       <lyricsDashMaxDistance>10</lyricsDashMaxDistance>
       <lyricsMelismaPad>0.5</lyricsMelismaPad>
@@ -111,7 +111,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger">Transcribed from IMSLP #676303. Source: https://imslp.org/wiki/Special:ReverseLookup/676303</metaTag>
+    <metaTag name="arranger">Transcribed by deadbeat-s from IMSLP #676303.  Source: https://imslp.org/wiki/Special:ReverseLookup/676303</metaTag>
     <metaTag name="composer">Louisa Gray</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2021-02-17</metaTag>
@@ -275,7 +275,7 @@
       <VBox>
         <height>10</height>
         <topGap>4.81061</topGap>
-        <bottomGap>12.8283</bottomGap>
+        <bottomGap>16</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -311,7 +311,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.9</tempo>
+            <tempo>1.8999999999999999</tempo>
             <text>Moderato</text>
             </Tempo>
           <Rest>
@@ -1752,6 +1752,7 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <veloChange>30</veloChange>
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
@@ -1842,6 +1843,7 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <veloChange>20</veloChange>
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
@@ -1904,6 +1906,14 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
+          <Tempo>
+            <tempo>1.8333333333333333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 110</b></text>
+            </Tempo>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -1926,12 +1936,32 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <style>Expression</style>
-            <minDistance>-999</minDistance>
-            <offset x="-1.22434" y="-2.16333"/>
-            <text>dim. e  -  ral    -   -   len    -    -    tan     -      -    do </text>
-            </StaffText>
+          <Tempo>
+            <tempo>1.75</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <minDistance>0.246801</minDistance>
+            <size>10</size>
+            <offset x="0" y="-5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 105</b></text>
+            </Tempo>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>3</subtype>
+              <veloChange>30</veloChange>
+              <endText></endText>
+              <beginText>dim.  e  rallentando  </beginText>
+              <continueText></continueText>
+              <placement>above</placement>
+              <dashGapLength>20</dashGapLength>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                <fractions>3/8</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1945,6 +1975,15 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Tempo>
+            <tempo>1.6666666666666667</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <minDistance>0.246801</minDistance>
+            <size>10</size>
+            <offset x="0" y="-5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 100</b></text>
+            </Tempo>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -1970,6 +2009,15 @@
               <tpc>24</tpc>
               </Note>
             </Chord>
+          <Tempo>
+            <tempo>1.5833333333333333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <minDistance>0.246801</minDistance>
+            <size>10</size>
+            <offset x="0" y="-5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 95</b></text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1983,6 +2031,14 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Tempo>
+            <tempo>1.5</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
+            </Tempo>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -2015,6 +2071,14 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Tempo>
+            <tempo>1.4666666666666666</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 88</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -2037,6 +2101,22 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Tempo>
+            <tempo>1.4333333333333333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 86</b></text>
+            </Tempo>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                <fractions>-3/8</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -2050,6 +2130,7 @@
             </Chord>
           <Fermata>
             <subtype>fermataAbove</subtype>
+            <timeStretch>1.5</timeStretch>
             </Fermata>
           <Chord>
             <durationType>half</durationType>
@@ -2062,6 +2143,11 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Breath>
+            <symbol>breathMarkComma</symbol>
+            <pause>0.2</pause>
+            <visible>0</visible>
+            </Breath>
           </voice>
         <voice>
           <location>
@@ -2089,6 +2175,11 @@
         </Measure>
       <Measure>
         <voice>
+          <Tempo>
+            <tempo>1.8999999999999999</tempo>
+            <visible>0</visible>
+            <text>Moderato</text>
+            </Tempo>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -3542,6 +3633,7 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <veloChange>30</veloChange>
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
@@ -3623,6 +3715,7 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <veloChange>20</veloChange>
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
@@ -3696,18 +3789,48 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <style>Expression</style>
-            <minDistance>-999</minDistance>
-            <offset x="0.207365" y="-3.57018"/>
-            <text>dim. e  -  ral    -   -   len    -    -    tan     -      -    do </text>
-            </StaffText>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Tempo>
+            <tempo>1.8333333333333333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-5.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 110</b></text>
+            </Tempo>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           <Spanner type="HairPin">
             <prev>
               <location>
                 <fractions>-7/8</fractions>
                 </location>
               </prev>
+            </Spanner>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>3</subtype>
+              <veloChange>15</veloChange>
+              <endText></endText>
+              <beginText>dim.  e  rallentando  </beginText>
+              <continueText></continueText>
+              <placement>above</placement>
+              <dashGapLength>20</dashGapLength>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-3"/>
+                <off2 x="3.5" y="0"/>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <measures>2</measures>
+                <fractions>-7/8</fractions>
+                </location>
+              </next>
             </Spanner>
           <Chord>
             <durationType>eighth</durationType>
@@ -3725,6 +3848,14 @@
         </Measure>
       <Measure>
         <voice>
+          <Tempo>
+            <tempo>1.75</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-5.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 105</b></text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -3750,6 +3881,14 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Tempo>
+            <tempo>1.6666666666666667</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-5.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 100</b></text>
+            </Tempo>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -3783,6 +3922,14 @@
               <tpc>24</tpc>
               </Note>
             </Chord>
+          <Tempo>
+            <tempo>1.5833333333333333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-5.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 95</b></text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -3795,6 +3942,14 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Tempo>
+            <tempo>1.5</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-5.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
+            </Tempo>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -3823,6 +3978,22 @@
         </Measure>
       <Measure>
         <voice>
+          <Tempo>
+            <tempo>1.4166666666666667</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-5.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 85</b></text>
+            </Tempo>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-2</measures>
+                <fractions>7/8</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -3833,6 +4004,14 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
+          <Tempo>
+            <tempo>1.3333299999999999</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-5.5"/>
+            <text><sym>metNoteQuarterUp</sym> = 80</text>
+            </Tempo>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -3844,6 +4023,25 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>1</subtype>
+              <veloChange>15</veloChange>
+              <placement>above</placement>
+              <visible>0</visible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-3.5"/>
+                <off2 x="0" y="0"/>
+                <visible>0</visible>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <fractions>5/8</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -3857,6 +4055,7 @@
             </Chord>
           <Fermata>
             <subtype>fermataAbove</subtype>
+            <timeStretch>1.7</timeStretch>
             </Fermata>
           <Chord>
             <durationType>half</durationType>
@@ -3869,6 +4068,13 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <fractions>-5/8</fractions>
+                </location>
+              </prev>
+            </Spanner>
           </voice>
         <voice>
           <location>
@@ -6279,6 +6485,7 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <veloChange>30</veloChange>
               </HairPin>
             <next>
               <location>
@@ -6420,6 +6627,7 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <veloChange>20</veloChange>
               </HairPin>
             <next>
               <location>
@@ -6551,19 +6759,28 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <style>Expression</style>
-            <placement>below</placement>
-            <minDistance>-999</minDistance>
-            <offset x="-2.67303" y="5.46795"/>
-            <text>dim. e  -  ral    -   -   len    -    -    tan     -      -    do </text>
-            </StaffText>
           <Spanner type="HairPin">
             <prev>
               <location>
                 <measures>-1</measures>
                 </location>
               </prev>
+            </Spanner>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>3</subtype>
+              <veloChange>30</veloChange>
+              <endText></endText>
+              <beginText>dim.  e  rallentando  </beginText>
+              <continueText></continueText>
+              <dashGapLength>20</dashGapLength>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                <fractions>3/8</fractions>
+                </location>
+              </next>
             </Spanner>
           <Chord>
             <durationType>half</durationType>
@@ -6647,8 +6864,23 @@
               <tpc>23</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                <fractions>-3/8</fractions>
+                </location>
+              </prev>
+            </Spanner>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           <Fermata>
             <subtype>fermataAbove</subtype>
+            <timeStretch>1.5</timeStretch>
             </Fermata>
           <Chord>
             <durationType>half</durationType>
@@ -6662,6 +6894,24 @@
               </Note>
             </Chord>
           </voice>
+        <voice>
+          <Rest>
+            <visible>0</visible>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Rest>
+            <visible>0</visible>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <visible>0</visible>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <visible>0</visible>
+            <durationType>half</durationType>
+            </Rest>
+          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -6671,7 +6921,7 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-1.22434" y="-3.05997"/>
+                <offset x="-1.22" y="-3"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -6743,7 +6993,7 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-0.765216" y="-2.60085"/>
+                <offset x="-1.22" y="-3"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -6792,9 +7042,8 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0.459129" y="-2.14172"/>
+                <offset x="-1.22" y="-3"/>
                 <off2 x="0" y="0"/>
-                <minDistance>-397.658</minDistance>
                 </Segment>
               </HairPin>
             <next>
@@ -6868,9 +7117,8 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-1.96693"/>
+                <offset x="-1.22" y="-3"/>
                 <off2 x="-1.37739" y="0"/>
-                <minDistance>-397.833</minDistance>
                 </Segment>
               </HairPin>
             <next>
@@ -9006,6 +9254,7 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <veloChange>30</veloChange>
               </HairPin>
             <next>
               <location>
@@ -9147,6 +9396,7 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <veloChange>20</veloChange>
               </HairPin>
             <next>
               <location>
@@ -9278,19 +9528,32 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <style>Expression</style>
-            <placement>below</placement>
-            <minDistance>-999</minDistance>
-            <offset x="-2.67303" y="5.46795"/>
-            <text>dim. e  -  ral    -   -   len    -    -    tan     -      -    do </text>
-            </StaffText>
           <Spanner type="HairPin">
             <prev>
               <location>
                 <measures>-1</measures>
                 </location>
               </prev>
+            </Spanner>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>3</subtype>
+              <veloChange>20</veloChange>
+              <endText></endText>
+              <beginText>dim.  e  rallentando  </beginText>
+              <continueText>(dim.)  </continueText>
+              <dashGapLength>20</dashGapLength>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="4"/>
+                <off2 x="4" y="0"/>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
             </Spanner>
           <Chord>
             <durationType>half</durationType>
@@ -9359,6 +9622,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -9376,6 +9646,7 @@
             </Chord>
           <Fermata>
             <subtype>fermataAbove</subtype>
+            <timeStretch>1.7</timeStretch>
             </Fermata>
           <Chord>
             <durationType>half</durationType>
@@ -10045,6 +10316,7 @@
             </Chord>
           <Fermata>
             <subtype>fermataAbove</subtype>
+            <timeStretch>1.5</timeStretch>
             <minDistance>0.393323</minDistance>
             <offset x="0.183892" y="-0.448323"/>
             </Fermata>
@@ -10817,6 +11089,7 @@
             </Chord>
           <Fermata>
             <subtype>fermataAbove</subtype>
+            <timeStretch>1.7</timeStretch>
             <minDistance>0.393323</minDistance>
             <offset x="0.183892" y="-0.448323"/>
             </Fermata>

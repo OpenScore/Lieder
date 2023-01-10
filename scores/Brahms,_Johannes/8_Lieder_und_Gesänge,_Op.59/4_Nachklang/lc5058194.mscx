@@ -1,39 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.01">
-  <programVersion>3.3.2</programVersion>
-  <programRevision>492d7ef</programRevision>
+<museScore version="3.02">
+  <programVersion>3.6.2</programVersion>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.27007</pageWidth>
-      <pageHeight>11.6901</pageHeight>
-      <pagePrintableWidth>7.48267</pagePrintableWidth>
-      <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-      <pageEvenTopMargin>0.393701</pageEvenTopMargin>
-      <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
-      <pageOddTopMargin>0.393701</pageOddTopMargin>
-      <pageOddBottomMargin>0.787403</pageOddBottomMargin>
+      <pageWidth>8.26772</pageWidth>
+      <pageHeight>11.6929</pageHeight>
+      <pagePrintableWidth>7.08661</pagePrintableWidth>
+      <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
+      <pageOddLeftMargin>0.590551</pageOddLeftMargin>
+      <pageEvenTopMargin>0.590551</pageEvenTopMargin>
+      <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
+      <pageOddTopMargin>0.590551</pageOddTopMargin>
+      <pageOddBottomMargin>0.590551</pageOddBottomMargin>
+      <staffLowerBorder>4</staffLowerBorder>
       <maxSystemDistance>17</maxSystemDistance>
+      <enableVerticalSpread>1</enableVerticalSpread>
+      <lyricsMinDistance>0.6</lyricsMinDistance>
       <lyricsDashMaxDistance>10</lyricsDashMaxDistance>
       <lyricsDashForce>0</lyricsDashForce>
       <lyricsMelismaPad>0.5</lyricsMelismaPad>
       <lyricsOddFramePadding>0</lyricsOddFramePadding>
       <lyricsOddFrameWidth>0</lyricsOddFrameWidth>
-      <doubleBarDistance>0.46</doubleBarDistance>
-      <endBarDistance>0.65</endBarDistance>
       <clefLeftMargin>0.64</clefLeftMargin>
       <clefKeyRightMargin>1.75</clefKeyRightMargin>
-      <barNoteDistance>1.2</barNoteDistance>
       <measureSpacing>1</measureSpacing>
-      <lastSystemFillLimit>0</lastSystemFillLimit>
+      <lastSystemFillLimit>0.1</lastSystemFillLimit>
+      <hairpinHeight>1.3</hairpinHeight>
       <hairpinFramePadding>0</hairpinFramePadding>
       <hairpinFrameWidth>0</hairpinFrameWidth>
       <pedalFramePadding>0</pedalFramePadding>
       <pedalFrameWidth>0</pedalFrameWidth>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <harmonyPlay>0</harmonyPlay>
       <chordSymbolAFramePadding>0</chordSymbolAFramePadding>
       <chordSymbolAFrameWidth>0</chordSymbolAFrameWidth>
       <createMultiMeasureRests>1</createMultiMeasureRests>
@@ -42,6 +44,7 @@
       <ottavaFontStyle>2</ottavaFontStyle>
       <ottavaFramePadding>0</ottavaFramePadding>
       <ottavaFrameWidth>0</ottavaFrameWidth>
+      <tupletMaxSlope>0</tupletMaxSlope>
       <tupletFramePadding>0</tupletFramePadding>
       <tupletFrameWidth>0</tupletFrameWidth>
       <textLineFramePadding>0</textLineFramePadding>
@@ -81,7 +84,6 @@
       <partInstrumentFrameRound>25</partInstrumentFrameRound>
       <dynamicsFramePadding>0</dynamicsFramePadding>
       <dynamicsFrameWidth>0</dynamicsFrameWidth>
-      <expressionFontSize>12</expressionFontSize>
       <expressionFramePadding>0</expressionFramePadding>
       <expressionFrameWidth>0</expressionFrameWidth>
       <tempoFramePadding>0</tempoFramePadding>
@@ -89,7 +91,6 @@
       <tempoFrameRound>25</tempoFrameRound>
       <metronomeFramePadding>0</metronomeFramePadding>
       <metronomeFrameWidth>0</metronomeFrameWidth>
-      <measureNumberAlign>center,bottom</measureNumberAlign>
       <measureNumberFramePadding>0</measureNumberFramePadding>
       <measureNumberFrameWidth>0</measureNumberFrameWidth>
       <translatorAlign>center,top</translatorAlign>
@@ -100,7 +101,6 @@
       <systemFrameWidth>0</systemFrameWidth>
       <systemFrameRound>25</systemFrameRound>
       <staffAlign>left,top</staffAlign>
-      <staffPosAbove x="0" y="-4"></staffPosAbove>
       <staffFramePadding>0</staffFramePadding>
       <staffFrameWidth>0</staffFrameWidth>
       <staffFrameRound>25</staffFrameRound>
@@ -127,15 +127,17 @@
       <instrumentChangeAlign>left,bottom</instrumentChangeAlign>
       <instrumentChangeFramePadding>0</instrumentChangeFramePadding>
       <instrumentChangeFrameWidth>0</instrumentChangeFrameWidth>
-      <user1Name>Repeat Text</user1Name>
-      <user1FontSize>12</user1FontSize>
-      <user1Align>right,baseline</user1Align>
+      <user1Name>Work Title</user1Name>
+      <user1FontSize>14</user1FontSize>
+      <user1FontSpatiumDependent>0</user1FontSpatiumDependent>
+      <user1Align>center,top</user1Align>
       <user1FramePadding>0</user1FramePadding>
       <user1FrameWidth>0</user1FrameWidth>
-      <user2Name>Work Title</user2Name>
-      <user2FontSize>14</user2FontSize>
+      <user2Name>Movement Title</user2Name>
+      <user2FontSize>22</user2FontSize>
       <user2FontSpatiumDependent>0</user2FontSpatiumDependent>
       <user2Align>center,top</user2Align>
+      <user2Offset x="0" y="7"/>
       <user2FramePadding>0</user2FramePadding>
       <user2FrameWidth>0</user2FrameWidth>
       <user3Name>Movement Title</user3Name>
@@ -150,7 +152,7 @@
       <user4Align>right,baseline</user4Align>
       <user4FramePadding>0</user4FramePadding>
       <user4FrameWidth>0</user4FrameWidth>
-      <Spatium>1.564</Spatium>
+      <Spatium>1.6</Spatium>
       </Style>
     <showInvisible>0</showInvisible>
     <showUnprintable>0</showUnprintable>
@@ -163,7 +165,6 @@
     <metaTag name="lyricist">Klaus Groth</metaTag>
     <metaTag name="movementNumber">4</metaTag>
     <metaTag name="movementTitle">Nachklang</metaTag>
-    <metaTag name="originalFormat">musicxml</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/5058194</metaTag>
@@ -173,18 +174,19 @@
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
+          <name>stdNormal</name>
           </StaffType>
         </Staff>
       <trackName>Voice</trackName>
-      <Instrument>
+      <Instrument id="voice">
         <longName>Singstimme
 <i>Voice</i></longName>
-        <trackName>Oboe</trackName>
-        <minPitchP>58</minPitchP>
-        <maxPitchP>96</maxPitchP>
-        <minPitchA>58</minPitchA>
-        <maxPitchA>87</maxPitchA>
-        <instrumentId>wind.reed.oboe</instrumentId>
+        <trackName>Voice</trackName>
+        <minPitchP>38</minPitchP>
+        <maxPitchP>84</maxPitchP>
+        <minPitchA>41</minPitchA>
+        <maxPitchA>79</maxPitchA>
+        <instrumentId>voice.vocals</instrumentId>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -226,10 +228,10 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <controller ctrl="0" value="0"></controller>
-          <controller ctrl="32" value="17"></controller>
-          <program value="68"></program>
-          <controller ctrl="10" value="46"></controller>
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="68"/>
+          <controller ctrl="10" value="42"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -238,7 +240,7 @@
       <Staff id="2">
         <StaffType group="pitched">
           </StaffType>
-        <bracket type="1" span="2" col="0"></bracket>
+        <bracket type="1" span="2" col="0"/>
         <barLineSpan>1</barLineSpan>
         </Staff>
       <Staff id="3">
@@ -247,7 +249,7 @@
         <defaultClef>F</defaultClef>
         </Staff>
       <trackName>Piano</trackName>
-      <Instrument>
+      <Instrument id="grand-piano">
         <longName>Pianoforte</longName>
         <trackName>Grand Piano</trackName>
         <minPitchP>21</minPitchP>
@@ -285,8 +287,8 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <program value="0"></program>
-          <controller ctrl="10" value="82"></controller>
+          <program value="0"/>
+          <controller ctrl="10" value="82"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -294,14 +296,15 @@
     <Staff id="1">
       <VBox>
         <height>10.9329</height>
-        <bottomGap>12</bottomGap>
+        <bottomGap>11.73</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
-          <style>User-2</style>
+          <style>User-1</style>
           <text>8 Lieder und Gesänge, Op.59</text>
           </Text>
         <Text>
           <style>User-3</style>
-          <offset x="0" y="6.5"></offset>
+          <offset x="0" y="6.5"/>
           <text>4. Nachklang</text>
           </Text>
         <Text>
@@ -314,9 +317,11 @@
           </Text>
         </VBox>
       <HBox>
-        <width>4</width>
+        <width>2</width>
+        <boxAutoSize>0</boxAutoSize>
         </HBox>
       <Measure len="1/2">
+        <irregular>1</irregular>
         <voice>
           <KeySig>
             <accidental>3</accidental>
@@ -330,10 +335,10 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <placement>above</placement>
-            <offset x="-0.150374" y="-1.19551"></offset>
+            <offset x="-0.134391" y="-1.06844"/>
             </Dynamic>
           <Tempo>
-            <tempo>1.83333</tempo>
+            <tempo>1.8333299999999999</tempo>
             <text>Sanft bewegt</text>
             </Tempo>
           <Chord>
@@ -678,7 +683,7 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>8.83806</vspacerDown>
+        <vspacerDown>7.8987</vspacerDown>
         <voice>
           <Rest>
             <durationType>quarter</durationType>
@@ -867,7 +872,7 @@
             <visible>0</visible>
             <placement>above</placement>
             <minDistance>0.418653</minDistance>
-            <offset x="0" y="-1"></offset>
+            <offset x="0" y="-0.893714"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -2091,7 +2096,7 @@
       </Staff>
     <Staff id="2">
       <Measure len="1/2">
-        <vspacerFixed>7.71115</vspacerFixed>
+        <vspacerFixed>6.89156</vspacerFixed>
         <voice>
           <KeySig>
             <accidental>3</accidental>
@@ -2111,12 +2116,12 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <offset x="-0.5" y="2.7"></offset>
+            <offset x="-0.446857" y="2.41303"/>
             </Dynamic>
           <Beam>
             <Fragment>
-              <y1>-3.5</y1>
-              <y2>-4.5</y2>
+              <y1>-3.42125</y1>
+              <y2>-4.39875</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -2209,14 +2214,14 @@
       <Measure>
         <voice>
           <Rest>
-            <offset x="0" y="1"></offset>
+            <offset x="0" y="0.893714"/>
             <durationType>half</durationType>
             </Rest>
           <StaffText>
             <style>Expression</style>
             <minDistance>0.438765</minDistance>
             <bold>1</bold>
-            <offset x="-0.8" y="-2.5"></offset>
+            <offset x="-0.714971" y="-2.23429"/>
             <text>m. g.</text>
             </StaffText>
           <Chord>
@@ -2227,7 +2232,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="1"></offset>
+            <offset x="0" y="0.893714"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -2312,7 +2317,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="1"></offset>
+            <offset x="0" y="0.893714"/>
             <durationType>quarter</durationType>
             </Rest>
           </voice>
@@ -2556,7 +2561,7 @@
             <style>Expression</style>
             <minDistance>0.248213</minDistance>
             <bold>1</bold>
-            <offset x="-0.7" y="-2.67317"></offset>
+            <offset x="-0.6256" y="-2.38905"/>
             <text>m.g.</text>
             </StaffText>
           <Chord>
@@ -2568,7 +2573,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="-1"></offset>
+            <offset x="0" y="-0.893714"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -2619,7 +2624,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="-2"></offset>
+            <offset x="0" y="-1.78743"/>
             <durationType>quarter</durationType>
             </Rest>
           <Chord>
@@ -2662,12 +2667,10 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <hairpinHeight>1.3</hairpinHeight>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="2.2" y="3.7"></offset>
-                <off2 x="-2.2" y="0"></off2>
-                <offset x="2.2" y="3.7"></offset>
+                <offset x="1.96617" y="3.30674"/>
+                <off2 x="-1.96617" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -2678,8 +2681,8 @@
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>6.46927</y1>
-              <y2>5.46927</y2>
+              <y1>6.32371</y1>
+              <y2>5.34621</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -2719,8 +2722,8 @@
             </Chord>
           <Beam>
             <Fragment>
-              <y1>6.29236</y1>
-              <y2>5.29236</y2>
+              <y1>6.15078</y1>
+              <y2>5.17328</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -2769,12 +2772,10 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <hairpinHeight>1.3</hairpinHeight>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.7"></offset>
-                <off2 x="0" y="0"></off2>
-                <offset x="0" y="3.7"></offset>
+                <offset x="0" y="3.30674"/>
+                <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -2785,8 +2786,8 @@
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>6.46927</y1>
-              <y2>5.46927</y2>
+              <y1>6.32371</y1>
+              <y2>5.34621</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -2820,8 +2821,8 @@
             </Chord>
           <Beam>
             <Fragment>
-              <y1>6.29236</y1>
-              <y2>5.29236</y2>
+              <y1>6.15078</y1>
+              <y2>5.17328</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -2864,7 +2865,7 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <visible>0</visible>
-            <offset x="-1" y="4"></offset>
+            <offset x="-0.893714" y="3.57486"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -2875,8 +2876,8 @@
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>6.46927</y1>
-              <y2>5.46927</y2>
+              <y1>6.32371</y1>
+              <y2>5.34621</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -2892,12 +2893,10 @@
               <subtype>0</subtype>
               <veloChange>40</veloChange>
               <dynType>2</dynType>
-              <hairpinHeight>1.3</hairpinHeight>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-0.4" y="3.7"></offset>
-                <off2 x="0.4" y="0"></off2>
-                <offset x="-0.4" y="3.7"></offset>
+                <offset x="-0.357486" y="3.30674"/>
+                <off2 x="0.357486" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -2933,8 +2932,8 @@
             </Chord>
           <Beam>
             <Fragment>
-              <y1>6.29236</y1>
-              <y2>5.29236</y2>
+              <y1>6.15078</y1>
+              <y2>5.17328</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -2986,12 +2985,10 @@
             <HairPin>
               <subtype>1</subtype>
               <dynType>2</dynType>
-              <hairpinHeight>1.3</hairpinHeight>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="2.1" y="3.6"></offset>
-                <off2 x="-2.1" y="0"></off2>
-                <offset x="2.1" y="3.6"></offset>
+                <offset x="1.8768" y="3.21737"/>
+                <off2 x="-1.8768" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -3002,8 +2999,8 @@
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>6.46927</y1>
-              <y2>5.46927</y2>
+              <y1>6.32371</y1>
+              <y2>5.34621</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -3037,8 +3034,8 @@
             </Chord>
           <Beam>
             <Fragment>
-              <y1>6.73464</y1>
-              <y2>6.44228</y2>
+              <y1>6.58311</y1>
+              <y2>6.29733</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -3094,12 +3091,12 @@
             <velocity>64</velocity>
             <dynType>2</dynType>
             <visible>0</visible>
-            <offset x="0" y="3"></offset>
+            <offset x="0" y="2.68114"/>
             </Dynamic>
           <Beam>
             <Fragment>
-              <y1>7.70765</y1>
-              <y2>6.70765</y2>
+              <y1>7.53423</y1>
+              <y2>6.55673</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -3136,8 +3133,8 @@
             </Chord>
           <Beam>
             <Fragment>
-              <y1>7.70765</y1>
-              <y2>6.70765</y2>
+              <y1>7.53423</y1>
+              <y2>6.55673</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -3921,7 +3918,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <hairpinHeight>1.3</hairpinHeight>
               </HairPin>
             <next>
               <location>
@@ -4004,11 +4000,11 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0.2" y="0"></o4>
+                  <o4 x="0.178743" y="0"/>
                   </SlurSegment>
                 <SlurSegment no="1">
-                  <o1 x="0.6" y="0"></o1>
-                  <o4 x="-0.2" y="0"></o4>
+                  <o1 x="0.536229" y="0"/>
+                  <o4 x="-0.178743" y="0"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -4467,7 +4463,6 @@
               <dynType>2</dynType>
               <endText></endText>
               <lineVisible>0</lineVisible>
-              <hairpinHeight>1.3</hairpinHeight>
               </HairPin>
             <next>
               <location>
@@ -4525,7 +4520,7 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>8.98423</vspacerDown>
+        <vspacerDown>8.02933</vspacerDown>
         <voice>
           <Spanner type="HairPin">
             <prev>
@@ -4537,8 +4532,8 @@
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>7.99211</y1>
-              <y2>6.99211</y2>
+              <y1>7.81229</y1>
+              <y2>6.83479</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -4575,8 +4570,8 @@
             </Chord>
           <Beam>
             <Fragment>
-              <y1>8.49212</y1>
-              <y2>7.49212</y2>
+              <y1>8.30105</y1>
+              <y2>7.32355</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -4614,8 +4609,8 @@
         <voice>
           <Beam>
             <Fragment>
-              <y1>8.74211</y1>
-              <y2>7.74211</y2>
+              <y1>8.54541</y1>
+              <y2>7.56791</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -4654,7 +4649,7 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <dynType>2</dynType>
-            <offset x="-0.6" y="4.7"></offset>
+            <offset x="-0.536229" y="4.20046"/>
             </Dynamic>
           <Chord>
             <staffMove>1</staffMove>
@@ -4694,8 +4689,8 @@
         <voice>
           <Beam>
             <Fragment>
-              <y1>8.49211</y1>
-              <y2>7.49211</y2>
+              <y1>8.30104</y1>
+              <y2>7.32354</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -4728,9 +4723,8 @@
               <hairpinHeight>1.5</hairpinHeight>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-1.1" y="6"></offset>
-                <off2 x="1.1" y="0"></off2>
-                <offset x="-1.1" y="6"></offset>
+                <offset x="-0.983086" y="5.36229"/>
+                <off2 x="0.983086" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -4749,8 +4743,8 @@
             </Chord>
           <Beam>
             <Fragment>
-              <y1>8.24211</y1>
-              <y2>7.24211</y2>
+              <y1>8.05666</y1>
+              <y2>7.07916</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -4788,8 +4782,8 @@
         <voice>
           <Beam>
             <Fragment>
-              <y1>8.49211</y1>
-              <y2>7.49211</y2>
+              <y1>8.30104</y1>
+              <y2>7.32354</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -4823,8 +4817,8 @@
             </Chord>
           <Beam>
             <Fragment>
-              <y1>8.74211</y1>
-              <y2>7.74211</y2>
+              <y1>8.54541</y1>
+              <y2>7.56791</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -4859,7 +4853,7 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>7.99968</vspacerDown>
+        <vspacerDown>7.14943</vspacerDown>
         <voice>
           <Spanner type="HairPin">
             <prev>
@@ -4936,12 +4930,10 @@
             <HairPin>
               <subtype>1</subtype>
               <dynType>2</dynType>
-              <hairpinHeight>1.3</hairpinHeight>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="1" y="3"></offset>
-                <off2 x="-1" y="0"></off2>
-                <offset x="1" y="3"></offset>
+                <offset x="0.893714" y="2.68114"/>
+                <off2 x="-0.893714" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -4964,8 +4956,8 @@
         <voice>
           <Beam>
             <Fragment>
-              <y1>9.02722</y1>
-              <y2>8.02722</y2>
+              <y1>8.82411</y1>
+              <y2>7.84661</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -4999,8 +4991,8 @@
             </Chord>
           <Beam>
             <Fragment>
-              <y1>9.20413</y1>
-              <y2>8.20413</y2>
+              <y1>8.99704</y1>
+              <y2>8.01954</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -5044,7 +5036,7 @@
             <velocity>49</velocity>
             <dynType>2</dynType>
             <autoplace>0</autoplace>
-            <offset x="-0.819188" y="3.45772"></offset>
+            <offset x="-0.73212" y="3.09021"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -5091,7 +5083,7 @@
           <StaffText>
             <style>Expression</style>
             <bold>1</bold>
-            <offset x="-1.1" y="-2.56162"></offset>
+            <offset x="-0.983086" y="-2.28936"/>
             <text>m. g.</text>
             </StaffText>
           <Chord>
@@ -5103,7 +5095,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="-1"></offset>
+            <offset x="0" y="-0.893714"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -5121,18 +5113,15 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <hairpinHeight>1.3</hairpinHeight>
               <Segment>
                 <subtype>1</subtype>
-                <offset x="2.3" y="4.91529"></offset>
-                <off2 x="-2.3" y="0"></off2>
-                <offset x="2.3" y="4.91529"></offset>
+                <offset x="2.05554" y="4.39286"/>
+                <off2 x="-2.05554" y="0"/>
                 </Segment>
               <Segment>
                 <subtype>3</subtype>
-                <offset x="0" y="5.41529"></offset>
-                <off2 x="0" y="0"></off2>
-                <offset x="0" y="5.41529"></offset>
+                <offset x="0" y="4.83972"/>
+                <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -5152,7 +5141,7 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>8.66114</vspacerDown>
+        <vspacerDown>7.74058</vspacerDown>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -5191,7 +5180,7 @@
           <StaffText>
             <style>Expression</style>
             <bold>1</bold>
-            <offset x="-1" y="-3.7"></offset>
+            <offset x="-0.893714" y="-3.30674"/>
             <text>m. g.</text>
             </StaffText>
           <Spanner type="HairPin">
@@ -5211,7 +5200,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="-2"></offset>
+            <offset x="0" y="-1.78743"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -5232,8 +5221,8 @@
               <hairpinHeight>1.5</hairpinHeight>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"></offset>
-                <off2 x="-1" y="0"></off2>
+                <offset x="0" y="3.128"/>
+                <off2 x="-0.893714" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -5286,8 +5275,8 @@
             </Chord>
           <Beam>
             <Fragment>
-              <y1>7.70202</y1>
-              <y2>6.70202</y2>
+              <y1>7.52872</y1>
+              <y2>6.55122</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -5329,7 +5318,7 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <offset x="0" y="6"></offset>
+            <offset x="0" y="5.36229"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -5385,7 +5374,7 @@
             <subtype>pp</subtype>
             <velocity>38</velocity>
             <visible>0</visible>
-            <offset x="0" y="5"></offset>
+            <offset x="0" y="4.46857"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -5474,7 +5463,7 @@
       <Measure>
         <voice>
           <Chord>
-            <offset x="0.5" y="0"></offset>
+            <offset x="0.48875" y="0"/>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -5483,7 +5472,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="2"></offset>
+            <offset x="0" y="1.78743"/>
             <durationType>half</durationType>
             </Rest>
           </voice>
@@ -5554,7 +5543,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Stem>
-              <userLen>0.3</userLen>
+              <userLen>0.268114</userLen>
               </Stem>
             <Note>
               <pitch>37</pitch>
@@ -5645,7 +5634,7 @@
           <Chord>
             <durationType>half</durationType>
             <Stem>
-              <userLen>0.3</userLen>
+              <userLen>0.268114</userLen>
               </Stem>
             <Note>
               <pitch>37</pitch>
@@ -5680,7 +5669,7 @@
       <Measure>
         <voice>
           <Rest>
-            <offset x="0" y="2"></offset>
+            <offset x="0" y="1.78743"/>
             <durationType>half</durationType>
             </Rest>
           <Dynamic>
@@ -5696,7 +5685,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="2"></offset>
+            <offset x="0" y="1.78743"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -5719,7 +5708,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="2"></offset>
+            <offset x="0" y="1.78743"/>
             <durationType>quarter</durationType>
             </Rest>
           </voice>
@@ -5727,7 +5716,7 @@
       <Measure>
         <voice>
           <Rest>
-            <offset x="0" y="2"></offset>
+            <offset x="0" y="1.78743"/>
             <durationType>half</durationType>
             </Rest>
           <Chord>
@@ -5885,7 +5874,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="2"></offset>
+            <offset x="0" y="1.78743"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -6064,7 +6053,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="1"></offset>
+            <offset x="0" y="0.893714"/>
             <durationType>half</durationType>
             </Rest>
           </voice>
@@ -6078,7 +6067,7 @@
             <subtype>rf</subtype>
             <velocity>112</velocity>
             <placement>above</placement>
-            <offset x="0" y="-3.4"></offset>
+            <offset x="0" y="-3.03863"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -6175,7 +6164,7 @@
             <velocity>49</velocity>
             <dynType>2</dynType>
             <placement>above</placement>
-            <offset x="0" y="-4.4"></offset>
+            <offset x="0" y="-3.93234"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -6733,7 +6722,6 @@
             <HairPin>
               <subtype>1</subtype>
               <dynType>0</dynType>
-              <hairpinHeight>1.3</hairpinHeight>
               </HairPin>
             <next>
               <location>
@@ -6774,7 +6762,6 @@
             <HairPin>
               <subtype>1</subtype>
               <dynType>0</dynType>
-              <hairpinHeight>1.3</hairpinHeight>
               </HairPin>
             <next>
               <location>
@@ -6809,14 +6796,14 @@
       <Measure>
         <voice>
           <Rest>
-            <offset x="0" y="2"></offset>
+            <offset x="0" y="1.78743"/>
             <durationType>half</durationType>
             </Rest>
           <Chord>
-            <offset x="0.2" y="0"></offset>
+            <offset x="0.1955" y="0"/>
             <durationType>quarter</durationType>
             <Stem>
-              <userLen>-0.5</userLen>
+              <userLen>-0.446857</userLen>
               </Stem>
             <Note>
               <pitch>37</pitch>
@@ -6824,7 +6811,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="2"></offset>
+            <offset x="0" y="1.78743"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -6839,10 +6826,10 @@
       <Measure>
         <voice>
           <Chord>
-            <offset x="0.2" y="0"></offset>
+            <offset x="0.1955" y="0"/>
             <durationType>half</durationType>
             <Stem>
-              <userLen>-0.5</userLen>
+              <userLen>-0.446857</userLen>
               </Stem>
             <Note>
               <pitch>37</pitch>
@@ -6850,7 +6837,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="2"></offset>
+            <offset x="0" y="1.78743"/>
             <durationType>half</durationType>
             </Rest>
           </voice>
@@ -7027,7 +7014,6 @@
             <HairPin>
               <subtype>1</subtype>
               <dynType>0</dynType>
-              <hairpinHeight>1.3</hairpinHeight>
               </HairPin>
             <next>
               <location>
@@ -7135,7 +7121,6 @@
             <HairPin>
               <subtype>1</subtype>
               <dynType>0</dynType>
-              <hairpinHeight>1.3</hairpinHeight>
               </HairPin>
             <next>
               <location>
@@ -7238,7 +7223,6 @@
             <HairPin>
               <subtype>1</subtype>
               <dynType>0</dynType>
-              <hairpinHeight>1.3</hairpinHeight>
               </HairPin>
             <next>
               <location>
@@ -7283,9 +7267,8 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="2.2" y="-3.5"></offset>
-                <off2 x="-3.7" y="0"></off2>
-                <offset x="2.2" y="-3.5"></offset>
+                <offset x="1.96617" y="-3.128"/>
+                <off2 x="-3.30674" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -7296,7 +7279,7 @@
               </next>
             </Spanner>
           <Rest>
-            <offset x="0" y="2"></offset>
+            <offset x="0" y="1.78743"/>
             <durationType>half</durationType>
             </Rest>
           <Chord>
@@ -7319,7 +7302,7 @@
       <Measure>
         <voice>
           <Rest>
-            <offset x="0" y="2"></offset>
+            <offset x="0" y="1.78743"/>
             <durationType>half</durationType>
             </Rest>
           <Spanner type="HairPin">
@@ -7375,7 +7358,7 @@
           <Chord>
             <durationType>half</durationType>
             <Stem>
-              <userLen>-0.7</userLen>
+              <userLen>-0.6256</userLen>
               </Stem>
             <Note>
               <pitch>32</pitch>
@@ -7391,10 +7374,10 @@
       <Measure>
         <voice>
           <Chord>
-            <offset x="0.2" y="0"></offset>
+            <offset x="0.1955" y="0"/>
             <durationType>half</durationType>
             <Stem>
-              <userLen>-0.8</userLen>
+              <userLen>-0.714971</userLen>
               </Stem>
             <Note>
               <pitch>33</pitch>
@@ -7415,7 +7398,7 @@
                 </prev>
               </Spanner>
             <Stem>
-              <userLen>-0.7</userLen>
+              <userLen>-0.6256</userLen>
               </Stem>
             <Note>
               <pitch>30</pitch>
@@ -7579,8 +7562,8 @@
         <voice>
           <Beam>
             <Fragment>
-              <y1>-4.58868</y1>
-              <y2>-5.58868</y2>
+              <y1>-4.48543</y1>
+              <y2>-5.46293</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -7617,8 +7600,8 @@
             </Chord>
           <Beam>
             <Fragment>
-              <y1>-4.05817</y1>
-              <y2>-5.30817</y2>
+              <y1>-3.62684</y1>
+              <y2>-4.74399</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -7675,7 +7658,7 @@
             <subtype>f</subtype>
             <velocity>85</velocity>
             <placement>above</placement>
-            <offset x="0" y="-2.17317"></offset>
+            <offset x="0" y="-1.94219"/>
             </Dynamic>
           <Chord>
             <staffMove>-1</staffMove>
@@ -7731,8 +7714,8 @@
         <voice>
           <Beam>
             <Fragment>
-              <y1>-4.80358</y1>
-              <y2>-5.80358</y2>
+              <y1>-4.6955</y1>
+              <y2>-5.673</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -7771,9 +7754,8 @@
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-0.5" y="4"></offset>
-                <off2 x="0.5" y="0"></off2>
-                <offset x="-0.5" y="4"></offset>
+                <offset x="-0.446857" y="3.57486"/>
+                <off2 x="0.446857" y="0"/>
                 </Segment>
               </Pedal>
             <next>

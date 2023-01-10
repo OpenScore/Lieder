@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.01">
-  <programVersion>3.4.2</programVersion>
-  <programRevision>148e43f</programRevision>
+<museScore version="3.02">
+  <programVersion>3.6.2</programVersion>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -12,102 +12,173 @@
       <pagePrintableWidth>10.9028</pagePrintableWidth>
       <pageTwosided>0</pageTwosided>
       <maxSystemDistance>11.5</maxSystemDistance>
+      <lyricsMinDistance>0.25</lyricsMinDistance>
       <lyricsDashMaxDistance>10</lyricsDashMaxDistance>
       <lyricsDashForce>0</lyricsDashForce>
       <lyricsMelismaPad>0.5</lyricsMelismaPad>
-      <lyricsOddFontSize>12</lyricsOddFontSize>
+      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
+      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
+      <lyricsOddFontSize>10</lyricsOddFontSize>
       <lyricsOddFramePadding>0</lyricsOddFramePadding>
       <lyricsOddFrameWidth>0</lyricsOddFrameWidth>
-      <lyricsEvenFontSize>12</lyricsEvenFontSize>
-      <doubleBarDistance>0.46</doubleBarDistance>
-      <endBarDistance>0.65</endBarDistance>
+      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
+      <lyricsEvenFontSize>10</lyricsEvenFontSize>
+      <barWidth>0.18</barWidth>
+      <doubleBarWidth>0.18</doubleBarWidth>
+      <endBarWidth>0.55</endBarWidth>
+      <doubleBarDistance>0.55</doubleBarDistance>
+      <endBarDistance>0.7</endBarDistance>
+      <repeatBarlineDotSeparation>0.7</repeatBarlineDotSeparation>
+      <bracketWidth>0.44</bracketWidth>
       <clefLeftMargin>0.64</clefLeftMargin>
       <clefKeyRightMargin>1.75</clefKeyRightMargin>
+      <stemWidth>0.11</stemWidth>
       <barNoteDistance>1.2</barNoteDistance>
       <measureSpacing>1</measureSpacing>
+      <staffLineWidth>0.11</staffLineWidth>
+      <ledgerLineLength>0.35</ledgerLineLength>
       <lastSystemFillLimit>0</lastSystemFillLimit>
-      <hairpinFontSize>11</hairpinFontSize>
+      <hairpinWidth>0.12</hairpinWidth>
+      <hairpinFontFace>Edwin</hairpinFontFace>
+      <hairpinFontSize>10</hairpinFontSize>
       <hairpinFramePadding>0</hairpinFramePadding>
       <hairpinFrameWidth>0</hairpinFrameWidth>
+      <pedalLineWidth>0.11</pedalLineWidth>
+      <pedalFontFace>Edwin</pedalFontFace>
       <pedalFramePadding>0</pedalFramePadding>
       <pedalFrameWidth>0</pedalFrameWidth>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <harmonyPlay>0</harmonyPlay>
+      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
+      <chordSymbolAFontSize>11</chordSymbolAFontSize>
       <chordSymbolAFramePadding>0</chordSymbolAFramePadding>
       <chordSymbolAFrameWidth>0</chordSymbolAFrameWidth>
+      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
+      <chordSymbolBFontSize>11</chordSymbolBFontSize>
+      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
       <dontHidStavesInFirstSystm>0</dontHidStavesInFirstSystm>
+      <slurMidWidth>0.21</slurMidWidth>
+      <musicalSymbolFont>Leland</musicalSymbolFont>
+      <musicalTextFont>Leland Text</musicalTextFont>
+      <voltaLineWidth>0.11</voltaLineWidth>
       <voltaFramePadding>0</voltaFramePadding>
       <voltaFrameWidth>0</voltaFrameWidth>
+      <ottavaLineWidth>0.11</ottavaLineWidth>
+      <ottavaFontFace>Edwin</ottavaFontFace>
       <ottavaFontStyle>2</ottavaFontStyle>
       <ottavaFramePadding>0</ottavaFramePadding>
       <ottavaFrameWidth>0</ottavaFrameWidth>
+      <tupletFontFace>Edwin</tupletFontFace>
+      <tupletFontSize>9</tupletFontSize>
       <tupletFramePadding>0</tupletFramePadding>
       <tupletFrameWidth>0</tupletFrameWidth>
       <textLineFramePadding>0</textLineFramePadding>
       <textLineFrameWidth>0</textLineFrameWidth>
+      <defaultFontFace>Edwin</defaultFontFace>
       <defaultFontSpatiumDependent>0</defaultFontSpatiumDependent>
       <defaultAlign>left,baseline</defaultAlign>
       <defaultFramePadding>0</defaultFramePadding>
       <defaultFrameWidth>0</defaultFrameWidth>
       <defaultFrameRound>25</defaultFrameRound>
+      <titleFontFace>Edwin</titleFontFace>
+      <titleFontSize>22</titleFontSize>
       <titleFramePadding>0</titleFramePadding>
       <titleFrameWidth>0</titleFrameWidth>
       <titleFrameRound>25</titleFrameRound>
+      <subTitleFontFace>Edwin</subTitleFontFace>
+      <subTitleFontSize>16</subTitleFontSize>
       <subTitleFramePadding>0</subTitleFramePadding>
       <subTitleFrameWidth>0</subTitleFrameWidth>
       <subTitleFrameRound>25</subTitleFrameRound>
+      <composerFontFace>Edwin</composerFontFace>
+      <composerFontSize>10</composerFontSize>
       <composerFramePadding>0</composerFramePadding>
       <composerFrameWidth>0</composerFrameWidth>
       <composerFrameRound>25</composerFrameRound>
+      <lyricistFontFace>Edwin</lyricistFontFace>
+      <lyricistFontSize>10</lyricistFontSize>
       <lyricistFramePadding>0</lyricistFramePadding>
       <lyricistFrameWidth>0</lyricistFrameWidth>
       <lyricistFrameRound>25</lyricistFrameRound>
+      <fingeringFontFace>Edwin</fingeringFontFace>
       <fingeringFramePadding>0</fingeringFramePadding>
       <fingeringFrameWidth>0</fingeringFrameWidth>
       <fingeringFrameRound>25</fingeringFrameRound>
+      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
       <lhGuitarFingeringFramePadding>0</lhGuitarFingeringFramePadding>
       <lhGuitarFingeringFrameWidth>0</lhGuitarFingeringFrameWidth>
       <lhGuitarFingeringFrameRound>25</lhGuitarFingeringFrameRound>
+      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
+      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
       <rhGuitarFingeringFramePadding>0</rhGuitarFingeringFramePadding>
       <rhGuitarFingeringFrameWidth>0</rhGuitarFingeringFrameWidth>
       <rhGuitarFingeringFrameRound>25</rhGuitarFingeringFrameRound>
+      <stringNumberFontFace>Edwin</stringNumberFontFace>
+      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
+      <longInstrumentFontSize>10</longInstrumentFontSize>
       <longInstrumentFramePadding>0</longInstrumentFramePadding>
       <longInstrumentFrameWidth>0</longInstrumentFrameWidth>
+      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
+      <shortInstrumentFontSize>10</shortInstrumentFontSize>
       <shortInstrumentFramePadding>0</shortInstrumentFramePadding>
       <shortInstrumentFrameWidth>0</shortInstrumentFrameWidth>
+      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
+      <partInstrumentFontSize>14</partInstrumentFontSize>
       <partInstrumentFramePadding>0</partInstrumentFramePadding>
       <partInstrumentFrameWidth>0</partInstrumentFrameWidth>
       <partInstrumentFrameRound>25</partInstrumentFrameRound>
+      <dynamicsFontFace>Edwin</dynamicsFontFace>
+      <dynamicsFontSize>11</dynamicsFontSize>
       <dynamicsFramePadding>0</dynamicsFramePadding>
       <dynamicsFrameWidth>0</dynamicsFrameWidth>
-      <expressionFontSize>13</expressionFontSize>
+      <expressionFontFace>Edwin</expressionFontFace>
+      <expressionFontSize>10</expressionFontSize>
       <expressionFramePadding>0</expressionFramePadding>
       <expressionFrameWidth>0</expressionFrameWidth>
+      <tempoFontFace>Edwin</tempoFontFace>
       <tempoFramePadding>0</tempoFramePadding>
       <tempoFrameWidth>0</tempoFrameWidth>
       <tempoFrameRound>25</tempoFrameRound>
+      <metronomeFontFace>Edwin</metronomeFontFace>
+      <metronomeFontStyle>0</metronomeFontStyle>
       <metronomeFramePadding>0</metronomeFramePadding>
       <metronomeFrameWidth>0</metronomeFrameWidth>
-      <measureNumberAlign>center,bottom</measureNumberAlign>
+      <measureNumberFontFace>Edwin</measureNumberFontFace>
+      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
+      <measureNumberFontStyle>2</measureNumberFontStyle>
       <measureNumberFramePadding>0</measureNumberFramePadding>
       <measureNumberFrameWidth>0</measureNumberFrameWidth>
+      <translatorFontFace>Edwin</translatorFontFace>
+      <translatorFontSize>10</translatorFontSize>
       <translatorAlign>center,top</translatorAlign>
       <translatorFramePadding>0</translatorFramePadding>
       <translatorFrameWidth>0</translatorFrameWidth>
+      <systemFontFace>Edwin</systemFontFace>
       <systemAlign>left,top</systemAlign>
       <systemFramePadding>0</systemFramePadding>
       <systemFrameWidth>0</systemFrameWidth>
       <systemFrameRound>25</systemFrameRound>
+      <staffFontFace>Edwin</staffFontFace>
       <staffAlign>left,top</staffAlign>
-      <staffPosAbove x="0" y="-4"></staffPosAbove>
+      <staffPosAbove x="0" y="-4"/>
       <staffFramePadding>0</staffFramePadding>
       <staffFrameWidth>0</staffFrameWidth>
       <staffFrameRound>25</staffFrameRound>
+      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
+      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
+      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
+      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
+      <repeatLeftFontSize>18</repeatLeftFontSize>
       <repeatLeftFramePadding>0</repeatLeftFramePadding>
       <repeatLeftFrameWidth>0</repeatLeftFrameWidth>
       <repeatLeftFrameRound>25</repeatLeftFrameRound>
+      <repeatRightFontFace>Edwin</repeatRightFontFace>
+      <repeatRightFontSize>11</repeatRightFontSize>
       <repeatRightFramePadding>0</repeatRightFramePadding>
       <repeatRightFrameWidth>0</repeatRightFrameWidth>
       <repeatRightFrameRound>25</repeatRightFrameRound>
+      <frameFontFace>Edwin</frameFontFace>
+      <frameFontSize>10</frameFontSize>
       <frameFramePadding>0</frameFramePadding>
       <frameFrameWidth>0</frameFrameWidth>
       <glissandoAlign>center,baseline</glissandoAlign>
@@ -148,6 +219,8 @@
       <user4Align>right,baseline</user4Align>
       <user4FramePadding>0</user4FramePadding>
       <user4FrameWidth>0</user4FrameWidth>
+      <usePre_3_6_defaults>1</usePre_3_6_defaults>
+      <defaultsVersion>301</defaultsVersion>
       <Spatium>1.25</Spatium>
       </Style>
     <showInvisible>0</showInvisible>
@@ -158,10 +231,9 @@
     <metaTag name="composer">Maria Theresia von Paradis</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2019-11-11</metaTag>
-    <metaTag name="lyricist">(based on &#34;An eine Linde&#34; by Sophie de La Roche)</metaTag>
+    <metaTag name="lyricist">(based on &quot;An eine Linde&quot; by Sophie de La Roche)</metaTag>
     <metaTag name="movementNumber">6</metaTag>
     <metaTag name="movementTitle">Erinnerung ans Schicksal</metaTag>
-    <metaTag name="originalFormat">Transcription</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/5908953</metaTag>
@@ -173,10 +245,10 @@
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
-        <bracket type="0" span="4" col="0"></bracket>
+        <bracket type="0" span="4" col="0"/>
         </Staff>
       <trackName>Violin</trackName>
-      <Instrument>
+      <Instrument id="violin">
         <longName>Violino
 <i>Violin</i></longName>
         <shortName>Vln.</shortName>
@@ -227,23 +299,23 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
-          <controller ctrl="0" value="0"></controller>
-          <controller ctrl="32" value="17"></controller>
-          <program value="40"></program>
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="40"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>4</midiChannel>
           </Channel>
         <Channel name="pizzicato">
-          <program value="45"></program>
+          <program value="45"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>5</midiChannel>
           </Channel>
         <Channel name="tremolo">
-          <controller ctrl="0" value="0"></controller>
-          <controller ctrl="32" value="17"></controller>
-          <program value="44"></program>
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="44"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>6</midiChannel>
@@ -257,7 +329,7 @@
           </StaffType>
         </Staff>
       <trackName>Voice</trackName>
-      <Instrument>
+      <Instrument id="voice">
         <longName>Canto
 <i>Voice</i></longName>
         <shortName>Vo.</shortName>
@@ -308,9 +380,9 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <controller ctrl="0" value="0"></controller>
-          <controller ctrl="32" value="17"></controller>
-          <program value="52"></program>
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="52"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>0</midiChannel>
@@ -324,7 +396,7 @@
           </StaffType>
         </Staff>
       <trackName>Piano</trackName>
-      <Instrument>
+      <Instrument id="piano">
         <longName>Cembalo
 <i>Piano</i></longName>
         <shortName>Pno.</shortName>
@@ -376,7 +448,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <program value="0"></program>
+          <program value="0"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>1</midiChannel>
@@ -392,7 +464,7 @@
         <barLineSpan>1</barLineSpan>
         </Staff>
       <trackName>Violoncello</trackName>
-      <Instrument>
+      <Instrument id="violoncello">
         <longName>Basso
 <i>Cello</i></longName>
         <shortName>Vc.</shortName>
@@ -444,23 +516,23 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
-          <controller ctrl="0" value="0"></controller>
-          <controller ctrl="32" value="17"></controller>
-          <program value="42"></program>
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="42"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>7</midiChannel>
           </Channel>
         <Channel name="pizzicato">
-          <program value="45"></program>
+          <program value="45"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>8</midiChannel>
           </Channel>
         <Channel name="tremolo">
-          <controller ctrl="0" value="0"></controller>
-          <controller ctrl="32" value="17"></controller>
-          <program value="44"></program>
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="44"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>10</midiChannel>
@@ -469,11 +541,13 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>19</height>
-        <bottomGap>13.0944</bottomGap>
+        <height>24</height>
+        <bottomGap>14.5</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>User-3</style>
-          <offset x="0" y="12.5"></offset>
+          <family>Edwin</family>
+          <offset x="0" y="14"/>
           <text>6. Erinnerung ans Schicksal</text>
           </Text>
         <Text>
@@ -482,17 +556,19 @@
           </Text>
         <Text>
           <style>User-2</style>
+          <family>Edwin</family>
           <text>12 Lieder, 1786
 <i>(Zwölf Lieder auf ihrer Reise in Musik gesetzt)
 </i></text>
           </Text>
         <Text>
           <style>Lyricist</style>
-          <offset x="0" y="0.75"></offset>
-          <text>(based on <i>&#34;An eine Linde&#34;</i> by Sophie de La Roche)</text>
+          <offset x="0" y="0.75"/>
+          <text>(based on <i>&quot;An eine Linde&quot;</i> by Sophie de La Roche)</text>
           </Text>
         </VBox>
       <Measure len="1/4">
+        <irregular>1</irregular>
         <voice>
           <KeySig>
             <accidental>-2</accidental>
@@ -503,7 +579,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.13333</tempo>
+            <tempo>1.1333299999999999</tempo>
             <text>Un poco Adagio</text>
             </Tempo>
           <Rest>
@@ -545,7 +621,7 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -578,7 +654,7 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -611,7 +687,7 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -644,7 +720,7 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -681,7 +757,7 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -714,7 +790,7 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -747,7 +823,7 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -780,7 +856,7 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -817,7 +893,7 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -850,7 +926,7 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -883,7 +959,7 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -916,7 +992,7 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -956,7 +1032,7 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -989,7 +1065,7 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -1022,7 +1098,7 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -1227,7 +1303,7 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -1264,7 +1340,7 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -1297,7 +1373,7 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -1330,7 +1406,7 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -1366,7 +1442,7 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -1418,7 +1494,7 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -1463,7 +1539,7 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -1508,7 +1584,7 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -1553,7 +1629,7 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -1602,7 +1678,7 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -1647,7 +1723,7 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -1692,7 +1768,7 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -1737,7 +1813,7 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -1786,7 +1862,7 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -1831,7 +1907,7 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -1876,7 +1952,7 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -1921,7 +1997,7 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -1961,7 +2037,7 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -1997,7 +2073,7 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -2033,7 +2109,7 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -2069,7 +2145,7 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -2133,7 +2209,7 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -2169,7 +2245,7 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -2205,7 +2281,7 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -2241,7 +2317,7 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -2278,7 +2354,7 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -2311,7 +2387,7 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -2344,7 +2420,7 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -2377,7 +2453,7 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -2414,7 +2490,7 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -2447,7 +2523,7 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -2480,7 +2556,7 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -2513,7 +2589,7 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -2550,7 +2626,7 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -2583,7 +2659,7 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -2616,7 +2692,7 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -2649,7 +2725,7 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -2686,7 +2762,7 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -2719,7 +2795,7 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -2774,7 +2850,7 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -2826,7 +2902,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -2877,9 +2953,10 @@
         </Measure>
       <VBox>
         <height>10</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Frame</style>
-          <offset x="218.489" y="9.12427"></offset>
+          <offset x="218.489" y="9.12427"/>
           <text>Mit des Frühlings schönen Morgen
 Blüht die Linde wieder neu,
 Wird dann auch von ihren Sorgen
@@ -2892,7 +2969,7 @@ Bringst du auch mein Wohl zurück.
           </Text>
         <Text>
           <style>Frame</style>
-          <offset x="148.454" y="9.37087"></offset>
+          <offset x="148.454" y="9.37087"/>
           <text>Von dem rauhen Nord getrieben
 Sterbt ihr weit von eurem Stamm,
 So wie ich von allen Lieben,
@@ -2905,7 +2982,7 @@ Denn der Böse kennt sie nicht.
           </Text>
         <Text>
           <style>Frame</style>
-          <offset x="6.65825" y="9.37087"></offset>
+          <offset x="6.65825" y="9.37087"/>
           <text>Meiner lieben trauten Linde,
 Die mir freundlich Schatten gab,
 Rissen gestern rauche Winde
@@ -2917,7 +2994,7 @@ Schutz bey ihrer Nachbarin.</text>
           </Text>
         <Text>
           <style>Frame</style>
-          <offset x="72.9942" y="9.37087"></offset>
+          <offset x="72.9942" y="9.37087"/>
           <text>Gute Blätter! euer Grünen
 War Vergnügen für mein Herz :
 Nun könnt ihr zum Bilde dienen
@@ -3042,7 +3119,7 @@ Und sie welkten, sind nicht mehr.</text>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <grace16></grace16>
+            <grace16/>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -3050,7 +3127,7 @@ Und sie welkten, sind nicht mehr.</text>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <grace16></grace16>
+            <grace16/>
             <Note>
               <pitch>70</pitch>
               <tpc>12</tpc>
@@ -3058,7 +3135,7 @@ Und sie welkten, sind nicht mehr.</text>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <grace16></grace16>
+            <grace16/>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
@@ -3582,7 +3659,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -3991,7 +4068,7 @@ Und sie welkten, sind nicht mehr.</text>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <offset x="1.16" y="2.98"></offset>
+              <offset x="1.16" y="2.98"/>
               <text>gleich</text>
               </Lyrics>
             <Note>
@@ -4066,7 +4143,7 @@ Und sie welkten, sind nicht mehr.</text>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/16</ticks_f>
-              <offset x="-0.5" y="3"></offset>
+              <offset x="-0.5" y="3"/>
               <text>ten</text>
               </Lyrics>
             <Note>
@@ -4078,7 +4155,7 @@ Und sie welkten, sind nicht mehr.</text>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <offset x="0.5" y="3"></offset>
+              <offset x="0.5" y="3"/>
               <text>sie</text>
               </Lyrics>
             <Note>
@@ -4088,7 +4165,7 @@ Und sie welkten, sind nicht mehr.</text>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <grace16></grace16>
+            <grace16/>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -4096,7 +4173,7 @@ Und sie welkten, sind nicht mehr.</text>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <grace16></grace16>
+            <grace16/>
             <Note>
               <pitch>70</pitch>
               <tpc>12</tpc>
@@ -4104,7 +4181,7 @@ Und sie welkten, sind nicht mehr.</text>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <grace16></grace16>
+            <grace16/>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
@@ -4407,7 +4484,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -4440,7 +4517,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -4473,7 +4550,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -4506,7 +4583,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -4543,7 +4620,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -4576,7 +4653,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -4609,7 +4686,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -4642,7 +4719,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -4679,7 +4756,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -4715,7 +4792,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -4748,7 +4825,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -4781,7 +4858,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -4818,7 +4895,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -4851,7 +4928,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -4884,7 +4961,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -5241,7 +5318,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -5278,7 +5355,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -5311,7 +5388,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -5344,7 +5421,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -5380,7 +5457,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -5429,7 +5506,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -5474,7 +5551,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -5519,7 +5596,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -5564,7 +5641,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -5623,7 +5700,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -5672,7 +5749,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -5721,7 +5798,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -5770,7 +5847,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -5823,7 +5900,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -5868,7 +5945,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -5913,7 +5990,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -5958,7 +6035,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -6007,7 +6084,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -6052,7 +6129,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -6097,7 +6174,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -6142,7 +6219,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -6204,7 +6281,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -6237,7 +6314,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -6270,7 +6347,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -6303,7 +6380,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -6340,7 +6417,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -6373,7 +6450,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -6406,7 +6483,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -6439,7 +6516,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -6476,7 +6553,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -6512,7 +6589,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -6545,7 +6622,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -6578,7 +6655,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -6615,7 +6692,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -6648,7 +6725,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -6681,7 +6758,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -6714,7 +6791,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -6754,7 +6831,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -6787,7 +6864,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -6832,7 +6909,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -6877,7 +6954,7 @@ Und sie welkten, sind nicht mehr.</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>

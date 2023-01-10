@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -304,7 +304,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>0.483333</tempo>
+            <tempo>0.48333300000000001</tempo>
             <followText>1</followText>
             <family>FreeSerif</family>
             <text><b><font size="14"></font>Ruhevoll (</b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = ca. 58)</b></text>
@@ -2601,6 +2601,7 @@
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
+                <up>up</up>
                 </Slur>
               <next>
                 <location>
@@ -2628,6 +2629,7 @@
               </Note>
             </Chord>
           <Tuplet>
+            <offset x="0" y="-0.5"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -2703,7 +2705,7 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-2.05512"/>
+                <offset x="0" y="-4.06"/>
                 <off2 x="1.56189" y="0"/>
                 </Segment>
               </HairPin>
@@ -3400,7 +3402,7 @@
           <StaffText>
             <style>Tempo</style>
             <offset x="0" y="-9.5"/>
-            <text>äußerst ruhig
+            <text>äusserst ruhig
 a tempo
 </text>
             </StaffText>
@@ -8966,6 +8968,11 @@ a tempo
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="8.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -10237,7 +10244,7 @@ a tempo
             </Spanner>
           <Spanner type="HairPin">
             <HairPin>
-              <subtype>1</subtype>
+              <subtype>0</subtype>
               </HairPin>
             <next>
               <location>
@@ -10252,7 +10259,7 @@ a tempo
             </Spanner>
           <Spanner type="HairPin">
             <HairPin>
-              <subtype>0</subtype>
+              <subtype>1</subtype>
               </HairPin>
             <next>
               <location>

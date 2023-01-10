@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -166,7 +166,6 @@
     <metaTag name="lyricist">William Ernest Henley</metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
-    <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform"></metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/6469541</metaTag>
@@ -180,14 +179,14 @@
           </StaffType>
         </Staff>
       <trackName>Voice</trackName>
-      <Instrument id="oboe">
+      <Instrument id="voice">
         <longName>Voice</longName>
-        <trackName>Oboe</trackName>
-        <minPitchP>58</minPitchP>
-        <maxPitchP>96</maxPitchP>
-        <minPitchA>58</minPitchA>
-        <maxPitchA>87</maxPitchA>
-        <instrumentId>wind.reed.oboe</instrumentId>
+        <trackName>Voice</trackName>
+        <minPitchP>38</minPitchP>
+        <maxPitchP>84</maxPitchP>
+        <minPitchA>41</minPitchA>
+        <maxPitchA>79</maxPitchA>
+        <instrumentId>voice.vocals</instrumentId>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -232,7 +231,7 @@
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="68"/>
-          <controller ctrl="10" value="47"/>
+          <controller ctrl="10" value="40"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -352,7 +351,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.9</tempo>
+            <tempo>1.8999999999999999</tempo>
             <text>Molto moderato, senza rigore</text>
             </Tempo>
           <Rest>
@@ -908,9 +907,7 @@
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
-              <text>y
-                <font face="ScoreText"></font>
-                <font face="FreeSerif"></font>a</text>
+              <text>y<font face="ScoreText"></font>  <font face="FreeSerif"></font>a</text>
               </Lyrics>
             <Note>
               <pitch>62</pitch>
@@ -925,6 +922,7 @@
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
               <placement>above</placement>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="-1.5" y="-1.5"/>
@@ -1418,7 +1416,9 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
+              <beginText>cresc.  </beginText>
               <placement>above</placement>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="0" y="-2"/>
@@ -1427,8 +1427,8 @@
               </HairPin>
             <next>
               <location>
-                <measures>2</measures>
-                <fractions>-5/8</fractions>
+                <measures>1</measures>
+                <fractions>-1/8</fractions>
                 </location>
               </next>
             </Spanner>
@@ -1498,6 +1498,14 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                <fractions>1/8</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -1553,14 +1561,6 @@
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-2</measures>
-                <fractions>5/8</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -2010,7 +2010,9 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
+              <beginText>cresc.  </beginText>
               <placement>above</placement>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="-1.5" y="-2.5"/>
@@ -2296,7 +2298,7 @@
             <text>Sostenuto</text>
             </StaffText>
           <Tempo>
-            <tempo>1.83333</tempo>
+            <tempo>1.8333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text>
@@ -2420,7 +2422,7 @@
             <text>Tempo</text>
             </StaffText>
           <Tempo>
-            <tempo>1.9</tempo>
+            <tempo>1.8999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text>
@@ -2538,7 +2540,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.9</tempo>
+            <tempo>1.8999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text>
@@ -2885,10 +2887,11 @@
               <subtype>2</subtype>
               <endText></endText>
               <beginFontSize>9</beginFontSize>
-              <beginText>cresc.    </beginText>
+              <beginText>cresc.  </beginText>
               <continueFontSize>9</continueFontSize>
               <continueText>(cresc.)    </continueText>
               <placement>above</placement>
+              <dashGapLength>20</dashGapLength>
               </HairPin>
             <next>
               <location>
@@ -3193,7 +3196,9 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
+              <beginText>cresc.  </beginText>
               <placement>above</placement>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="0" y="-2"/>
@@ -3308,7 +3313,7 @@
           </LayoutBreak>
         <voice>
           <Tempo>
-            <tempo>1.83333</tempo>
+            <tempo>1.8333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text>
@@ -3462,7 +3467,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.76667</tempo>
+            <tempo>1.7666666666666666</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text>
@@ -3521,7 +3526,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.66667</tempo>
+            <tempo>1.6666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text>
@@ -3585,7 +3590,7 @@
             <text>Tempo</text>
             </StaffText>
           <Tempo>
-            <tempo>1.9</tempo>
+            <tempo>1.8999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text>
@@ -3884,7 +3889,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.88333</tempo>
+            <tempo>1.8833299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text>
@@ -3902,7 +3907,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.83333</tempo>
+            <tempo>1.8333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text>
@@ -5111,9 +5116,10 @@
             <fractions>-1/2</fractions>
             </location>
           <Tempo>
-            <tempo>1.53333</tempo>
+            <tempo>1.5333333333333332</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <offset x="0.121885" y="-13.222"/>
             <text>
               <b></b>
               <font face="ScoreText"></font>
@@ -5133,7 +5139,7 @@
             <text>affretando</text>
             </StaffText>
           <Tempo>
-            <tempo>1.6</tempo>
+            <tempo>1.6000000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text>
@@ -5170,7 +5176,7 @@
             <fractions>-1/2</fractions>
             </location>
           <Tempo>
-            <tempo>1.66667</tempo>
+            <tempo>1.6666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text>
@@ -5268,16 +5274,6 @@
               <i><font face="FreeSerif"></font>  tranquillo</i>
             </text>
             </Dynamic>
-          <Tempo>
-            <tempo>1.66667</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <text>
-              <b></b>
-              <font face="ScoreText"></font>
-              <b><font face="FreeSerif"></font> = 100</b>
-            </text>
-            </Tempo>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
@@ -6433,7 +6429,7 @@
         <vspacerDown>11</vspacerDown>
         <voice>
           <Tempo>
-            <tempo>1.63333</tempo>
+            <tempo>1.6333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-6"/>
@@ -6470,7 +6466,7 @@
             <fractions>-1/2</fractions>
             </location>
           <Tempo>
-            <tempo>1.86667</tempo>
+            <tempo>1.8666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-6"/>
@@ -6524,7 +6520,7 @@
             <text>calando</text>
             </StaffText>
           <Tempo>
-            <tempo>1.9</tempo>
+            <tempo>1.8999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-6"/>
@@ -6542,7 +6538,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.86667</tempo>
+            <tempo>1.8666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-6"/>
@@ -6560,7 +6556,7 @@
             <fractions>-1/2</fractions>
             </location>
           <Tempo>
-            <tempo>1.66667</tempo>
+            <tempo>1.6666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-6"/>
@@ -6575,7 +6571,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.6</tempo>
+            <tempo>1.6000000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-6"/>
@@ -6642,6 +6638,7 @@
       <VBox>
         <height>4</height>
         <topGap>18.2687</topGap>
+        <bottomGap>10</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Subtitle</style>
@@ -6661,7 +6658,7 @@
             <sigD>8</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.63333</tempo>
+            <tempo>1.6333299999999999</tempo>
             <text>Andante con moto.</text>
             </Tempo>
           <Rest>
@@ -7598,7 +7595,7 @@
             <text>a tempo</text>
             </StaffText>
           <Tempo>
-            <tempo>1.63333</tempo>
+            <tempo>1.6333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-6"/>
@@ -8298,7 +8295,7 @@
             <text>rall.</text>
             </StaffText>
           <Tempo>
-            <tempo>1.6</tempo>
+            <tempo>1.6000000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-6"/>
@@ -8448,7 +8445,7 @@
             <text>Molto sostenuto.</text>
             </StaffText>
           <Tempo>
-            <tempo>1.53333</tempo>
+            <tempo>1.5333300000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-6"/>
@@ -8627,7 +8624,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.4</tempo>
+            <tempo>1.3999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-6"/>
@@ -8729,7 +8726,7 @@
             <text>Tempo</text>
             </StaffText>
           <Tempo>
-            <tempo>1.63333</tempo>
+            <tempo>1.6333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-6"/>
@@ -8850,6 +8847,7 @@
       <VBox>
         <height>5</height>
         <topGap>18.2687</topGap>
+        <bottomGap>9</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Subtitle</style>
@@ -8868,7 +8866,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>2.4</tempo>
+            <tempo>2.3999999999999999</tempo>
             <text>Allegro moderato, quasi Allegretto.</text>
             </Tempo>
           <Rest>
@@ -9255,7 +9253,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>2.33333</tempo>
+            <tempo>2.3333300000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text>
@@ -9355,7 +9353,7 @@
             <text>Tempo</text>
             </StaffText>
           <Tempo>
-            <tempo>2.4</tempo>
+            <tempo>2.3999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text>
@@ -10113,6 +10111,7 @@
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
               <placement>above</placement>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="0" y="-2"/>
@@ -10321,8 +10320,10 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
+              <beginText>dim.  </beginText>
               <continueFontSize>10</continueFontSize>
               <placement>above</placement>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="0" y="-2"/>
@@ -10629,7 +10630,7 @@
             <text>Poco sostenuto</text>
             </StaffText>
           <Tempo>
-            <tempo>2.33333</tempo>
+            <tempo>2.3333300000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text>
@@ -10751,7 +10752,7 @@
             <text>Tempo.</text>
             </StaffText>
           <Tempo>
-            <tempo>2.4</tempo>
+            <tempo>2.3999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text>
@@ -12061,7 +12062,7 @@
             <text>Poco sostenuto</text>
             </StaffText>
           <Tempo>
-            <tempo>2.33333</tempo>
+            <tempo>2.3333300000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text>
@@ -12161,7 +12162,7 @@
             <text>Tempo.</text>
             </StaffText>
           <Tempo>
-            <tempo>2.4</tempo>
+            <tempo>2.3999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text>
@@ -12638,10 +12639,11 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
-              <beginText>cres -</beginText>
+              <beginText>cresc.  </beginText>
               <continueFontSize>10</continueFontSize>
-              <continueText>cendo</continueText>
+              <continueText>(cresc.)  </continueText>
               <placement>above</placement>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>1</subtype>
                 <offset x="0" y="-3"/>
@@ -12650,12 +12652,12 @@
               <Segment>
                 <subtype>3</subtype>
                 <offset x="4.5" y="-2.5"/>
-                <off2 x="0" y="0"/>
+                <off2 x="-4.5" y="0"/>
                 </Segment>
               </HairPin>
             <next>
               <location>
-                <measures>2</measures>
+                <measures>3</measures>
                 <fractions>-1/2</fractions>
                 </location>
               </next>
@@ -12734,14 +12736,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-2</measures>
-                <fractions>1/2</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -12771,6 +12765,14 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-3</measures>
+                <fractions>1/2</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -12972,7 +12974,7 @@
             </Dynamic>
           <Tempo>
             <tempo>1.93333</tempo>
-            <text>Largamente.</text>
+            <text>Largamente</text>
             </Tempo>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -13170,22 +13172,21 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
             <placement>above</placement>
-            <offset x="-2" y="-1.5"/>
             </Dynamic>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
           <StaffText>
             <style>Tempo</style>
             <size>11</size>
             <text>Tempo</text>
             </StaffText>
           <Tempo>
-            <tempo>2.4</tempo>
+            <tempo>2.3999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text>
@@ -13571,7 +13572,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>2.33333</tempo>
+            <tempo>2.3333300000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text>
@@ -13597,7 +13598,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>2.2</tempo>
+            <tempo>2.2000000000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text>
@@ -14443,6 +14444,7 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="2" y="6.5"/>
@@ -14670,6 +14672,7 @@
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
               <visible>0</visible>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="0" y="4"/>
@@ -15586,6 +15589,8 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
+              <beginText>cresc.  </beginText>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="0" y="4.7"/>
@@ -16054,6 +16059,8 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
+              <beginText>dim.  </beginText>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="0" y="5.79"/>
@@ -16381,6 +16388,8 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
+              <beginText>cresc. </beginText>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="2" y="4.5"/>
@@ -17644,7 +17653,8 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
-              <beginText>molto    dim. </beginText>
+              <beginText>molto    dim.    </beginText>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="-3" y="4"/>
@@ -17959,6 +17969,8 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
+              <beginText>cresc.  </beginText>
+              <dashGapLength>20</dashGapLength>
               </HairPin>
             <next>
               <location>
@@ -19801,6 +19813,7 @@
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
               <beginText>poco cresc.</beginText>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="-2" y="6.5"/>
@@ -21774,6 +21787,13 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="0">
+                    <o1 x="-0.3" y="0"/>
+                    <o2 x="0" y="0.6"/>
+                    <o3 x="0" y="0.6"/>
+                    <o4 x="0.3" y="-0.1"/>
+                    <offset x="0" y="0.5"/>
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -22664,6 +22684,13 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
+              <beginText>cresc.  </beginText>
+              <dashGapLength>20</dashGapLength>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="4.7"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -22731,6 +22758,8 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
+              <beginText>dim. </beginText>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="0" y="4.5"/>
@@ -24227,6 +24256,7 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="2" y="4"/>
@@ -24436,6 +24466,8 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
+              <beginText>cresc.  </beginText>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="-1" y="4"/>
@@ -24659,6 +24691,8 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
+              <beginText>dim.  </beginText>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="2" y="4"/>
@@ -25929,7 +25963,8 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
-              <beginText>poco cresc. </beginText>
+              <beginText>poco cresc.   </beginText>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="-2" y="5.5"/>
@@ -29582,6 +29617,7 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
+              <dashGapLength>20</dashGapLength>
               </HairPin>
             <next>
               <location>
@@ -30097,7 +30133,9 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
+              <beginText>dim.  </beginText>
               <continueFontSize>10</continueFontSize>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="0" y="5"/>
@@ -32670,6 +32708,8 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
+              <beginText>dim.  </beginText>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="-8.5" y="3"/>
@@ -32800,6 +32840,8 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
+              <beginText>dim.  </beginText>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="-6.5" y="3"/>
@@ -35397,7 +35439,8 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>10</beginFontSize>
-              <beginText>diminuendo</beginText>
+              <beginText>diminuendo  </beginText>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="3.5" y="4.56"/>

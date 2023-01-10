@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -42,8 +42,7 @@
     <showMargins>0</showMargins>
     <metaTag name="arranger">Transcribed from IMSLP #580179. Source: https://imslp.org/wiki/Lamento%2C_VWV_1139_(Viardot%2C_Pauline)</metaTag>
     <metaTag name="composer">Pauline Viardot (1821-1910)</metaTag>
-    <metaTag name="copyright">Creative Commons copyright waiver (CC0 1.0 Universal)
-</metaTag>
+    <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2021-01-26</metaTag>
     <metaTag name="lyricist">Théophile Gautier (1811-1872)</metaTag>
     <metaTag name="movementNumber"></metaTag>
@@ -233,7 +232,7 @@
             <sigD>8</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.53333</tempo>
+            <tempo>1.5333300000000001</tempo>
             <text>Andante</text>
             </Tempo>
           <Rest>
@@ -1135,7 +1134,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>1.6</tempo>
+            <tempo>1.6000000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <minDistance>-0.0633066</minDistance>
@@ -1719,7 +1718,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.525</tempo>
+            <tempo>1.5249999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <size>10</size>
@@ -3062,7 +3061,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.6</tempo>
+            <tempo>1.6000000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <minDistance>0.364825</minDistance>
@@ -3586,7 +3585,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.525</tempo>
+            <tempo>1.5249999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <minDistance>0.364825</minDistance>
@@ -3889,7 +3888,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>1.475</tempo>
+            <tempo>1.4750000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <minDistance>0.364825</minDistance>

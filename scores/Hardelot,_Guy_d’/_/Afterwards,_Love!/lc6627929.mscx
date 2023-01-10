@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -109,7 +109,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger">Transcribed from IMSLP #558603. Source: https://imslp.org/wiki/Special:ReverseLookup/558603</metaTag>
+    <metaTag name="arranger">Transcribed bydeadbeat-s from IMSLP #558603.  Source: https://imslp.org/wiki/Special:ReverseLookup/558603</metaTag>
     <metaTag name="composer">Guy d’ Hardelot</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2021-02-23</metaTag>
@@ -286,7 +286,7 @@
             <sigD>8</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>0.733333</tempo>
+            <tempo>0.73333300000000001</tempo>
             <followText>1</followText>
             <text><b>Adagio cantabile (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 88)</b></text>
             </Tempo>
@@ -313,6 +313,54 @@
             <durationType>measure</durationType>
             <duration>6/8</duration>
             </Rest>
+          <location>
+            <fractions>-1/2</fractions>
+            </location>
+          <Tempo>
+            <tempo>0.69999999999999996</tempo>
+            <followText>1</followText>
+            <autoplace>0</autoplace>
+            <visible>0</visible>
+            <size>8</size>
+            <offset x="0" y="-1.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 42</b></text>
+            </Tempo>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <Tempo>
+            <tempo>0.66666666666666663</tempo>
+            <followText>1</followText>
+            <autoplace>0</autoplace>
+            <visible>0</visible>
+            <size>8</size>
+            <offset x="0" y="-1.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 40</b></text>
+            </Tempo>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <Tempo>
+            <tempo>0.6333333333333333</tempo>
+            <followText>1</followText>
+            <autoplace>0</autoplace>
+            <visible>0</visible>
+            <size>8</size>
+            <offset x="0" y="-1.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 38</b></text>
+            </Tempo>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <Tempo>
+            <tempo>0.59999999999999998</tempo>
+            <followText>1</followText>
+            <autoplace>0</autoplace>
+            <visible>0</visible>
+            <size>8</size>
+            <offset x="0" y="-1.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 36</b></text>
+            </Tempo>
           </voice>
         </Measure>
       <Measure>
@@ -327,6 +375,13 @@
             <offset x="3" y="-2"/>
             <text>mezza voce</text>
             </StaffText>
+          <Tempo>
+            <tempo>0.73333333333333328</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>8</size>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 44</b></text>
+            </Tempo>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -1130,6 +1185,13 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Tempo>
+            <tempo>0.69999999999999996</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>8</size>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 42</b></text>
+            </Tempo>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
@@ -1158,6 +1220,13 @@
             <offset x="-4.07602" y="-2.01071"/>
             <text>rit.</text>
             </StaffText>
+          <Tempo>
+            <tempo>0.66666666666666663</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>8</size>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 40</b></text>
+            </Tempo>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
@@ -1186,6 +1255,7 @@
             </Chord>
           <Fermata>
             <subtype>fermataAbove</subtype>
+            <timeStretch>1.3</timeStretch>
             </Fermata>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -1199,14 +1269,33 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Breath>
+            <symbol>breathMarkComma</symbol>
+            <pause>0.2</pause>
+            <visible>0</visible>
+            </Breath>
           </voice>
         </Measure>
       <Measure>
         <vspacerDown>9.4</vspacerDown>
         <voice>
+          <Tempo>
+            <tempo>0.6333333333333333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>8</size>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 38</b></text>
+            </Tempo>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
+          <Tempo>
+            <tempo>0.59999999999999998</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>8</size>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 36</b></text>
+            </Tempo>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -1244,15 +1333,14 @@
               <text>wards,</text>
               </Lyrics>
             <Note>
-              <Symbol>
-                <name>breathMarkComma</name>
-                <font>Bravura</font>
-                <offset x="4.89055" y="-4.20415"/>
-                </Symbol>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Breath>
+            <symbol>breathMarkComma</symbol>
+            <pause>0.4</pause>
+            </Breath>
           </voice>
         </Measure>
       <Measure>
@@ -1332,7 +1420,7 @@
           <StaffText>
             <style>Expression</style>
             <placement>below</placement>
-            <offset x="3.53634" y="6.26138"/>
+            <offset x="3.53634" y="5.96138"/>
             <text>legato sostenuto</text>
             </StaffText>
           <Chord>
@@ -1530,6 +1618,7 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
+            <offset x="-2" y="4"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -1574,8 +1663,7 @@
           <StaffText>
             <style>Expression</style>
             <placement>below</placement>
-            <minDistance>-3.1424</minDistance>
-            <offset x="-1.7981" y="3.71465"/>
+            <offset x="-3.7981" y="5.11465"/>
             <text>rit.</text>
             </StaffText>
           <Spanner type="HairPin">
@@ -1768,8 +1856,8 @@
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="3.47986" y="3.5"/>
-                <off2 x="-3.47986" y="0"/>
+                <offset x="4.47986" y="5.44"/>
+                <off2 x="-4.47986" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -1871,24 +1959,6 @@
                 </location>
               </next>
             </Spanner>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>2</subtype>
-              <endText></endText>
-              <lineVisible>0</lineVisible>
-              <dashGapLength>9</dashGapLength>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="2.10806" y="4.7009"/>
-                <off2 x="-7.64261" y="0"/>
-                </Segment>
-              </HairPin>
-            <next>
-              <location>
-                <fractions>3/8</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1909,13 +1979,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <fractions>-3/8</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -2487,9 +2550,8 @@
               <subtype>0</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="2.56842" y="3.52368"/>
+                <offset x="0" y="4.39"/>
                 <off2 x="-0.798867" y="0"/>
-                <minDistance>0.573684</minDistance>
                 </Segment>
               </HairPin>
             <next>
@@ -2680,6 +2742,7 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
+            <offset x="-1.9" y="4"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -2711,9 +2774,8 @@
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-0.000958504" y="3.89038"/>
+                <offset x="0" y="4.39"/>
                 <off2 x="0.000958504" y="0"/>
-                <minDistance>0.492303</minDistance>
                 </Segment>
               </HairPin>
             <next>
@@ -2741,7 +2803,7 @@
           <StaffText>
             <style>Expression</style>
             <placement>below</placement>
-            <offset x="-10.2007" y="4.35979"/>
+            <offset x="-10.2007" y="4.85979"/>
             <text>rit.</text>
             </StaffText>
           <Beam>
@@ -3536,6 +3598,7 @@
             </Chord>
           <Fermata>
             <subtype>fermataAbove</subtype>
+            <timeStretch>1.3</timeStretch>
             </Fermata>
           <Chord>
             <dots>1</dots>
@@ -3564,8 +3627,7 @@
             </StaffText>
           <StaffText>
             <style>Expression</style>
-            <minDistance>-0.150946</minDistance>
-            <offset x="-2.3243" y="-0.846554"/>
+            <offset x="-2.3243" y="-1.84655"/>
             <text>poco rit.</text>
             </StaffText>
           <Spanner type="HairPin">
@@ -3751,6 +3813,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
+                  <o1 x="-0.1" y="1"/>
                   <o4 x="0.294387" y="-2.82612"/>
                   </SlurSegment>
                 </Slur>
@@ -3900,7 +3963,7 @@
             </TimeSig>
           <StaffText>
             <placement>below</placement>
-            <offset x="-4.51272" y="4.5861"/>
+            <offset x="-4.51" y="5.6"/>
             <text><i>Due</i></text>
             </StaffText>
           <Spanner type="Pedal">
@@ -3909,8 +3972,8 @@
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0.411721" y="4.94756"/>
-                <off2 x="0" y="0"/>
+                <offset x="0.01" y="5.5"/>
+                <off2 x="0.4" y="0"/>
                 </Segment>
               </Pedal>
             <next>
@@ -4007,6 +4070,11 @@
             <Pedal>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0.01" y="5.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Pedal>
             <next>
               <location>
@@ -4050,6 +4118,11 @@
             <Pedal>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0.01" y="5.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Pedal>
             <next>
               <location>
@@ -4122,6 +4195,11 @@
             <Pedal>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0.01" y="5.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Pedal>
             <next>
               <location>
@@ -4130,6 +4208,7 @@
               </next>
             </Spanner>
           <Chord>
+            <offset x="-0.5" y="0"/>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
@@ -4194,7 +4273,8 @@
               <tpc>11</tpc>
               </Note>
             <Arpeggio>
-              <offset x="0.464051" y="0.321266"/>
+              <autoplace>0</autoplace>
+              <offset x="0" y="0.32"/>
               <subtype>0</subtype>
               <userLen1>2.21317</userLen1>
               </Arpeggio>
@@ -4218,9 +4298,8 @@
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-1.79357" y="6.97428"/>
+                <offset x="-1.79" y="8.47"/>
                 <off2 x="12.9892" y="0"/>
-                <minDistance>0.550536</minDistance>
                 </Segment>
               </Pedal>
             <next>
@@ -4267,9 +4346,9 @@
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-2.84" y="8.20449"/>
-                <off2 x="9.32273" y="0"/>
-                <minDistance>-1.71926</minDistance>
+                <offset x="-3.29" y="8.47"/>
+                <off2 x="10.8227" y="0"/>
+                <minDistance>-1.485</minDistance>
                 </Segment>
               </Pedal>
             <next>
@@ -4363,6 +4442,11 @@
             <Pedal>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-1.79" y="8.47"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Pedal>
             <next>
               <location>
@@ -4424,7 +4508,7 @@
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0.419143" y="4.91142"/>
+                <offset x="0.42" y="6.41"/>
                 <off2 x="-5.61403" y="0"/>
                 </Segment>
               </Pedal>
@@ -4459,6 +4543,11 @@
               <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0.42" y="6.41"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Pedal>
             <next>
               <location>
@@ -4505,7 +4594,7 @@
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-0.664987" y="6.29375"/>
+                <offset x="0.42" y="6.41"/>
                 <off2 x="-5.87268" y="0"/>
                 </Segment>
               </Pedal>
@@ -4541,6 +4630,12 @@
               <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0.42" y="6.41"/>
+                <off2 x="0" y="0"/>
+                <minDistance>0.220001</minDistance>
+                </Segment>
               </Pedal>
             <next>
               <location>
@@ -4878,7 +4973,8 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="-5.42966" y="4.5861"/>
+            <size>9</size>
+            <offset x="-5.43" y="5.6"/>
             <text><i>col Due</i></text>
             </StaffText>
           <Spanner type="Pedal">
@@ -4894,8 +4990,8 @@
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="1.87619" y="5.68235"/>
-                <off2 x="-2.26447" y="0"/>
+                <offset x="1.38" y="5.5"/>
+                <off2 x="-1.76447" y="0"/>
                 <autoplace>0</autoplace>
                 </Segment>
               </Pedal>
@@ -4954,6 +5050,11 @@
             <Pedal>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="1.88" y="5.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Pedal>
             <next>
               <location>
@@ -5016,6 +5117,11 @@
             <Pedal>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="1.88" y="5.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Pedal>
             <next>
               <location>
@@ -5058,6 +5164,8 @@
               </Spanner>
             <Articulation>
               <subtype>articAccentAbove</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="0.3"/>
               </Articulation>
             <Note>
               <pitch>69</pitch>
@@ -5112,8 +5220,8 @@
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-1.49757" y="4"/>
-                <off2 x="1.17368" y="0"/>
+                <offset x="-1.5" y="4.5"/>
+                <off2 x="-0.82632" y="0"/>
                 </Segment>
               </Pedal>
             <next>
@@ -5143,6 +5251,11 @@
               <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-1.5" y="4.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Pedal>
             <next>
               <location>
@@ -5184,6 +5297,11 @@
               <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-1.5" y="4.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Pedal>
             <next>
               <location>
@@ -5290,6 +5408,11 @@
               <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-1.5" y="4.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Pedal>
             <next>
               <location>
@@ -5359,6 +5482,12 @@
               <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-1.5" y="4.5"/>
+                <off2 x="0" y="0"/>
+                <minDistance>0.310001</minDistance>
+                </Segment>
               </Pedal>
             <next>
               <location>
@@ -5385,7 +5514,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="-4.62987" y="5.64047"/>
+            <offset x="-4.63" y="6.6"/>
             <text><i>Due</i></text>
             </StaffText>
           <Spanner type="Pedal">
@@ -5402,6 +5531,12 @@
               <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-0.39" y="6.5"/>
+                <off2 x="0.2" y="0"/>
+                <minDistance>0.310001</minDistance>
+                </Segment>
               </Pedal>
             <next>
               <location>
@@ -5516,6 +5651,11 @@
               <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-0.19" y="6.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Pedal>
             <next>
               <location>
@@ -5578,6 +5718,11 @@
               <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-0.19" y="6.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Pedal>
             <next>
               <location>
@@ -5632,7 +5777,8 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="-2.75544" y="8.2178"/>
+            <minDistance>-1.61</minDistance>
+            <offset x="-4.5" y="6.6"/>
             <text><i>Due</i></text>
             </StaffText>
           <Spanner type="Pedal">
@@ -5651,8 +5797,9 @@
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="1.64012" y="7.91311"/>
+                <offset x="-0.19" y="6.5"/>
                 <off2 x="0" y="0"/>
+                <minDistance>0.643685</minDistance>
                 </Segment>
               </Pedal>
             <next>
@@ -5712,6 +5859,7 @@
             </Chord>
           <Fermata>
             <subtype>fermataBelow</subtype>
+            <timeStretch>1.3</timeStretch>
             <placement>below</placement>
             </Fermata>
           <Chord>
@@ -5737,7 +5885,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0.775469" y="5.21147"/>
+            <offset x="-4.22" y="5.6"/>
             <text><i>Due</i></text>
             </StaffText>
           <Spanner type="Pedal">
@@ -5746,6 +5894,24 @@
                 <measures>-1</measures>
                 </location>
               </prev>
+            </Spanner>
+          <Spanner type="Pedal">
+            <Pedal>
+              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
+              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
+              <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
+              <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="5.5"/>
+                <off2 x="2.04093" y="0"/>
+                </Segment>
+              </Pedal>
+            <next>
+              <location>
+                <fractions>5/16</fractions>
+                </location>
+              </next>
             </Spanner>
           <Chord>
             <durationType>eighth</durationType>
@@ -5757,24 +5923,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Spanner type="Pedal">
-            <Pedal>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
-              <lineVisible>0</lineVisible>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-0.497641" y="5.45086"/>
-                <off2 x="2.54093" y="0"/>
-                </Segment>
-              </Pedal>
-            <next>
-              <location>
-                <fractions>3/16</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -5798,7 +5946,7 @@
           <Spanner type="Pedal">
             <prev>
               <location>
-                <fractions>-3/16</fractions>
+                <fractions>-5/16</fractions>
                 </location>
               </prev>
             </Spanner>

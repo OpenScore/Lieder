@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.01">
-  <programVersion>3.2.3</programVersion>
-  <programRevision>d2d863f</programRevision>
+<museScore version="3.02">
+  <programVersion>3.6.2</programVersion>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -10,109 +10,176 @@
       <pageWidth>8.27007</pageWidth>
       <pageHeight>11.6901</pageHeight>
       <pagePrintableWidth>7.48267</pagePrintableWidth>
-      <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-      <pageEvenTopMargin>0.393701</pageEvenTopMargin>
       <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
-      <pageOddTopMargin>0.393701</pageOddTopMargin>
       <pageOddBottomMargin>0.787403</pageOddBottomMargin>
+      <lyricsMinDistance>0.6</lyricsMinDistance>
+      <lyricsDashMaxDistance>10</lyricsDashMaxDistance>
       <lyricsDashForce>0</lyricsDashForce>
-      <lyricsOddFontSize>12</lyricsOddFontSize>
+      <lyricsMelismaPad>0.5</lyricsMelismaPad>
+      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
+      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
+      <lyricsOddFontSize>10</lyricsOddFontSize>
       <lyricsOddFramePadding>0</lyricsOddFramePadding>
       <lyricsOddFrameWidth>0</lyricsOddFrameWidth>
-      <lyricsEvenFontSize>12</lyricsEvenFontSize>
-      <lyricsOddFramePadding>0</lyricsOddFramePadding>
-      <lyricsOddFrameWidth>0</lyricsOddFrameWidth>
-      <doubleBarDistance>0.46</doubleBarDistance>
-      <endBarDistance>0.65</endBarDistance>
+      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
+      <lyricsEvenFontSize>10</lyricsEvenFontSize>
+      <barWidth>0.18</barWidth>
+      <doubleBarWidth>0.18</doubleBarWidth>
+      <endBarWidth>0.55</endBarWidth>
+      <doubleBarDistance>0.55</doubleBarDistance>
+      <endBarDistance>0.7</endBarDistance>
+      <repeatBarlineDotSeparation>0.7</repeatBarlineDotSeparation>
+      <bracketWidth>0.44</bracketWidth>
       <clefLeftMargin>0.64</clefLeftMargin>
       <clefKeyRightMargin>1.75</clefKeyRightMargin>
+      <stemWidth>0.11</stemWidth>
       <barNoteDistance>1.2</barNoteDistance>
       <measureSpacing>1</measureSpacing>
+      <staffLineWidth>0.11</staffLineWidth>
+      <ledgerLineLength>0.35</ledgerLineLength>
       <lastSystemFillLimit>0</lastSystemFillLimit>
+      <hairpinWidth>0.12</hairpinWidth>
+      <hairpinFontFace>Edwin</hairpinFontFace>
+      <hairpinFontSize>10</hairpinFontSize>
       <hairpinFramePadding>0</hairpinFramePadding>
       <hairpinFrameWidth>0</hairpinFrameWidth>
+      <pedalLineWidth>0.11</pedalLineWidth>
+      <pedalFontFace>Edwin</pedalFontFace>
       <pedalFramePadding>0</pedalFramePadding>
       <pedalFrameWidth>0</pedalFrameWidth>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <harmonyPlay>0</harmonyPlay>
+      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
+      <chordSymbolAFontSize>11</chordSymbolAFontSize>
       <chordSymbolAFramePadding>0</chordSymbolAFramePadding>
       <chordSymbolAFrameWidth>0</chordSymbolAFrameWidth>
+      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
+      <chordSymbolBFontSize>11</chordSymbolBFontSize>
+      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
+      <slurMidWidth>0.21</slurMidWidth>
+      <musicalSymbolFont>Leland</musicalSymbolFont>
+      <musicalTextFont>Leland Text</musicalTextFont>
+      <voltaLineWidth>0.11</voltaLineWidth>
       <voltaFramePadding>0</voltaFramePadding>
       <voltaFrameWidth>0</voltaFrameWidth>
+      <ottavaLineWidth>0.11</ottavaLineWidth>
+      <ottavaFontFace>Edwin</ottavaFontFace>
       <ottavaFontStyle>2</ottavaFontStyle>
       <ottavaFramePadding>0</ottavaFramePadding>
       <ottavaFrameWidth>0</ottavaFrameWidth>
-      <keySigNaturals>1</keySigNaturals>
+      <tupletFontFace>Edwin</tupletFontFace>
+      <tupletFontSize>9</tupletFontSize>
       <tupletFramePadding>0</tupletFramePadding>
       <tupletFrameWidth>0</tupletFrameWidth>
       <textLineFramePadding>0</textLineFramePadding>
       <textLineFrameWidth>0</textLineFrameWidth>
+      <defaultFontFace>Edwin</defaultFontFace>
       <defaultFontSpatiumDependent>0</defaultFontSpatiumDependent>
       <defaultAlign>left,baseline</defaultAlign>
       <defaultFramePadding>0</defaultFramePadding>
       <defaultFrameWidth>0</defaultFrameWidth>
       <defaultFrameRound>25</defaultFrameRound>
+      <titleFontFace>Edwin</titleFontFace>
+      <titleFontSize>22</titleFontSize>
       <titleFramePadding>0</titleFramePadding>
       <titleFrameWidth>0</titleFrameWidth>
       <titleFrameRound>25</titleFrameRound>
+      <subTitleFontFace>Edwin</subTitleFontFace>
+      <subTitleFontSize>16</subTitleFontSize>
       <subTitleFramePadding>0</subTitleFramePadding>
       <subTitleFrameWidth>0</subTitleFrameWidth>
       <subTitleFrameRound>25</subTitleFrameRound>
+      <composerFontFace>Edwin</composerFontFace>
+      <composerFontSize>10</composerFontSize>
       <composerFramePadding>0</composerFramePadding>
       <composerFrameWidth>0</composerFrameWidth>
       <composerFrameRound>25</composerFrameRound>
+      <lyricistFontFace>Edwin</lyricistFontFace>
+      <lyricistFontSize>10</lyricistFontSize>
       <lyricistFramePadding>0</lyricistFramePadding>
       <lyricistFrameWidth>0</lyricistFrameWidth>
       <lyricistFrameRound>25</lyricistFrameRound>
+      <fingeringFontFace>Edwin</fingeringFontFace>
       <fingeringFramePadding>0</fingeringFramePadding>
       <fingeringFrameWidth>0</fingeringFrameWidth>
       <fingeringFrameRound>25</fingeringFrameRound>
+      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
       <lhGuitarFingeringFramePadding>0</lhGuitarFingeringFramePadding>
       <lhGuitarFingeringFrameWidth>0</lhGuitarFingeringFrameWidth>
       <lhGuitarFingeringFrameRound>25</lhGuitarFingeringFrameRound>
+      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
+      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
       <rhGuitarFingeringFramePadding>0</rhGuitarFingeringFramePadding>
       <rhGuitarFingeringFrameWidth>0</rhGuitarFingeringFrameWidth>
       <rhGuitarFingeringFrameRound>25</rhGuitarFingeringFrameRound>
+      <stringNumberFontFace>Edwin</stringNumberFontFace>
+      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
+      <longInstrumentFontSize>10</longInstrumentFontSize>
       <longInstrumentFramePadding>0</longInstrumentFramePadding>
       <longInstrumentFrameWidth>0</longInstrumentFrameWidth>
+      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
+      <shortInstrumentFontSize>10</shortInstrumentFontSize>
       <shortInstrumentFramePadding>0</shortInstrumentFramePadding>
       <shortInstrumentFrameWidth>0</shortInstrumentFrameWidth>
+      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
+      <partInstrumentFontSize>14</partInstrumentFontSize>
       <partInstrumentFramePadding>0</partInstrumentFramePadding>
       <partInstrumentFrameWidth>0</partInstrumentFrameWidth>
       <partInstrumentFrameRound>25</partInstrumentFrameRound>
+      <dynamicsFontFace>Edwin</dynamicsFontFace>
+      <dynamicsFontSize>11</dynamicsFontSize>
       <dynamicsFramePadding>0</dynamicsFramePadding>
       <dynamicsFrameWidth>0</dynamicsFrameWidth>
-      <expressionFontSize>12</expressionFontSize>
+      <expressionFontFace>Edwin</expressionFontFace>
+      <expressionFontSize>10</expressionFontSize>
       <expressionFramePadding>0</expressionFramePadding>
       <expressionFrameWidth>0</expressionFrameWidth>
+      <tempoFontFace>Edwin</tempoFontFace>
       <tempoFramePadding>0</tempoFramePadding>
       <tempoFrameWidth>0</tempoFrameWidth>
       <tempoFrameRound>25</tempoFrameRound>
+      <metronomeFontFace>Edwin</metronomeFontFace>
+      <metronomeFontStyle>0</metronomeFontStyle>
       <metronomeFramePadding>0</metronomeFramePadding>
       <metronomeFrameWidth>0</metronomeFrameWidth>
-      <measureNumberAlign>center,bottom</measureNumberAlign>
+      <measureNumberFontFace>Edwin</measureNumberFontFace>
+      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
+      <measureNumberFontStyle>2</measureNumberFontStyle>
       <measureNumberFramePadding>0</measureNumberFramePadding>
       <measureNumberFrameWidth>0</measureNumberFrameWidth>
+      <translatorFontFace>Edwin</translatorFontFace>
+      <translatorFontSize>10</translatorFontSize>
       <translatorAlign>center,top</translatorAlign>
       <translatorFramePadding>0</translatorFramePadding>
       <translatorFrameWidth>0</translatorFrameWidth>
+      <systemFontFace>Edwin</systemFontFace>
       <systemAlign>left,top</systemAlign>
       <systemFramePadding>0</systemFramePadding>
       <systemFrameWidth>0</systemFrameWidth>
       <systemFrameRound>25</systemFrameRound>
+      <staffFontFace>Edwin</staffFontFace>
       <staffFontSize>12</staffFontSize>
       <staffFontStyle>2</staffFontStyle>
       <staffAlign>left,top</staffAlign>
-      <staffPosAbove x="0" y="-4"></staffPosAbove>
+      <staffPosAbove x="0" y="-4"/>
       <staffFramePadding>0</staffFramePadding>
       <staffFrameWidth>0</staffFrameWidth>
       <staffFrameRound>25</staffFrameRound>
+      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
+      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
+      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
+      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
+      <repeatLeftFontSize>18</repeatLeftFontSize>
       <repeatLeftFramePadding>0</repeatLeftFramePadding>
       <repeatLeftFrameWidth>0</repeatLeftFrameWidth>
       <repeatLeftFrameRound>25</repeatLeftFrameRound>
+      <repeatRightFontFace>Edwin</repeatRightFontFace>
+      <repeatRightFontSize>11</repeatRightFontSize>
       <repeatRightFramePadding>0</repeatRightFramePadding>
       <repeatRightFrameWidth>0</repeatRightFrameWidth>
       <repeatRightFrameRound>25</repeatRightFrameRound>
+      <frameFontFace>Edwin</frameFontFace>
+      <frameFontSize>10</frameFontSize>
       <frameFramePadding>0</frameFramePadding>
       <frameFrameWidth>0</frameFrameWidth>
       <glissandoAlign>center,baseline</glissandoAlign>
@@ -153,25 +220,26 @@
       <user4Align>right,baseline</user4Align>
       <user4FramePadding>0</user4FramePadding>
       <user4FrameWidth>0</user4FrameWidth>
+      <usePre_3_6_defaults>1</usePre_3_6_defaults>
+      <defaultsVersion>301</defaultsVersion>
       <Spatium>1.364</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger"></metaTag>
+    <metaTag name="arranger">Transcribed by mike320 from IMSLP #97681.</metaTag>
     <metaTag name="composer">Johannes Brahms</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2018-01-24</metaTag>
     <metaTag name="lyricist">August Heinrich Hoffmann von Fallersleben</metaTag>
     <metaTag name="movementNumber">3</metaTag>
     <metaTag name="movementTitle">Liebe und Frühling II</metaTag>
-    <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/5004701</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber">3</metaTag>
+    <metaTag name="workNumber">Op.3</metaTag>
     <metaTag name="workTitle">6 Songs, Op.3</metaTag>
     <Part>
       <Staff id="1">
@@ -179,7 +247,7 @@
           </StaffType>
         </Staff>
       <trackName>Voice</trackName>
-      <Instrument>
+      <Instrument id="voice">
         <longName>Singstimme
 <i>Voice</i></longName>
         <trackName>Voice</trackName>
@@ -217,9 +285,11 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <controller ctrl="32" value="17"></controller>
-          <program value="68"></program>
-          <controller ctrl="7" value="117"></controller>
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="68"/>
+          <controller ctrl="7" value="117"/>
+          <controller ctrl="10" value="44"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -229,7 +299,7 @@
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
-        <bracket type="1" span="2" col="0"></bracket>
+        <bracket type="1" span="2" col="0"/>
         <barLineSpan>1</barLineSpan>
         </Staff>
       <Staff id="3">
@@ -239,7 +309,7 @@
         <defaultClef>F</defaultClef>
         </Staff>
       <trackName>Piano</trackName>
-      <Instrument>
+      <Instrument id="grand-piano">
         <longName>Pianoforte</longName>
         <trackName>Grand Piano</trackName>
         <minPitchP>21</minPitchP>
@@ -277,7 +347,8 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <program value="0"></program>
+          <program value="0"/>
+          <controller ctrl="10" value="81"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -286,9 +357,11 @@
       <VBox>
         <height>15.3496</height>
         <bottomGap>12</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>User-3</style>
-          <offset x="0" y="6.2744"></offset>
+          <family>Edwin</family>
+          <offset x="0" y="6.2744"/>
           <text>3. Liebe und Frühling II</text>
           </Text>
         <Text>
@@ -297,14 +370,17 @@
           </Text>
         <Text>
           <style>User-2</style>
+          <family>Edwin</family>
           <text>6 Songs, Op.3</text>
           </Text>
         <Text>
           <style>Lyricist</style>
+          <offset x="0" y="0.682"/>
           <text>August Hoffman von Fallersleben</text>
           </Text>
         </VBox>
       <Measure len="1/8">
+        <irregular>1</irregular>
         <voice>
           <KeySig>
             <accidental>5</accidental>
@@ -315,7 +391,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>2.8</tempo>
+            <tempo>2.7999999999999998</tempo>
             <text>Vivace con fuoco</text>
             </Tempo>
           <Rest>
@@ -338,13 +414,23 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <placement>above</placement>
+            <offset x="-0.4" y="-3"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>2</subtype>
               <endText></endText>
               <lineVisible>0</lineVisible>
+              <beginText>cresc.   </beginText>
+              <continueText>(cresc.)   </continueText>
               <placement>above</placement>
+              <dashGapLength>20</dashGapLength>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="2.6" y="-3"/>
+                <off2 x="-2.6" y="0"/>
+                <autoplace>0</autoplace>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -447,6 +533,8 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
+              <ticks>480</ticks>
+              <ticks_f>2/8</ticks_f>
               <text>muss</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -523,6 +611,8 @@
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
+              <ticks>480</ticks>
+              <ticks_f>2/8</ticks_f>
               <text> dir,</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -596,6 +686,8 @@
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
+              <ticks>480</ticks>
+              <ticks_f>2/8</ticks_f>
               <text>muss</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -759,8 +851,10 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>11</beginFontSize>
-              <beginText>  cresc.</beginText>
+              <beginText>  cresc.   </beginText>
+              <continueText>(cresc.)   </continueText>
               <placement>above</placement>
+              <dashGapLength>20</dashGapLength>
               </HairPin>
             <next>
               <location>
@@ -856,6 +950,8 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
+              <ticks>480</ticks>
+              <ticks_f>2/8</ticks_f>
               <text>du</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -929,6 +1025,8 @@
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
+              <ticks>480</ticks>
+              <ticks_f>2/8</ticks_f>
               <text>mir</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -1054,6 +1152,13 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <placement>above</placement>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-3.54662"/>
+                <off2 x="0" y="0"/>
+                <minDistance>0.4</minDistance>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -1184,6 +1289,11 @@
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-2.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -1235,9 +1345,10 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>2.8</tempo>
+            <tempo>2.7999999999999998</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 168</text>
             </Tempo>
           <Rest>
@@ -1248,9 +1359,10 @@
             <fractions>-15/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.78333</tempo>
+            <tempo>2.7833299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 167</text>
             </Tempo>
           <location>
@@ -1260,6 +1372,7 @@
             <tempo>2.76667</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 166</text>
             </Tempo>
           <location>
@@ -1269,6 +1382,7 @@
             <tempo>2.75</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 165</text>
             </Tempo>
           <location>
@@ -1278,105 +1392,117 @@
             <tempo>2.73333</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 164</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.71667</tempo>
+            <tempo>2.7166700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 163</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.7</tempo>
+            <tempo>2.7000000000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 162</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.68333</tempo>
+            <tempo>2.6833300000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 161</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.66667</tempo>
+            <tempo>2.6666699999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 160</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.65</tempo>
+            <tempo>2.6499999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 159</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.63333</tempo>
+            <tempo>2.6333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 158</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.61667</tempo>
+            <tempo>2.6166700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 157</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.6</tempo>
+            <tempo>2.6000000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 156</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.58333</tempo>
+            <tempo>2.5833300000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 155</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.56667</tempo>
+            <tempo>2.5666699999999998</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 154</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.55</tempo>
+            <tempo>2.5499999999999998</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 153</text>
             </Tempo>
           </voice>
@@ -1387,9 +1513,10 @@
           </LayoutBreak>
         <voice>
           <Tempo>
-            <tempo>2.53333</tempo>
+            <tempo>2.5333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 152</text>
             </Tempo>
           <Rest>
@@ -1399,40 +1526,45 @@
             <fractions>-1/8</fractions>
             </location>
           <Tempo>
-            <tempo>2.43333</tempo>
+            <tempo>2.4333300000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 146</text>
             </Tempo>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>2.4</tempo>
+            <tempo>2.3999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 144</text>
             </Tempo>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
           <Tempo>
-            <tempo>2.33333</tempo>
+            <tempo>2.3333300000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 140</text>
             </Tempo>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
           <Tempo>
-            <tempo>2.8</tempo>
+            <tempo>2.7999999999999998</tempo>
+            <offset x="-3" y="-2"/>
             <text>a tempo</text>
             </Tempo>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
             <placement>above</placement>
+            <offset x="0" y="-2"/>
             </Dynamic>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -1501,6 +1633,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
               <text>sen</text>
               </Lyrics>
             <Note>
@@ -1527,6 +1660,8 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
+              <ticks>480</ticks>
+              <ticks_f>2/8</ticks_f>
               <text>nicht</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -1589,11 +1724,14 @@
             <velocity>64</velocity>
             <dynType>2</dynType>
             <visible>0</visible>
+            <placement>above</placement>
             </Dynamic>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
+              <ticks>480</ticks>
+              <ticks_f>2/8</ticks_f>
               <text>sehn,</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -1743,6 +1881,7 @@
             <velocity>96</velocity>
             <dynType>2</dynType>
             <visible>0</visible>
+            <placement>above</placement>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -1922,6 +2061,11 @@
             <HairPin>
               <subtype>0</subtype>
               <placement>above</placement>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-3"/>
+                <off2 x="2.4" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -1950,6 +2094,7 @@
             <velocity>64</velocity>
             <dynType>2</dynType>
             <visible>0</visible>
+            <placement>above</placement>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -1963,6 +2108,11 @@
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="1" y="-3"/>
+                <off2 x="-1" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -2008,9 +2158,10 @@
             <text>poco rit.</text>
             </StaffText>
           <Tempo>
-            <tempo>2.8</tempo>
+            <tempo>2.7999999999999998</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 168</text>
             </Tempo>
           <Dynamic>
@@ -2018,6 +2169,7 @@
             <velocity>49</velocity>
             <dynType>2</dynType>
             <visible>0</visible>
+            <placement>above</placement>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -2046,6 +2198,7 @@
             <tempo>2.76667</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 166</text>
             </Tempo>
           </voice>
@@ -2056,6 +2209,7 @@
             <tempo>2.73333</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 164</text>
             </Tempo>
           <Chord>
@@ -2065,21 +2219,36 @@
               <syllabic>begin</syllabic>
               <text>Schat</text>
               </Lyrics>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
             </Chord>
           <Tempo>
-            <tempo>2.66667</tempo>
+            <tempo>2.6666699999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 160</text>
             </Tempo>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-3"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -2090,15 +2259,23 @@
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
               </Note>
             </Chord>
           <Tempo>
-            <tempo>2.6</tempo>
+            <tempo>2.6000000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 156</text>
             </Tempo>
           <Chord>
@@ -2117,9 +2294,10 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>2.53333</tempo>
+            <tempo>2.5333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 152</text>
             </Tempo>
           <Spanner type="HairPin">
@@ -2136,6 +2314,7 @@
             <tempo>2.5</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 150</text>
             </Tempo>
           <Chord>
@@ -2149,33 +2328,39 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         <voice>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>2.7</tempo>
+            <tempo>2.7000000000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 162</text>
             </Tempo>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Tempo>
-            <tempo>2.63333</tempo>
+            <tempo>2.6333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 158</text>
             </Tempo>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Tempo>
-            <tempo>2.56667</tempo>
+            <tempo>2.5666699999999998</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 154</text>
             </Tempo>
           </voice>
@@ -2189,9 +2374,10 @@
             <subtype>pp</subtype>
             <velocity>33</velocity>
             <placement>above</placement>
+            <offset x="0" y="-2.5"/>
             </Dynamic>
           <Tempo>
-            <tempo>2.8</tempo>
+            <tempo>2.7999999999999998</tempo>
             <text>sehr zart und innig</text>
             </Tempo>
           <Chord>
@@ -2251,6 +2437,11 @@
             <HairPin>
               <subtype>0</subtype>
               <placement>above</placement>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-3"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -2340,6 +2531,8 @@
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
+              <ticks>960</ticks>
+              <ticks_f>4/8</ticks_f>
               <text>Zug,</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -2379,6 +2572,7 @@
             <velocity>49</velocity>
             <dynType>2</dynType>
             <visible>0</visible>
+            <placement>above</placement>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -2503,6 +2697,7 @@
             <subtype>mp</subtype>
             <velocity>64</velocity>
             <visible>0</visible>
+            <placement>above</placement>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -2688,6 +2883,11 @@
             <HairPin>
               <subtype>0</subtype>
               <placement>above</placement>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-3.5"/>
+                <off2 x="2" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -2716,6 +2916,7 @@
             <velocity>64</velocity>
             <dynType>2</dynType>
             <visible>0</visible>
+            <placement>above</placement>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -2729,6 +2930,11 @@
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="2" y="-3.5"/>
+                <off2 x="-2" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -2800,7 +3006,7 @@
               <subtype>2</subtype>
               <endText></endText>
               <lineVisible>0</lineVisible>
-              <beginFontSize>11</beginFontSize>
+              <beginText>cresc. e sostenuto   </beginText>
               <placement>above</placement>
               </HairPin>
             <next>
@@ -2895,6 +3101,12 @@
             <HairPin>
               <subtype>0</subtype>
               <placement>above</placement>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-3.96122"/>
+                <off2 x="0" y="0"/>
+                <minDistance>0.6</minDistance>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -2920,12 +3132,14 @@
             </Chord>
           <StaffText>
             <size>13</size>
+            <offset x="2" y="-4"/>
             <text>rit.</text>
             </StaffText>
           <Tempo>
-            <tempo>2.8</tempo>
+            <tempo>2.7999999999999998</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 168</text>
             </Tempo>
           <Chord>
@@ -2940,6 +3154,7 @@
             <tempo>2.75</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 165</text>
             </Tempo>
           <Spanner type="HairPin">
@@ -2955,8 +3170,8 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-4"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="-4"/>
+                <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -2975,9 +3190,10 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>2.7</tempo>
+            <tempo>2.7000000000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 162</text>
             </Tempo>
           <Chord>
@@ -3005,27 +3221,30 @@
             <fractions>3/8</fractions>
             </location>
           <Tempo>
-            <tempo>2.775</tempo>
+            <tempo>2.7749999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 166.5</text>
             </Tempo>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Tempo>
-            <tempo>2.725</tempo>
+            <tempo>2.7250000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 163.5</text>
             </Tempo>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Tempo>
-            <tempo>2.675</tempo>
+            <tempo>2.6749999999999998</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 160.5</text>
             </Tempo>
           </voice>
@@ -3042,9 +3261,12 @@
             <placement>above</placement>
             </Dynamic>
           <Tempo>
-            <tempo>2.65</tempo>
+            <tempo>2.6499999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <minDistance>-4.7</minDistance>
+            <size>10</size>
+            <offset x="0" y="-2.07257"/>
             <text><sym>metNoteQuarterUp</sym> = 159</text>
             </Tempo>
           <Fermata>
@@ -3079,6 +3301,7 @@
             <tempo>2.5</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 150</text>
             </Tempo>
           <Rest>
@@ -3092,7 +3315,7 @@
             <accidental>5</accidental>
             </KeySig>
           <Tempo>
-            <tempo>2.8</tempo>
+            <tempo>2.7999999999999998</tempo>
             <text>a tempo</text>
             </Tempo>
           <Rest>
@@ -3105,8 +3328,8 @@
             <durationType>eighth</durationType>
             </Rest>
           <Tempo>
-            <tempo>2.8</tempo>
-            <offset x="0" y="-5"></offset>
+            <tempo>2.7999999999999998</tempo>
+            <offset x="0" y="-5"/>
             <text>Lebhaft</text>
             </Tempo>
           <Chord>
@@ -3126,7 +3349,7 @@
         <voice>
           <StaffText>
             <size>13</size>
-            <offset x="0" y="-3.5"></offset>
+            <offset x="0" y="-3.5"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -3148,13 +3371,14 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-3"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="-3"/>
+                <off2 x="1.5" y="0"/>
                 </Segment>
               </HairPin>
             <next>
               <location>
                 <measures>1</measures>
+                <fractions>-1/8</fractions>
                 </location>
               </next>
             </Spanner>
@@ -3202,6 +3426,8 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
+              <ticks>480</ticks>
+              <ticks_f>2/8</ticks_f>
               <text>will</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -3226,6 +3452,14 @@
               <tpc>23</tpc>
               </Note>
             </Chord>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                <fractions>1/8</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -3241,13 +3475,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
@@ -3255,7 +3482,7 @@
             <subtype>f</subtype>
             <velocity>96</velocity>
             <placement>above</placement>
-            <offset x="0" y="-2.5"></offset>
+            <offset x="0" y="-2.5"/>
             </Dynamic>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -3275,6 +3502,8 @@
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
+              <ticks>480</ticks>
+              <ticks_f>2/8</ticks_f>
               <text>dir,</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -3331,8 +3560,8 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-3"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="-3"/>
+                <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -3357,6 +3586,8 @@
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
+              <ticks>480</ticks>
+              <ticks_f>2/8</ticks_f>
               <text>will</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -3420,8 +3651,8 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-3.5"></offset>
-                <off2 x="-1" y="0"></off2>
+                <offset x="0" y="-3.5"/>
+                <off2 x="-3" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -3518,23 +3749,6 @@
             <dynType>2</dynType>
             <placement>above</placement>
             </Dynamic>
-          <StaffText>
-            <size>13</size>
-            <text>cresc.</text>
-            </StaffText>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>0</subtype>
-              <hairpinHeight>1.5</hairpinHeight>
-              <placement>above</placement>
-              </HairPin>
-            <next>
-              <location>
-                <measures>1</measures>
-                <fractions>3/8</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
@@ -3546,6 +3760,33 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>2</subtype>
+              <endText></endText>
+              <lineVisible>0</lineVisible>
+              <beginText>cresc.  </beginText>
+              <continueText>(cresc.)  </continueText>
+              <placement>above</placement>
+              <dashGapLength>20</dashGapLength>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-2" y="-3"/>
+                <off2 x="2" y="0"/>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <fractions>1/4</fractions>
+                </location>
+              </next>
+            </Spanner>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -3557,6 +3798,25 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <fractions>-1/4</fractions>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <hairpinHeight>1.5</hairpinHeight>
+              <placement>above</placement>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -3589,6 +3849,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
               <text>ling,</text>
               </Lyrics>
             <Note>
@@ -3596,6 +3857,24 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          </voice>
+        <voice>
+          <Rest>
+            <visible>0</visible>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <visible>0</visible>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <visible>0</visible>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Rest>
+            <visible>0</visible>
+            <durationType>half</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -3607,6 +3886,8 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
+              <ticks>480</ticks>
+              <ticks_f>2/8</ticks_f>
               <text>du</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -3650,7 +3931,6 @@
             <prev>
               <location>
                 <measures>-1</measures>
-                <fractions>-3/8</fractions>
                 </location>
               </prev>
             </Spanner>
@@ -3680,6 +3960,8 @@
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
+              <ticks>480</ticks>
+              <ticks_f>2/8</ticks_f>
               <text>mir</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -3733,9 +4015,8 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-3.7"></offset>
-                <off2 x="-1" y="0"></off2>
-                <offset x="0" y="-3.7"></offset>
+                <offset x="0" y="-3.7"/>
+                <off2 x="-1" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -3799,6 +4080,8 @@
             <velocity>49</velocity>
             <dynType>2</dynType>
             <visible>0</visible>
+            <minDistance>-0.192993</minDistance>
+            <offset x="0" y="1.5"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -3811,6 +4094,12 @@
             <HairPin>
               <subtype>0</subtype>
               <placement>above</placement>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-3.70458"/>
+                <off2 x="0" y="0"/>
+                <minDistance>0.6</minDistance>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -3865,6 +4154,8 @@
             <velocity>64</velocity>
             <dynType>2</dynType>
             <visible>0</visible>
+            <minDistance>0.307007</minDistance>
+            <offset x="0" y="1.5"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -3961,7 +4252,8 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>2.66667</tempo>
+            <tempo>2.6666699999999999</tempo>
+            <offset x="-1" y="-2"/>
             <text><i>lento ad lib.</i></text>
             </Tempo>
           <Chord>
@@ -3989,9 +4281,10 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>2.53333</tempo>
+            <tempo>2.5333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 152</text>
             </Tempo>
           <Chord>
@@ -4003,9 +4296,10 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>2.33333</tempo>
+            <tempo>2.3333300000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 140</text>
             </Tempo>
           <Chord>
@@ -4045,7 +4339,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>2.8</tempo>
+            <tempo>2.7999999999999998</tempo>
             <text>a tempo</text>
             </Tempo>
           <Spanner type="HairPin">
@@ -4055,8 +4349,8 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-2.5"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="-2.5"/>
+                <off2 x="-3" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -4081,18 +4375,20 @@
             <fractions>-3/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.8</tempo>
+            <tempo>2.7999999999999998</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 168</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.78833</tempo>
+            <tempo>2.7883300000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 167.3</text>
             </Tempo>
           <location>
@@ -4102,6 +4398,7 @@
             <tempo>2.77833</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 166.7</text>
             </Tempo>
           <location>
@@ -4111,6 +4408,7 @@
             <tempo>2.76667</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 166</text>
             </Tempo>
           <Chord>
@@ -4129,42 +4427,47 @@
             <fractions>-3/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.75667</tempo>
+            <tempo>2.7566700000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 165.4</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.745</tempo>
+            <tempo>2.7450000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 164.7</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.735</tempo>
+            <tempo>2.7349999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 164.1</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.72333</tempo>
+            <tempo>2.7233299999999998</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 163.4</text>
             </Tempo>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
             <visible>0</visible>
+            <offset x="0" y="2"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -4183,6 +4486,7 @@
             <tempo>2.71333</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 162.8</text>
             </Tempo>
           <location>
@@ -4192,51 +4496,57 @@
             <tempo>2.70167</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 162.1</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.69167</tempo>
+            <tempo>2.6916699999999998</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 161.5</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.68</tempo>
+            <tempo>2.6800000000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 160.8</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.67</tempo>
+            <tempo>2.6699999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 160.2</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.65833</tempo>
+            <tempo>2.6583299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 159.5</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.64833</tempo>
+            <tempo>2.6483300000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 158.9</text>
             </Tempo>
           </voice>
@@ -4244,9 +4554,10 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>2.63667</tempo>
+            <tempo>2.6366700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 158.2</text>
             </Tempo>
           <Rest>
@@ -4257,18 +4568,20 @@
             <fractions>-15/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.62667</tempo>
+            <tempo>2.6266699999999998</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 157.6</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.615</tempo>
+            <tempo>2.6150000000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 156.9</text>
             </Tempo>
           <location>
@@ -4278,51 +4591,57 @@
             <tempo>2.605</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 156.3</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.59333</tempo>
+            <tempo>2.5933299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 155.6</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.58333</tempo>
+            <tempo>2.5833300000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 155</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.57167</tempo>
+            <tempo>2.5716700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 154.3</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.56167</tempo>
+            <tempo>2.5616699999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 153.7</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.55</tempo>
+            <tempo>2.5499999999999998</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 153</text>
             </Tempo>
           <location>
@@ -4332,6 +4651,7 @@
             <tempo>2.54</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 152.4</text>
             </Tempo>
           <location>
@@ -4341,51 +4661,57 @@
             <tempo>2.52833</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 151.7</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.51833</tempo>
+            <tempo>2.5183300000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 151.1</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.50667</tempo>
+            <tempo>2.5066700000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 150.4</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.49667</tempo>
+            <tempo>2.4966699999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 149.8</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.485</tempo>
+            <tempo>2.4849999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 149.1</text>
             </Tempo>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>2.475</tempo>
+            <tempo>2.4750000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 148.5</text>
             </Tempo>
           </voice>
@@ -4396,6 +4722,7 @@
             <tempo>2.46333</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><sym>metNoteQuarterUp</sym> = 147.8</text>
             </Tempo>
           <Fermata>
@@ -4837,6 +5164,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="6.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -4899,6 +5231,7 @@
             <velocity>64</velocity>
             <dynType>2</dynType>
             <visible>0</visible>
+            <offset x="0" y="7"/>
             </Dynamic>
           <Chord>
             <durationType>16th</durationType>
@@ -4922,6 +5255,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="6.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -5001,6 +5339,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="6.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -5596,7 +5939,7 @@
         <voice>
           <StaffText>
             <size>13</size>
-            <offset x="0" y="-3"></offset>
+            <offset x="0" y="-3"/>
             <text>sostenuto</text>
             </StaffText>
           <Chord>
@@ -6428,6 +6771,10 @@
               <pitch>66</pitch>
               <tpc>20</tpc>
               </Note>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>21</tpc>
+              </Note>
             </Chord>
           <Chord>
             <dots>1</dots>
@@ -6694,9 +7041,20 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>mp</subtype>
+            <velocity>64</velocity>
+            <visible>0</visible>
+            <offset x="-1" y="4"/>
+            </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="5.029"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -6879,6 +7237,9 @@
             <BeamMode>mid</BeamMode>
             <durationType>quarter</durationType>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         <voice>
           <Rest>
@@ -6959,6 +7320,7 @@
           <Dynamic>
             <subtype>other-dynamics</subtype>
             <velocity>33</velocity>
+            <offset x="5.5" y="5.5"/>
             <text><sym>dynamicPiano</sym><sym>dynamicPiano</sym> dolcissimo</text>
             </Dynamic>
           <Chord>
@@ -7008,6 +7370,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="4.0856"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -7078,6 +7445,7 @@
             <velocity>64</velocity>
             <dynType>2</dynType>
             <visible>0</visible>
+            <offset x="0" y="4.5"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -7590,6 +7958,28 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                <fractions>-5/8</fractions>
+                </location>
+              </next>
+            </Spanner>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -7652,17 +8042,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             </Rest>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>0</subtype>
-              </HairPin>
-            <next>
-              <location>
-                <measures>1</measures>
-                <fractions>-5/8</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -7695,8 +8074,21 @@
       <Measure>
         <voice>
           <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                <fractions>5/8</fractions>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -7752,14 +8144,6 @@
             </Chord>
           </voice>
         <voice>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                <fractions>5/8</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -7818,6 +8202,7 @@
             <velocity>33</velocity>
             <dynType>2</dynType>
             <visible>0</visible>
+            <offset x="0" y="5.5"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -7835,7 +8220,12 @@
               <subtype>2</subtype>
               <endText></endText>
               <lineVisible>0</lineVisible>
-              <beginFontSize>11</beginFontSize>
+              <beginText>cresc. e sostenuto</beginText>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="5.5449"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -7966,6 +8356,7 @@
             <velocity>64</velocity>
             <dynType>2</dynType>
             <visible>0</visible>
+            <offset x="2" y="5.5"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -8018,6 +8409,27 @@
               <tpc>9</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <fractions>3/8</fractions>
+                </location>
+              </next>
+            </Spanner>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>quarter</durationType>
@@ -8034,6 +8446,13 @@
             <prev>
               <location>
                 <fractions>-1/2</fractions>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <fractions>-3/8</fractions>
                 </location>
               </prev>
             </Spanner>
@@ -8056,6 +8475,28 @@
               <tpc>8</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                <fractions>-5/8</fractions>
+                </location>
+              </next>
+            </Spanner>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -8087,16 +8528,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>0</subtype>
-              </HairPin>
-            <next>
-              <location>
-                <fractions>3/8</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Beam>
             <Fragment>
               <y1>6</y1>
@@ -8145,29 +8576,12 @@
             <velocity>96</velocity>
             <dynType>2</dynType>
             <visible>0</visible>
+            <offset x="0" y="5.5"/>
             </Dynamic>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <fractions>-3/8</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Rest>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             </Rest>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>1</subtype>
-              <diagonal>1</diagonal>
-              </HairPin>
-            <next>
-              <location>
-                <fractions>1/4</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -8184,13 +8598,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             </Rest>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <fractions>-1/4</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -8209,6 +8616,14 @@
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                <fractions>5/8</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -8226,6 +8641,7 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
+            <offset x="0" y="4.5"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -8296,6 +8712,7 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
+            <offset x="0" y="4.5"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -8318,17 +8735,6 @@
           <StaffText>
             <text>trem.</text>
             </StaffText>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>0</subtype>
-              <hairpinHeight>1.3</hairpinHeight>
-              </HairPin>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <durationType>half</durationType>
             <duration>1/4</duration>
@@ -8340,6 +8746,23 @@
               <subtype>c32</subtype>
               </Tremolo>
             </Chord>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <hairpinHeight>1.3</hairpinHeight>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="4"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                <fractions>-1/4</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <durationType>half</durationType>
             <duration>1/4</duration>
@@ -8375,6 +8798,7 @@
             <prev>
               <location>
                 <measures>-1</measures>
+                <fractions>1/4</fractions>
                 </location>
               </prev>
             </Spanner>
@@ -8504,6 +8928,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="5.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -8554,6 +8983,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="5.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -9125,7 +9559,7 @@
               <subtype>3</subtype>
               <endText></endText>
               <lineVisible>0</lineVisible>
-              <beginFontSize>11</beginFontSize>
+              <beginText>poco a poco rit. e dim.</beginText>
               </HairPin>
             <next>
               <location>
@@ -9604,7 +10038,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerUp>2</vspacerUp>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -9937,6 +10370,7 @@
         <voice>
           <StaffText>
             <size>13</size>
+            <offset x="0" y="-4.6"/>
             <text>ritenuto</text>
             </StaffText>
           <Chord>
@@ -10003,6 +10437,7 @@
             <accidental>2</accidental>
             </KeySig>
           <StaffText>
+            <offset x="0" y="-5.4"/>
             <text>dolce ed espressivo</text>
             </StaffText>
           <Rest>
@@ -10094,6 +10529,12 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o4 x="0" y="1.4"/>
+                  </SlurSegment>
+                <SlurSegment no="1">
+                  <o4 x="0" y="1.3"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -10135,7 +10576,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerUp>2</vspacerUp>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -10271,6 +10711,9 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -10349,7 +10792,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerUp>1</vspacerUp>
         <voice>
           <Chord>
             <dots>1</dots>
@@ -10477,7 +10919,10 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="2"></o4>
+                  <o4 x="0" y="1.6"/>
+                  </SlurSegment>
+                <SlurSegment no="1">
+                  <o4 x="0" y="1.3"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -10520,7 +10965,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerUp>2</vspacerUp>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -10572,6 +11016,11 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o1 x="0.3" y="-0.2"/>
+                  <o2 x="0" y="0.6"/>
+                  <o3 x="0" y="0.6"/>
+                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -10749,6 +11198,7 @@
             </Chord>
           <StaffText>
             <size>13</size>
+            <offset x="-1" y="-3"/>
             <text>rit.</text>
             </StaffText>
           <Chord>
@@ -10788,8 +11238,9 @@
               <tpc>6</tpc>
               </Note>
             <Arpeggio>
+              <autoplace>0</autoplace>
               <subtype>0</subtype>
-              <userLen1>10.3698</userLen1>
+              <userLen1>11.3698</userLen1>
               </Arpeggio>
             </Chord>
           <Rest>
@@ -10819,6 +11270,7 @@
       <Measure>
         <voice>
           <StaffText>
+            <offset x="0" y="-4.5"/>
             <text>cresc.</text>
             </StaffText>
           <Rest>
@@ -10948,7 +11400,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerUp>3</vspacerUp>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -11042,7 +11493,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerUp>4</vspacerUp>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -11249,7 +11699,7 @@
             </Chord>
           <StaffText>
             <size>13</size>
-            <offset x="0" y="-9"></offset>
+            <offset x="0" y="-9"/>
             <text>colla voce</text>
             </StaffText>
           <Chord>
@@ -11322,7 +11772,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerUp>3</vspacerUp>
         <voice>
           <Chord>
             <durationType>quarter</durationType>

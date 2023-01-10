@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -114,11 +114,11 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger">Transcribed from IMSLP #578229. Source https://imslp.org/wiki/6_Nouvelles_m%C3%A9lodies_(Grandval,_Cl%C3%A9mence_de)</metaTag>
-    <metaTag name="composer">Clémence de Grandval (1828 - 1907)</metaTag>
-    <metaTag name="copyright">Creative Commons copyright waiver (CC0 1.0 Universal)</metaTag>
+    <metaTag name="arranger">Transcribed by Vinckenbosch from IMSLP #578229.  Source https://imslp.org/wiki/6_Nouvelles_m%C3%A9lodies_(Grandval,_Cl%C3%A9mence_de)</metaTag>
+    <metaTag name="composer">Clémence de Grandval</metaTag>
+    <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2021-02-23</metaTag>
-    <metaTag name="lyricist">Pierre de Ronsard (1524 - 1585)</metaTag>
+    <metaTag name="lyricist">Pierre de Ronsard</metaTag>
     <metaTag name="movementNumber">4</metaTag>
     <metaTag name="movementTitle">Mignonne</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
@@ -351,7 +351,7 @@
       <VBox>
         <height>11</height>
         <topGap>4.11574</topGap>
-        <bottomGap>11.4693</bottomGap>
+        <bottomGap>14.5</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>User-1</style>
@@ -384,7 +384,7 @@
           <Tempo>
             <tempo>2.26667</tempo>
             <offset x="0" y="-3"/>
-            <text>Allegro con moto.</text>
+            <text>Allegro con moto</text>
             </Tempo>
           <Rest>
             <durationType>half</durationType>
@@ -432,7 +432,7 @@
             <size>11</size>
             <italic>1</italic>
             <offset x="-1" y="-2"/>
-            <text>leggiero.</text>
+            <text>leggiero</text>
             </StaffText>
           <Dynamic>
             <subtype>mp</subtype>
@@ -1870,7 +1870,7 @@
           <StaffText>
             <size>11</size>
             <italic>1</italic>
-            <text>rit:</text>
+            <text>rit.</text>
             </StaffText>
           <Spanner type="HairPin">
             <prev>
@@ -2056,7 +2056,7 @@
             <tempo>2.26667</tempo>
             <minDistance>-1.5</minDistance>
             <offset x="-3" y="-2.18781"/>
-            <text>a Tempo.</text>
+            <text>a Tempo</text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -3480,7 +3480,7 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>8.29092</vspacerFixed>
+        <vspacerFixed>11.2909</vspacerFixed>
         <voice>
           <Chord>
             <dots>1</dots>
@@ -3921,7 +3921,7 @@
             <minDistance>-0.1</minDistance>
             <bold>1</bold>
             <offset x="0.6" y="-1.61418"/>
-            <text>a tempo.</text>
+            <text>a tempo</text>
             </StaffText>
           <Tempo>
             <tempo>2.26667</tempo>
@@ -5687,7 +5687,7 @@
             <autoplace>0</autoplace>
             <bold>1</bold>
             <offset x="1.8" y="-1.21393"/>
-            <text>a tempo.</text>
+            <text>a tempo</text>
             </StaffText>
           <Tempo>
             <tempo>2.26667</tempo>
@@ -5905,7 +5905,7 @@
             <size>11</size>
             <bold>1</bold>
             <offset x="2" y="-1.30721"/>
-            <text>Leggiero.</text>
+            <text>Leggiero</text>
             </StaffText>
           <Spanner type="Ottava">
             <Ottava>
@@ -7314,7 +7314,7 @@
           <StaffText>
             <size>12</size>
             <bold>1</bold>
-            <text>a Tempo.</text>
+            <text>a Tempo</text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -9055,7 +9055,7 @@
             <size>9</size>
             <italic>1</italic>
             <offset x="0" y="-0.6"/>
-            <text>suivez  la  voix.</text>
+            <text>suivez  la  voix</text>
             </StaffText>
           <Chord>
             <durationType>half</durationType>
@@ -9081,7 +9081,7 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>10.0241</vspacerFixed>
+        <vspacerFixed>12.0241</vspacerFixed>
         <voice>
           <Chord>
             <durationType>quarter</durationType>

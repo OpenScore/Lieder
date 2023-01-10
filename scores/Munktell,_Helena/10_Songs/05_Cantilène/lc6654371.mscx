@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -265,7 +265,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>18</height>
+        <height>21.6619</height>
         <bottomGap>16.379</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <linkedMain/>
@@ -313,7 +313,7 @@
             <sigD>8</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.33333</tempo>
+            <tempo>1.3333299999999999</tempo>
             <linkedMain/>
             <text>Andantino quasi adagio</text>
             </Tempo>
@@ -13300,7 +13300,7 @@
               <sigD>8</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.33333</tempo>
+              <tempo>1.3333299999999999</tempo>
               <linked>
                 </linked>
               <text>Andantino quasi adagio</text>
@@ -18544,7 +18544,7 @@
               <sigD>8</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.33333</tempo>
+              <tempo>1.3333299999999999</tempo>
               <linked>
                 <location>
                   <staves>-1</staves>

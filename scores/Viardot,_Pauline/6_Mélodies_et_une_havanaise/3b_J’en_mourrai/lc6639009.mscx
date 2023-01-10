@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -118,7 +118,7 @@
     <metaTag name="creationDate">2021-03-01</metaTag>
     <metaTag name="lyricist">Victor Wilder</metaTag>
     <metaTag name="movementNumber">3-bis</metaTag>
-    <metaTag name="movementTitle">J’en mourrai</metaTag>
+    <metaTag name="movementTitle">J’en mourrai  (VWV 1105)</metaTag>
     <metaTag name="platform"></metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/6639009</metaTag>
@@ -263,17 +263,21 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>19</height>
-        <bottomGap>15.7893</bottomGap>
+        <height>24</height>
+        <bottomGap>14</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>User-1</style>
+          <family>Edwin</family>
           <text>6 Mélodies et une havanaise</text>
           </Text>
         <Text>
           <style>User-2</style>
+          <family>Edwin</family>
           <text>3<sup>bis</sup> J’en mourrai!
-<i><font size="16"></font>“Morirò” - Poésie toscane</i></text>
+<i><font size="14"></font>“Morirò” - Poésie toscane
+</i><font size="12"></font>VWV 1105
+<font size="14"></font></text>
           </Text>
         <Text>
           <style>Composer</style>
@@ -285,9 +289,10 @@
           </Text>
         <Text>
           <style>Frame</style>
+          <size>12</size>
           <align>center,top</align>
-          <offset x="0" y="26"/>
-          <text><font size="9"></font>(SOPRANO OU TÉNOR)</text>
+          <offset x="0" y="30.5"/>
+          <text>(Soprano ou Ténor)</text>
           </Text>
         </VBox>
       <Measure>
@@ -300,7 +305,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>2.4</tempo>
+            <tempo>2.3999999999999999</tempo>
             <text>Agitato</text>
             </Tempo>
           <Rest>

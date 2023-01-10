@@ -98,6 +98,7 @@
       <frameFontSize>10</frameFontSize>
       <footerAlign>center,center</footerAlign>
       <user1Name>Work Title</user1Name>
+      <user1FontFace>Edwin</user1FontFace>
       <user1FontSize>14</user1FontSize>
       <user1FontSpatiumDependent>0</user1FontSpatiumDependent>
       <user1Align>center,top</user1Align>
@@ -115,10 +116,9 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger">Transcribed by ashmoggs from
-IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
-</metaTag>
+IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047</metaTag>
     <metaTag name="composer">Gabriel Fauré</metaTag>
-    <metaTag name="copyright">OpenScore CC0</metaTag>
+    <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate"></metaTag>
     <metaTag name="lyricist">Romain Bussine</metaTag>
     <metaTag name="movementNumber">1</metaTag>
@@ -127,8 +127,8 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
     <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/6810863</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Trois mélodies, Op. 7, No 1</metaTag>
+    <metaTag name="workNumber">Op.7</metaTag>
+    <metaTag name="workTitle">Trois mélodies, Op.7</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -260,7 +260,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
           <size>8</size>
           <italic>1</italic>
           <offset x="73.36" y="0.49"/>
-          <text>a Madame Marguerite Baugnies</text>
+          <text>à Madame Marguerite Baugnies</text>
           </Text>
         </VBox>
       <VBox>
@@ -270,28 +270,27 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>User-2</style>
+          <family>Edwin</family>
           <offset x="0" y="11"/>
-          <text>1.Après un rêve
+          <text>1. Après un rêve
 </text>
           </Text>
         <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
           <size>12</size>
-          <offset x="-0.59218" y="-0.341122"/>
-          <text><font size="10"></font><font face="Arial"></font>Gabriel Fauré </text>
+          <offset x="-0.59218" y="-0.028322"/>
+          <text><font size="10"></font>Gabriel Fauré </text>
           </Text>
         <Text>
           <style>Lyricist</style>
-          <family>FreeSerif</family>
-          <offset x="0.84" y="1.17"/>
-          <text><font face="Arial"></font>Romain Bussine
+          <offset x="0" y="2.6588"/>
+          <text>Romain Bussine
 </text>
           </Text>
         <Text>
           <style>User-1</style>
-          <offset x="0" y="4"/>
-          <text><font size="12"></font><font face="Arial"></font>Trois mélodies Op. 7
+          <offset x="0" y="2.436"/>
+          <text><font size="12"></font>Trois mélodies Op. 7
  </text>
           </Text>
         </VBox>
@@ -308,12 +307,6 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Tempo>
-            <tempo>0.86666699999999997</tempo>
-            <visible>0</visible>
-            <offset x="-11.6763" y="-2.00822"/>
-            <text><sym>metNoteQuarterUp</sym> = 52</text>
-            </Tempo>
           <Tempo>
             <tempo>0.86666699999999997</tempo>
             <offset x="-3.01838" y="-1.73337"/>
@@ -448,7 +441,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="0" y="-0.434834"/>
+            <offset x="0" y="-1"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -457,7 +450,6 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <minDistance>0.392036</minDistance>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -508,7 +500,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <offset x="0" y="-0.434834"/>
+            <offset x="0" y="-1"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -517,7 +509,6 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <minDistance>0.369392</minDistance>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -886,9 +877,9 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-1.6" y="-5.05024"/>
+                <offset x="-1.6" y="-4.75024"/>
                 <off2 x="1.6" y="0"/>
-                <minDistance>0.2</minDistance>
+                <minDistance>0.0395409</minDistance>
                 </Segment>
               </HairPin>
             <next>
@@ -899,7 +890,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               </next>
             </Spanner>
           <Tuplet>
-            <offset x="0.137428" y="-0.274856"/>
+            <offset x="0.14" y="0.23"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -959,7 +950,6 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <offset x="0" y="-0.137428"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -1179,6 +1169,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
+            <p2 x="0" y="-0.3"/>
             <baseNote>eighth</baseNote>
             <Number>
               <style>Tuplet</style>
@@ -1225,7 +1216,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
             <Lyrics>
               <no>1</no>
               <italic>1</italic>
-              <text>mha</text>
+              <text>m’ha</text>
               </Lyrics>
             <Note>
               <pitch>65</pitch>
@@ -1245,7 +1236,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>pre</text>
+              <text>pure</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -1283,7 +1274,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               <no>1</no>
               <syllabic>middle</syllabic>
               <italic>1</italic>
-              <text>qan</text>
+              <text>gan</text>
               </Lyrics>
             <Note>
               <pitch>65</pitch>
@@ -1845,6 +1836,10 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
             <Lyrics>
               <text>Tu</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>Se</text>
+              </Lyrics>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
@@ -1856,6 +1851,10 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               <syllabic>begin</syllabic>
               <text>m'ap</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>lo</text>
+              </Lyrics>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -1866,6 +1865,11 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
             <Lyrics>
               <syllabic>middle</syllabic>
               <text>pe</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>ri</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -1899,9 +1903,9 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <syllabic>begin</syllabic>
+              <syllabic>middle</syllabic>
               <italic>1</italic>
-              <text>– tra</text>
+              <text>tro</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -1953,7 +1957,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               <no>1</no>
               <syllabic>end</syllabic>
               <italic>1</italic>
-              <text>to</text>
+              <text>vo</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -2032,6 +2036,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               </Lyrics>
             <Lyrics>
               <no>1</no>
+              <syllabic>begin</syllabic>
               <italic>1</italic>
               <text>gio</text>
               </Lyrics>
@@ -2064,7 +2069,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <syllabic>begin</syllabic>
+              <syllabic>middle</syllabic>
               <italic>1</italic>
               <text>con</text>
               </Lyrics>
@@ -2213,7 +2218,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               <no>1</no>
               <syllabic>end</syllabic>
               <italic>1</italic>
-              <text>– ró</text>
+              <text>– rò</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -2600,7 +2605,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <italic>1</italic>
-              <text>to</text>
+              <text>vo</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2748,7 +2753,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
             <Lyrics>
               <no>1</no>
               <italic>1</italic>
-              <text>nati</text>
+              <text>Mai</text>
               </Lyrics>
             <Note>
               <pitch>60</pitch>
@@ -2799,7 +2804,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               <ticks>800</ticks>
               <ticks_f>5/12</ticks_f>
               <italic>1</italic>
-              <text>pin</text>
+              <text>più</text>
               </Lyrics>
             <Note>
               <Accidental>
@@ -3037,7 +3042,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               <no>1</no>
               <syllabic>end</syllabic>
               <italic>1</italic>
-              <text>ró</text>
+              <text>rò</text>
               </Lyrics>
             <Note>
               <pitch>65</pitch>
@@ -3365,7 +3370,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
             <Lyrics>
               <no>1</no>
               <italic>1</italic>
-              <text>la</text>
+              <text>lo</text>
               </Lyrics>
             <Note>
               <pitch>77</pitch>
@@ -3468,7 +3473,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               <no>1</no>
               <syllabic>end</syllabic>
               <italic>1</italic>
-              <text>to</text>
+              <text>vo</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -3549,6 +3554,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               </Lyrics>
             <Lyrics>
               <no>1</no>
+              <syllabic>begin</syllabic>
               <italic>1</italic>
               <text>gio</text>
               </Lyrics>
@@ -3656,7 +3662,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <syllabic>begin</syllabic>
+              <syllabic>middle</syllabic>
               <italic>1</italic>
               <text>con</text>
               </Lyrics>
@@ -3696,6 +3702,8 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               </next>
             </Spanner>
           <Tuplet>
+            <autoplace>0</autoplace>
+            <offset x="0" y="0.5"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -3703,6 +3711,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
             </Tuplet>
           <Beam>
             </Beam>
@@ -3710,6 +3719,10 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o1 x="4.00677e-17" y="0.3"/>
+                  <offset x="0" y="-1.4"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -3745,6 +3758,8 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <autoplace>0</autoplace>
+            <offset x="0" y="0.5"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -3752,6 +3767,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
             </Tuplet>
           <Beam>
             </Beam>
@@ -3764,11 +3780,6 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>middle</syllabic>
-              <family>Arial</family>
-              <text><font face="Times New Roman"></font>-</text>
-              </Lyrics>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -3847,7 +3858,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
             <Lyrics>
               <no>1</no>
               <italic>1</italic>
-              <text>Si</text>
+              <text>Se</text>
               </Lyrics>
             <Note>
               <pitch>70</pitch>
@@ -3859,7 +3870,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>t'ap</text>
+              <text>t’ap</text>
               </Lyrics>
             <Note>
               <pitch>70</pitch>
@@ -4006,7 +4017,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               <no>1</no>
               <syllabic>end</syllabic>
               <italic>1</italic>
-              <text>io</text>
+              <text>vo</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -4049,6 +4060,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               </Lyrics>
             <Lyrics>
               <no>1</no>
+              <syllabic>begin</syllabic>
               <italic>1</italic>
               <text>a</text>
               </Lyrics>
@@ -4065,6 +4077,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               </Lyrics>
             <Lyrics>
               <no>1</no>
+              <syllabic>end</syllabic>
               <italic>1</italic>
               <text>mor</text>
               </Lyrics>
@@ -4350,7 +4363,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>viens,</text>
+              <text>- viens,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -4639,7 +4652,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
               <italic>1</italic>
-              <text>ró</text>
+              <text>rò</text>
               </Lyrics>
             <Note>
               <pitch>63</pitch>
@@ -4817,7 +4830,7 @@ IMSLP #24047 Source: https://imslp.org/wiki/Special:ReverseLookup/24047&quot;
             <Lyrics>
               <no>1</no>
               <italic>1</italic>
-              <text>o</text>
+              <text>re!</text>
               </Lyrics>
             <Note>
               <pitch>60</pitch>

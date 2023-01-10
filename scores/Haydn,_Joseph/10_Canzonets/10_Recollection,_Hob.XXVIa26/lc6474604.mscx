@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -185,8 +185,8 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>12</height>
-        <bottomGap>12.8283</bottomGap>
+        <height>17</height>
+        <bottomGap>15</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>User-1</style>
@@ -194,8 +194,10 @@
           </Text>
         <Text>
           <style>User-2</style>
+          <textLineSpacing>1.2</textLineSpacing>
           <offset x="0" y="7.5"/>
-          <text>10. Recollection, Hob.XXVIa:26</text>
+          <text>10. Recollection
+<font size="16"></font>(Hob.XXVIa:26)</text>
           </Text>
         <Text>
           <style>Composer</style>
@@ -8857,6 +8859,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="3.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -9002,6 +9009,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="3.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -9123,6 +9135,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="3.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -9229,6 +9246,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="3.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -12144,9 +12166,6 @@
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
-              <NoteDot>
-                <offset x="1.97242" y="0"/>
-                </NoteDot>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -13199,6 +13218,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="3"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -13267,7 +13291,7 @@
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
+                <offset x="0" y="3"/>
                 <off2 x="-6.4121" y="0"/>
                 </Segment>
               </HairPin>
@@ -13344,6 +13368,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="3"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -13465,6 +13494,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="3.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -13571,6 +13605,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="3.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>

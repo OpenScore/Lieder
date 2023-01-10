@@ -1,33 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.01">
-  <programVersion>3.5.0</programVersion>
-  <programRevision>43c5553</programRevision>
+<museScore version="3.02">
+  <programVersion>3.6.2</programVersion>
+  <programRevision></programRevision>
   <Score>
-    <LayerTag id="0" tag="default"/>
+    <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.27008</pageWidth>
-      <pageHeight>11.6902</pageHeight>
-      <pagePrintableWidth>7.48268</pagePrintableWidth>
+      <pageWidth>8.26772</pageWidth>
+      <pageHeight>11.6929</pageHeight>
+      <pagePrintableWidth>7.08661</pagePrintableWidth>
+      <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
+      <pageOddLeftMargin>0.590551</pageOddLeftMargin>
+      <pageEvenTopMargin>0.590551</pageEvenTopMargin>
+      <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
+      <pageOddTopMargin>0.590551</pageOddTopMargin>
+      <pageOddBottomMargin>0.590551</pageOddBottomMargin>
       <maxSystemDistance>25</maxSystemDistance>
+      <enableVerticalSpread>1</enableVerticalSpread>
       <lyricsMinDistance>0.6</lyricsMinDistance>
       <lyricsDashMaxDistance>10</lyricsDashMaxDistance>
       <lyricsDashForce>0</lyricsDashForce>
       <lyricsMelismaPad>0.5</lyricsMelismaPad>
-      <lyricsOddFontSize>12</lyricsOddFontSize>
       <lyricsOddFramePadding>0</lyricsOddFramePadding>
       <lyricsOddFrameWidth>0</lyricsOddFrameWidth>
-      <lyricsEvenFontSize>12</lyricsEvenFontSize>
       <lyricsEvenFontStyle>2</lyricsEvenFontStyle>
-      <doubleBarDistance>0.46</doubleBarDistance>
-      <endBarDistance>0.65</endBarDistance>
       <clefLeftMargin>0.64</clefLeftMargin>
       <clefKeyRightMargin>1.75</clefKeyRightMargin>
-      <barNoteDistance>1.2</barNoteDistance>
       <measureSpacing>1</measureSpacing>
-      <lastSystemFillLimit>0</lastSystemFillLimit>
-      <hairpinPosAbove x="0" y="-2.5"/>
+      <lastSystemFillLimit>0.1</lastSystemFillLimit>
       <hairpinHeight>1.3</hairpinHeight>
       <hairpinFramePadding>0</hairpinFramePadding>
       <hairpinFrameWidth>0</hairpinFrameWidth>
@@ -41,9 +42,9 @@
       <ottavaFontStyle>2</ottavaFontStyle>
       <ottavaFramePadding>0</ottavaFramePadding>
       <ottavaFrameWidth>0</ottavaFrameWidth>
+      <tupletMaxSlope>0</tupletMaxSlope>
       <tupletFramePadding>0</tupletFramePadding>
       <tupletFrameWidth>0</tupletFrameWidth>
-      <dynamicsPosAbove x="0" y="-2"/>
       <textLineFramePadding>0</textLineFramePadding>
       <textLineFrameWidth>0</textLineFrameWidth>
       <defaultFontSpatiumDependent>0</defaultFontSpatiumDependent>
@@ -81,7 +82,6 @@
       <partInstrumentFrameRound>25</partInstrumentFrameRound>
       <dynamicsFramePadding>0</dynamicsFramePadding>
       <dynamicsFrameWidth>0</dynamicsFrameWidth>
-      <expressionFontSize>12</expressionFontSize>
       <expressionFramePadding>0</expressionFramePadding>
       <expressionFrameWidth>0</expressionFrameWidth>
       <tempoFramePadding>0</tempoFramePadding>
@@ -89,7 +89,6 @@
       <tempoFrameRound>25</tempoFrameRound>
       <metronomeFramePadding>0</metronomeFramePadding>
       <metronomeFrameWidth>0</metronomeFrameWidth>
-      <measureNumberAlign>center,bottom</measureNumberAlign>
       <measureNumberFramePadding>0</measureNumberFramePadding>
       <measureNumberFrameWidth>0</measureNumberFrameWidth>
       <translatorAlign>center,top</translatorAlign>
@@ -100,7 +99,6 @@
       <systemFrameWidth>0</systemFrameWidth>
       <systemFrameRound>25</systemFrameRound>
       <staffAlign>left,top</staffAlign>
-      <staffPosAbove x="0" y="-4"/>
       <staffFramePadding>0</staffFramePadding>
       <staffFrameWidth>0</staffFrameWidth>
       <staffFrameRound>25</staffFrameRound>
@@ -127,15 +125,17 @@
       <instrumentChangeAlign>left,bottom</instrumentChangeAlign>
       <instrumentChangeFramePadding>0</instrumentChangeFramePadding>
       <instrumentChangeFrameWidth>0</instrumentChangeFrameWidth>
-      <user1Name>Repeat Text</user1Name>
-      <user1FontSize>12</user1FontSize>
-      <user1Align>right,baseline</user1Align>
+      <user1Name>Work Title</user1Name>
+      <user1FontSize>14</user1FontSize>
+      <user1FontSpatiumDependent>0</user1FontSpatiumDependent>
+      <user1Align>center,top</user1Align>
       <user1FramePadding>0</user1FramePadding>
       <user1FrameWidth>0</user1FrameWidth>
-      <user2Name>Work Title</user2Name>
-      <user2FontSize>14</user2FontSize>
+      <user2Name>Movement Title</user2Name>
+      <user2FontSize>22</user2FontSize>
       <user2FontSpatiumDependent>0</user2FontSpatiumDependent>
       <user2Align>center,top</user2Align>
+      <user2Offset x="0" y="7"/>
       <user2FramePadding>0</user2FramePadding>
       <user2FrameWidth>0</user2FrameWidth>
       <user3Name>Movement Title</user3Name>
@@ -160,16 +160,15 @@
     <metaTag name="arranger">Transcribed by pental from IMSLP #621374.  Source: https://imslp.org/wiki/Blumenlieder_(Kralik,_Mathilde)</metaTag>
     <metaTag name="composer">Mathilde Kralik</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
-    <metaTag name="creationDate"/>
+    <metaTag name="creationDate"></metaTag>
     <metaTag name="lyricist">Walther von der Vogelweide</metaTag>
     <metaTag name="movementNumber">7</metaTag>
     <metaTag name="movementTitle">Die verschwiegene Nachtigall</metaTag>
-    <metaTag name="originalFormat"/>
-    <metaTag name="platform"/>
-    <metaTag name="poet"/>
+    <metaTag name="platform"></metaTag>
+    <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/6207054</metaTag>
-    <metaTag name="translator"/>
-    <metaTag name="workNumber"/>
+    <metaTag name="translator"></metaTag>
+    <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Jugend-Lieder</metaTag>
     <Part>
       <Staff id="1">
@@ -178,8 +177,8 @@
           </StaffType>
         </Staff>
       <trackName>Voice</trackName>
-      <Instrument>
-        <longName>Voice
+      <Instrument id="voice">
+        <longName>Singstimme
 <i>Voice</i></longName>
         <trackName>Voice</trackName>
         <minPitchP>38</minPitchP>
@@ -250,7 +249,7 @@
         <defaultClef>F</defaultClef>
         </Staff>
       <trackName>Piano</trackName>
-      <Instrument>
+      <Instrument id="piano">
         <longName>Piano</longName>
         <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
@@ -308,11 +307,14 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>18</height>
+        <height>17</height>
         <topGap>4.28571</topGap>
-        <bottomGap>17.1429</bottomGap>
+        <bottomGap>15</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>User-2</style>
+          <size>14</size>
+          <offset x="0" y="0"/>
           <text>Jugend-Lieder</text>
           </Text>
         <Text>
@@ -321,15 +323,19 @@
           </Text>
         <Text>
           <style>User-3</style>
+          <size>22</size>
+          <offset x="0" y="8.25"/>
           <text>7. Die verschwiegene Nachtigall</text>
           </Text>
         <Text>
           <style>Lyricist</style>
+          <offset x="0" y="0.7"/>
           <text>Walther von der Vogelweide</text>
           </Text>
         </VBox>
       <HBox>
         <width>3</width>
+        <boxAutoSize>0</boxAutoSize>
         </HBox>
       <Measure>
         <voice>
@@ -341,7 +347,7 @@
             <sigD>8</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.83333</tempo>
+            <tempo>1.8333299999999999</tempo>
             <text>Wiegend</text>
             </Tempo>
           <Rest>
@@ -3244,7 +3250,7 @@
             <text>Ruhiger</text>
             </StaffText>
           <Tempo>
-            <tempo>1.33333</tempo>
+            <tempo>1.3333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text>T</text>
@@ -3340,7 +3346,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text>wüsst&apos;</text>
+              <text>wüsst'</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -3412,7 +3418,7 @@
             <text>accel.</text>
             </StaffText>
           <Tempo>
-            <tempo>1.66667</tempo>
+            <tempo>1.6666700000000001</tempo>
             <visible>0</visible>
             <text>T</text>
             </Tempo>
@@ -3685,7 +3691,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.83333</tempo>
+            <tempo>1.8333299999999999</tempo>
             <visible>0</visible>
             <text>T</text>
             </Tempo>
@@ -6675,7 +6681,7 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>2</subtype>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               </HairPin>
             <next>
@@ -6847,9 +6853,8 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>3</subtype>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
-              <beginFontSize>10</beginFontSize>
               </HairPin>
             <next>
               <location>
@@ -7776,7 +7781,7 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>3</subtype>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               </HairPin>
             <next>
@@ -8351,7 +8356,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
+                <offset x="0" y="2.8"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -9064,7 +9069,7 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>2</subtype>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               </HairPin>
             <next>
@@ -11091,7 +11096,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
+                <offset x="0" y="2.8"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -11260,7 +11265,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
+                <offset x="0" y="2.8"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>

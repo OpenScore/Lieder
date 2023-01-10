@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>302</programVersion>
-  <programRevision>52580148</programRevision>
+  <programVersion>3.6.2</programVersion>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -114,14 +114,13 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger">Transcribed from IMSLP #580585. Source: https://imslp.org/wiki/Special:ReverseLookup/580585</metaTag>
-    <metaTag name="composer">Pauline Viardot (1821 -1910)</metaTag>
-    <metaTag name="copyright">Creative Commons copyright waiver (CC0 1.0 Universal)
-</metaTag>
+    <metaTag name="arranger">Transcribed by Vinckenbosch from IMSLP #580585.  Source: https://imslp.org/wiki/Special:ReverseLookup/580585</metaTag>
+    <metaTag name="composer">Pauline Viardot</metaTag>
+    <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2021-03-02</metaTag>
-    <metaTag name="lyricist">Louis Pomey (1835-1901)</metaTag>
+    <metaTag name="lyricist">Louis Pomey</metaTag>
     <metaTag name="movementNumber">7-ter</metaTag>
-    <metaTag name="movementTitle">Havanaise</metaTag>
+    <metaTag name="movementTitle">Havanaise  (VWV 1019)</metaTag>
     <metaTag name="platform"></metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/6641589</metaTag>
@@ -266,16 +265,18 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>15</height>
+        <height>19</height>
         <bottomGap>15.119</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>User-1</style>
+          <family>Edwin</family>
           <text>6 Mélodies et une havanaise</text>
           </Text>
         <Text>
           <style>User-2</style>
-          <text>7<sup>ter</sup> Havanaise</text>
+          <text>7<sup>ter</sup> Havanaise
+<font size="12"></font>VWV 1019</text>
           </Text>
         <Text>
           <style>Composer</style>
@@ -289,7 +290,7 @@
         <Text>
           <style>Frame</style>
           <align>center,top</align>
-          <offset x="0" y="16.5"/>
+          <offset x="0" y="20"/>
           <text>Thème populaire, varié pour voix de contralto</text>
           </Text>
         </VBox>
@@ -300,7 +301,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>0.866667</tempo>
+            <tempo>0.86666699999999997</tempo>
             <text>Moderato</text>
             </Tempo>
           <Rest>
@@ -1518,7 +1519,7 @@
             <offset x="-1" y="-0.5"/>
             </Breath>
           <Tempo>
-            <tempo>0.9</tempo>
+            <tempo>0.90000000000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <bold>0</bold>
@@ -1744,7 +1745,7 @@
             <durationType>eighth</durationType>
             </Rest>
           <Tempo>
-            <tempo>0.933333</tempo>
+            <tempo>0.93333299999999997</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <bold>0</bold>
@@ -1962,7 +1963,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>0.866667</tempo>
+            <tempo>0.86666699999999997</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <bold>0</bold>
@@ -2558,7 +2559,7 @@
             <durationType>eighth</durationType>
             </Rest>
           <Tempo>
-            <tempo>0.9</tempo>
+            <tempo>0.90000000000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <bold>0</bold>
@@ -2689,7 +2690,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>0.933333</tempo>
+            <tempo>0.93333299999999997</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <bold>0</bold>
@@ -2977,7 +2978,7 @@
             <fractions>-1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.8</tempo>
+            <tempo>0.80000000000000004</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <bold>0</bold>
@@ -3223,7 +3224,7 @@
             <symbol>breathMarkComma</symbol>
             </Breath>
           <Tempo>
-            <tempo>0.866667</tempo>
+            <tempo>0.86666699999999997</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <bold>0</bold>
@@ -4657,7 +4658,7 @@
             <symbol>breathMarkComma</symbol>
             </Breath>
           <Tempo>
-            <tempo>1.1</tempo>
+            <tempo>1.1000000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <bold>0</bold>
@@ -5834,7 +5835,7 @@
             <offset x="1" y="0"/>
             </Breath>
           <Tempo>
-            <tempo>1.15</tempo>
+            <tempo>1.1499999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <bold>0</bold>
@@ -6568,13 +6569,13 @@
         <vspacerFixed>10.5414</vspacerFixed>
         <voice>
           <Tempo>
-            <tempo>1.53333</tempo>
+            <tempo>1.5333300000000001</tempo>
             <minDistance>-0.572407</minDistance>
             <offset x="1" y="-1.43969"/>
             <text>1.<sup>o</sup> tempo.</text>
             </Tempo>
           <Tempo>
-            <tempo>0.9</tempo>
+            <tempo>0.90000000000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <minDistance>0.319248</minDistance>
@@ -6760,7 +6761,7 @@
             <text>accell.</text>
             </StaffText>
           <Tempo>
-            <tempo>0.966667</tempo>
+            <tempo>0.96666700000000005</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <bold>0</bold>
@@ -7017,7 +7018,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.866667</tempo>
+            <tempo>0.86666699999999997</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <bold>0</bold>
@@ -7249,7 +7250,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.933333</tempo>
+            <tempo>0.93333299999999997</tempo>
             <minDistance>-0.072407</minDistance>
             <offset x="2" y="-1.945"/>
             <text>a tempo.</text>
@@ -7385,7 +7386,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.866667</tempo>
+            <tempo>0.86666699999999997</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <bold>0</bold>
@@ -7513,7 +7514,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>0.9</tempo>
+            <tempo>0.90000000000000002</tempo>
             <minDistance>0.101086</minDistance>
             <offset x="0" y="-0.945"/>
             <text>a tempo.</text>
@@ -12063,7 +12064,7 @@
             <symbol>breathMarkComma</symbol>
             </Breath>
           <Tempo>
-            <tempo>0.933333</tempo>
+            <tempo>0.93333299999999997</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <minDistance>-0.1</minDistance>
@@ -12139,7 +12140,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>0.9</tempo>
+            <tempo>0.90000000000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <bold>0</bold>
@@ -12209,7 +12210,7 @@
             </Chord>
           <endTuplet/>
           <Tempo>
-            <tempo>0.833333</tempo>
+            <tempo>0.83333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <bold>0</bold>
@@ -12402,7 +12403,7 @@
             <text>Mouv.<sup>t</sup> du thème</text>
             </StaffText>
           <Tempo>
-            <tempo>0.866667</tempo>
+            <tempo>0.86666699999999997</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <bold>0</bold>
@@ -12739,7 +12740,7 @@
             <offset x="-2" y="0"/>
             </Breath>
           <Tempo>
-            <tempo>0.833333</tempo>
+            <tempo>0.83333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <bold>0</bold>
@@ -12963,7 +12964,7 @@
             <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.8</tempo>
+            <tempo>0.80000000000000004</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <bold>0</bold>
@@ -13259,7 +13260,7 @@
             <text>poco      a      poco      rall:</text>
             </StaffText>
           <Tempo>
-            <tempo>0.766667</tempo>
+            <tempo>0.76666699999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <bold>0</bold>
@@ -13356,7 +13357,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>0.733333</tempo>
+            <tempo>0.73333300000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <bold>0</bold>
@@ -13459,7 +13460,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>0.7</tempo>
+            <tempo>0.69999999999999996</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <bold>0</bold>
@@ -13564,7 +13565,7 @@
             <text>poco    rit.</text>
             </StaffText>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <bold>0</bold>

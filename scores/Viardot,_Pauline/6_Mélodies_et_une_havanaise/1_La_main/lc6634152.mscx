@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -113,13 +113,12 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger">Transcribed by Vinckenbosch from IMSLP #557086. Source: https://imslp.org/wiki/6_M%C3%A9lodies_et_une_havanaise_(Viardot%2C_Pauline)</metaTag>
-    <metaTag name="composer">Pauline Viardot (1821 -1910)</metaTag>
-    <metaTag name="copyright">Creative Commons copyright waiver (CC0 1.0 Universal)
-</metaTag>
+    <metaTag name="composer">Pauline Viardot</metaTag>
+    <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2021-02-26</metaTag>
-    <metaTag name="lyricist">Henri-Charles Read  (1857 - 1876)</metaTag>
+    <metaTag name="lyricist">Henri-Charles Read</metaTag>
     <metaTag name="movementNumber">1</metaTag>
-    <metaTag name="movementTitle">La main</metaTag>
+    <metaTag name="movementTitle">La main  (VWV 1103)</metaTag>
     <metaTag name="platform">Microsoft Windows
 </metaTag>
     <metaTag name="poet"></metaTag>
@@ -265,15 +264,17 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>11</height>
-        <bottomGap>14</bottomGap>
+        <height>15</height>
+        <bottomGap>11</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>User-1</style>
+          <family>Edwin</family>
           <text>6 Mélodies et une havanaise</text>
           </Text>
         <Text>
           <style>User-2</style>
+          <family>Edwin</family>
           <text>1. La main</text>
           </Text>
         <Text>
@@ -283,6 +284,13 @@
         <Text>
           <style>Lyricist</style>
           <text>Henri-Charles Read</text>
+          </Text>
+        <Text>
+          <style>Frame</style>
+          <size>12</size>
+          <align>center,top</align>
+          <offset x="0" y="16"/>
+          <text>VWV 1103</text>
           </Text>
         </VBox>
       <Measure>
@@ -1448,7 +1456,7 @@
             <text>un peu plus lent.</text>
             </StaffText>
           <Tempo>
-            <tempo>1.63333</tempo>
+            <tempo>1.6333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <bold>0</bold>
@@ -2280,7 +2288,7 @@
             <offset x="-0.4" y="-1.1"/>
             </Dynamic>
           <Tempo>
-            <tempo>1.53333</tempo>
+            <tempo>1.5333300000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <bold>0</bold>
@@ -3117,25 +3125,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="Pedal">
-            <Pedal>
-              <beginText>Ped.</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
-              <lineVisible>0</lineVisible>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-0.61342" y="4.22606"/>
-                <off2 x="2.17935" y="0"/>
-                <autoplace>0</autoplace>
-                </Segment>
-              </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -3228,13 +3217,6 @@
             <subtype>p</subtype>
             <velocity>50</velocity>
             </Dynamic>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -3854,24 +3836,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="Pedal">
-            <Pedal>
-              <beginText>Ped.</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
-              <lineVisible>0</lineVisible>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-0.363224" y="3.81839"/>
-                <off2 x="3.17261" y="0"/>
-                </Segment>
-              </Pedal>
-            <next>
-              <location>
-                <fractions>1/2</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -3913,32 +3877,6 @@
             <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <fractions>-1/2</fractions>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Pedal">
-            <Pedal>
-              <beginText>Ped.</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
-              <lineVisible>0</lineVisible>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="2" y="4"/>
-                <off2 x="1" y="0"/>
-                </Segment>
-              </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                <fractions>-1/2</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -3984,32 +3922,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                <fractions>1/2</fractions>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Pedal">
-            <Pedal>
-              <beginText>Ped.</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
-              <lineVisible>0</lineVisible>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-0.7" y="4"/>
-                <off2 x="2.6" y="0"/>
-                </Segment>
-              </Pedal>
-            <next>
-              <location>
-                <fractions>1/2</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -4051,32 +3963,6 @@
             <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <fractions>-1/2</fractions>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Pedal">
-            <Pedal>
-              <beginText>Ped.</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
-              <lineVisible>0</lineVisible>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="1" y="4"/>
-                <off2 x="1.8" y="0"/>
-                </Segment>
-              </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                <fractions>-1/2</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -4130,14 +4016,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                <fractions>1/2</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -4781,24 +4659,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="Pedal">
-            <Pedal>
-              <beginText>Ped.</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
-              <lineVisible>0</lineVisible>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="7"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              </Pedal>
-            <next>
-              <location>
-                <fractions>3/4</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -4841,13 +4701,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <fractions>-3/4</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -6271,6 +6124,19 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="Pedal">
+            <Pedal>
+              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
+              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
+              <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
+              <lineVisible>0</lineVisible>
+              </Pedal>
+            <next>
+              <location>
+                <fractions>7/8</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -6324,6 +6190,13 @@
             <minDistance>-0.055</minDistance>
             <offset x="0" y="0"/>
             </Fermata>
+          <Spanner type="Pedal">
+            <prev>
+              <location>
+                <fractions>-7/8</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -6501,6 +6374,24 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="Pedal">
+            <Pedal>
+              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
+              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
+              <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
+              <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="4"/>
+                <off2 x="-0.5" y="0"/>
+                </Segment>
+              </Pedal>
+            <next>
+              <location>
+                <fractions>1/2</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Rest>
             <visible>0</visible>
             <durationType>quarter</durationType>
@@ -6534,6 +6425,27 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Spanner type="Pedal">
+            <prev>
+              <location>
+                <fractions>-1/2</fractions>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="Pedal">
+            <Pedal>
+              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
+              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
+              <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
+              <lineVisible>0</lineVisible>
+              </Pedal>
+            <next>
+              <location>
+                <measures>1</measures>
+                <fractions>-1/2</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Rest>
             <visible>0</visible>
             <durationType>quarter</durationType>
@@ -6565,6 +6477,32 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="Pedal">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                <fractions>1/2</fractions>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="Pedal">
+            <Pedal>
+              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
+              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
+              <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
+              <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="4"/>
+                <off2 x="-0.5" y="0"/>
+                </Segment>
+              </Pedal>
+            <next>
+              <location>
+                <fractions>1/2</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Rest>
             <visible>0</visible>
             <durationType>quarter</durationType>
@@ -6592,6 +6530,27 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Spanner type="Pedal">
+            <prev>
+              <location>
+                <fractions>-1/2</fractions>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="Pedal">
+            <Pedal>
+              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
+              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
+              <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
+              <lineVisible>0</lineVisible>
+              </Pedal>
+            <next>
+              <location>
+                <measures>1</measures>
+                <fractions>-1/2</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Rest>
             <visible>0</visible>
             <durationType>quarter</durationType>
@@ -6641,6 +6600,14 @@
                 <measures>2</measures>
                 </location>
               </next>
+            </Spanner>
+          <Spanner type="Pedal">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                <fractions>1/2</fractions>
+                </location>
+              </prev>
             </Spanner>
           <Rest>
             <visible>0</visible>
@@ -6800,6 +6767,19 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="Pedal">
+            <Pedal>
+              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
+              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
+              <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
+              <lineVisible>0</lineVisible>
+              </Pedal>
+            <next>
+              <location>
+                <fractions>5/8</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Rest>
             <offset x="0" y="4"/>
             <staffMove>-1</staffMove>
@@ -6861,6 +6841,13 @@
             <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
             </Rest>
+          <Spanner type="Pedal">
+            <prev>
+              <location>
+                <fractions>-5/8</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Beam>
             <Fragment>
               <y1>0.320503</y1>
@@ -7060,15 +7047,10 @@
         <voice>
           <Spanner type="Pedal">
             <Pedal>
-              <beginText>Ped.</beginText>
+              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-1.11303" y="5.49269"/>
-                <off2 x="4" y="0"/>
-                </Segment>
               </Pedal>
             <next>
               <location>
@@ -7132,15 +7114,10 @@
             </Spanner>
           <Spanner type="Pedal">
             <Pedal>
-              <beginText>Ped.</beginText>
+              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-4" y="3"/>
-                <off2 x="4" y="0"/>
-                </Segment>
               </Pedal>
             <next>
               <location>
@@ -7370,16 +7347,10 @@
         <voice>
           <Spanner type="Pedal">
             <Pedal>
-              <beginText>Ped.</beginText>
+              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-4" y="3.4375"/>
-                <off2 x="4" y="0"/>
-                <minDistance>0</minDistance>
-                </Segment>
               </Pedal>
             <next>
               <location>
@@ -7711,16 +7682,10 @@
             </StaffText>
           <Spanner type="Pedal">
             <Pedal>
-              <beginText>Ped.</beginText>
+              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-2" y="4.48938"/>
-                <off2 x="1.7" y="0"/>
-                <minDistance>0.2</minDistance>
-                </Segment>
               </Pedal>
             <next>
               <location>
@@ -7764,16 +7729,10 @@
             </Spanner>
           <Spanner type="Pedal">
             <Pedal>
-              <beginText>Ped.</beginText>
+              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-1.3" y="4.58938"/>
-                <off2 x="0.9" y="0"/>
-                <minDistance>0.3</minDistance>
-                </Segment>
               </Pedal>
             <next>
               <location>
@@ -7823,20 +7782,15 @@
             </Spanner>
           <Spanner type="Pedal">
             <Pedal>
-              <beginText>Ped.</beginText>
+              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-2.86147" y="4.44938"/>
-                <off2 x="2.86147" y="0"/>
-                <minDistance>0.3</minDistance>
-                </Segment>
               </Pedal>
             <next>
               <location>
-                <measures>2</measures>
+                <measures>1</measures>
+                <fractions>1/4</fractions>
                 </location>
               </next>
             </Spanner>
@@ -7887,6 +7841,14 @@
             <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
+          <Spanner type="Pedal">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                <fractions>-1/4</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -7913,13 +7875,6 @@
             <timeStretch>1.5</timeStretch>
             <offset x="2.5" y="-1"/>
             </Fermata>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-2</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <offset x="2.5" y="0"/>
             <dots>1</dots>

@@ -1,38 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.01">
-  <programVersion>3.5.2</programVersion>
-  <programRevision>465e7b6</programRevision>
+<museScore version="3.02">
+  <programVersion>3.6.2</programVersion>
+  <programRevision></programRevision>
   <Score>
-    <LayerTag id="0" tag="default"/>
+    <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.27008</pageWidth>
-      <pageHeight>11.6902</pageHeight>
-      <pagePrintableWidth>7.48268</pagePrintableWidth>
-      <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-      <pageEvenTopMargin>0.393701</pageEvenTopMargin>
-      <pageEvenBottomMargin>0.787402</pageEvenBottomMargin>
-      <pageOddTopMargin>0.393701</pageOddTopMargin>
-      <pageOddBottomMargin>0.787402</pageOddBottomMargin>
+      <pageWidth>8.26772</pageWidth>
+      <pageHeight>11.6929</pageHeight>
+      <pagePrintableWidth>7.08661</pagePrintableWidth>
+      <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
+      <pageOddLeftMargin>0.590551</pageOddLeftMargin>
+      <pageEvenTopMargin>0.590551</pageEvenTopMargin>
+      <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
+      <pageOddTopMargin>0.590551</pageOddTopMargin>
+      <pageOddBottomMargin>0.590551</pageOddBottomMargin>
+      <staffLowerBorder>4</staffLowerBorder>
       <maxSystemDistance>25</maxSystemDistance>
+      <enableVerticalSpread>1</enableVerticalSpread>
       <lyricsMinDistance>0.6</lyricsMinDistance>
       <lyricsDashMaxDistance>10</lyricsDashMaxDistance>
       <lyricsDashForce>0</lyricsDashForce>
       <lyricsMelismaPad>0.5</lyricsMelismaPad>
-      <lyricsOddFontSize>12</lyricsOddFontSize>
       <lyricsOddFramePadding>0</lyricsOddFramePadding>
       <lyricsOddFrameWidth>0</lyricsOddFrameWidth>
-      <lyricsEvenFontSize>12</lyricsEvenFontSize>
-      <doubleBarDistance>0.46</doubleBarDistance>
-      <endBarDistance>0.65</endBarDistance>
       <clefLeftMargin>0.64</clefLeftMargin>
       <clefKeyRightMargin>1.75</clefKeyRightMargin>
-      <barNoteDistance>1.2</barNoteDistance>
       <measureSpacing>1</measureSpacing>
-      <lastSystemFillLimit>0</lastSystemFillLimit>
-      <hairpinPosAbove x="0" y="-2.5"/>
+      <lastSystemFillLimit>0.1</lastSystemFillLimit>
       <hairpinHeight>1.3</hairpinHeight>
       <hairpinFramePadding>0</hairpinFramePadding>
       <hairpinFrameWidth>0</hairpinFrameWidth>
@@ -46,9 +42,9 @@
       <ottavaFontStyle>2</ottavaFontStyle>
       <ottavaFramePadding>0</ottavaFramePadding>
       <ottavaFrameWidth>0</ottavaFrameWidth>
+      <tupletMaxSlope>0</tupletMaxSlope>
       <tupletFramePadding>0</tupletFramePadding>
       <tupletFrameWidth>0</tupletFrameWidth>
-      <dynamicsPosAbove x="0" y="-2"/>
       <textLineFramePadding>0</textLineFramePadding>
       <textLineFrameWidth>0</textLineFrameWidth>
       <defaultFontSpatiumDependent>0</defaultFontSpatiumDependent>
@@ -86,7 +82,6 @@
       <partInstrumentFrameRound>25</partInstrumentFrameRound>
       <dynamicsFramePadding>0</dynamicsFramePadding>
       <dynamicsFrameWidth>0</dynamicsFrameWidth>
-      <expressionFontSize>12</expressionFontSize>
       <expressionFramePadding>0</expressionFramePadding>
       <expressionFrameWidth>0</expressionFrameWidth>
       <tempoFramePadding>0</tempoFramePadding>
@@ -94,7 +89,6 @@
       <tempoFrameRound>25</tempoFrameRound>
       <metronomeFramePadding>0</metronomeFramePadding>
       <metronomeFrameWidth>0</metronomeFrameWidth>
-      <measureNumberAlign>center,bottom</measureNumberAlign>
       <measureNumberFramePadding>0</measureNumberFramePadding>
       <measureNumberFrameWidth>0</measureNumberFrameWidth>
       <translatorAlign>center,top</translatorAlign>
@@ -105,7 +99,6 @@
       <systemFrameWidth>0</systemFrameWidth>
       <systemFrameRound>25</systemFrameRound>
       <staffAlign>left,top</staffAlign>
-      <staffPosAbove x="0" y="-4"/>
       <staffFramePadding>0</staffFramePadding>
       <staffFrameWidth>0</staffFrameWidth>
       <staffFrameRound>25</staffFrameRound>
@@ -132,15 +125,17 @@
       <instrumentChangeAlign>left,bottom</instrumentChangeAlign>
       <instrumentChangeFramePadding>0</instrumentChangeFramePadding>
       <instrumentChangeFrameWidth>0</instrumentChangeFrameWidth>
-      <user1Name>Repeat Text</user1Name>
-      <user1FontSize>12</user1FontSize>
-      <user1Align>right,baseline</user1Align>
+      <user1Name>Work Title</user1Name>
+      <user1FontSize>14</user1FontSize>
+      <user1FontSpatiumDependent>0</user1FontSpatiumDependent>
+      <user1Align>center,top</user1Align>
       <user1FramePadding>0</user1FramePadding>
       <user1FrameWidth>0</user1FrameWidth>
-      <user2Name>Work Title</user2Name>
-      <user2FontSize>14</user2FontSize>
+      <user2Name>Movement Title</user2Name>
+      <user2FontSize>22</user2FontSize>
       <user2FontSpatiumDependent>0</user2FontSpatiumDependent>
       <user2Align>center,top</user2Align>
+      <user2Offset x="0" y="7"/>
       <user2FramePadding>0</user2FramePadding>
       <user2FrameWidth>0</user2FrameWidth>
       <user3Name>Movement Title</user3Name>
@@ -162,36 +157,35 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger">Transcribed by 
-hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(Chaminade%2C_C%C3%A9cile)</metaTag>
+    <metaTag name="arranger">Transcribed by hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(Chaminade%2C_C%C3%A9cile)</metaTag>
     <metaTag name="composer">Cécile Chaminade</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
-    <metaTag name="creationDate"/>
-    <metaTag name="lyricist">Ludovic Fortolis</metaTag>
-    <metaTag name="movementNumber"/>
-    <metaTag name="movementTitle">Chanson de neige</metaTag>
-    <metaTag name="originalFormat"/>
-    <metaTag name="platform"/>
-    <metaTag name="poet"/>
+    <metaTag name="creationDate">2020-10-26</metaTag>
+    <metaTag name="lyricist">Ludovic Fortolis (Louis-Alexandre Fortoul)</metaTag>
+    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="platform"></metaTag>
+    <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/6415075</metaTag>
-    <metaTag name="translator"/>
-    <metaTag name="workNumber"/>
-    <metaTag name="workTitle"/>
+    <metaTag name="translator"></metaTag>
+    <metaTag name="workNumber"></metaTag>
+    <metaTag name="workTitle">Chanson de neige</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
+          <name>stdNormal</name>
           </StaffType>
         </Staff>
-      <trackName>Oboe</trackName>
-      <Instrument>
-        <longName>Voice
-<i>Chant</i></longName>
-        <trackName>Oboe</trackName>
-        <minPitchP>58</minPitchP>
-        <maxPitchP>96</maxPitchP>
-        <minPitchA>58</minPitchA>
-        <maxPitchA>87</maxPitchA>
-        <instrumentId>wind.reed.oboe</instrumentId>
+      <trackName>Voice</trackName>
+      <Instrument id="voice">
+        <longName>Chant
+<i>Voice</i></longName>
+        <trackName>Voice</trackName>
+        <minPitchP>38</minPitchP>
+        <maxPitchP>84</maxPitchP>
+        <minPitchA>41</minPitchA>
+        <maxPitchA>79</maxPitchA>
+        <instrumentId>voice.vocals</instrumentId>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -236,6 +230,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="68"/>
+          <controller ctrl="10" value="40"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -255,7 +250,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
         <defaultClef>F</defaultClef>
         </Staff>
       <trackName>Piano</trackName>
-      <Instrument>
+      <Instrument id="piano">
         <longName>Piano</longName>
         <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
@@ -315,9 +310,10 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
       <VBox>
         <height>2</height>
         <bottomGap>0</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Frame</style>
-          <size>10</size>
+          <size>9</size>
           <italic>1</italic>
           <align>center,top</align>
           <text>à Mademoiselle Irma Bastit
@@ -325,15 +321,17 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
           </Text>
         </VBox>
       <VBox>
-        <height>18</height>
+        <height>9</height>
         <topGap>3.75</topGap>
         <bottomGap>15</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
           <text>Cécile Chaminade</text>
           </Text>
         <Text>
           <style>User-3</style>
+          <offset x="0" y="0.4"/>
           <text>Chanson de neige</text>
           </Text>
         <Text>
@@ -343,9 +341,11 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
         </VBox>
       <HBox>
         <width>3</width>
+        <boxAutoSize>0</boxAutoSize>
         </HBox>
       <Measure len="1/4">
-        <vspacerDown>10.0695</vspacerDown>
+        <irregular>1</irregular>
+        <vspacerFixed>7.8721</vspacerFixed>
         <voice>
           <KeySig>
             <accidental>-1</accidental>
@@ -373,7 +373,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Groups>
             </TimeSig>
           <Tempo>
-            <tempo>0.833333</tempo>
+            <tempo>0.83333299999999999</tempo>
             <text>Largo</text>
             </Tempo>
           <Rest>
@@ -421,11 +421,12 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
       <Measure>
         <voice>
           <StaffText>
-            <offset x="-1" y="-4"/>
+            <offset x="-0.914286" y="-3.65714"/>
             <text><i>lunga</i></text>
             </StaffText>
           <Fermata>
             <subtype>fermataAbove</subtype>
+            <timeStretch>1.5</timeStretch>
             </Fermata>
           <Chord>
             <durationType>half</durationType>
@@ -511,11 +512,12 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
         <voice>
           <StaffText>
             <minDistance>-7.10473</minDistance>
-            <offset x="-0.671006" y="-4.92624"/>
+            <offset x="-0.613491" y="-4.50399"/>
             <text><i>lunga</i></text>
             </StaffText>
           <Fermata>
             <subtype>fermataAbove</subtype>
+            <timeStretch>1.5</timeStretch>
             </Fermata>
           <Chord>
             <durationType>half</durationType>
@@ -604,7 +606,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="0" y="0.522943"/>
+            <offset x="0" y="0.478119"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <p1 x="0" y="0.2"/>
@@ -620,15 +622,16 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>l&apos;ho</text>
+              <text>l’ho</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="-0.5"/>
-                  <o2 x="0" y="-1.00118"/>
-                  <o3 x="0" y="-1.00118"/>
-                  <o4 x="0" y="-0.5"/>
+                  <o1 x="0" y="-0.457143"/>
+                  <o2 x="0" y="-0.215365"/>
+                  <o3 x="0" y="-0.215365"/>
+                  <o4 x="0" y="-0.457143"/>
+                  <offset x="0" y="-0.7"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -729,12 +732,36 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Tempo>
+            <tempo>1.6666666666666667</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-3"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 100</b></text>
+            </Tempo>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Tempo>
+            <tempo>1.5</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-3"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
+            </Tempo>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
+          <Tempo>
+            <tempo>1.3333299999999999</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-3"/>
+            <text><sym>metNoteQuarterUp</sym> = 80</text>
+            </Tempo>
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
@@ -768,11 +795,11 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <subtype>f</subtype>
             <velocity>96</velocity>
             <placement>above</placement>
-            <minDistance>-999</minDistance>
-            <offset x="-1.23018" y="0.236686"/>
+            <minDistance>0.346657</minDistance>
+            <offset x="-2.12474" y="-1.2836"/>
             </Dynamic>
           <Tempo>
-            <tempo>0.833333</tempo>
+            <tempo>0.83333299999999999</tempo>
             <text>Largo</text>
             </Tempo>
           <Chord>
@@ -792,7 +819,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <text><i>le triolet serré</i></text>
             </StaffText>
           <Tuplet>
-            <offset x="-0.111834" y="0.894674"/>
+            <offset x="-0.102248" y="0.817988"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -807,15 +834,6 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <Lyrics>
               <text>te</text>
               </Lyrics>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/6</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -839,13 +857,6 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               <syllabic>middle</syllabic>
               <text>ri</text>
               </Lyrics>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/6</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
@@ -953,16 +964,6 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <Lyrics>
               <text>te</text>
               </Lyrics>
-            <Spanner type="Slur">
-              <Slur>
-                <up>up</up>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/6</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
@@ -986,13 +987,6 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               <syllabic>middle</syllabic>
               <text>ri</text>
               </Lyrics>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/6</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <pitch>58</pitch>
               <tpc>12</tpc>
@@ -1058,6 +1052,9 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <offset x="0" y="-0.3"/>
+                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -1095,7 +1092,6 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>10.8674</vspacerDown>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -1299,7 +1295,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <velocity>49</velocity>
             <placement>above</placement>
             <minDistance>-999</minDistance>
-            <offset x="-0.78284" y="-1.17041"/>
+            <offset x="-0.715739" y="-1.07009"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -1380,6 +1376,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
           </voice>
         </Measure>
       <Measure>
+        <vspacerFixed>10.4471</vspacerFixed>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -1871,7 +1868,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>l&apos;heure</text>
+              <text>l’heure</text>
               </Lyrics>
             <Spanner type="Slur">
               <prev>
@@ -1939,6 +1936,14 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
           <StaffText>
             <text><b>Poco rit</b>.</text>
             </StaffText>
+          <Tempo>
+            <tempo>1.8333333333333333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-3.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 110</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -1991,6 +1996,14 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Tempo>
+            <tempo>1.6666666666666667</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-3.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 100</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -2015,8 +2028,8 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-0.2" y="-2.5"/>
-                <off2 x="-2.52945" y="0"/>
+                <offset x="-0.182857" y="-2.28571"/>
+                <off2 x="-2.31264" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -2048,6 +2061,20 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Tempo>
+            <tempo>1.5833333333333333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-3.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 95</b></text>
+            </Tempo>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -2086,13 +2113,23 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <subtype>other-dynamics</subtype>
             <velocity>96</velocity>
             <placement>above</placement>
-            <offset x="4.2497" y="-2.2903"/>
-            <text><i/><font face="ScoreText"/><i><font face="FreeSerif"/> très rythmé</i></text>
+            <family>FreeSerif</family>
+            <offset x="3.88544" y="-2.09399"/>
+            <text><i></i><font face="ScoreText"></font><i><font face="FreeSerif"></font> très rythmé</i></text>
             </Dynamic>
           <StaffText>
             <style>Tempo</style>
             <text><b>A tempo</b></text>
             </StaffText>
+          <Tempo>
+            <tempo>1.9333333333333333</tempo>
+            <followText>1</followText>
+            <autoplace>0</autoplace>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="-1" y="-0.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 116</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -2463,7 +2500,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <velocity>49</velocity>
             <placement>above</placement>
             <minDistance>-999</minDistance>
-            <offset x="-0.447337" y="-1.28225"/>
+            <offset x="-0.408994" y="-1.17234"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -2487,7 +2524,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>s&apos;a</text>
+              <text>s’a</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -2800,8 +2837,17 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             </Chord>
           <StaffText>
             <style>Tempo</style>
+            <offset x="0" y="-1.6"/>
             <text>Rit.</text>
             </StaffText>
+          <Tempo>
+            <tempo>1.6666666666666667</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-4.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 100</b></text>
+            </Tempo>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -2847,17 +2893,20 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
           <Spanner type="HairPin">
             <HairPin>
               <subtype>3</subtype>
-              <endText/>
+              <endText></endText>
+              <lineVisible>0</lineVisible>
               <placement>above</placement>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-3"/>
-                <off2 x="-1.49392" y="0"/>
+                <offset x="0" y="-1.74286"/>
+                <off2 x="-0.16587" y="0"/>
                 </Segment>
               </HairPin>
             <next>
               <location>
-                <fractions>1/8</fractions>
+                <measures>1</measures>
+                <fractions>-1/2</fractions>
                 </location>
               </next>
             </Spanner>
@@ -2874,13 +2923,14 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <fractions>-1/8</fractions>
-                </location>
-              </prev>
-            </Spanner>
+          <Tempo>
+            <tempo>1.5</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-4.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -2910,6 +2960,14 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
           <subtype>page</subtype>
           </LayoutBreak>
         <voice>
+          <Tempo>
+            <tempo>1.3333299999999999</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-4.5"/>
+            <text><sym>metNoteQuarterUp</sym> = 80</text>
+            </Tempo>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -2952,6 +3010,14 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                <fractions>1/2</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -3015,10 +3081,11 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
           </voice>
         </Measure>
       <Measure>
+        <vspacerFixed>9.90377</vspacerFixed>
         <voice>
           <Tempo>
-            <tempo>0.833333</tempo>
-            <offset x="-12.5254" y="-1.55266"/>
+            <tempo>0.83333299999999999</tempo>
+            <offset x="-11" y="-2"/>
             <text>Largo</text>
             </Tempo>
           <Chord>
@@ -3076,11 +3143,12 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
           </LayoutBreak>
         <voice>
           <StaffText>
-            <offset x="-1" y="-4"/>
+            <offset x="-0.914286" y="-3.65714"/>
             <text><i>lunga</i></text>
             </StaffText>
           <Fermata>
             <subtype>fermataAbove</subtype>
+            <timeStretch>1.5</timeStretch>
             </Fermata>
           <Chord>
             <durationType>half</durationType>
@@ -3164,6 +3232,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             </StaffText>
           <Fermata>
             <subtype>fermataAbove</subtype>
+            <timeStretch>1.5</timeStretch>
             </Fermata>
           <Chord>
             <durationType>half</durationType>
@@ -3247,7 +3316,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="0.298225" y="0.672055"/>
+            <offset x="0.272663" y="0.61445"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <p1 x="0" y="0.2"/>
@@ -3263,15 +3332,15 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>l&apos;ho</text>
+              <text>l’ho</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="-0.5"/>
-                  <o2 x="0" y="-0.90118"/>
-                  <o3 x="0" y="-0.90118"/>
-                  <o4 x="0" y="-0.5"/>
+                  <o1 x="0" y="-0.457143"/>
+                  <o2 x="0" y="-0.823936"/>
+                  <o3 x="0" y="-0.823936"/>
+                  <o4 x="0" y="-0.457143"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -3374,12 +3443,42 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Tempo>
+            <tempo>1.6666666666666667</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="-0.5" y="-2.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 100</b></text>
+            </Tempo>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Tempo>
+            <tempo>1.5</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="-0.5" y="-2.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
+            </Tempo>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Tempo>
+            <tempo>1.3333333333333333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0.5" y="-2.5"/>
+            <text><sym>metNoteQuarterUp</sym> = 80</text>
+            </Tempo>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
@@ -3395,7 +3494,8 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <placement>above</placement>
             </Dynamic>
           <Tempo>
-            <tempo>0.833333</tempo>
+            <tempo>0.83333299999999999</tempo>
+            <offset x="-2" y="-2"/>
             <text>Largo</text>
             </Tempo>
           <Chord>
@@ -3418,7 +3518,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>quoi</text>
+              <text>- quoi</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
@@ -3430,7 +3530,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <text>le triolet serré</text>
             </StaffText>
           <Tuplet>
-            <offset x="-0.111834" y="0.894674"/>
+            <offset x="-0.102248" y="0.817988"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -3445,15 +3545,6 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <Lyrics>
               <text>te</text>
               </Lyrics>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/6</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -3477,13 +3568,6 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               <syllabic>middle</syllabic>
               <text>ri</text>
               </Lyrics>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/6</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
@@ -3597,20 +3681,6 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <Lyrics>
               <text>te</text>
               </Lyrics>
-            <Spanner type="Slur">
-              <Slur>
-                <SlurSegment no="0">
-                  <o2 x="-0.223669" y="-0.559172"/>
-                  <o3 x="-0.223669" y="-0.559172"/>
-                  </SlurSegment>
-                <up>up</up>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/6</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
@@ -3634,13 +3704,6 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               <syllabic>middle</syllabic>
               <text>ri</text>
               </Lyrics>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/6</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <pitch>58</pitch>
               <tpc>12</tpc>
@@ -3667,7 +3730,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text>rai</text>
+              <text>- rai</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -3755,10 +3818,10 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>9.97671</vspacerDown>
+        <vspacerDown>9.52156</vspacerDown>
         <voice>
           <Tuplet>
-            <offset x="0.335503" y="0.219172"/>
+            <offset x="0.306746" y="0.200386"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <p2 x="-1.00651" y="0"/>
@@ -3932,6 +3995,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
       </Staff>
     <Staff id="2">
       <Measure len="1/4">
+        <vspacerFixed>5.90553</vspacerFixed>
         <voice>
           <KeySig>
             <accidental>-1</accidental>
@@ -3947,6 +4011,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             </Dynamic>
           <StaffText>
             <style>Tempo</style>
+            <offset x="-4" y="-2"/>
             <text>Largo</text>
             </StaffText>
           <Chord>
@@ -3962,7 +4027,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
         <voice>
           <StaffText>
             <minDistance>-0.5</minDistance>
-            <offset x="0" y="-5.09382"/>
+            <offset x="0" y="-4.65721"/>
             <text><i>m. g.</i></text>
             </StaffText>
           <Beam>
@@ -4121,10 +4186,10 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0.785499" y="-4.55589"/>
-                  <o2 x="-0.471299" y="-9.11179"/>
-                  <o3 x="1.0997" y="-7.54079"/>
-                  <o4 x="-0.1571" y="-8.95469"/>
+                  <o1 x="0.718171" y="-4.16539"/>
+                  <o2 x="-0.430902" y="-8.33078"/>
+                  <o3 x="1.00544" y="-6.89444"/>
+                  <o4 x="-0.143634" y="-8.18715"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -4221,7 +4286,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="1"/>
+                  <o4 x="0" y="0.914286"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -4261,7 +4326,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="4"/>
+            <offset x="0" y="3.65714"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -4308,7 +4373,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="4"/>
+            <offset x="0" y="3.65714"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -4326,7 +4391,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
           <StaffText>
             <style>Tempo</style>
             <minDistance>0.0234552</minDistance>
-            <offset x="-2.37505" y="-2.75852"/>
+            <offset x="-2.17147" y="-2.52208"/>
             <text>Allegretto</text>
             </StaffText>
           <Chord>
@@ -4354,6 +4419,9 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <offset x="0" y="-1.3"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -4427,6 +4495,9 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <offset x="0" y="-1.3"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -4489,7 +4560,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             <Arpeggio>
               <subtype>0</subtype>
-              <userLen1>0.4</userLen1>
+              <userLen1>0.365714</userLen1>
               </Arpeggio>
             </Chord>
           <location>
@@ -4507,7 +4578,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             <Arpeggio>
               <subtype>0</subtype>
-              <userLen1>0.4</userLen1>
+              <userLen1>0.365714</userLen1>
               </Arpeggio>
             </Chord>
           </voice>
@@ -4616,7 +4687,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             <Arpeggio>
               <subtype>0</subtype>
-              <userLen1>0.3</userLen1>
+              <userLen1>0.274286</userLen1>
               </Arpeggio>
             </Chord>
           </voice>
@@ -4627,7 +4698,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <subtype>f</subtype>
             <velocity>96</velocity>
             <minDistance>9.39989e-16</minDistance>
-            <offset x="0" y="4.16708"/>
+            <offset x="0" y="3.8099"/>
             </Dynamic>
           <StaffText>
             <style>Tempo</style>
@@ -4657,7 +4728,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Arpeggio>
             </Chord>
           <Tuplet>
-            <offset x="0.111834" y="1.38034"/>
+            <offset x="0.102248" y="1.26203"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <p1 x="0" y="0.2"/>
@@ -4676,6 +4747,9 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <offset x="0" y="-1"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -4893,6 +4967,9 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <offset x="0" y="-0.8"/>
+                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -5088,7 +5165,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <offset x="-3.01953" y="3.6645"/>
+            <offset x="-2.76071" y="3.3504"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -5201,7 +5278,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="-2"/>
+            <offset x="0" y="-1.82857"/>
             <staffMove>1</staffMove>
             <durationType>quarter</durationType>
             </Rest>
@@ -5216,6 +5293,9 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <offset x="0" y="-1"/>
+                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -5249,8 +5329,9 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
           <Dynamic>
             <subtype>other-dynamics</subtype>
             <velocity>49</velocity>
-            <offset x="-0.305845" y="4"/>
-            <text><i/><font face="ScoreText"/><i><font face="FreeSerif"/> ma marcato</i></text>
+            <family>FreeSerif</family>
+            <offset x="-0.27963" y="3.65714"/>
+            <text><i></i><font face="ScoreText"></font><i><font face="FreeSerif"></font> ma marcato</i></text>
             </Dynamic>
           <Chord>
             <durationType>16th</durationType>
@@ -5292,7 +5373,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="-2"/>
+            <offset x="0" y="-1.82857"/>
             <durationType>half</durationType>
             </Rest>
           </voice>
@@ -5306,6 +5387,9 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <offset x="0" y="-1"/>
+                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -5376,7 +5460,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="-2"/>
+            <offset x="0" y="-1.82857"/>
             <durationType>half</durationType>
             </Rest>
           </voice>
@@ -5384,7 +5468,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
       <Measure>
         <voice>
           <Rest>
-            <offset x="0" y="-2"/>
+            <offset x="0" y="-1.82857"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -5444,7 +5528,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
       <Measure>
         <voice>
           <Rest>
-            <offset x="0" y="-2"/>
+            <offset x="0" y="-1.82857"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -5477,7 +5561,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <offset x="0" y="-0.6"/>
+                  <offset x="0" y="-0.548571"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -5490,7 +5574,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <Articulation>
               <subtype>articAccentAbove</subtype>
               <minDistance>-999</minDistance>
-              <offset x="0.894674" y="0.543851"/>
+              <offset x="0.817988" y="0.497235"/>
               </Articulation>
             <Note>
               <pitch>77</pitch>
@@ -5498,7 +5582,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="-0.223669" y="0.559172"/>
+            <offset x="-0.204497" y="0.511243"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
@@ -5715,7 +5799,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <style>Expression</style>
             <placement>below</placement>
             <minDistance>-3.4142</minDistance>
-            <offset x="-0.111834" y="2.79066"/>
+            <offset x="-0.102248" y="2.55146"/>
             <text>m.d.</text>
             </StaffText>
           <Spanner type="HairPin">
@@ -7255,8 +7339,8 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
-                <off2 x="-5.80715" y="0"/>
+                <offset x="0" y="3.2"/>
+                <off2 x="-5.30939" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -7328,11 +7412,11 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
           <Spanner type="HairPin">
             <HairPin>
               <subtype>3</subtype>
-              <endText/>
+              <endText></endText>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
-                <off2 x="-1.60575" y="0"/>
+                <offset x="0" y="3.65714"/>
+                <off2 x="-1.46811" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -7528,12 +7612,12 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
         <voice>
           <StaffText>
             <minDistance>-0.5</minDistance>
-            <offset x="0" y="-5.09382"/>
+            <offset x="0" y="-4.65721"/>
             <text><i>m. g.</i></text>
             </StaffText>
           <StaffText>
             <style>Tempo</style>
-            <offset x="-12.469" y="-2.36787"/>
+            <offset x="-11.4002" y="-2.16491"/>
             <text>Largo</text>
             </StaffText>
           <Beam>
@@ -7549,11 +7633,11 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="-2.37505"/>
-                  <o2 x="-1.7" y="-4.2"/>
-                  <o3 x="-1.7" y="-4.2"/>
-                  <o4 x="-0.78284" y="5.36805"/>
-                  <offset x="0.335503" y="-2.34852"/>
+                  <o1 x="0" y="-2.17147"/>
+                  <o2 x="-1.55429" y="-3.84"/>
+                  <o3 x="-1.55429" y="-1.44"/>
+                  <o4 x="-0.715739" y="4.90793"/>
+                  <offset x="0.0067456" y="-3.04722"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -7650,7 +7734,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
           <StaffText>
             <placement>below</placement>
             <minDistance>0.0864796</minDistance>
-            <offset x="-1.45385" y="1.15148"/>
+            <offset x="-1.32923" y="1.05278"/>
             <text><i>m.d</i>.</text>
             </StaffText>
           <Chord>
@@ -7669,8 +7753,8 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
-                <off2 x="-3.35503" y="0"/>
+                <offset x="0" y="3.2"/>
+                <off2 x="-3.06746" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -7716,7 +7800,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
         <voice>
           <StaffText>
             <minDistance>-0.333491</minDistance>
-            <offset x="-0.671006" y="-3.44083"/>
+            <offset x="-0.613491" y="-3.1459"/>
             <text><i>m. g.</i></text>
             </StaffText>
           <Spanner type="HairPin">
@@ -7739,11 +7823,11 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="-6.4"/>
-                  <o2 x="-4.78757" y="-15.5201"/>
-                  <o3 x="4.51243" y="-15.5201"/>
-                  <o4 x="11.6308" y="4.7716"/>
-                  <offset x="0" y="0.4"/>
+                  <o1 x="0" y="-5.85143"/>
+                  <o2 x="-2.37721" y="-14.1898"/>
+                  <o3 x="1.02565" y="-14.1898"/>
+                  <o4 x="10.6339" y="4.36261"/>
+                  <offset x="0" y="-1.43429"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -7834,13 +7918,14 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
         <voice>
           <Fermata>
             <subtype>fermataAbove</subtype>
+            <timeStretch>1.5</timeStretch>
             </Fermata>
           <Chord>
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="1"/>
+                  <o4 x="0" y="0.914286"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -7938,6 +8023,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
         <voice>
           <Fermata>
             <subtype>fermataAbove</subtype>
+            <timeStretch>1.5</timeStretch>
             </Fermata>
           <Chord>
             <durationType>half</durationType>
@@ -8000,6 +8086,11 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o2 x="-4.89578e-17" y="-1"/>
+                  <o3 x="-4.89578e-17" y="-1"/>
+                  <offset x="0" y="-0.7"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -8073,6 +8164,11 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o2 x="-5.38535e-17" y="-1.1"/>
+                  <o3 x="-5.38535e-17" y="-1.1"/>
+                  <offset x="0" y="-0.7"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -8156,7 +8252,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             <Arpeggio>
               <subtype>0</subtype>
-              <userLen1>0.4</userLen1>
+              <userLen1>0.365714</userLen1>
               </Arpeggio>
             </Chord>
           <location>
@@ -8174,7 +8270,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             <Arpeggio>
               <subtype>0</subtype>
-              <userLen1>0.4</userLen1>
+              <userLen1>0.365714</userLen1>
               </Arpeggio>
             </Chord>
           </voice>
@@ -8264,7 +8360,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             </Dynamic>
           <StaffText>
             <style>Tempo</style>
-            <offset x="-1.63283" y="-2.98157"/>
+            <offset x="-2.49287" y="-2.72601"/>
             <text>Largo</text>
             </StaffText>
           <Chord>
@@ -8288,7 +8384,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             <Arpeggio>
               <subtype>0</subtype>
-              <userLen1>0.3</userLen1>
+              <userLen1>0.274286</userLen1>
               </Arpeggio>
             </Chord>
           </voice>
@@ -8299,7 +8395,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <subtype>f</subtype>
             <velocity>96</velocity>
             <minDistance>9.39989e-16</minDistance>
-            <offset x="0" y="4.16708"/>
+            <offset x="0" y="3.8099"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -8322,7 +8418,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Arpeggio>
             </Chord>
           <Tuplet>
-            <offset x="-0.111835" y="8.0904"/>
+            <offset x="-0.1" y="7.9"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <p1 x="0" y="0.2"/>
@@ -8342,8 +8438,8 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o2 x="-0.111834" y="-0.78284"/>
-                  <o3 x="-0.111834" y="-0.78284"/>
+                  <o2 x="-0.102248" y="-0.715739"/>
+                  <o3 x="-0.102248" y="-0.715739"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -8564,8 +8660,9 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o2 x="-0.223669" y="-0.559172"/>
-                  <o3 x="-0.223669" y="-0.559172"/>
+                  <o2 x="-0.204497" y="-0.511243"/>
+                  <o3 x="-0.204497" y="-0.511243"/>
+                  <offset x="0" y="-0.3"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -8622,7 +8719,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <subtype>p</subtype>
             <velocity>49</velocity>
             <minDistance>-0.171006</minDistance>
-            <offset x="-0.310457" y="4.74642"/>
+            <offset x="0.116154" y="4.33958"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -8773,7 +8870,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <offset x="-0.42901" y="4.22367"/>
+            <offset x="-0.392238" y="3.86164"/>
             </Dynamic>
           <Rest>
             <durationType>quarter</durationType>
@@ -8889,7 +8986,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="-1"/>
+            <offset x="0" y="-0.914286"/>
             <staffMove>1</staffMove>
             <durationType>quarter</durationType>
             </Rest>
@@ -8921,7 +9018,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-0.628399" y="5.2568"/>
+                <offset x="-0.574536" y="4.80622"/>
                 <off2 x="0" y="0"/>
                 <autoplace>0</autoplace>
                 </Segment>
@@ -8937,9 +9034,10 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="2.1994" y="-10.2115"/>
-                  <o2 x="-3.9275" y="-8.64049"/>
-                  <o3 x="-3.9275" y="-8.64049"/>
+                  <o1 x="2.01088" y="-9.33623"/>
+                  <o2 x="-3.59086" y="-7.89988"/>
+                  <o3 x="-3.59086" y="-7.89988"/>
+                  <offset x="0" y="-0.7"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -8954,7 +9052,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               <subtype>articAccentBelow</subtype>
               </Articulation>
             <Note>
-              <offset x="-12" y="0"/>
+              <offset x="-10.9714" y="0"/>
               <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
@@ -9165,7 +9263,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="0.111834" y="-2.01302"/>
+            <offset x="0.102248" y="-1.84048"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <p1 x="0.1" y="0.7"/>
@@ -9238,7 +9336,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="0" y="-2.57219"/>
+            <offset x="0" y="-2.35172"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <p1 x="0" y="0.8"/>
@@ -9315,7 +9413,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="0" y="-2.08757"/>
+            <offset x="0" y="-1.90864"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <p1 x="0.1" y="0.7"/>
@@ -9422,7 +9520,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="0.335503" y="-7.26923"/>
+            <offset x="0.31" y="-7.15"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -9436,6 +9534,9 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <offset x="0" y="-0.3"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -9872,7 +9973,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="3"/>
+            <offset x="0" y="2.74286"/>
             <durationType>quarter</durationType>
             </Rest>
           </voice>
@@ -10014,8 +10115,9 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
           <Dynamic>
             <subtype>other-dynamics</subtype>
             <velocity>49</velocity>
-            <offset x="-0.305845" y="4"/>
-            <text><i/><font face="ScoreText"/><i><font face="FreeSerif"/> ma marcato</i></text>
+            <family>FreeSerif</family>
+            <offset x="-0.27963" y="3.65714"/>
+            <text><i></i><font face="ScoreText"></font><i><font face="FreeSerif"></font> ma marcato</i></text>
             </Dynamic>
           <Chord>
             <staffMove>-1</staffMove>
@@ -10070,11 +10172,11 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="-3.8"/>
-                  <o2 x="0" y="-3.3"/>
-                  <o3 x="0" y="-3.3"/>
-                  <o4 x="-1.45385" y="-1.78935"/>
-                  <offset x="1.3" y="1.6"/>
+                  <o1 x="0" y="-3.47429"/>
+                  <o2 x="0" y="-3.01714"/>
+                  <o3 x="0" y="-3.01714"/>
+                  <o4 x="-1.32923" y="-1.63598"/>
+                  <offset x="1.18857" y="1.46286"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -10249,7 +10351,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <subtype>f</subtype>
             <velocity>96</velocity>
             <placement>above</placement>
-            <offset x="-2.33164" y="-2.5"/>
+            <offset x="-2.13179" y="-2.28571"/>
             </Dynamic>
           <Rest>
             <durationType>half</durationType>
@@ -10951,7 +11053,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
         <voice>
           <StaffText>
             <style>Expression</style>
-            <offset x="-14.3148" y="-1.81427"/>
+            <offset x="-14.0878" y="-1.65876"/>
             <text>dolce</text>
             </StaffText>
           <Chord>
@@ -10960,7 +11062,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               <subtype>articAccentBelow</subtype>
               </Articulation>
             <Note>
-              <offset x="-12" y="0"/>
+              <offset x="-10.9714" y="0"/>
               <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
@@ -10975,7 +11077,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <offset x="-3.24319" y="7.18392"/>
+            <offset x="-2.9652" y="6.56816"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -11102,7 +11204,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="0.111834" y="-2.01302"/>
+            <offset x="0.102248" y="-1.84048"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <p1 x="0.1" y="0.7"/>
@@ -11175,10 +11277,10 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="0" y="-2.57219"/>
+            <offset x="0" y="-2.35172"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
-            <p1 x="0" y="0.8"/>
+            <p1 x="0" y="1.5"/>
             <p2 x="0" y="0.4"/>
             <baseNote>16th</baseNote>
             <Number>
@@ -11239,6 +11341,10 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o2 x="0" y="-0.5"/>
+                  <o3 x="0" y="-0.5"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -11354,7 +11460,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="0.111834" y="-0.111835"/>
+            <offset x="0.102248" y="-0.102249"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -11369,8 +11475,8 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o2 x="-0.111834" y="-0.78284"/>
-                  <o3 x="-0.111834" y="-0.78284"/>
+                  <o2 x="-0.102248" y="-0.715739"/>
+                  <o3 x="-0.102248" y="-0.715739"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -11543,8 +11649,8 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o2 x="-0.223669" y="-0.559172"/>
-                  <o3 x="-0.223669" y="-0.559172"/>
+                  <o2 x="-0.204497" y="-0.511243"/>
+                  <o3 x="-0.204497" y="-0.511243"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -11790,7 +11896,7 @@ hmachacek from IMSLP #154245.  Source: https://imslp.org/wiki/Chanson_de_neige_(
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="3"/>
+            <offset x="0" y="2.74286"/>
             <durationType>quarter</durationType>
             </Rest>
           </voice>

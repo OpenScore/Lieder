@@ -10,6 +10,9 @@
       <pageWidth>8.5</pageWidth>
       <pageHeight>11</pageHeight>
       <pagePrintableWidth>7.7126</pagePrintableWidth>
+      <lyricsMinDistance>0.6</lyricsMinDistance>
+      <lyricsDashMaxDistance>12</lyricsDashMaxDistance>
+      <lyricsMelismaPad>0.5</lyricsMelismaPad>
       <useStandardNoteNames>0</useStandardNoteNames>
       <hideEmptyStaves>1</hideEmptyStaves>
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
@@ -20,36 +23,35 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>1</showMargins>
-    <metaTag name="arranger"></metaTag>
-    <metaTag name="composer"></metaTag>
-    <metaTag name="copyright"></metaTag>
+    <metaTag name="arranger">Transcribed by Randall Gremillion from IMSLP #15779.  https://imslp.org/wiki/Special:ReverseLookup/15779</metaTag>
+    <metaTag name="composer">Erik Satie</metaTag>
+    <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2020-11-23</metaTag>
-    <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
-    <metaTag name="mscVersion">3.02</metaTag>
-    <metaTag name="originalFormat">mid</metaTag>
+    <metaTag name="lyricist">Plato</metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">Portrait de Socrate</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/6481218</metaTag>
-    <metaTag name="translator"></metaTag>
+    <metaTag name="translator">Victor Cousin</metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="workTitle">Socrate</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
         </Staff>
-      <trackName>Chant</trackName>
-      <Instrument id="oboe">
-        <longName>CHANT</longName>
-        <trackName>Oboe</trackName>
-        <minPitchP>58</minPitchP>
-        <maxPitchP>96</maxPitchP>
-        <minPitchA>58</minPitchA>
-        <maxPitchA>87</maxPitchA>
-        <instrumentId>wind.reed.oboe</instrumentId>
+      <trackName>Voice</trackName>
+      <Instrument id="voice">
+        <longName>Chant
+<i>Voice</i></longName>
+        <trackName>Voice</trackName>
+        <minPitchP>38</minPitchP>
+        <maxPitchP>84</maxPitchP>
+        <minPitchA>41</minPitchA>
+        <maxPitchA>79</maxPitchA>
+        <instrumentId>voice.vocals</instrumentId>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -94,6 +96,7 @@
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="68"/>
+          <controller ctrl="10" value="43"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -112,9 +115,9 @@
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
-      <trackName>PIANO</trackName>
+      <trackName>Piano</trackName>
       <Instrument id="piano">
-        <longName>PIANO</longName>
+        <longName>Piano</longName>
         <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
@@ -164,7 +167,8 @@
           </Articulation>
         <Channel>
           <program value="0"/>
-          <controller ctrl="7" value="127"/>
+          <controller ctrl="7" value="113"/>
+          <controller ctrl="10" value="87"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -213,8 +217,7 @@
         </VBox>
       <VBox>
         <height>10</height>
-        <topGap>5.07545</topGap>
-        <bottomGap>5.07545</bottomGap>
+        <topGap>5</topGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -330,11 +333,10 @@
         <voice>
           <StaffText>
             <style>Expression</style>
-            <minDistance>0.0273299</minDistance>
             <size>12</size>
             <bold>1</bold>
             <italic>0</italic>
-            <offset x="-33.748" y="-0.11233"/>
+            <offset x="-33.748" y="-0.612442"/>
             <text>ALCIBIADE</text>
             </StaffText>
           <StaffText>
@@ -7920,6 +7922,7 @@
                 <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="68"/>
+                <controller ctrl="10" value="43"/>
                 <synti>Fluid</synti>
                 </Channel>
               </Instrument>
@@ -20809,7 +20812,7 @@
       </Staff>
     <Staff id="3">
       <Measure>
-        <vspacerDown>17.9</vspacerDown>
+        <vspacerDown>16.6</vspacerDown>
         <voice>
           <TimeSig>
             <sigN>2</sigN>
@@ -22280,6 +22283,7 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerDown>20.0006</vspacerDown>
         <voice>
           <Rest>
             <durationType>eighth</durationType>

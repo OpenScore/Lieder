@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -111,7 +111,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger">Transcribed from IMSLP #33081. Source: https://imslp.org/wiki/Special:ReverseLookup/33081</metaTag>
+    <metaTag name="arranger">Transcribed by pental from IMSLP #33081.  Source: https://imslp.org/wiki/Special:ReverseLookup/33081</metaTag>
     <metaTag name="composer">Eleanor Everest Freer</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2021-02-07</metaTag>
@@ -120,7 +120,7 @@
     <metaTag name="movementTitle">The boat is chafing at our long delay</metaTag>
     <metaTag name="platform"></metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">http://musescore.com/scores/freer-eleanor-everest/2-songs-op16-176448446355306</metaTag>
+    <metaTag name="source">http://musescore.com/user/27638568/scores/6598624</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber">Op.16</metaTag>
     <metaTag name="workTitle">2 Songs, Op.16</metaTag>
@@ -502,7 +502,6 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -938,7 +937,7 @@
             <accidental>1</accidental>
             </KeySig>
           <Tempo>
-            <tempo>1.16667</tempo>
+            <tempo>1.1666700000000001</tempo>
             <text>Andante</text>
             </Tempo>
           <Spanner type="HairPin">
@@ -960,7 +959,6 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -1321,6 +1319,7 @@
             <tempo>1</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 60</b></text>
             </Tempo>
           <Chord>
@@ -1500,9 +1499,10 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.16667</tempo>
+            <tempo>1.1666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <size>10</size>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 70</b></text>
             </Tempo>
           <Fermata>

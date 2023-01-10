@@ -1,32 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.01">
-  <programVersion>3.5.0</programVersion>
-  <programRevision>43c5553</programRevision>
+<museScore version="3.02">
+  <programVersion>3.6.2</programVersion>
+  <programRevision></programRevision>
   <Score>
-    <LayerTag id="0" tag="default"/>
+    <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.27008</pageWidth>
-      <pageHeight>11.6902</pageHeight>
-      <pagePrintableWidth>7.48268</pagePrintableWidth>
+      <pageWidth>8.26772</pageWidth>
+      <pageHeight>11.6929</pageHeight>
+      <pagePrintableWidth>7.08661</pagePrintableWidth>
+      <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
+      <pageOddLeftMargin>0.590551</pageOddLeftMargin>
+      <pageEvenTopMargin>0.590551</pageEvenTopMargin>
+      <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
+      <pageOddTopMargin>0.590551</pageOddTopMargin>
+      <pageOddBottomMargin>0.590551</pageOddBottomMargin>
       <maxSystemDistance>25</maxSystemDistance>
+      <enableVerticalSpread>1</enableVerticalSpread>
       <lyricsMinDistance>0.6</lyricsMinDistance>
       <lyricsDashMaxDistance>10</lyricsDashMaxDistance>
       <lyricsDashForce>0</lyricsDashForce>
       <lyricsMelismaPad>0.5</lyricsMelismaPad>
-      <lyricsOddFontSize>12</lyricsOddFontSize>
       <lyricsOddFramePadding>0</lyricsOddFramePadding>
       <lyricsOddFrameWidth>0</lyricsOddFrameWidth>
-      <lyricsEvenFontSize>12</lyricsEvenFontSize>
-      <doubleBarDistance>0.46</doubleBarDistance>
-      <endBarDistance>0.65</endBarDistance>
+      <lyricsEvenFontStyle>2</lyricsEvenFontStyle>
       <clefLeftMargin>0.64</clefLeftMargin>
       <clefKeyRightMargin>1.75</clefKeyRightMargin>
-      <barNoteDistance>1.2</barNoteDistance>
       <measureSpacing>1</measureSpacing>
-      <lastSystemFillLimit>0</lastSystemFillLimit>
-      <hairpinPosAbove x="0" y="-2.5"/>
+      <lastSystemFillLimit>0.1</lastSystemFillLimit>
       <hairpinHeight>1.3</hairpinHeight>
       <hairpinFramePadding>0</hairpinFramePadding>
       <hairpinFrameWidth>0</hairpinFrameWidth>
@@ -41,9 +43,9 @@
       <ottavaFontStyle>2</ottavaFontStyle>
       <ottavaFramePadding>0</ottavaFramePadding>
       <ottavaFrameWidth>0</ottavaFrameWidth>
+      <tupletMaxSlope>0</tupletMaxSlope>
       <tupletFramePadding>0</tupletFramePadding>
       <tupletFrameWidth>0</tupletFrameWidth>
-      <dynamicsPosAbove x="0" y="-2"/>
       <textLineFramePadding>0</textLineFramePadding>
       <textLineFrameWidth>0</textLineFrameWidth>
       <defaultFontSpatiumDependent>0</defaultFontSpatiumDependent>
@@ -81,7 +83,6 @@
       <partInstrumentFrameRound>25</partInstrumentFrameRound>
       <dynamicsFramePadding>0</dynamicsFramePadding>
       <dynamicsFrameWidth>0</dynamicsFrameWidth>
-      <expressionFontSize>12</expressionFontSize>
       <expressionFramePadding>0</expressionFramePadding>
       <expressionFrameWidth>0</expressionFrameWidth>
       <tempoFramePadding>0</tempoFramePadding>
@@ -89,7 +90,6 @@
       <tempoFrameRound>25</tempoFrameRound>
       <metronomeFramePadding>0</metronomeFramePadding>
       <metronomeFrameWidth>0</metronomeFrameWidth>
-      <measureNumberAlign>center,bottom</measureNumberAlign>
       <measureNumberFramePadding>0</measureNumberFramePadding>
       <measureNumberFrameWidth>0</measureNumberFrameWidth>
       <translatorAlign>center,top</translatorAlign>
@@ -100,7 +100,6 @@
       <systemFrameWidth>0</systemFrameWidth>
       <systemFrameRound>25</systemFrameRound>
       <staffAlign>left,top</staffAlign>
-      <staffPosAbove x="0" y="-4"/>
       <staffFramePadding>0</staffFramePadding>
       <staffFrameWidth>0</staffFrameWidth>
       <staffFrameRound>25</staffFrameRound>
@@ -127,15 +126,17 @@
       <instrumentChangeAlign>left,bottom</instrumentChangeAlign>
       <instrumentChangeFramePadding>0</instrumentChangeFramePadding>
       <instrumentChangeFrameWidth>0</instrumentChangeFrameWidth>
-      <user1Name>Repeat Text</user1Name>
-      <user1FontSize>12</user1FontSize>
-      <user1Align>right,baseline</user1Align>
+      <user1Name>Work Title</user1Name>
+      <user1FontSize>14</user1FontSize>
+      <user1FontSpatiumDependent>0</user1FontSpatiumDependent>
+      <user1Align>center,top</user1Align>
       <user1FramePadding>0</user1FramePadding>
       <user1FrameWidth>0</user1FrameWidth>
-      <user2Name>Work Title</user2Name>
-      <user2FontSize>14</user2FontSize>
+      <user2Name>Movement Title</user2Name>
+      <user2FontSize>22</user2FontSize>
       <user2FontSpatiumDependent>0</user2FontSpatiumDependent>
       <user2Align>center,top</user2Align>
+      <user2Offset x="0" y="7"/>
       <user2FramePadding>0</user2FramePadding>
       <user2FrameWidth>0</user2FrameWidth>
       <user3Name>Movement Title</user3Name>
@@ -159,32 +160,33 @@
     <showMargins>0</showMargins>
     <metaTag name="arranger">Transcribed by Eloge from IMSLP #154086.  Source: https://imslp.org/wiki/Ballade_%C3%A0_la_lune_(Chaminade%2C_C%C3%A9cile)</metaTag>
     <metaTag name="composer">Cécile Chaminade</metaTag>
-    <metaTag name="copyright">OpenScore (CC0</metaTag>
-    <metaTag name="creationDate"/>
+    <metaTag name="copyright">OpenScore (CC0)</metaTag>
+    <metaTag name="creationDate"></metaTag>
     <metaTag name="lyricist">Alfred de Musset</metaTag>
-    <metaTag name="movementNumber"/>
-    <metaTag name="movementTitle">Ballade à la lune</metaTag>
-    <metaTag name="originalFormat"/>
-    <metaTag name="platform"/>
-    <metaTag name="poet"/>
+    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="platform"></metaTag>
+    <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/6264558</metaTag>
-    <metaTag name="translator"/>
-    <metaTag name="workNumber"/>
+    <metaTag name="translator">English text by Clifton Bingham</metaTag>
+    <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Ballade à la lune</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
+          <name>stdNormal</name>
           </StaffType>
         </Staff>
-      <trackName>Oboe</trackName>
-      <Instrument>
-        <longName>Voice</longName>
-        <trackName>Oboe</trackName>
-        <minPitchP>58</minPitchP>
-        <maxPitchP>96</maxPitchP>
-        <minPitchA>58</minPitchA>
-        <maxPitchA>87</maxPitchA>
-        <instrumentId>wind.reed.oboe</instrumentId>
+      <trackName>Voice</trackName>
+      <Instrument id="voice">
+        <longName>Chant
+<i>Voice</i></longName>
+        <trackName>Voice</trackName>
+        <minPitchP>38</minPitchP>
+        <maxPitchP>84</maxPitchP>
+        <minPitchA>41</minPitchA>
+        <maxPitchA>79</maxPitchA>
+        <instrumentId>voice.vocals</instrumentId>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -229,8 +231,8 @@
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="68"/>
+          <controller ctrl="10" value="40"/>
           <synti>Fluid</synti>
-          <mute>1</mute>
           </Channel>
         </Instrument>
       </Part>
@@ -249,7 +251,7 @@
         <defaultClef>F</defaultClef>
         </Staff>
       <trackName>Piano</trackName>
-      <Instrument>
+      <Instrument id="piano">
         <longName>Piano</longName>
         <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
@@ -307,9 +309,10 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>18</height>
+        <height>22</height>
         <topGap>4.28571</topGap>
-        <bottomGap>17.1429</bottomGap>
+        <bottomGap>17</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
           <text>Cécile Chaminade</text>
@@ -318,18 +321,27 @@
           <style>User-3</style>
           <offset x="0" y="0.2"/>
           <text>Ballade à la lune
-<font size="20"/>Ballad to the Moon
-</text>
+<i><font size="20"></font>Ballad to the Moon
+</i></text>
           </Text>
         <Text>
           <style>Lyricist</style>
+          <offset x="0" y="2.38"/>
           <text>Alfred de Musset
-English text by Clifton Bingham
-</text>
+<i>English text by Clifton Bingham
+</i></text>
+          </Text>
+        <Text>
+          <style>Frame</style>
+          <italic>1</italic>
+          <align>center,bottom</align>
+          <offset x="0" y="-8"/>
+          <text>(Soprano or Tenor)</text>
           </Text>
         </VBox>
       <HBox>
         <width>3</width>
+        <boxAutoSize>0</boxAutoSize>
         </HBox>
       <Measure>
         <voice>
@@ -351,15 +363,10 @@ English text by Clifton Bingham
               </Groups>
             </TimeSig>
           <Tempo>
-            <tempo>1.73333</tempo>
+            <tempo>1.7333333333333334</tempo>
             <followText>1</followText>
-            <text>Moderato</text>
-            </Tempo>
-          <Tempo>
-            <tempo>1.73333</tempo>
-            <followText>1</followText>
-            <offset x="10.55" y="-1.98349"/>
-            <text><b>(</b><font face="ScoreText"/><b><font face="FreeSerif"/> = 52)</b></text>
+            <family>FreeSerif</family>
+            <text><b>Moderato (</b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 52)</b></text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
@@ -403,7 +410,7 @@ English text by Clifton Bingham
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>C&apos;é</text>
+              <text>C'é</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -709,7 +716,8 @@ English text by Clifton Bingham
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
-              <text>me<font face="ScoreText"/><font face="FreeSerif"/>un</text>
+              <family>FreeSerif</family>
+              <text>me<font face="ScoreText"></font><font face="FreeSerif"></font>un</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -1007,7 +1015,8 @@ English text by Clifton Bingham
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
-              <text>ne<font face="ScoreText"/><font face="FreeSerif"/>au</text>
+              <family>FreeSerif</family>
+              <text>ne<font face="ScoreText"></font><font face="FreeSerif"></font>au</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -1031,7 +1040,7 @@ English text by Clifton Bingham
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>d&apos;un</text>
+              <text>d'un</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -1068,7 +1077,7 @@ English text by Clifton Bingham
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>Thro&apos;</text>
+              <text>Thro'</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -1083,7 +1092,7 @@ English text by Clifton Bingham
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>l&apos;om</text>
+              <text>l'om</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -1272,7 +1281,7 @@ English text by Clifton Bingham
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
-              <text>l&apos;œil</text>
+              <text>l'œil</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -1326,7 +1335,7 @@ English text by Clifton Bingham
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0.639396" y="0.799245"/>
+                  <o4 x="0.511517" y="0.639396"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -1789,7 +1798,7 @@ English text by Clifton Bingham
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>N&apos;es</text>
+              <text>N'es</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -1834,7 +1843,7 @@ English text by Clifton Bingham
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text>qu&apos;u</text>
+              <text>qu'u</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -1878,8 +1887,7 @@ English text by Clifton Bingham
               <style>Tuplet</style>
               <text>3</text>
               </Number>
-            <direction>down</direction>
-            <bracketType>1</bracketType>
+            <direction>up</direction>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -1959,7 +1967,7 @@ English text by Clifton Bingham
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>Qu&apos;un</text>
+              <text>Qu'un</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -2137,9 +2145,14 @@ English text by Clifton Bingham
           <Spanner type="HairPin">
             <HairPin>
               <subtype>3</subtype>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               <placement>above</placement>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-2"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -2311,7 +2324,7 @@ English text by Clifton Bingham
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>t&apos;en</text>
+              <text>t'en</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -2547,7 +2560,7 @@ English text by Clifton Bingham
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>L&apos;heu</text>
+              <text>L'heu</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -2644,7 +2657,7 @@ English text by Clifton Bingham
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>d&apos;en</text>
+              <text>d'en</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -3227,7 +3240,8 @@ English text by Clifton Bingham
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
-              <text>ce<font face="ScoreText"/><font face="FreeSerif"/>un</text>
+              <family>FreeSerif</family>
+              <text>ce<font face="ScoreText"></font><font face="FreeSerif"></font>un</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -3391,8 +3405,8 @@ English text by Clifton Bingham
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-2.5"/>
-                <off2 x="1.43864" y="0"/>
+                <offset x="0" y="-2"/>
+                <off2 x="1.15091" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -3514,7 +3528,7 @@ English text by Clifton Bingham
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>S&apos;al</text>
+              <text>S'al</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -3535,8 +3549,8 @@ English text by Clifton Bingham
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="6.14804" y="-2.5"/>
-                <off2 x="-6.14804" y="0"/>
+                <offset x="4.91843" y="-2"/>
+                <off2 x="-4.91843" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -3718,7 +3732,7 @@ English text by Clifton Bingham
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>t&apos;a</text>
+              <text>t'a</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -3879,8 +3893,8 @@ English text by Clifton Bingham
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-2.5"/>
-                <off2 x="1.47553" y="0"/>
+                <offset x="0" y="-2"/>
+                <off2 x="1.18042" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -3893,7 +3907,7 @@ English text by Clifton Bingham
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>L&apos;au</text>
+              <text>L'au</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -3944,7 +3958,7 @@ English text by Clifton Bingham
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>t&apos;é</text>
+              <text>t'é</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -4093,7 +4107,7 @@ English text by Clifton Bingham
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text>qu&apos;ar</text>
+              <text>qu'ar</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -4628,7 +4642,7 @@ English text by Clifton Bingham
               </Number>
             </Tuplet>
           <Rest>
-            <offset x="0" y="1.40915"/>
+            <offset x="0" y="1.12732"/>
             <visible>0</visible>
             <durationType>eighth</durationType>
             </Rest>
@@ -4671,12 +4685,12 @@ English text by Clifton Bingham
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="2.28988"/>
+            <offset x="0" y="1.8319"/>
             <visible>0</visible>
             <durationType>eighth</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="2.64216"/>
+            <offset x="0" y="2.11373"/>
             <visible>0</visible>
             <durationType>half</durationType>
             </Rest>
@@ -5156,7 +5170,7 @@ English text by Clifton Bingham
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>n&apos;en</text>
+              <text>n'en</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -5228,7 +5242,6 @@ English text by Clifton Bingham
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>1</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -5402,7 +5415,7 @@ English text by Clifton Bingham
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text>lin&apos;d,</text>
+              <text>lin'd,</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -5413,7 +5426,7 @@ English text by Clifton Bingham
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>s&apos;ef</text>
+              <text>s'ef</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -5575,7 +5588,7 @@ English text by Clifton Bingham
         <voice>
           <StaffText>
             <style>Expression</style>
-            <offset x="0.245921" y="-2.15559"/>
+            <offset x="0.196737" y="-1.72447"/>
             <text>marcatissimo</text>
             </StaffText>
           <Chord>
@@ -5602,7 +5615,8 @@ English text by Clifton Bingham
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
-              <text>me<font face="ScoreText"/><font face="FreeSerif"/>un</text>
+              <family>FreeSerif</family>
+              <text>me<font face="ScoreText"></font><font face="FreeSerif"></font>un</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -5940,7 +5954,7 @@ English text by Clifton Bingham
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>L&apos;o</text>
+              <text>L'o</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -6057,7 +6071,7 @@ English text by Clifton Bingham
             <subtype>f</subtype>
             <velocity>96</velocity>
             <placement>above</placement>
-            <offset x="-1.72145" y="-1.20785"/>
+            <offset x="-1.37716" y="-0.96628"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -6158,7 +6172,7 @@ English text by Clifton Bingham
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>qu&apos;il</text>
+              <text>qu'il</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -6201,7 +6215,7 @@ English text by Clifton Bingham
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>qu&apos;il</text>
+              <text>qu'il</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -6485,7 +6499,7 @@ English text by Clifton Bingham
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>m&apos;as</text>
+              <text>m'as</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -6858,7 +6872,7 @@ English text by Clifton Bingham
         <voice>
           <StaffText>
             <visible>0</visible>
-            <offset x="-0.792649" y="-2.76699"/>
+            <offset x="-0.634119" y="-2.21359"/>
             <text>no elision slur in IMSLP</text>
             </StaffText>
           <Chord>
@@ -6866,7 +6880,8 @@ English text by Clifton Bingham
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
-              <text>me<font face="ScoreText"/><font face="FreeSerif"/>un</text>
+              <family>FreeSerif</family>
+              <text>me<font face="ScoreText"></font><font face="FreeSerif"></font>un</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -6958,7 +6973,7 @@ English text by Clifton Bingham
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>8.96602</vspacerFixed>
+        <vspacerFixed>7.37282</vspacerFixed>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -7016,13 +7031,13 @@ English text by Clifton Bingham
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <offset x="-0.190004" y="5.57667"/>
+            <offset x="-0.152003" y="4.46134"/>
             </Dynamic>
           <StaffText>
             <style>Expression</style>
             <placement>below</placement>
             <minDistance>-4.2501</minDistance>
-            <offset x="-0.190004" y="3.09046"/>
+            <offset x="-0.152003" y="2.47237"/>
             <text>m. s.</text>
             </StaffText>
           <Chord>
@@ -7573,8 +7588,8 @@ English text by Clifton Bingham
                 </prev>
               </Spanner>
             <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -8446,7 +8461,7 @@ English text by Clifton Bingham
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0.122961" y="2.33625"/>
+                  <o4 x="0.0983688" y="1.869"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -8469,8 +8484,8 @@ English text by Clifton Bingham
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
-                <off2 x="2.09033" y="0"/>
+                <offset x="0" y="2.8"/>
+                <off2 x="1.67226" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -8516,8 +8531,8 @@ English text by Clifton Bingham
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o3 x="0.245921" y="0"/>
-                  <o4 x="0" y="2.95106"/>
+                  <o3 x="0.196737" y="0"/>
+                  <o4 x="0" y="2.36085"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -9020,8 +9035,8 @@ English text by Clifton Bingham
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0.245921" y="-1.96737"/>
-                  <offset x="0" y="1.43864"/>
+                  <o1 x="0.196737" y="-1.5739"/>
+                  <offset x="0" y="1.15091"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -9077,7 +9092,7 @@ English text by Clifton Bingham
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="2.45921"/>
+                  <o4 x="0" y="1.96737"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -9140,8 +9155,8 @@ English text by Clifton Bingham
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
-                <off2 x="2.23789" y="0"/>
+                <offset x="0" y="2.8"/>
+                <off2 x="1.79031" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -9272,8 +9287,9 @@ English text by Clifton Bingham
             <subtype>other-dynamics</subtype>
             <velocity>80</velocity>
             <minDistance>0.201927</minDistance>
-            <offset x="3.03713" y="8.59677"/>
-            <text><i/><font face="ScoreText"/><i><font face="FreeSerif"/> marcatissimo</i></text>
+            <family>FreeSerif</family>
+            <offset x="2.4297" y="6.87742"/>
+            <text><i></i><font face="ScoreText"></font><i><font face="FreeSerif"></font> marcatissimo</i></text>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -9316,7 +9332,7 @@ English text by Clifton Bingham
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <offset x="-0.319698" y="1.43864"/>
+                  <offset x="-0.255758" y="1.15091"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -9334,8 +9350,8 @@ English text by Clifton Bingham
             </Chord>
           <Beam>
             <Fragment>
-              <y1>7.38106</y1>
-              <y2>8.63106</y2>
+              <y1>5.90485</y1>
+              <y2>6.90485</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -9385,21 +9401,21 @@ English text by Clifton Bingham
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                </Slur>
-              <next>
-                <location>
-                  </location>
-                </next>
-              </Spanner>
-            <Spanner type="Slur">
-              <Slur>
                 <SlurSegment no="0">
-                  <offset x="-0.319698" y="1.43864"/>
+                  <offset x="-0.255758" y="1.15091"/>
                   </SlurSegment>
                 </Slur>
               <next>
                 <location>
                   <fractions>3/8</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
                   </location>
                 </next>
               </Spanner>
@@ -9412,8 +9428,8 @@ English text by Clifton Bingham
             </Chord>
           <Beam>
             <Fragment>
-              <y1>7.38106</y1>
-              <y2>8.63106</y2>
+              <y1>5.90485</y1>
+              <y2>6.90485</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -9466,7 +9482,7 @@ English text by Clifton Bingham
           <Spanner type="HairPin">
             <HairPin>
               <subtype>2</subtype>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               </HairPin>
             <next>
@@ -9516,7 +9532,7 @@ English text by Clifton Bingham
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <offset x="-0.319698" y="1.43864"/>
+                  <offset x="-0.255758" y="1.15091"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -9534,8 +9550,8 @@ English text by Clifton Bingham
             </Chord>
           <Beam>
             <Fragment>
-              <y1>7.38106</y1>
-              <y2>8.63106</y2>
+              <y1>5.90485</y1>
+              <y2>6.90485</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -9594,7 +9610,7 @@ English text by Clifton Bingham
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <offset x="-0.319698" y="1.43864"/>
+                  <offset x="-0.255758" y="1.15091"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -9612,8 +9628,8 @@ English text by Clifton Bingham
             </Chord>
           <Beam>
             <Fragment>
-              <y1>7.38106</y1>
-              <y2>8.63106</y2>
+              <y1>5.90485</y1>
+              <y2>6.90485</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -9666,7 +9682,7 @@ English text by Clifton Bingham
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <offset x="-1.22961" y="7.36298"/>
+            <offset x="-0.983688" y="5.89038"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -9716,9 +9732,9 @@ English text by Clifton Bingham
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="1.59849" y="1.10665"/>
+                  <o1 x="1.27879" y="0.88532"/>
                   <autoplace>0</autoplace>
-                  <offset x="-0.196737" y="2.05344"/>
+                  <offset x="-0.15739" y="1.64275"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -9736,8 +9752,8 @@ English text by Clifton Bingham
             </Chord>
           <Beam>
             <Fragment>
-              <y1>7.38106</y1>
-              <y2>8.63106</y2>
+              <y1>5.90485</y1>
+              <y2>6.90485</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -9796,9 +9812,9 @@ English text by Clifton Bingham
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="2.45921" y="1.72145"/>
+                  <o1 x="1.96737" y="1.37716"/>
                   <autoplace>0</autoplace>
-                  <offset x="-0.319698" y="2.1764"/>
+                  <offset x="-0.255758" y="1.74112"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -9816,8 +9832,8 @@ English text by Clifton Bingham
             </Chord>
           <Beam>
             <Fragment>
-              <y1>7.38106</y1>
-              <y2>8.63106</y2>
+              <y1>5.90485</y1>
+              <y2>6.90485</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -9908,10 +9924,10 @@ English text by Clifton Bingham
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="2.21329" y="2.09033"/>
-                  <o4 x="0" y="1.59849"/>
+                  <o1 x="1.77063" y="1.67226"/>
+                  <o4 x="0" y="1.27879"/>
                   <autoplace>0</autoplace>
-                  <offset x="-0.319698" y="1.43864"/>
+                  <offset x="-0.255758" y="1.15091"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -9929,8 +9945,8 @@ English text by Clifton Bingham
             </Chord>
           <Beam>
             <Fragment>
-              <y1>7.38106</y1>
-              <y2>8.63106</y2>
+              <y1>5.90485</y1>
+              <y2>6.90485</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -9981,8 +9997,8 @@ English text by Clifton Bingham
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="7.45844"/>
-                <off2 x="3.03713" y="0"/>
+                <offset x="0" y="5.96675"/>
+                <off2 x="2.4297" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -9995,26 +10011,26 @@ English text by Clifton Bingham
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                </Slur>
-              <next>
-                <location>
-                  </location>
-                </next>
-              </Spanner>
-            <Spanner type="Slur">
-              <Slur>
                 <SlurSegment no="0">
-                  <o1 x="1.96737" y="1.59849"/>
-                  <o2 x="-0.122961" y="-1.35257"/>
-                  <o3 x="-0.122961" y="-1.35257"/>
-                  <o4 x="-0.122961" y="0.614804"/>
+                  <o1 x="1.5739" y="1.27879"/>
+                  <o2 x="-0.0983688" y="-1.08206"/>
+                  <o3 x="-0.0983688" y="-1.08206"/>
+                  <o4 x="-0.0983688" y="0.491843"/>
                   <autoplace>0</autoplace>
-                  <offset x="-0.319698" y="1.43864"/>
+                  <offset x="-0.255758" y="1.15091"/>
                   </SlurSegment>
                 </Slur>
               <next>
                 <location>
                   <fractions>3/8</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
                   </location>
                 </next>
               </Spanner>
@@ -10027,8 +10043,8 @@ English text by Clifton Bingham
             </Chord>
           <Beam>
             <Fragment>
-              <y1>7.38106</y1>
-              <y2>8.63106</y2>
+              <y1>5.90485</y1>
+              <y2>6.90485</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -10095,8 +10111,8 @@ English text by Clifton Bingham
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
-                <off2 x="0.959094" y="0"/>
+                <offset x="0" y="2.8"/>
+                <off2 x="0.767275" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -11017,9 +11033,9 @@ English text by Clifton Bingham
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="-1.27879"/>
+                  <o1 x="0" y="-1.02303"/>
                   <autoplace>0</autoplace>
-                  <offset x="0" y="1.43864"/>
+                  <offset x="0" y="1.15091"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -11043,8 +11059,8 @@ English text by Clifton Bingham
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
-                <off2 x="1.27879" y="0"/>
+                <offset x="0" y="2.8"/>
+                <off2 x="1.02303" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -11560,8 +11576,8 @@ English text by Clifton Bingham
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-0.159849" y="3.22292"/>
-                <off2 x="1.91819" y="0"/>
+                <offset x="-0.127879" y="2.57834"/>
+                <off2 x="1.53455" y="0"/>
                 <minDistance>0.0606042</minDistance>
                 </Segment>
               </HairPin>
@@ -13983,8 +13999,8 @@ English text by Clifton Bingham
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4.7"/>
-                <off2 x="-4.47577" y="0"/>
+                <offset x="0" y="3.76"/>
+                <off2 x="-3.58062" y="0"/>
                 <autoplace>0</autoplace>
                 </Segment>
               </HairPin>
@@ -14000,9 +14016,9 @@ English text by Clifton Bingham
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="-0.122961" y="0.737764"/>
-                  <o2 x="-0.122961" y="-0.368882"/>
-                  <o3 x="-0.122961" y="-0.368882"/>
+                  <o1 x="-0.0983688" y="0.590211"/>
+                  <o2 x="-0.0983688" y="-0.295106"/>
+                  <o3 x="-0.0983688" y="-0.295106"/>
                   <autoplace>0</autoplace>
                   </SlurSegment>
                 </Slur>
@@ -14623,7 +14639,7 @@ English text by Clifton Bingham
           <StaffText>
             <visible>0</visible>
             <minDistance>-4.25589</minDistance>
-            <offset x="0.704577" y="-5.61664"/>
+            <offset x="0.563662" y="-4.49331"/>
             <text>bug: C (LH) played on 2nd beat
 after the D (RH)
 </text>
@@ -14633,7 +14649,7 @@ after the D (RH)
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articMarcatoAbove</subtype>
-              <offset x="0.245921" y="0.245921"/>
+              <offset x="0.196737" y="0.196737"/>
               </Articulation>
             <acciaccatura/>
             <Note>
@@ -14641,8 +14657,8 @@ after the D (RH)
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.71932" y="0"/>
-                    <offset x="0" y="-0.3"/>
+                    <o4 x="-0.575456" y="0"/>
+                    <offset x="0" y="-0.24"/>
                     </TieSegment>
                   <up>up</up>
                   </Tie>
@@ -14679,7 +14695,7 @@ after the D (RH)
               </Note>
             </Chord>
           <Rest>
-            <offset x="0.0799245" y="0.00188801"/>
+            <offset x="0.0639396" y="0.00151041"/>
             <staffMove>1</staffMove>
             <durationType>half</durationType>
             </Rest>
@@ -14691,15 +14707,15 @@ after the D (RH)
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articMarcatoAbove</subtype>
-              <offset x="0.368882" y="0"/>
+              <offset x="0.295106" y="0"/>
               </Articulation>
             <acciaccatura/>
             <Note>
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="2.15796" y="0.0799245"/>
-                    <offset x="1.35872" y="-0.559471"/>
+                    <o1 x="1.72637" y="0.0639396"/>
+                    <offset x="1.08698" y="-0.447577"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -14751,12 +14767,12 @@ after the D (RH)
               <Symbol>
                 <name>articMarcatoBelow</name>
                 <font>Bravura</font>
-                <offset x="0" y="1"/>
+                <offset x="0" y="1.3"/>
                 </Symbol>
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="2.71743" y="-0.0799245"/>
+                    <o1 x="2.17394" y="-0.0639396"/>
                     </TieSegment>
                   <up>down</up>
                   </Tie>
@@ -14778,14 +14794,14 @@ after the D (RH)
               <Symbol>
                 <name>articMarcatoBelow</name>
                 <font>Bravura</font>
-                <offset x="0" y="1.5"/>
+                <offset x="0" y="1.2"/>
                 </Symbol>
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="5.27502" y="-0.559471"/>
-                    <o4 x="3.2769" y="-0.479547"/>
-                    <offset x="0" y="0.39"/>
+                    <o1 x="4.22002" y="-0.447577"/>
+                    <o4 x="2.62152" y="-0.383638"/>
+                    <offset x="0" y="0.312"/>
                     </TieSegment>
                   <up>down</up>
                   </Tie>
@@ -14843,14 +14859,12 @@ after the D (RH)
           <Spanner type="Pedal">
             <Pedal>
               <beginText>col &lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
               <beginFontStyle>2</beginFontStyle>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-0.106566" y="2.23856"/>
-                <off2 x="0.106566" y="0"/>
-                <minDistance>0.0807004</minDistance>
+                <offset x="-0.09" y="5.5"/>
+                <off2 x="0.0852528" y="0"/>
                 </Segment>
               </Pedal>
             <next>
@@ -14903,9 +14917,13 @@ after the D (RH)
           <Spanner type="Pedal">
             <Pedal>
               <beginText>col &lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
               <beginFontStyle>2</beginFontStyle>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-0.09" y="5.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Pedal>
             <next>
               <location>
@@ -14918,7 +14936,7 @@ after the D (RH)
             <Articulation>
               <subtype>articAccentAbove</subtype>
               <minDistance>-999</minDistance>
-              <offset x="0" y="0.1"/>
+              <offset x="0" y="0.08"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -14949,7 +14967,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -14965,7 +14983,7 @@ after the D (RH)
             <Articulation>
               <subtype>articAccentAbove</subtype>
               <minDistance>-999</minDistance>
-              <offset x="0" y="0.1"/>
+              <offset x="0" y="0.08"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -14996,7 +15014,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15038,7 +15056,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15080,7 +15098,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15122,7 +15140,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15164,7 +15182,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15207,7 +15225,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15249,7 +15267,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15292,7 +15310,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15330,7 +15348,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15373,7 +15391,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15405,7 +15423,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15455,7 +15473,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15494,7 +15512,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15537,7 +15555,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15580,7 +15598,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15623,7 +15641,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15675,7 +15693,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15727,7 +15745,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15766,7 +15784,7 @@ after the D (RH)
         <voice>
           <StaffText>
             <style>Expression</style>
-            <offset x="-1.5119" y="-2.2506"/>
+            <offset x="-1.20952" y="-1.80048"/>
             <text>m.s.</text>
             </StaffText>
           <Dynamic>
@@ -15789,7 +15807,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15807,7 +15825,7 @@ after the D (RH)
             <Articulation>
               <subtype>articMarcatoBelow</subtype>
               <anchor>4</anchor>
-              <offset x="0" y="1.5"/>
+              <offset x="0" y="1.2"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -15839,7 +15857,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15888,7 +15906,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0.799245" y="5.57707"/>
+                <offset x="0.639396" y="4.46166"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15939,7 +15957,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15988,7 +16006,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0.799245" y="5.57707"/>
+                <offset x="0.639396" y="4.46166"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -16039,7 +16057,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -16081,7 +16099,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0.799245" y="5.57707"/>
+                <offset x="0.639396" y="4.46166"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -16139,7 +16157,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -16188,7 +16206,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0.799245" y="5.57707"/>
+                <offset x="0.639396" y="4.46166"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -16244,7 +16262,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -16261,7 +16279,7 @@ after the D (RH)
             <Articulation>
               <subtype>articMarcatoBelow</subtype>
               <anchor>4</anchor>
-              <offset x="-0.479547" y="0"/>
+              <offset x="-0.383638" y="0"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -16298,7 +16316,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0.799245" y="5.57707"/>
+                <offset x="0.639396" y="4.46166"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -16317,7 +16335,7 @@ after the D (RH)
             <Articulation>
               <subtype>articMarcatoBelow</subtype>
               <anchor>4</anchor>
-              <offset x="-0.491843" y="0.245921"/>
+              <offset x="-0.393474" y="0.196737"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -16350,7 +16368,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -16388,7 +16406,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -16433,7 +16451,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -16477,7 +16495,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0.245921" y="6.8281"/>
+                <offset x="0.196737" y="5.46248"/>
                 <off2 x="0" y="0"/>
                 <autoplace>0</autoplace>
                 <visible>0</visible>
@@ -16528,7 +16546,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -16572,7 +16590,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -16622,7 +16640,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -16666,7 +16684,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -16708,7 +16726,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -16757,7 +16775,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -16803,7 +16821,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -16842,7 +16860,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -16885,7 +16903,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -16924,7 +16942,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="6.48783"/>
+                <offset x="0" y="5.19026"/>
                 <off2 x="0" y="0"/>
                 <minDistance>-1.67503</minDistance>
                 <visible>0</visible>
@@ -16968,7 +16986,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -17007,7 +17025,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="6.48783"/>
+                <offset x="0" y="5.19026"/>
                 <off2 x="0" y="0"/>
                 <minDistance>-1.67503</minDistance>
                 <visible>0</visible>
@@ -17051,7 +17069,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -17090,7 +17108,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="6.48783"/>
+                <offset x="0" y="5.19026"/>
                 <off2 x="0" y="0"/>
                 <minDistance>-1.67503</minDistance>
                 <visible>0</visible>
@@ -17134,7 +17152,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -17173,7 +17191,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="6.48783"/>
+                <offset x="0" y="5.19026"/>
                 <off2 x="0" y="0"/>
                 <minDistance>-1.67503</minDistance>
                 <visible>0</visible>
@@ -17217,7 +17235,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -17256,7 +17274,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="6.48783"/>
+                <offset x="0" y="5.19026"/>
                 <off2 x="0" y="0"/>
                 <minDistance>-1.67503</minDistance>
                 <visible>0</visible>
@@ -17386,7 +17404,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -17492,7 +17510,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-0.1" y="10.4063"/>
+                <offset x="-0.08" y="8.32504"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -17586,7 +17604,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -17603,7 +17621,7 @@ after the D (RH)
             <Articulation>
               <subtype>articMarcatoBelow</subtype>
               <anchor>4</anchor>
-              <offset x="-0.479547" y="0"/>
+              <offset x="-0.383638" y="0"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -17635,7 +17653,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0.799245" y="5.57707"/>
+                <offset x="0.639396" y="4.46166"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -17653,7 +17671,7 @@ after the D (RH)
             <Articulation>
               <subtype>articMarcatoBelow</subtype>
               <anchor>4</anchor>
-              <offset x="-0.614804" y="0.122961"/>
+              <offset x="-0.491843" y="0.0983688"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -17686,7 +17704,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -17785,7 +17803,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -17884,7 +17902,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -17987,7 +18005,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -18088,7 +18106,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -18133,7 +18151,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -18164,7 +18182,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -18214,7 +18232,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -18253,7 +18271,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -18303,7 +18321,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -18342,7 +18360,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -18392,7 +18410,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -18431,7 +18449,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -18481,7 +18499,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -18527,7 +18545,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -18577,7 +18595,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -18616,7 +18634,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -18666,7 +18684,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -18705,7 +18723,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -18755,7 +18773,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -18794,7 +18812,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="6.48783"/>
+                <offset x="0" y="5.19026"/>
                 <off2 x="0" y="0"/>
                 <minDistance>-1.67503</minDistance>
                 <visible>0</visible>
@@ -18845,7 +18863,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -18891,7 +18909,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -18933,7 +18951,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -18980,7 +18998,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="6.48783"/>
+                <offset x="0" y="5.19026"/>
                 <off2 x="0" y="0"/>
                 <minDistance>-1.67503</minDistance>
                 <visible>0</visible>
@@ -19024,7 +19042,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -19067,7 +19085,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0.799245" y="5.57707"/>
+                <offset x="0.639396" y="4.46166"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -19118,7 +19136,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -19161,7 +19179,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0.799245" y="5.57707"/>
+                <offset x="0.639396" y="4.46166"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -19212,7 +19230,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -19255,7 +19273,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0.799245" y="5.57707"/>
+                <offset x="0.639396" y="4.46166"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -19302,7 +19320,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -19352,7 +19370,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -19395,7 +19413,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0.799245" y="5.57707"/>
+                <offset x="0.639396" y="4.46166"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -19434,7 +19452,7 @@ after the D (RH)
             <style>Expression</style>
             <placement>below</placement>
             <minDistance>0.444864</minDistance>
-            <offset x="3.81178" y="2.06685"/>
+            <offset x="3.04942" y="1.65348"/>
             <text>pesante</text>
             </StaffText>
           <Spanner type="Pedal">
@@ -19526,7 +19544,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -19568,7 +19586,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0.799245" y="5.57707"/>
+                <offset x="0.639396" y="4.46166"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -19620,7 +19638,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -19671,7 +19689,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -19719,7 +19737,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -19845,7 +19863,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -19888,7 +19906,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -19943,7 +19961,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -19979,7 +19997,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -20040,7 +20058,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -20083,7 +20101,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -20133,7 +20151,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -20174,7 +20192,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -20223,7 +20241,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -20262,7 +20280,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -20305,7 +20323,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -20344,7 +20362,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -20387,7 +20405,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -20426,7 +20444,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -20469,7 +20487,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -20508,7 +20526,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -20551,7 +20569,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -20589,7 +20607,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -20636,7 +20654,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -20674,7 +20692,7 @@ after the D (RH)
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.2"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -20707,7 +20725,7 @@ after the D (RH)
         <voice>
           <StaffText>
             <style>Expression</style>
-            <offset x="-5.75456" y="-4.87917"/>
+            <offset x="-4.60365" y="-3.90334"/>
             <text>m.s.</text>
             </StaffText>
           <Spanner type="Pedal">
@@ -20722,8 +20740,12 @@ after the D (RH)
             <Pedal>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="3.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Pedal>
             <next>
               <location>
@@ -20741,13 +20763,13 @@ after the D (RH)
               <Symbol>
                 <name>articMarcatoBelow</name>
                 <font>Bravura</font>
-                <offset x="0" y="1.5"/>
+                <offset x="0" y="1.2"/>
                 </Symbol>
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
                     <autoplace>0</autoplace>
-                    <offset x="0.528433" y="-12.5881"/>
+                    <offset x="0.422746" y="-10.0705"/>
                     </TieSegment>
                   <up>down</up>
                   </Tie>
@@ -20770,14 +20792,14 @@ after the D (RH)
               <Symbol>
                 <name>articMarcatoBelow</name>
                 <font>Bravura</font>
-                <offset x="0" y="1.5"/>
+                <offset x="0" y="1.2"/>
                 </Symbol>
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="3.7871" y="0.0880721"/>
+                    <o1 x="3.02968" y="0.0704577"/>
                     <autoplace>0</autoplace>
-                    <offset x="0" y="-12.5"/>
+                    <offset x="0" y="-10"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -20840,8 +20862,8 @@ after the D (RH)
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
-                <off2 x="3.67653" y="0"/>
+                <offset x="0" y="3.5"/>
+                <off2 x="2.94122" y="0"/>
                 </Segment>
               </Pedal>
             <next>
@@ -20865,7 +20887,7 @@ after the D (RH)
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <offset x="0" y="-0.01"/>
+                    <offset x="0" y="-0.008"/>
                     </TieSegment>
                   <up>down</up>
                   </Tie>

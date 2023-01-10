@@ -1,32 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.01">
-  <programVersion>3.5.2</programVersion>
-  <programRevision>465e7b6</programRevision>
+<museScore version="3.02">
+  <programVersion>3.6.2</programVersion>
+  <programRevision></programRevision>
   <Score>
-    <LayerTag id="0" tag="default"/>
+    <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.27008</pageWidth>
-      <pageHeight>11.6902</pageHeight>
-      <pagePrintableWidth>7.48268</pagePrintableWidth>
+      <pageWidth>8.26772</pageWidth>
+      <pageHeight>11.6929</pageHeight>
+      <pagePrintableWidth>7.08661</pagePrintableWidth>
+      <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
+      <pageOddLeftMargin>0.590551</pageOddLeftMargin>
+      <pageEvenTopMargin>0.590551</pageEvenTopMargin>
+      <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
+      <pageOddTopMargin>0.590551</pageOddTopMargin>
+      <pageOddBottomMargin>0.590551</pageOddBottomMargin>
       <maxSystemDistance>25</maxSystemDistance>
+      <enableVerticalSpread>1</enableVerticalSpread>
+      <minSpreadSpread>4</minSpreadSpread>
+      <maxSpreadSpread>23</maxSpreadSpread>
       <lyricsMinDistance>0.6</lyricsMinDistance>
       <lyricsDashMaxDistance>10</lyricsDashMaxDistance>
       <lyricsDashForce>0</lyricsDashForce>
       <lyricsMelismaPad>0.5</lyricsMelismaPad>
-      <lyricsOddFontSize>12</lyricsOddFontSize>
       <lyricsOddFramePadding>0</lyricsOddFramePadding>
       <lyricsOddFrameWidth>0</lyricsOddFrameWidth>
-      <lyricsEvenFontSize>12</lyricsEvenFontSize>
-      <doubleBarDistance>0.46</doubleBarDistance>
-      <endBarDistance>0.65</endBarDistance>
       <clefLeftMargin>0.64</clefLeftMargin>
       <clefKeyRightMargin>1.75</clefKeyRightMargin>
-      <barNoteDistance>1.2</barNoteDistance>
       <measureSpacing>1</measureSpacing>
-      <lastSystemFillLimit>0</lastSystemFillLimit>
-      <hairpinPosAbove x="0" y="-2.5"/>
+      <lastSystemFillLimit>0.1</lastSystemFillLimit>
       <hairpinHeight>1.3</hairpinHeight>
       <hairpinFramePadding>0</hairpinFramePadding>
       <hairpinFrameWidth>0</hairpinFrameWidth>
@@ -40,10 +43,9 @@
       <ottavaFontStyle>2</ottavaFontStyle>
       <ottavaFramePadding>0</ottavaFramePadding>
       <ottavaFrameWidth>0</ottavaFrameWidth>
-      <keySigNaturals>1</keySigNaturals>
+      <tupletMaxSlope>0</tupletMaxSlope>
       <tupletFramePadding>0</tupletFramePadding>
       <tupletFrameWidth>0</tupletFrameWidth>
-      <dynamicsPosAbove x="0" y="-2"/>
       <textLineFramePadding>0</textLineFramePadding>
       <textLineFrameWidth>0</textLineFrameWidth>
       <defaultFontSpatiumDependent>0</defaultFontSpatiumDependent>
@@ -81,7 +83,6 @@
       <partInstrumentFrameRound>25</partInstrumentFrameRound>
       <dynamicsFramePadding>0</dynamicsFramePadding>
       <dynamicsFrameWidth>0</dynamicsFrameWidth>
-      <expressionFontSize>12</expressionFontSize>
       <expressionFramePadding>0</expressionFramePadding>
       <expressionFrameWidth>0</expressionFrameWidth>
       <tempoFramePadding>0</tempoFramePadding>
@@ -89,7 +90,6 @@
       <tempoFrameRound>25</tempoFrameRound>
       <metronomeFramePadding>0</metronomeFramePadding>
       <metronomeFrameWidth>0</metronomeFrameWidth>
-      <measureNumberAlign>center,bottom</measureNumberAlign>
       <measureNumberFramePadding>0</measureNumberFramePadding>
       <measureNumberFrameWidth>0</measureNumberFrameWidth>
       <translatorAlign>center,top</translatorAlign>
@@ -100,7 +100,6 @@
       <systemFrameWidth>0</systemFrameWidth>
       <systemFrameRound>25</systemFrameRound>
       <staffAlign>left,top</staffAlign>
-      <staffPosAbove x="0" y="-4"/>
       <staffFramePadding>0</staffFramePadding>
       <staffFrameWidth>0</staffFrameWidth>
       <staffFrameRound>25</staffFrameRound>
@@ -127,15 +126,17 @@
       <instrumentChangeAlign>left,bottom</instrumentChangeAlign>
       <instrumentChangeFramePadding>0</instrumentChangeFramePadding>
       <instrumentChangeFrameWidth>0</instrumentChangeFrameWidth>
-      <user1Name>Repeat Text</user1Name>
-      <user1FontSize>12</user1FontSize>
-      <user1Align>right,baseline</user1Align>
+      <user1Name>Work Title</user1Name>
+      <user1FontSize>14</user1FontSize>
+      <user1FontSpatiumDependent>0</user1FontSpatiumDependent>
+      <user1Align>center,top</user1Align>
       <user1FramePadding>0</user1FramePadding>
       <user1FrameWidth>0</user1FrameWidth>
-      <user2Name>Work Title</user2Name>
-      <user2FontSize>14</user2FontSize>
+      <user2Name>Movement Title</user2Name>
+      <user2FontSize>22</user2FontSize>
       <user2FontSpatiumDependent>0</user2FontSpatiumDependent>
       <user2Align>center,top</user2Align>
+      <user2Offset x="0" y="7"/>
       <user2FramePadding>0</user2FramePadding>
       <user2FrameWidth>0</user2FrameWidth>
       <user3Name>Movement Title</user3Name>
@@ -153,23 +154,22 @@
       <user4FrameWidth>0</user4FrameWidth>
       <Spatium>1.5</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger">Transcribed by markpearse from IMSLP #172611.  Source: https://imslp.org/wiki/5_Little_Long_Songs_(Lehmann%2C_Liza)</metaTag>
     <metaTag name="composer">Liza Lehmann</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
-    <metaTag name="creationDate"/>
+    <metaTag name="creationDate">2020-10-30</metaTag>
     <metaTag name="lyricist">Cora Randall Fabbri</metaTag>
     <metaTag name="movementNumber">5</metaTag>
     <metaTag name="movementTitle">Clasp mine closer, little dear white hand</metaTag>
-    <metaTag name="originalFormat"/>
-    <metaTag name="platform"/>
-    <metaTag name="poet"/>
+    <metaTag name="platform"></metaTag>
+    <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/6209608</metaTag>
-    <metaTag name="translator"/>
-    <metaTag name="workNumber"/>
+    <metaTag name="translator"></metaTag>
+    <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">5 Little Love Songs</metaTag>
     <Part>
       <Staff id="1">
@@ -178,8 +178,7 @@
           </StaffType>
         </Staff>
       <trackName>Voice</trackName>
-      <Instrument>
-        <longName>Voice</longName>
+      <Instrument id="voice">
         <trackName>Voice</trackName>
         <minPitchP>38</minPitchP>
         <maxPitchP>84</maxPitchP>
@@ -230,6 +229,7 @@
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="68"/>
+          <controller ctrl="10" value="40"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -249,7 +249,7 @@
         <defaultClef>F</defaultClef>
         </Staff>
       <trackName>Piano</trackName>
-      <Instrument>
+      <Instrument id="piano">
         <longName>Piano</longName>
         <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
@@ -309,9 +309,9 @@
       <VBox>
         <height>2</height>
         <bottomGap>0</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Frame</style>
-          <size>10</size>
           <italic>1</italic>
           <align>center,top</align>
           <text>To Berrick von Norden
@@ -322,8 +322,11 @@
         <height>18</height>
         <topGap>4</topGap>
         <bottomGap>4</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>User-2</style>
+          <size>16</size>
+          <offset x="0" y="0"/>
           <text>5 Little Love Songs</text>
           </Text>
         <Text>
@@ -332,6 +335,7 @@
           </Text>
         <Text>
           <style>User-3</style>
+          <size>22</size>
           <text>5. Clasp mine closer, little dear white hand</text>
           </Text>
         <Text>
@@ -341,8 +345,10 @@
         </VBox>
       <HBox>
         <width>3</width>
+        <boxAutoSize>0</boxAutoSize>
         </HBox>
       <Measure len="1/4">
+        <irregular>1</irregular>
         <stretch>1.3</stretch>
         <visible>0</visible>
         <voice>
@@ -354,11 +360,12 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.33333</tempo>
+            <tempo>1.3333299999999999</tempo>
             <followText>1</followText>
+            <autoplace>0</autoplace>
             <visible>0</visible>
-            <minDistance>-999</minDistance>
-            <offset x="1.79381" y="3.38143"/>
+            <placement>below</placement>
+            <offset x="-2.46" y="5.9"/>
             <text><sym>metNoteQuarterUp</sym> = 80</text>
             </Tempo>
           <Rest>
@@ -383,10 +390,11 @@
           <Tempo>
             <tempo>1.26667</tempo>
             <followText>1</followText>
+            <autoplace>0</autoplace>
             <visible>0</visible>
-            <minDistance>-999</minDistance>
-            <offset x="1.79381" y="3.38143"/>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 76</b></text>
+            <placement>below</placement>
+            <offset x="1.54" y="5.9"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 76</b></text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
@@ -429,10 +437,10 @@
         <stretch>0.9</stretch>
         <voice>
           <Tempo>
-            <tempo>1.33333</tempo>
+            <tempo>1.3333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <offset x="0.448453" y="-1.40206"/>
+            <offset x="0.384388" y="-1.20177"/>
             <text><sym>metNoteQuarterUp</sym> = 80</text>
             </Tempo>
           <Rest>
@@ -464,7 +472,7 @@
             <velocity>49</velocity>
             <placement>above</placement>
             <minDistance>0.430833</minDistance>
-            <offset x="-1" y="-1"/>
+            <offset x="-0.857143" y="-0.857143"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -564,7 +572,6 @@
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <offset x="0.5" y="3"/>
               <text>white</text>
               </Lyrics>
             <Note>
@@ -576,7 +583,6 @@
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
-              <offset x="0.5" y="3"/>
               <text>Hand  -</text>
               </Lyrics>
             <Note>
@@ -586,7 +592,8 @@
             </Chord>
           <Breath>
             <symbol>breathMarkComma</symbol>
-            <offset x="-1.5" y="0"/>
+            <pause>0.05</pause>
+            <offset x="-1.28571" y="0"/>
             </Breath>
           <BarLine>
             </BarLine>
@@ -624,8 +631,8 @@
             <tempo>1.2</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <offset x="0.448453" y="-1.40206"/>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 72</b></text>
+            <offset x="0.384388" y="-1.20177"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 72</b></text>
             </Tempo>
           <Chord>
             <dots>1</dots>
@@ -661,6 +668,7 @@
             </Chord>
           <Breath>
             <symbol>breathMarkComma</symbol>
+            <pause>0.05</pause>
             </Breath>
           </voice>
         </Measure>
@@ -670,10 +678,10 @@
           </LayoutBreak>
         <voice>
           <Tempo>
-            <tempo>1.33333</tempo>
+            <tempo>1.3333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <offset x="0.448453" y="-1.40206"/>
+            <offset x="0.384388" y="-1.20177"/>
             <text><sym>metNoteQuarterUp</sym> = 80</text>
             </Tempo>
           <Chord>
@@ -738,7 +746,8 @@
             </Chord>
           <Breath>
             <symbol>breathMarkComma</symbol>
-            <offset x="-3.5" y="0"/>
+            <pause>0.05</pause>
+            <offset x="-3" y="0"/>
             </Breath>
           <BarLine>
             </BarLine>
@@ -890,7 +899,8 @@
             </Chord>
           <Breath>
             <symbol>breathMarkComma</symbol>
-            <offset x="-3.5" y="0"/>
+            <pause>0.05</pause>
+            <offset x="-3" y="0"/>
             </Breath>
           <BarLine>
             </BarLine>
@@ -908,8 +918,8 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-2.5"/>
-                <off2 x="-4.69586" y="0"/>
+                <offset x="0" y="-2.14286"/>
+                <off2 x="-4.02502" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -928,8 +938,8 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="0.1"/>
-                  <offset x="0" y="0.1"/>
+                  <o4 x="0" y="0.0857143"/>
+                  <offset x="0" y="0.0857143"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -1018,7 +1028,6 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <offset x="-0.1" y="3"/>
               <text>an</text>
               </Lyrics>
             <Articulation>
@@ -1056,7 +1065,6 @@
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <offset x="0.7" y="3"/>
               <text>touch</text>
               </Lyrics>
             <Note>
@@ -1069,7 +1077,6 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <offset x="0.2" y="3"/>
               <text>a</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1103,7 +1110,8 @@
             </Chord>
           <Breath>
             <symbol>breathMarkComma</symbol>
-            <offset x="-2" y="0"/>
+            <pause>0.05</pause>
+            <offset x="-1.71429" y="0"/>
             </Breath>
           </voice>
         </Measure>
@@ -1152,9 +1160,9 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o2 x="0" y="0.2"/>
-                  <o3 x="0" y="0.2"/>
-                  <offset x="0" y="0.1"/>
+                  <o2 x="0" y="0.171429"/>
+                  <o3 x="0" y="0.171429"/>
+                  <offset x="0" y="0.0857143"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -1233,8 +1241,8 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-2.5"/>
-                <off2 x="-1" y="0"/>
+                <offset x="0" y="-2.14286"/>
+                <off2 x="-0.857143" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -1323,8 +1331,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"/>
-                    <o4 x="-0.2" y="0"/>
+                    <o1 x="0.171429" y="0"/>
+                    <o4 x="-0.171429" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -1375,7 +1383,7 @@
             <tempo>1.26667</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 76</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 76</b></text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
@@ -1396,31 +1404,31 @@
             <velocity>64</velocity>
             <visible>0</visible>
             <placement>above</placement>
-            <offset x="0" y="-4"/>
+            <offset x="0" y="-3.42857"/>
             </Dynamic>
           <Tempo>
-            <tempo>1.33333</tempo>
+            <tempo>1.3333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 80</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80</b></text>
             </Tempo>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>2</subtype>
               <veloChange>16</veloChange>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>11</beginFontSize>
-              <continueText/>
+              <continueText></continueText>
               <placement>above</placement>
               <Segment>
                 <subtype>1</subtype>
-                <offset x="-1" y="-2"/>
+                <offset x="-0.857143" y="-1.71429"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               <Segment>
                 <subtype>3</subtype>
-                <offset x="0" y="-3"/>
+                <offset x="0" y="-2.57143"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -1459,7 +1467,6 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <align>left,baseline</align>
-              <offset x="-0.5" y="3"/>
               <text>storm,</text>
               </Lyrics>
             <Articulation>
@@ -1492,7 +1499,6 @@
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <offset x="-0.2" y="3"/>
               <text>in</text>
               </Lyrics>
             <Note>
@@ -1515,7 +1521,6 @@
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <offset x="0.2" y="3"/>
               <text>sun,</text>
               </Lyrics>
             <Articulation>
@@ -1532,7 +1537,6 @@
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <offset x="0.2" y="3"/>
               <text>’tis</text>
               </Lyrics>
             <Note>
@@ -1575,6 +1579,7 @@
             </Segment>
           <Breath>
             <symbol>breathMarkComma</symbol>
+            <pause>0.05</pause>
             </Breath>
           </voice>
         </Measure>
@@ -1692,7 +1697,7 @@
             <BeamMode>no</BeamMode>
             <durationType>half</durationType>
             <Lyrics>
-              <text>land</text>
+              <text>land  —</text>
               </Lyrics>
             <Note>
               <Events>
@@ -1713,7 +1718,7 @@
             <velocity>64</velocity>
             <visible>0</visible>
             <placement>above</placement>
-            <offset x="0" y="-4"/>
+            <offset x="0" y="-3.42857"/>
             </Dynamic>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -1735,7 +1740,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>ly__</text>
+              <text>ly  —</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -1749,7 +1754,6 @@
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <offset x="-0.5" y="3"/>
               <text>where</text>
               </Lyrics>
             <Note>
@@ -1761,7 +1765,6 @@
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <offset x="0.3" y="3"/>
               <text>the</text>
               </Lyrics>
             <Note>
@@ -1780,7 +1783,6 @@
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <offset x="-0.3" y="3"/>
               <text>path</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -1796,7 +1798,6 @@
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <offset x="-0.2" y="3"/>
               <text>was</text>
               </Lyrics>
             <Note>
@@ -1808,7 +1809,6 @@
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <offset x="0.1" y="3"/>
               <text>most</text>
               </Lyrics>
             <Note>
@@ -1833,7 +1833,6 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <offset x="0.3" y="3"/>
               <text>scure,</text>
               </Lyrics>
             <Note>
@@ -1848,7 +1847,8 @@
             </Chord>
           <Breath>
             <symbol>breathMarkComma</symbol>
-            <offset x="-2" y="0"/>
+            <pause>0.05</pause>
+            <offset x="-1.71429" y="0"/>
             </Breath>
           </voice>
         </Measure>
@@ -1862,7 +1862,7 @@
             <velocity>49</velocity>
             <placement>above</placement>
             <minDistance>0</minDistance>
-            <offset x="-1.5" y="-2.01608"/>
+            <offset x="-1.58571" y="-1.72807"/>
             </Dynamic>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -2009,7 +2009,7 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
-              <text>pure__</text>
+              <text>pure  —</text>
               </Lyrics>
             <Articulation>
               <subtype>articAccentAbove</subtype>
@@ -2029,7 +2029,7 @@
             </Chord>
           <Breath>
             <symbol>breathMarkComma</symbol>
-            <offset x="-2" y="0"/>
+            <offset x="-1.71429" y="0"/>
             </Breath>
           </voice>
         </Measure>
@@ -2042,7 +2042,7 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-4"/>
+                <offset x="0" y="-3.42857"/>
                 <off2 x="0" y="0"/>
                 <minDistance>-0.00648148</minDistance>
                 </Segment>
@@ -2092,9 +2092,9 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="-0.3"/>
-                  <o4 x="-1.1" y="-0.3"/>
-                  <offset x="-0.149484" y="2.317"/>
+                  <o1 x="0" y="-0.257143"/>
+                  <o4 x="-0.942857" y="-0.257143"/>
+                  <offset x="-0.128129" y="1.986"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -2104,7 +2104,7 @@
                 </next>
               </Spanner>
             <Stem>
-              <userLen>0.2</userLen>
+              <userLen>0.171429</userLen>
               </Stem>
             <Note>
               <pitch>77</pitch>
@@ -2242,12 +2242,12 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"/>
-                    <o4 x="-0.6" y="0"/>
+                    <o1 x="0.171429" y="0"/>
+                    <o4 x="-0.514286" y="0"/>
                     </TieSegment>
                   <TieSegment no="1">
-                    <o1 x="0.4" y="0"/>
-                    <offset x="0" y="0.506175"/>
+                    <o1 x="0.342857" y="0"/>
+                    <offset x="0" y="0.433864"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -2294,7 +2294,7 @@
             <tempo>1.26667</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 76</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 76</b></text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
@@ -2309,13 +2309,13 @@
         <voice>
           <StaffText>
             <style>Tempo</style>
-            <text>Poco più mosso.</text>
+            <text>Poco più mosso</text>
             </StaffText>
           <Tempo>
             <tempo>1.73333</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 104</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 104</b></text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
@@ -2344,7 +2344,7 @@
             <velocity>96</velocity>
             <placement>above</placement>
             <minDistance>-0.989171</minDistance>
-            <offset x="-1.5" y="-1.62"/>
+            <offset x="-1.28571" y="-1.38857"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -2368,7 +2368,6 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <offset x="-0.2" y="3"/>
               <text>ra</text>
               </Lyrics>
             <Note>
@@ -2383,7 +2382,6 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <offset x="0.2" y="3"/>
               <text>dise</text>
               </Lyrics>
             <Note>
@@ -2474,9 +2472,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.3" y="0"/>
-                    <o4 x="-0.3" y="0"/>
-                    <offset x="0" y="0.2"/>
+                    <o1 x="0.257143" y="0"/>
+                    <o4 x="-0.257143" y="0"/>
+                    <offset x="0" y="0.171429"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -2522,13 +2520,13 @@
             <HairPin>
               <subtype>2</subtype>
               <veloChange>16</veloChange>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>11</beginFontSize>
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-3"/>
+                <offset x="0" y="-2.57143"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -2548,10 +2546,10 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0.6" y="-0.1"/>
-                  <o2 x="0" y="0.2"/>
-                  <o3 x="0" y="0.2"/>
-                  <o4 x="-0.4" y="0"/>
+                  <o1 x="0.514286" y="-0.0857143"/>
+                  <o2 x="0" y="0.171429"/>
+                  <o3 x="0" y="0.171429"/>
+                  <o4 x="-0.342857" y="0"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -2562,7 +2560,7 @@
               </Spanner>
             <Articulation>
               <subtype>articAccentAbove</subtype>
-              <offset x="0" y="-0.5"/>
+              <offset x="0" y="-0.428571"/>
               </Articulation>
             <Note>
               <pitch>81</pitch>
@@ -2573,7 +2571,6 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <offset x="-0.2" y="3"/>
               <text>ra</text>
               </Lyrics>
             <Spanner type="Slur">
@@ -2592,7 +2589,6 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <offset x="0.2" y="3"/>
               <text>dise</text>
               </Lyrics>
             <Note>
@@ -2682,8 +2678,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.4" y="0"/>
-                    <offset x="0" y="0.2"/>
+                    <o4 x="-0.342857" y="0"/>
+                    <offset x="0" y="0.171429"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -2732,9 +2728,10 @@
             <subtype>other-dynamics</subtype>
             <velocity>80</velocity>
             <placement>above</placement>
+            <family>FreeSerif</family>
             <align>left,baseline</align>
-            <offset x="-1.8" y="-2"/>
-            <text><i/><font face="ScoreText"/><i><font face="FreeSerif"/> e cresc.</i></text>
+            <offset x="-1.54286" y="-1.71429"/>
+            <text><i></i><font face="ScoreText"></font><i><font face="FreeSerif"></font> e cresc.</i></text>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -2743,13 +2740,13 @@
               <visible>0</visible>
               <Segment>
                 <subtype>1</subtype>
-                <offset x="0" y="-2.5"/>
+                <offset x="0" y="-2.14286"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
               <Segment>
                 <subtype>3</subtype>
-                <offset x="0" y="-2.5"/>
+                <offset x="0" y="-2.14286"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -2770,10 +2767,10 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0.2" y="0.6"/>
-                  <o2 x="0" y="0.2"/>
-                  <o3 x="0" y="0.2"/>
-                  <o4 x="-0.4" y="0"/>
+                  <o1 x="0.171429" y="0.514286"/>
+                  <o2 x="0" y="0.171429"/>
+                  <o3 x="0" y="0.171429"/>
+                  <o4 x="-0.342857" y="0"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -2817,8 +2814,8 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0.4" y="0"/>
-                  <o4 x="-0.2" y="0.2"/>
+                  <o1 x="0.342857" y="0"/>
+                  <o4 x="-0.171429" y="0.171429"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -2876,8 +2873,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.6" y="0"/>
-                    <o4 x="-0.3" y="0"/>
+                    <o1 x="0.514286" y="0"/>
+                    <o4 x="-0.257143" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -2912,7 +2909,8 @@
             </Chord>
           <Breath>
             <symbol>breathMarkComma</symbol>
-            <offset x="-2" y="0"/>
+            <pause>0.04</pause>
+            <offset x="-1.71429" y="0"/>
             </Breath>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -2987,7 +2985,7 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-2"/>
+                <offset x="0" y="-2.31429"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -3030,14 +3028,13 @@
             <subtype>ff</subtype>
             <velocity>112</velocity>
             <placement>above</placement>
-            <minDistance>-0.999484</minDistance>
-            <offset x="-2" y="-1.12"/>
+            <offset x="-2.71429" y="-1.51429"/>
             </Dynamic>
           <Tempo>
-            <tempo>1.66667</tempo>
+            <tempo>1.6666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 100</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 100</b></text>
             </Tempo>
           <Spanner type="HairPin">
             <prev>
@@ -3059,9 +3056,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"/>
-                    <o4 x="-0.2" y="0"/>
-                    <offset x="0" y="-0.2"/>
+                    <o1 x="0.171429" y="0"/>
+                    <o4 x="-0.171429" y="0"/>
+                    <offset x="0" y="-0.171429"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -3087,14 +3084,14 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"/>
-                    <o4 x="-0.5" y="0"/>
-                    <offset x="0" y="-0.3"/>
+                    <o1 x="0.171429" y="0"/>
+                    <o4 x="-0.428571" y="0"/>
+                    <offset x="0" y="-0.257143"/>
                     </TieSegment>
                   <TieSegment no="1">
-                    <o1 x="0.4" y="0"/>
-                    <o4 x="-0.2" y="0"/>
-                    <offset x="0" y="-0.1"/>
+                    <o1 x="0.342857" y="0"/>
+                    <o4 x="-0.171429" y="0"/>
+                    <offset x="0" y="-0.0857143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -3118,10 +3115,10 @@
             <fractions>-1/2</fractions>
             </location>
           <Tempo>
-            <tempo>1.6</tempo>
+            <tempo>1.6000000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 96</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 96</b></text>
             </Tempo>
           <location>
             <fractions>1/4</fractions>
@@ -3130,18 +3127,18 @@
             <tempo>1.56667</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 94</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 94</b></text>
             </Tempo>
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>9</vspacerDown>
+        <vspacerDown>7.71429</vspacerDown>
         <voice>
           <Tempo>
             <tempo>1.5</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> =90</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> =90</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -3179,7 +3176,7 @@
             <tempo>1.43333</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 86</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 86</b></text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
@@ -3193,10 +3190,10 @@
           </LayoutBreak>
         <voice>
           <Tempo>
-            <tempo>1.33333</tempo>
+            <tempo>1.3333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 80</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80</b></text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
@@ -3208,14 +3205,14 @@
         <voice>
           <StaffText>
             <color r="255" g="255" b="255" a="255"/>
-            <offset x="0" y="-1"/>
+            <offset x="0" y="-0.857143"/>
             <text>.</text>
             </StaffText>
           <Tempo>
             <tempo>1.43333</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 86</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 86</b></text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
@@ -3233,10 +3230,10 @@
             <fractions>-1/2</fractions>
             </location>
           <Tempo>
-            <tempo>1.36667</tempo>
+            <tempo>1.3666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 82</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 82</b></text>
             </Tempo>
           </voice>
         </Measure>
@@ -3257,7 +3254,7 @@
             <tempo>1.26667</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 76</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 76</b></text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
@@ -3275,15 +3272,16 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <placement>above</placement>
-            <minDistance>-999</minDistance>
-            <offset x="-2" y="-0.5"/>
+            <minDistance>0.368015</minDistance>
+            <offset x="-2.11429" y="-1.12857"/>
             </Dynamic>
           <StaffText>
             <style>Tempo</style>
+            <offset x="0" y="-2.5"/>
             <text>Tempo 1</text>
             </StaffText>
           <Tempo>
-            <tempo>1.33333</tempo>
+            <tempo>1.3333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 80</text>
@@ -3348,7 +3346,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-2.5"/>
+                <offset x="0" y="-2.14286"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -3401,7 +3399,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-2.5"/>
+                <offset x="0" y="-2.14286"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -3447,7 +3445,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-2.5"/>
+                <offset x="0" y="-2.14286"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -3475,7 +3473,7 @@
             <tempo>1.3</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 78</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 78</b></text>
             </Tempo>
           <Rest>
             <durationType>half</durationType>
@@ -3528,14 +3526,14 @@
             <HairPin>
               <subtype>3</subtype>
               <veloChange>16</veloChange>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
-              <beginFontSize>11</beginFontSize>
+              <beginFontSize>9</beginFontSize>
               <beginText>dim. e rall. alla fine</beginText>
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="3" y="-1.5"/>
+                <offset x="2.57143" y="-1.28571"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -3616,7 +3614,7 @@
             <tempo>1.26667</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 76</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 76</b></text>
             </Tempo>
           <Spanner type="HairPin">
             <prev>
@@ -3695,22 +3693,31 @@
             <duration>4/4</duration>
             </Rest>
           <location>
-            <fractions>-1/2</fractions>
+            <fractions>-3/4</fractions>
             </location>
           <Tempo>
-            <tempo>1.2</tempo>
+            <tempo>1.2333333333333334</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 72</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 74</b></text>
             </Tempo>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Tempo>
-            <tempo>1.13333</tempo>
+            <tempo>1.2</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 68</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 72</b></text>
+            </Tempo>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <Tempo>
+            <tempo>1.1333299999999999</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 68</b></text>
             </Tempo>
           </voice>
         </Measure>
@@ -3739,11 +3746,11 @@
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
-            <offset x="0" y="3.5"/>
+            <offset x="0" y="3"/>
             </Dynamic>
           <StaffText>
             <style>Tempo</style>
-            <offset x="-0.560565" y="-7.37503"/>
+            <offset x="-0.480484" y="-6.32145"/>
             <text>Assai ritenuto</text>
             </StaffText>
           <Chord>
@@ -3751,7 +3758,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <offset x="0" y="0.3"/>
+                  <offset x="0" y="0.257143"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -3779,7 +3786,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
+                <offset x="0" y="3"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -3857,7 +3864,7 @@
             <subtype>mf</subtype>
             <velocity>72</velocity>
             <visible>0</visible>
-            <offset x="0" y="3.5"/>
+            <offset x="0" y="3"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -3873,7 +3880,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
+                <offset x="0" y="3"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -3976,12 +3983,12 @@
             <subtype>mf</subtype>
             <velocity>72</velocity>
             <visible>0</visible>
-            <offset x="0" y="3.5"/>
+            <offset x="0" y="3"/>
             </Dynamic>
           <Fermata>
             <subtype>fermataAbove</subtype>
             <timeStretch>1.2</timeStretch>
-            <offset x="0" y="-2"/>
+            <offset x="0" y="-1.71429"/>
             </Fermata>
           <Spanner type="HairPin">
             <prev>
@@ -3996,7 +4003,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="1"/>
+                  <o4 x="0" y="0.857143"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -4055,12 +4062,12 @@
             <subtype>mf</subtype>
             <velocity>56</velocity>
             <visible>0</visible>
-            <offset x="0" y="3.5"/>
+            <offset x="0" y="3"/>
             </Dynamic>
           <Fermata>
             <subtype>fermataAbove</subtype>
             <timeStretch>1.7</timeStretch>
-            <offset x="0" y="-2"/>
+            <offset x="0" y="-1.71429"/>
             </Fermata>
           <Spanner type="HairPin">
             <HairPin>
@@ -4068,7 +4075,7 @@
               <veloChange>16</veloChange>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-2.5" y="3.5"/>
+                <offset x="-2.14286" y="3"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -4108,8 +4115,13 @@
         <voice>
           <StaffText>
             <style>Tempo</style>
-            <text>Un poco lento.</text>
+            <text>Un poco lento</text>
             </StaffText>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <offset x="-2.3" y="4.7"/>
+            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -4150,9 +4162,10 @@
           </voice>
         <voice>
           <Dynamic>
-            <subtype>p</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>49</velocity>
-            <offset x="-2.5" y="5"/>
+            <offset x="-2.14286" y="4.28571"/>
+            <text></text>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -4182,7 +4195,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
+                <offset x="0" y="3"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -4224,7 +4237,7 @@
           <Fermata>
             <subtype>fermataAbove</subtype>
             <timeStretch>1.3</timeStretch>
-            <offset x="0" y="-2"/>
+            <offset x="0" y="-1.71429"/>
             </Fermata>
           <Spanner type="HairPin">
             <prev>
@@ -4238,8 +4251,8 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o3 x="0" y="-0.1"/>
-                  <o4 x="-0.6" y="0"/>
+                  <o3 x="0" y="-0.0857143"/>
+                  <o4 x="-0.514286" y="0"/>
                   </SlurSegment>
                 <up>down</up>
                 </Slur>
@@ -4253,8 +4266,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.2" y="0"/>
-                    <offset x="0.118914" y="-0.436017"/>
+                    <o4 x="-0.171429" y="0"/>
+                    <offset x="0.101926" y="-0.373729"/>
                     </TieSegment>
                   <up>up</up>
                   </Tie>
@@ -4271,8 +4284,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="0.2" y="0"/>
-                    <offset x="0.105701" y="-0.488868"/>
+                    <o4 x="0.171429" y="0"/>
+                    <offset x="0.0906009" y="-0.41903"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -4359,6 +4372,7 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
+            <offset x="0" y="4.5"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -4474,7 +4488,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="-0.8" y="-0.1"/>
+                  <o4 x="-0.685714" y="-0.0857143"/>
                   </SlurSegment>
                 <up>down</up>
                 </Slur>
@@ -4485,14 +4499,14 @@
               </Spanner>
             <acciaccatura/>
             <Stem>
-              <userLen>-0.1</userLen>
+              <userLen>-0.0857143</userLen>
               </Stem>
             <Note>
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="0.1" y="0"/>
-                    <offset x="0.105701" y="-0.462443"/>
+                    <o4 x="0.0857143" y="0"/>
+                    <offset x="0.0906009" y="-0.39638"/>
                     </TieSegment>
                   <up>up</up>
                   </Tie>
@@ -4509,8 +4523,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="0.1" y="0"/>
-                    <offset x="0.0924886" y="-0.224615"/>
+                    <o4 x="0.0857143" y="0"/>
+                    <offset x="0.0792759" y="-0.192527"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -4536,10 +4550,10 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.5" y="0"/>
+                    <o4 x="-0.428571" y="0"/>
                     </TieSegment>
                   <TieSegment no="1">
-                    <o1 x="0.5" y="0"/>
+                    <o1 x="0.428571" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -4556,13 +4570,13 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o4 x="-0.5" y="0"/>
-                    <offset x="0" y="0.4"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o4 x="-0.428571" y="0"/>
+                    <offset x="0" y="0.342857"/>
                     </TieSegment>
                   <TieSegment no="1">
-                    <o1 x="0.5" y="0"/>
-                    <offset x="0" y="-0.416625"/>
+                    <o1 x="0.428571" y="0"/>
+                    <offset x="0" y="-0.357107"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -4587,12 +4601,12 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o4 x="-0.5" y="0"/>
-                    <offset x="0" y="-0.1"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o4 x="-0.428571" y="0"/>
+                    <offset x="0" y="-0.0857143"/>
                     </TieSegment>
                   <TieSegment no="1">
-                    <o1 x="0.5" y="0"/>
+                    <o1 x="0.428571" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -4769,8 +4783,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.9" y="0"/>
-                    <offset x="-0.325679" y="0.231084"/>
+                    <o1 x="0.771429" y="0"/>
+                    <offset x="-0.279153" y="0.198072"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -4808,7 +4822,7 @@
             <durationType>eighth</durationType>
             <acciaccatura/>
             <Stem>
-              <userLen>3.24055</userLen>
+              <userLen>2.77761</userLen>
               </Stem>
             <StemDirection>up</StemDirection>
             <Note>
@@ -4818,8 +4832,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <offset x="-0.1" y="0"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <offset x="-0.0857143" y="0"/>
                     </TieSegment>
                   <up>down</up>
                   </Tie>
@@ -4866,8 +4880,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="2.42795" y="-0.488743"/>
-                    <o4 x="-0.0734249" y="-0.520275"/>
+                    <o1 x="2.0811" y="-0.418923"/>
+                    <o4 x="-0.0629356" y="-0.44595"/>
                     </TieSegment>
                   <up>down</up>
                   </Tie>
@@ -5323,10 +5337,10 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0.1" y="0"/>
-                  <o2 x="0.1" y="0"/>
-                  <o4 x="-0.4" y="0"/>
-                  <offset x="-0.1" y="0"/>
+                  <o1 x="0.0857143" y="0"/>
+                  <o2 x="0.0857143" y="0"/>
+                  <o4 x="-0.342857" y="0"/>
+                  <offset x="-0.0857143" y="0"/>
                   </SlurSegment>
                 <up>down</up>
                 </Slur>
@@ -5337,13 +5351,13 @@
               </Spanner>
             <acciaccatura/>
             <Stem>
-              <userLen>-0.2</userLen>
+              <userLen>-0.171429</userLen>
               </Stem>
             <Note>
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <offset x="0.1" y="0"/>
+                    <offset x="0.0857143" y="0"/>
                     </TieSegment>
                   <up>up</up>
                   </Tie>
@@ -5360,7 +5374,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <offset x="0.0924886" y="-0.132127"/>
+                    <offset x="0.0792759" y="-0.113252"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -5449,7 +5463,7 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>56</velocity>
-            <offset x="-1" y="5"/>
+            <offset x="-0.857143" y="5.28571"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -5458,7 +5472,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
+                <offset x="0" y="3"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -5474,10 +5488,10 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0.1" y="0.1"/>
-                  <o2 x="0" y="-0.4"/>
-                  <o3 x="0" y="-0.4"/>
-                  <o4 x="-0.2" y="0.2"/>
+                  <o1 x="0.0857143" y="0.0857143"/>
+                  <o2 x="0" y="-0.342857"/>
+                  <o3 x="0" y="-0.342857"/>
+                  <o4 x="-0.171429" y="0.171429"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -5562,7 +5576,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
+                <offset x="0" y="3"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -5631,18 +5645,18 @@
             <HairPin>
               <subtype>2</subtype>
               <veloChange>16</veloChange>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>11</beginFontSize>
-              <continueText/>
+              <continueText></continueText>
               <Segment>
                 <subtype>1</subtype>
-                <offset x="-1.5" y="5"/>
+                <offset x="-1.28571" y="4.98571"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               <Segment>
                 <subtype>3</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.42857"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -5785,9 +5799,9 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="0.1"/>
-                  <o2 x="0.1" y="0"/>
-                  <o4 x="-0.5" y="0"/>
+                  <o1 x="0" y="0.0857143"/>
+                  <o2 x="0.0857143" y="0"/>
+                  <o4 x="-0.428571" y="0"/>
                   </SlurSegment>
                 <up>down</up>
                 </Slur>
@@ -5841,7 +5855,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.2" y="0"/>
+                    <o4 x="-0.171429" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -5858,9 +5872,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"/>
-                    <o4 x="-0.2" y="0"/>
-                    <offset x="0" y="-0.2"/>
+                    <o1 x="0.171429" y="0"/>
+                    <o4 x="-0.171429" y="0"/>
+                    <offset x="0" y="-0.171429"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -5885,7 +5899,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"/>
+                    <o1 x="0.171429" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -6065,8 +6079,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.753121" y="-0.0132127"/>
-                    <offset x="0.554931" y="0.237828"/>
+                    <o4 x="-0.645532" y="-0.0113252"/>
+                    <offset x="0.475655" y="0.203853"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -6102,8 +6116,11 @@
             <durationType>eighth</durationType>
             <acciaccatura/>
             <Stem>
-              <userLen>2.40815</userLen>
+              <userLen>2.76413</userLen>
               </Stem>
+            <StemSlash>
+              <offset x="0" y="-0.2"/>
+              </StemSlash>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
@@ -6112,7 +6129,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <offset x="0.0132127" y="-0.060362"/>
+                    <offset x="0.0113252" y="-0.0517389"/>
                     </TieSegment>
                   <up>down</up>
                   </Tie>
@@ -6159,8 +6176,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="2.2" y="0"/>
-                    <offset x="-0.0660633" y="-0.521261"/>
+                    <o1 x="1.88571" y="0"/>
+                    <offset x="-0.0566257" y="-0.446795"/>
                     </TieSegment>
                   <up>down</up>
                   </Tie>
@@ -6179,8 +6196,8 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="-0.1" y="0.3"/>
-                  <offset x="0.149484" y="-1.34536"/>
+                  <o4 x="-0.0857143" y="0.257143"/>
+                  <offset x="0.128129" y="-1.15317"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -6328,7 +6345,7 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <offset x="-1.5" y="4"/>
+            <offset x="-1.28571" y="3.42857"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -6602,8 +6619,8 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="-0.6" y="0"/>
-                  <offset x="0.1" y="0"/>
+                  <o4 x="-0.514286" y="0"/>
+                  <offset x="0.0857143" y="0"/>
                   </SlurSegment>
                 <up>down</up>
                 </Slur>
@@ -6617,8 +6634,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.1" y="0"/>
-                    <offset x="0" y="0.1"/>
+                    <o4 x="-0.0857143" y="0"/>
+                    <offset x="0" y="0.0857143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -6634,8 +6651,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o4 x="-0.1" y="0"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o4 x="-0.0857143" y="0"/>
                     </TieSegment>
                   <up>down</up>
                   </Tie>
@@ -6725,7 +6742,7 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <offset x="-1.5" y="4"/>
+            <offset x="-1.28571" y="3.42857"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -6734,7 +6751,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
+                <offset x="0" y="3"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -6750,7 +6767,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="-0.2" y="0.2"/>
+                  <o4 x="-0.171429" y="0.171429"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -6835,7 +6852,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
+                <offset x="0" y="3"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -6886,7 +6903,7 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>80</velocity>
-            <offset x="-2" y="4"/>
+            <offset x="-1.71429" y="3.42857"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -6926,7 +6943,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-2.5"/>
+                <offset x="0" y="-2.14286"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -6992,7 +7009,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <offset x="0" y="0.1"/>
+                    <offset x="0" y="0.0857143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -7023,8 +7040,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="0.2" y="0"/>
-                    <offset x="0" y="-0.405031"/>
+                    <o4 x="0.171429" y="0"/>
+                    <offset x="0" y="-0.347169"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -7135,12 +7152,12 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.4" y="0"/>
-                    <offset x="-0.1" y="0.1"/>
+                    <o4 x="-0.342857" y="0"/>
+                    <offset x="-0.0857143" y="0.0857143"/>
                     </TieSegment>
                   <TieSegment no="1">
-                    <o1 x="0.4" y="0"/>
-                    <o4 x="-0.1" y="0"/>
+                    <o1 x="0.342857" y="0"/>
+                    <o4 x="-0.0857143" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -7157,13 +7174,13 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.5" y="0"/>
-                    <offset x="0" y="-0.394969"/>
+                    <o4 x="-0.428571" y="0"/>
+                    <offset x="0" y="-0.338545"/>
                     </TieSegment>
                   <TieSegment no="1">
-                    <o1 x="0.4" y="0"/>
-                    <o4 x="-0.1" y="0"/>
-                    <offset x="0" y="-0.394969"/>
+                    <o1 x="0.342857" y="0"/>
+                    <o4 x="-0.0857143" y="0"/>
+                    <offset x="0" y="-0.338545"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -7180,13 +7197,13 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.5" y="0"/>
-                    <offset x="0" y="-0.405031"/>
+                    <o4 x="-0.428571" y="0"/>
+                    <offset x="0" y="-0.347169"/>
                     </TieSegment>
                   <TieSegment no="1">
-                    <o1 x="0.4" y="0"/>
-                    <o4 x="-0.1" y="0"/>
-                    <offset x="0" y="0.394969"/>
+                    <o1 x="0.342857" y="0"/>
+                    <o4 x="-0.0857143" y="0"/>
+                    <offset x="0" y="0.338545"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -7305,9 +7322,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o4 x="-0.1" y="0"/>
-                    <offset x="0" y="0.1"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o4 x="-0.0857143" y="0"/>
+                    <offset x="0" y="0.0857143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -7324,9 +7341,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o4 x="-0.1" y="0"/>
-                    <offset x="0" y="-0.394969"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o4 x="-0.0857143" y="0"/>
+                    <offset x="0" y="-0.338545"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -7343,8 +7360,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="0.1" y="0"/>
-                    <offset x="0" y="-0.405031"/>
+                    <o4 x="0.0857143" y="0"/>
+                    <offset x="0" y="-0.347169"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -7455,9 +7472,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o4 x="-0.1" y="0"/>
-                    <offset x="0" y="0.1"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o4 x="-0.0857143" y="0"/>
+                    <offset x="0" y="0.0857143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -7474,9 +7491,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o4 x="-0.1" y="0"/>
-                    <offset x="0" y="-0.394969"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o4 x="-0.0857143" y="0"/>
+                    <offset x="0" y="-0.338545"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -7493,8 +7510,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="0.1" y="0"/>
-                    <offset x="0" y="-0.405031"/>
+                    <o4 x="0.0857143" y="0"/>
+                    <offset x="0" y="-0.347169"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -7561,9 +7578,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o4 x="-0.1" y="0"/>
-                    <offset x="0" y="0.2"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o4 x="-0.0857143" y="0"/>
+                    <offset x="0" y="0.171429"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -7579,9 +7596,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="-0.1"/>
-                    <o4 x="-0.2" y="-0.1"/>
-                    <offset x="0" y="0.1"/>
+                    <o1 x="0.171429" y="-0.0857143"/>
+                    <o4 x="-0.171429" y="-0.0857143"/>
+                    <offset x="0" y="0.0857143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -7597,8 +7614,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <offset x="0.1" y="-0.4"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <offset x="0.0857143" y="-0.342857"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -7617,8 +7634,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o4 x="-0.1" y="0"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o4 x="-0.0857143" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -7642,9 +7659,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o4 x="-0.1" y="0"/>
-                    <offset x="0" y="-0.2"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o4 x="-0.0857143" y="0"/>
+                    <offset x="0" y="-0.171429"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -7668,9 +7685,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o4 x="0.1" y="0"/>
-                    <offset x="0.1" y="-0.4"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o4 x="0.0857143" y="0"/>
+                    <offset x="0.0857143" y="-0.342857"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -7756,12 +7773,12 @@
             <HairPin>
               <subtype>2</subtype>
               <veloChange>16</veloChange>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>11</beginFontSize>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="2.5" y="3"/>
+                <offset x="2.14286" y="2.57143"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -7833,7 +7850,7 @@
               </prev>
             </Spanner>
           <Rest>
-            <offset x="0" y="-2"/>
+            <offset x="0" y="-1.71429"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -7890,16 +7907,16 @@
           <Chord>
             <durationType>eighth</durationType>
             <Stem>
-              <userLen>0.7</userLen>
+              <userLen>0.6</userLen>
               </Stem>
             <StemDirection>up</StemDirection>
             <Note>
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o4 x="-0.1" y="0"/>
-                    <offset x="0" y="-0.394969"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o4 x="-0.0857143" y="0"/>
+                    <offset x="0" y="-0.338545"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -8043,9 +8060,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o4 x="-0.1" y="0"/>
-                    <offset x="0" y="-0.394969"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o4 x="-0.0857143" y="0"/>
+                    <offset x="0" y="-0.338545"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -8171,8 +8188,8 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="0.2"/>
-                  <o4 x="-0.5" y="-1.2"/>
+                  <o1 x="0" y="0.171429"/>
+                  <o4 x="-0.428571" y="-1.02857"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -8221,7 +8238,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
+                <offset x="0" y="3"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -8254,6 +8271,7 @@
           </voice>
         <voice>
           <Rest>
+            <offset x="0" y="1"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -8323,13 +8341,13 @@
               <visible>0</visible>
               <Segment>
                 <subtype>1</subtype>
-                <offset x="0" y="3.5"/>
+                <offset x="0" y="3"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
               <Segment>
                 <subtype>3</subtype>
-                <offset x="0" y="3.5"/>
+                <offset x="0" y="3"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -8353,7 +8371,7 @@
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
-            <offset x="-3" y="4"/>
+            <offset x="-2.57143" y="3.42857"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -8665,7 +8683,7 @@
       <Measure>
         <voice>
           <Rest>
-            <offset x="-0.5" y="0"/>
+            <offset x="-0.428571" y="0"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -8673,12 +8691,12 @@
             <durationType>quarter</durationType>
             <Note>
               <NoteDot>
-                <offset x="0.3" y="0"/>
+                <offset x="0.257143" y="0"/>
                 </NoteDot>
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <offset x="0.1" y="-0.3"/>
+                    <offset x="0.0857143" y="-0.257143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -8716,7 +8734,7 @@
           </voice>
         <voice>
           <Rest>
-            <offset x="-0.5" y="0"/>
+            <offset x="-0.428571" y="0"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -8724,7 +8742,7 @@
             <Note>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
-                <offset x="0.75" y="0"/>
+                <offset x="0.642857" y="0"/>
                 </Accidental>
               <pitch>65</pitch>
               <tpc>13</tpc>
@@ -8733,7 +8751,7 @@
             <Note>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
-                <offset x="0.75" y="0"/>
+                <offset x="0.642857" y="0"/>
                 </Accidental>
               <pitch>68</pitch>
               <tpc>10</tpc>
@@ -8742,7 +8760,7 @@
             <Note>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
-                <offset x="0.4" y="0"/>
+                <offset x="0.342857" y="0"/>
                 </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
@@ -8755,9 +8773,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="-0.2" y="0"/>
-                    <o4 x="-0.1" y="0"/>
-                    <offset x="0" y="0.405031"/>
+                    <o1 x="-0.171429" y="0"/>
+                    <o4 x="-0.0857143" y="0"/>
+                    <offset x="0" y="0.347169"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -8774,8 +8792,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.6" y="0"/>
-                    <offset x="0" y="-0.294969"/>
+                    <o1 x="0.514286" y="0"/>
+                    <offset x="0" y="-0.252831"/>
                     </TieSegment>
                   <up>down</up>
                   </Tie>
@@ -8793,10 +8811,10 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="-0.3" y="0"/>
-                    <o2 x="0" y="-0.1"/>
-                    <o3 x="0" y="-0.1"/>
-                    <offset x="0" y="-0.4"/>
+                    <o1 x="-0.257143" y="0"/>
+                    <o2 x="0" y="-0.0857143"/>
+                    <o3 x="0" y="-0.0857143"/>
+                    <offset x="0" y="-0.342857"/>
                     </TieSegment>
                   <up>up</up>
                   </Tie>
@@ -8906,9 +8924,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o4 x="-0.2" y="0"/>
-                    <offset x="0" y="-0.394969"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o4 x="-0.171429" y="0"/>
+                    <offset x="0" y="-0.338545"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -8924,8 +8942,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o4 x="-0.2" y="0"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o4 x="-0.171429" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -8941,8 +8959,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o4 x="-0.1" y="0"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o4 x="-0.0857143" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -9030,8 +9048,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o4 x="-0.1" y="0"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o4 x="-0.0857143" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -9048,8 +9066,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o4 x="-0.1" y="0"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o4 x="-0.0857143" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -9066,8 +9084,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o4 x="-0.1" y="0"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o4 x="-0.0857143" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -9178,8 +9196,8 @@
               <veloChange>16</veloChange>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-1.5" y="3"/>
-                <off2 x="1.8" y="0"/>
+                <offset x="-1.28571" y="2.57143"/>
+                <off2 x="1.54286" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -9269,7 +9287,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
+                <offset x="0" y="3"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -9285,9 +9303,9 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="-1.6" y="-1.6"/>
-                  <o3 x="2" y="0"/>
-                  <o4 x="-0.2" y="-0.2"/>
+                  <o1 x="-1.37143" y="-1.37143"/>
+                  <o3 x="1.71429" y="0"/>
+                  <o4 x="-0.171429" y="-0.171429"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -9318,9 +9336,10 @@
             <subtype>other-dynamics</subtype>
             <velocity>112</velocity>
             <veloChange>-20</veloChange>
+            <family>FreeSerif</family>
             <align>left,baseline</align>
-            <offset x="-2.5" y="3.5"/>
-            <text><i/><font face="ScoreText"/><i><font face="FreeSerif"/>  allarg.</i></text>
+            <offset x="-2.14286" y="3"/>
+            <text><i></i><font face="ScoreText"></font><i><font face="FreeSerif"></font>  allarg.</i></text>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -9384,7 +9403,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
+                <offset x="0" y="3"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -9574,7 +9593,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
+                <offset x="0" y="3"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -9592,7 +9611,7 @@
             <Note>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
-                <offset x="1" y="0"/>
+                <offset x="0.857143" y="0"/>
                 </Accidental>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -9604,7 +9623,7 @@
             <Note>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
-                <offset x="1.6" y="0"/>
+                <offset x="1.37143" y="0"/>
                 </Accidental>
               <pitch>84</pitch>
               <tpc>14</tpc>
@@ -9639,8 +9658,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.1" y="0"/>
-                    <offset x="0" y="0.2"/>
+                    <o4 x="-0.0857143" y="0"/>
+                    <offset x="0" y="0.171429"/>
                     </TieSegment>
                   <up>down</up>
                   </Tie>
@@ -9658,8 +9677,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <offset x="0.1" y="-0.2"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <offset x="0.0857143" y="-0.171429"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -9705,7 +9724,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
+                <offset x="0" y="3"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -9753,8 +9772,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="0.1" y="0"/>
-                    <offset x="-0.2" y="0.4"/>
+                    <o4 x="0.0857143" y="0"/>
+                    <offset x="-0.171429" y="0.342857"/>
                     </TieSegment>
                   <up>down</up>
                   </Tie>
@@ -9771,7 +9790,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <offset x="0" y="-0.2"/>
+                    <offset x="0" y="-0.171429"/>
                     </TieSegment>
                   <up>up</up>
                   </Tie>
@@ -9895,8 +9914,8 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0.5" y="0"/>
-                  <o4 x="-5.5" y="-0.3"/>
+                  <o1 x="0.428571" y="0"/>
+                  <o4 x="-4.71429" y="-0.257143"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -10003,9 +10022,10 @@
           <Dynamic>
             <subtype>other-dynamics</subtype>
             <velocity>49</velocity>
+            <family>FreeSerif</family>
             <align>left,baseline</align>
-            <offset x="-1.5" y="4"/>
-            <text><i/><font face="ScoreText"/><i><font face="FreeSerif"/>  subito</i></text>
+            <offset x="-1.28571" y="3.42857"/>
+            <text><i></i><font face="ScoreText"></font><i><font face="FreeSerif"></font>  subito</i></text>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -10032,7 +10052,7 @@
                 <bracket>1</bracket>
                 <role>1</role>
                 <subtype>accidentalNatural</subtype>
-                <offset x="0.3" y="0"/>
+                <offset x="0.257143" y="0"/>
                 </Accidental>
               <pitch>65</pitch>
               <tpc>13</tpc>
@@ -10149,7 +10169,7 @@
           <StaffText>
             <style>Expression</style>
             <placement>below</placement>
-            <offset x="2.01" y="3.89"/>
+            <offset x="1.72286" y="3.33429"/>
             <text>colla voce
 </text>
             </StaffText>
@@ -10162,10 +10182,10 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0.1" y="-0.2"/>
-                  <o2 x="0.1" y="0"/>
-                  <o3 x="0" y="-0.1"/>
-                  <o4 x="-0.7" y="-0.2"/>
+                  <o1 x="0.0857143" y="-0.171429"/>
+                  <o2 x="0.0857143" y="0"/>
+                  <o3 x="0" y="-0.0857143"/>
+                  <o4 x="-0.6" y="-0.171429"/>
                   </SlurSegment>
                 <up>down</up>
                 </Slur>
@@ -10195,7 +10215,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
+                    <o1 x="0.0857143" y="0"/>
                     </TieSegment>
                   <up>down</up>
                   </Tie>
@@ -10260,8 +10280,8 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0.2" y="-0.2"/>
-                  <o4 x="0.8" y="-0.1"/>
+                  <o1 x="0.171429" y="-0.171429"/>
+                  <o4 x="0.685714" y="-0.0857143"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -10303,7 +10323,7 @@
                 </prev>
               </Spanner>
             <Stem>
-              <userLen>-0.8</userLen>
+              <userLen>-0.685714</userLen>
               </Stem>
             <Note>
               <pitch>74</pitch>
@@ -10381,9 +10401,9 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0.3" y="-0.3"/>
-                  <o3 x="0.4" y="0"/>
-                  <o4 x="0.8" y="-0.4"/>
+                  <o1 x="0.257143" y="-0.257143"/>
+                  <o3 x="0.342857" y="0"/>
+                  <o4 x="0.685714" y="-0.342857"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -10428,7 +10448,7 @@
                 </prev>
               </Spanner>
             <Stem>
-              <userLen>-0.7</userLen>
+              <userLen>-0.6</userLen>
               </Stem>
             <Note>
               <pitch>74</pitch>
@@ -10462,7 +10482,7 @@
           <StaffText>
             <style>Expression</style>
             <placement>below</placement>
-            <offset x="1" y="5.2"/>
+            <offset x="0.857143" y="4.45714"/>
             <text>rall.</text>
             </StaffText>
           <Chord>
@@ -10500,7 +10520,7 @@
           <StaffText>
             <style>Expression</style>
             <placement>below</placement>
-            <offset x="-4.75655" y="4.98711"/>
+            <offset x="-4.08" y="5"/>
             <text>colla voce,  dolce
 </text>
             </StaffText>
@@ -10510,9 +10530,9 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0.4" y="-0.4"/>
-                  <o3 x="0.4" y="0"/>
-                  <o4 x="0.8" y="0.1"/>
+                  <o1 x="0.342857" y="-0.342857"/>
+                  <o3 x="0.342857" y="0"/>
+                  <o4 x="0.685714" y="0.0857143"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -10558,7 +10578,7 @@
                 </prev>
               </Spanner>
             <Stem>
-              <userLen>-0.4</userLen>
+              <userLen>-0.342857</userLen>
               </Stem>
             <Note>
               <pitch>72</pitch>
@@ -10592,13 +10612,13 @@
             <HairPin>
               <subtype>3</subtype>
               <veloChange>16</veloChange>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
-              <beginFontSize>11</beginFontSize>
+              <beginFontSize>9</beginFontSize>
               <beginText>sempre rall. e dim.</beginText>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-4" y="4"/>
+                <offset x="-3.43" y="5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -10614,7 +10634,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="-0.2" y="-0.1"/>
+                  <o4 x="-0.171429" y="-0.0857143"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -10718,9 +10738,9 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0.3" y="-0.3"/>
-                  <o3 x="-0.1" y="0"/>
-                  <o4 x="-0.1" y="0.2"/>
+                  <o1 x="0.257143" y="-0.257143"/>
+                  <o3 x="-0.0857143" y="0"/>
+                  <o4 x="-0.0857143" y="0.171429"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -10801,7 +10821,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="-0.1" y="0"/>
+                  <o4 x="-0.0857143" y="0"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -10948,8 +10968,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.2" y="0"/>
-                    <offset x="0" y="0.2"/>
+                    <o4 x="-0.171429" y="0"/>
+                    <offset x="0" y="0.171429"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -10982,11 +11002,11 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.4" y="0"/>
-                    <offset x="0" y="-0.2"/>
+                    <o4 x="-0.342857" y="0"/>
+                    <offset x="0" y="-0.171429"/>
                     </TieSegment>
                   <TieSegment no="1">
-                    <o1 x="0.4" y="0"/>
+                    <o1 x="0.342857" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -11028,12 +11048,12 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.4" y="0"/>
-                    <offset x="-0.1" y="0.1"/>
+                    <o4 x="-0.342857" y="0"/>
+                    <offset x="-0.0857143" y="0.0857143"/>
                     </TieSegment>
                   <TieSegment no="1">
-                    <o1 x="0.4" y="0"/>
-                    <offset x="0" y="0.2"/>
+                    <o1 x="0.342857" y="0"/>
+                    <offset x="0" y="0.171429"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -11084,7 +11104,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <offset x="-0.1" y="0.1"/>
+                    <offset x="-0.0857143" y="0.0857143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -11125,19 +11145,13 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerFixed>7.24657</vspacerFixed>
         <voice>
-          <StaffText>
-            <style>Expression</style>
-            <placement>below</placement>
-            <minDistance>-0.245545</minDistance>
-            <offset x="-1" y="3.3"/>
-            <text>morendo</text>
-            </StaffText>
           <Dynamic>
             <subtype>mp</subtype>
             <velocity>56</velocity>
             <visible>0</visible>
-            <placement>above</placement>
+            <offset x="-3" y="2.5"/>
             </Dynamic>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -11146,14 +11160,19 @@
             </Fermata>
           <Spanner type="HairPin">
             <HairPin>
-              <subtype>1</subtype>
-              <placement>above</placement>
-              <visible>0</visible>
+              <subtype>3</subtype>
+              <veloChange>40</veloChange>
+              <endText></endText>
+              <lineVisible>0</lineVisible>
+              <beginFontSize>9</beginFontSize>
+              <beginText>morendo  </beginText>
+              <continueText></continueText>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-2.5"/>
+                <offset x="0" y="2.95675"/>
                 <off2 x="0" y="0"/>
-                <visible>0</visible>
+                <minDistance>-1.3</minDistance>
                 </Segment>
               </HairPin>
             <next>
@@ -11169,7 +11188,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="0.1"/>
+                  <o1 x="0" y="0.0857143"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -11191,9 +11210,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"/>
-                    <o4 x="-0.2" y="0"/>
-                    <offset x="0" y="0.1"/>
+                    <o1 x="0.171429" y="0"/>
+                    <o4 x="-0.171429" y="0"/>
+                    <offset x="0" y="0.0857143"/>
                     </TieSegment>
                   <up>down</up>
                   </Tie>
@@ -11216,8 +11235,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"/>
-                    <o4 x="-0.2" y="0"/>
+                    <o1 x="0.171429" y="0"/>
+                    <o4 x="-0.171429" y="0"/>
                     </TieSegment>
                   <up>down</up>
                   </Tie>
@@ -11311,13 +11330,13 @@
               </Note>
             </Chord>
           <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>33</velocity>
+            <subtype>ppp</subtype>
+            <velocity>20</velocity>
             <visible>0</visible>
-            <placement>above</placement>
             </Dynamic>
           <Fermata>
             <subtype>fermataAbove</subtype>
+            <timeStretch>1.5</timeStretch>
             </Fermata>
           <Spanner type="HairPin">
             <prev>
@@ -11355,8 +11374,8 @@
           <StaffText>
             <style>Expression</style>
             <placement>below</placement>
-            <offset x="-2.58" y="4.5"/>
-            <text><i>con </i><font face="ScoreText"/></text>
+            <offset x="-2.21143" y="3.85714"/>
+            <text><i>con </i><font face="ScoreText"></font></text>
             </StaffText>
           <Rest>
             <durationType>quarter</durationType>
@@ -11364,20 +11383,24 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerFixed>11.8074</vspacerFixed>
         <voice>
-          <Spanner type="Ottava">
-            <Ottava>
-              <subtype>8vb</subtype>
-              <lineVisible>0</lineVisible>
+          <Spanner type="Pedal">
+            <Pedal>
+              <endHookType>1</endHookType>
+              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
+              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
+              <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-0.2" y="3"/>
+                <offset x="0" y="3.42857"/>
                 <off2 x="0" y="0"/>
+                <visible>0</visible>
                 </Segment>
-              </Ottava>
+              </Pedal>
             <next>
               <location>
-                <fractions>1/8</fractions>
+                <measures>4</measures>
                 </location>
               </next>
             </Spanner>
@@ -11389,7 +11412,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
+                <offset x="0" y="3"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -11400,35 +11423,9 @@
                 </location>
               </next>
             </Spanner>
-          <Spanner type="Pedal">
-            <Pedal>
-              <endHookType>1</endHookType>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              <visible>0</visible>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="4"/>
-                <off2 x="0" y="0"/>
-                <visible>0</visible>
-                </Segment>
-              </Pedal>
-            <next>
-              <location>
-                <measures>4</measures>
-                </location>
-              </next>
-            </Spanner>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Spanner type="Ottava">
-            <prev>
-              <location>
-                <fractions>-1/8</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -11473,9 +11470,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.4" y="0"/>
-                    <o4 x="-0.2" y="0"/>
-                    <offset x="0" y="-0.2"/>
+                    <o1 x="0.342857" y="0"/>
+                    <o4 x="-0.171429" y="0"/>
+                    <offset x="0" y="-0.171429"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -11497,9 +11494,26 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"/>
-                    <o4 x="-0.2" y="0"/>
-                    <offset x="0" y="0.2"/>
+                    <o1 x="0.171429" y="0"/>
+                    <o4 x="-0.171429" y="0"/>
+                    <offset x="0" y="0.171429"/>
+                    </TieSegment>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>26</pitch>
+              <tpc>16</tpc>
+              <velocity>12</velocity>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  <TieSegment no="0">
+                    <offset x="0" y="0.3"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -11510,7 +11524,6 @@
                 </Spanner>
               <pitch>38</pitch>
               <tpc>16</tpc>
-              <velocity>12</velocity>
               </Note>
             </Chord>
           </voice>
@@ -11540,11 +11553,11 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="-1"/>
+            <offset x="0" y="-0.857143"/>
             <durationType>quarter</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="-1"/>
+            <offset x="0" y="-0.857143"/>
             <durationType>half</durationType>
             </Rest>
           </voice>
@@ -11555,9 +11568,32 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"/>
-                    <o4 x="-0.2" y="0"/>
-                    <offset x="0" y="0.2"/>
+                    <o1 x="0.171429" y="0"/>
+                    <o4 x="-0.171429" y="0"/>
+                    <offset x="0" y="0.171429"/>
+                    </TieSegment>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>26</pitch>
+              <tpc>16</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  <TieSegment no="0">
+                    <offset x="0" y="0.3"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -11576,13 +11612,17 @@
               <pitch>38</pitch>
               <tpc>16</tpc>
               </Note>
+            <Note>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <offset x="0" y="2"/>
+            <offset x="0" y="1.71429"/>
             <durationType>half</durationType>
             </Rest>
           <Chord>
@@ -11591,9 +11631,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"/>
-                    <o4 x="-0.2" y="0"/>
-                    <offset x="0" y="-0.4"/>
+                    <o1 x="0.171429" y="0"/>
+                    <o4 x="-0.171429" y="0"/>
+                    <offset x="0" y="-0.342857"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -11611,10 +11651,21 @@
         <voice>
           <Fermata>
             <subtype>fermataBelow</subtype>
-            <offset x="0" y="3.5"/>
+            <offset x="0" y="3"/>
             </Fermata>
           <Chord>
             <durationType>whole</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>26</pitch>
+              <tpc>16</tpc>
+              </Note>
             <Note>
               <Spanner type="Tie">
                 <prev>
@@ -11653,7 +11704,7 @@
         <voice>
           <Fermata>
             <subtype>fermataBelow</subtype>
-            <offset x="0" y="3.5"/>
+            <offset x="0" y="3"/>
             </Fermata>
           <Chord>
             <durationType>whole</durationType>
@@ -11681,7 +11732,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.42857"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -11722,9 +11773,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"/>
-                    <o4 x="-0.5" y="0"/>
-                    <offset x="0.1" y="0.2"/>
+                    <o1 x="0.171429" y="0"/>
+                    <o4 x="-0.428571" y="0"/>
+                    <offset x="0.0857143" y="0.171429"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -11780,7 +11831,7 @@
             </Chord>
           <Fermata>
             <subtype>fermataAbove</subtype>
-            <offset x="0" y="-3"/>
+            <offset x="0" y="-2.57143"/>
             </Fermata>
           <Chord>
             <durationType>half</durationType>
@@ -11796,7 +11847,7 @@
         <voice>
           <Fermata>
             <subtype>fermataBelow</subtype>
-            <offset x="0" y="3"/>
+            <offset x="0" y="2.57143"/>
             </Fermata>
           <Chord>
             <durationType>whole</durationType>
@@ -11824,7 +11875,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.42857"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -11841,9 +11892,9 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="-1" y="0"/>
-                  <o2 x="0.2" y="0"/>
-                  <o4 x="-0.5" y="0.2"/>
+                  <o1 x="-0.857143" y="0"/>
+                  <o2 x="0.171429" y="0"/>
+                  <o4 x="-0.428571" y="0.171429"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -11854,7 +11905,7 @@
               </Spanner>
             <acciaccatura/>
             <Stem>
-              <userLen>1.6</userLen>
+              <userLen>1.37143</userLen>
               </Stem>
             <Note>
               <pitch>34</pitch>
@@ -11980,13 +12031,13 @@
               <visible>0</visible>
               <Segment>
                 <subtype>1</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.42857"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
               <Segment>
                 <subtype>3</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.42857"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -12003,12 +12054,12 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o4 x="-0.5" y="0"/>
-                    <offset x="0" y="0.2"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o4 x="-0.428571" y="0"/>
+                    <offset x="0" y="0.171429"/>
                     </TieSegment>
                   <TieSegment no="1">
-                    <o1 x="0.5" y="0"/>
+                    <o1 x="0.428571" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -12026,13 +12077,13 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o4 x="-0.5" y="0"/>
-                    <offset x="0" y="-0.4"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o4 x="-0.428571" y="0"/>
+                    <offset x="0" y="-0.342857"/>
                     </TieSegment>
                   <TieSegment no="1">
-                    <o1 x="0.5" y="0"/>
-                    <offset x="0" y="-0.420722"/>
+                    <o1 x="0.428571" y="0"/>
+                    <offset x="0" y="-0.360619"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -12220,7 +12271,7 @@
             <Arpeggio>
               <offset x="-0.3" y="0"/>
               <subtype>0</subtype>
-              <userLen1>0.7</userLen1>
+              <userLen1>0.6</userLen1>
               </Arpeggio>
             </Chord>
           <Chord>
@@ -12251,7 +12302,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <offset x="-0.2" y="0.5"/>
+                    <offset x="-0.171429" y="0.428571"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -12268,7 +12319,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <offset x="0.1" y="-0.3"/>
+                    <offset x="0.0857143" y="-0.257143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -12453,7 +12504,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <offset x="0" y="0.3"/>
+                    <offset x="0" y="0.257143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -12770,7 +12821,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.42857"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -12787,9 +12838,9 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="-1.2" y="-0.8"/>
-                  <o2 x="0.5" y="0"/>
-                  <o4 x="-0.5" y="0"/>
+                  <o1 x="-1.02857" y="-0.685714"/>
+                  <o2 x="0.428571" y="0"/>
+                  <o4 x="-0.428571" y="0"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -12923,7 +12974,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.42857"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -12941,7 +12992,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.2" y="0"/>
+                    <o4 x="-0.171429" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -12958,9 +13009,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"/>
-                    <o4 x="-0.1" y="-0.1"/>
-                    <offset x="0" y="-0.5"/>
+                    <o1 x="0.171429" y="0"/>
+                    <o4 x="-0.0857143" y="-0.0857143"/>
+                    <offset x="0" y="-0.428571"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -13142,7 +13193,7 @@
             <Arpeggio>
               <offset x="-0.533333" y="0"/>
               <subtype>0</subtype>
-              <userLen1>0.7</userLen1>
+              <userLen1>0.6</userLen1>
               </Arpeggio>
             </Chord>
           <Dynamic>
@@ -13179,8 +13230,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.1" y="0"/>
-                    <offset x="-0.2" y="0.4"/>
+                    <o4 x="-0.0857143" y="0"/>
+                    <offset x="-0.171429" y="0.342857"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -13197,7 +13248,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <offset x="0.2" y="-0.3"/>
+                    <offset x="0.171429" y="-0.257143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -13333,10 +13384,10 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.4" y="0"/>
+                    <o4 x="-0.342857" y="0"/>
                     </TieSegment>
                   <TieSegment no="1">
-                    <o1 x="0.4" y="0"/>
+                    <o1 x="0.342857" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -13356,10 +13407,10 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.4" y="0"/>
+                    <o4 x="-0.342857" y="0"/>
                     </TieSegment>
                   <TieSegment no="1">
-                    <o1 x="0.4" y="0"/>
+                    <o1 x="0.342857" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -13391,12 +13442,12 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.5" y="0"/>
-                    <offset x="0" y="0.3"/>
+                    <o4 x="-0.428571" y="0"/>
+                    <offset x="0" y="0.257143"/>
                     </TieSegment>
                   <TieSegment no="1">
-                    <o1 x="0.4" y="0"/>
-                    <o4 x="-0.4" y="0"/>
+                    <o1 x="0.342857" y="0"/>
+                    <o4 x="-0.342857" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -13701,7 +13752,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.42857"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -13820,9 +13871,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.3" y="0"/>
-                    <o4 x="-0.3" y="0"/>
-                    <offset x="0" y="0.2"/>
+                    <o1 x="0.257143" y="0"/>
+                    <o4 x="-0.257143" y="0"/>
+                    <offset x="0" y="0.171429"/>
                     </TieSegment>
                   <up>down</up>
                   </Tie>
@@ -14001,9 +14052,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.3" y="0"/>
-                    <o4 x="-0.3" y="0"/>
-                    <offset x="0" y="-0.2"/>
+                    <o1 x="0.257143" y="0"/>
+                    <o4 x="-0.257143" y="0"/>
+                    <offset x="0" y="-0.171429"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -14035,8 +14086,8 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0.2" y="-0.2"/>
-                  <o4 x="-0.5" y="0"/>
+                  <o1 x="0.171429" y="-0.171429"/>
+                  <o4 x="-0.428571" y="0"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -14087,7 +14138,7 @@
               </Spanner>
             <Articulation>
               <subtype>articMarcatoAbove</subtype>
-              <offset x="0" y="-0.5"/>
+              <offset x="0" y="-0.428571"/>
               </Articulation>
             <Note>
               <pitch>57</pitch>
@@ -14110,7 +14161,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.42857"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -14164,7 +14215,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.42857"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -14222,7 +14273,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.42857"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -14259,12 +14310,12 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.3" y="0"/>
-                    <offset x="0" y="0.2"/>
+                    <o4 x="-0.257143" y="0"/>
+                    <offset x="0" y="0.171429"/>
                     </TieSegment>
                   <TieSegment no="1">
-                    <o1 x="0.8" y="0"/>
-                    <o4 x="-0.6" y="0"/>
+                    <o1 x="0.685714" y="0"/>
+                    <o4 x="-0.514286" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -14298,8 +14349,8 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
-                <off2 x="-1.7112e-13" y="0"/>
+                <offset x="0" y="3.42857"/>
+                <off2 x="-1.46674e-13" y="0"/>
                 <visible>0</visible>
                 </Segment>
               </Pedal>
@@ -14428,7 +14479,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"/>
+                    <o1 x="0.171429" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -14494,8 +14545,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.2" y="0"/>
-                    <offset x="0" y="0.407823"/>
+                    <o4 x="-0.171429" y="0"/>
+                    <offset x="0" y="0.349563"/>
                     </TieSegment>
                   <up>down</up>
                   </Tie>
@@ -14513,8 +14564,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.3" y="0"/>
-                    <o4 x="-0.1" y="0"/>
+                    <o1 x="0.257143" y="0"/>
+                    <o4 x="-0.0857143" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -14536,7 +14587,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <offset x="0" y="0.1"/>
+                    <offset x="0" y="0.0857143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -14552,7 +14603,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <offset x="0" y="0.2"/>
+                    <offset x="0" y="0.171429"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -14685,7 +14736,7 @@
             </Chord>
           <StaffText>
             <style>Expression</style>
-            <offset x="0.9" y="-4.2"/>
+            <offset x="0.771429" y="-3.6"/>
             <text>rall.</text>
             </StaffText>
           <Chord>
@@ -14712,7 +14763,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articTenutoBelow</subtype>
-              <offset x="0" y="-1"/>
+              <offset x="0" y="-0.857143"/>
               </Articulation>
             <Note>
               <pitch>61</pitch>
@@ -14723,23 +14774,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="Ottava">
-            <Ottava>
-              <subtype>8vb</subtype>
-              <lineVisible>0</lineVisible>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-0.2" y="4"/>
-                <off2 x="0.2" y="0"/>
-                <minDistance>0.590111</minDistance>
-                </Segment>
-              </Ottava>
-            <next>
-              <location>
-                <fractions>1/8</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Spanner type="Pedal">
             <Pedal>
               <endHookType>1</endHookType>
@@ -14748,7 +14782,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.42857"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -14763,13 +14797,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Spanner type="Ottava">
-            <prev>
-              <location>
-                <fractions>-1/8</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -14778,7 +14805,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
+                <offset x="0" y="3"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -14831,9 +14858,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"/>
-                    <o4 x="-0.2" y="0"/>
-                    <offset x="0" y="-0.2"/>
+                    <o1 x="0.171429" y="0"/>
+                    <o4 x="-0.171429" y="0"/>
+                    <offset x="0" y="-0.171429"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -14855,9 +14882,25 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.4" y="0"/>
-                    <o4 x="-0.4" y="0"/>
-                    <offset x="0" y="0.2"/>
+                    <o1 x="0.342857" y="0"/>
+                    <o4 x="-0.342857" y="0"/>
+                    <offset x="0" y="0.171429"/>
+                    </TieSegment>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>26</pitch>
+              <tpc>16</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  <TieSegment no="0">
+                    <offset x="0" y="0.3"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -14924,6 +14967,17 @@
                     </location>
                   </prev>
                 </Spanner>
+              <pitch>26</pitch>
+              <tpc>16</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>38</pitch>
               <tpc>16</tpc>
               </Note>
@@ -14932,17 +14986,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="Ottava">
-            <Ottava>
-              <subtype>8vb</subtype>
-              <lineVisible>0</lineVisible>
-              </Ottava>
-            <next>
-              <location>
-                <fractions>1/4</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -14951,7 +14994,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
+                <offset x="0" y="3"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -14965,20 +15008,13 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <Spanner type="Ottava">
-            <prev>
-              <location>
-                <fractions>-1/4</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="0.2"/>
-                  <o4 x="-0.2" y="-0.3"/>
+                  <o1 x="0" y="0.171429"/>
+                  <o4 x="-0.171429" y="-0.257143"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -15015,8 +15051,24 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.5" y="0"/>
-                    <o4 x="-0.5" y="0.1"/>
+                    <o1 x="0.428571" y="0"/>
+                    <o4 x="-0.428571" y="0.0857143"/>
+                    </TieSegment>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>26</pitch>
+              <tpc>16</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  <TieSegment no="0">
+                    <offset x="0" y="0.3"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -15074,6 +15126,17 @@
                     </location>
                   </prev>
                 </Spanner>
+              <pitch>26</pitch>
+              <tpc>16</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>38</pitch>
               <tpc>16</tpc>
               </Note>
@@ -15090,7 +15153,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
+                <offset x="0" y="3"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15109,7 +15172,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.42857"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15205,7 +15268,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
+                <offset x="0" y="3"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15224,7 +15287,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.42857"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15236,7 +15299,7 @@
               </next>
             </Spanner>
           <Rest>
-            <offset x="0" y="1"/>
+            <offset x="0" y="0.857143"/>
             <durationType>eighth</durationType>
             </Rest>
           <Beam>
@@ -15275,8 +15338,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <offset x="0" y="-0.4"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <offset x="0" y="-0.342857"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -15312,8 +15375,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.2" y="0"/>
-                    <offset x="0" y="0.3"/>
+                    <o4 x="-0.171429" y="0"/>
+                    <offset x="0" y="0.257143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -15353,9 +15416,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.3" y="0"/>
-                    <o4 x="-0.3" y="0"/>
-                    <offset x="0" y="-0.1"/>
+                    <o1 x="0.257143" y="0"/>
+                    <o4 x="-0.257143" y="0"/>
+                    <offset x="0" y="-0.0857143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -15443,17 +15506,6 @@
           <KeySig>
             <accidental>-2</accidental>
             </KeySig>
-          <Spanner type="Ottava">
-            <Ottava>
-              <subtype>8vb</subtype>
-              <lineVisible>0</lineVisible>
-              </Ottava>
-            <next>
-              <location>
-                <fractions>1/2</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Spanner type="Pedal">
             <Pedal>
               <endHookType>1</endHookType>
@@ -15462,7 +15514,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.42857"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15489,9 +15541,30 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>41</pitch>
+              <pitch>29</pitch>
               <tpc>13</tpc>
               <velocity>18</velocity>
+              </Note>
+            <Note>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <Spanner type="Tie">
+                <Tie>
+                  <TieSegment no="0">
+                    <o1 x="0.4" y="0"/>
+                    <o4 x="-0.4" y="0"/>
+                    </TieSegment>
+                  <up>down</up>
+                  </Tie>
+                <next>
+                  <location>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>41</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -15504,17 +15577,21 @@
                     </location>
                   </prev>
                 </Spanner>
+              <pitch>29</pitch>
+              <tpc>13</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <grace>0</grace>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Spanner type="Ottava">
-            <prev>
-              <location>
-                <fractions>-1/2</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -15606,7 +15683,7 @@
           <Fermata>
             <subtype>fermataBelow</subtype>
             <timeStretch>1.5</timeStretch>
-            <offset x="0" y="4"/>
+            <offset x="0" y="3.42857"/>
             <placement>below</placement>
             </Fermata>
           <Chord>
@@ -15624,17 +15701,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="Ottava">
-            <Ottava>
-              <subtype>8vb</subtype>
-              <lineVisible>0</lineVisible>
-              </Ottava>
-            <next>
-              <location>
-                <fractions>1/8</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Spanner type="Pedal">
             <Pedal>
               <endHookType>1</endHookType>
@@ -15643,7 +15709,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.42857"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15658,25 +15724,22 @@
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>39</pitch>
+              <pitch>27</pitch>
               <tpc>11</tpc>
               <velocity>14</velocity>
               </Note>
+            <Note>
+              <pitch>39</pitch>
+              <tpc>11</tpc>
+              </Note>
             </Chord>
-          <Spanner type="Ottava">
-            <prev>
-              <location>
-                <fractions>-1/8</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <offset x="0.1" y="0.1"/>
+                    <offset x="0.0857143" y="0.0857143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -15695,7 +15758,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <offset x="0" y="0.1"/>
+                    <offset x="0" y="0.0857143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -15783,7 +15846,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.42857"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15800,8 +15863,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.3" y="0"/>
-                    <offset x="0" y="-0.1"/>
+                    <o1 x="0.257143" y="0"/>
+                    <offset x="0" y="-0.0857143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -15821,8 +15884,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"/>
-                    <offset x="0" y="0.1"/>
+                    <o1 x="0.171429" y="0"/>
+                    <offset x="0" y="0.0857143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -15845,9 +15908,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o2 x="0" y="-0.1"/>
-                    <o3 x="0" y="-0.1"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o2 x="0" y="-0.0857143"/>
+                    <o3 x="0" y="-0.0857143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -15867,9 +15930,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o4 x="-0.2" y="0"/>
-                    <offset x="0" y="-0.1"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o4 x="-0.171429" y="0"/>
+                    <offset x="0" y="-0.0857143"/>
                     </TieSegment>
                   <up>up</up>
                   </Tie>
@@ -15956,7 +16019,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.42857"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -15973,7 +16036,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"/>
+                    <o1 x="0.171429" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -15997,8 +16060,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.3" y="0"/>
-                    <offset x="-0.1" y="0.1"/>
+                    <o1 x="0.257143" y="0"/>
+                    <offset x="-0.0857143" y="0.0857143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -16019,7 +16082,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"/>
+                    <o1 x="0.171429" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -16090,7 +16153,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.42857"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -16244,7 +16307,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.42857"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -16264,7 +16327,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.4" y="0"/>
+                    <o1 x="0.342857" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -16284,8 +16347,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"/>
-                    <offset x="0" y="0.1"/>
+                    <o1 x="0.171429" y="0"/>
+                    <offset x="0" y="0.0857143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -16305,7 +16368,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <offset x="0" y="-0.0277944"/>
+                    <offset x="0" y="-0.0238238"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -16367,7 +16430,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerUp>9</vspacerUp>
         <voice>
           <Spanner type="HairPin">
             <HairPin>
@@ -16376,8 +16438,8 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-7" y="-6"/>
-                <off2 x="7.26524" y="0"/>
+                <offset x="-6" y="-5.14286"/>
+                <off2 x="6.22735" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -16394,7 +16456,7 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="0" y="3.42857"/>
                 <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
@@ -16431,7 +16493,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <offset x="0" y="0.1"/>
+                    <offset x="0" y="0.0857143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -16461,7 +16523,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <offset x="0" y="0.1"/>
+                    <offset x="0" y="0.0857143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -16482,8 +16544,8 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="-1" y="-6"/>
-                <off2 x="-3" y="0"/>
+                <offset x="-0.857143" y="-5.14286"/>
+                <off2 x="-2.57143" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -16513,7 +16575,7 @@
           <Fermata>
             <subtype>fermataAbove</subtype>
             <minDistance>-3.18236</minDistance>
-            <offset x="0" y="-3"/>
+            <offset x="0" y="-2.57143"/>
             </Fermata>
           <Spanner type="Pedal">
             <prev>
@@ -16615,8 +16677,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.1" y="0"/>
-                    <offset x="-0.1" y="0.1"/>
+                    <o4 x="-0.0857143" y="0"/>
+                    <offset x="-0.0857143" y="0.0857143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -16654,11 +16716,11 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.4" y="0"/>
+                    <o4 x="-0.342857" y="0"/>
                     </TieSegment>
                   <TieSegment no="1">
-                    <o1 x="0.4" y="0"/>
-                    <offset x="0" y="0.1"/>
+                    <o1 x="0.342857" y="0"/>
+                    <offset x="0" y="0.0857143"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -16675,13 +16737,13 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.1" y="0"/>
-                    <o4 x="-0.4" y="0"/>
-                    <offset x="0" y="0.1"/>
+                    <o1 x="0.0857143" y="0"/>
+                    <o4 x="-0.342857" y="0"/>
+                    <offset x="0" y="0.0857143"/>
                     </TieSegment>
                   <TieSegment no="1">
-                    <o1 x="0.4" y="0"/>
-                    <offset x="0" y="-0.40815"/>
+                    <o1 x="0.342857" y="0"/>
+                    <offset x="0" y="-0.349843"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -16773,8 +16835,8 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0.74" y="6.51796"/>
-                <off2 x="-0.74" y="0"/>
+                <offset x="0.634286" y="5.58682"/>
+                <off2 x="-0.634286" y="0"/>
                 <visible>0</visible>
                 </Segment>
               </Pedal>
@@ -16793,8 +16855,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"/>
-                    <o4 x="-0.1" y="0"/>
+                    <o1 x="0.171429" y="0"/>
+                    <o4 x="-0.0857143" y="0"/>
                     </TieSegment>
                   <up>down</up>
                   </Tie>
@@ -16815,7 +16877,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o4 x="-0.3" y="0"/>
+                    <o4 x="-0.257143" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -16839,9 +16901,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"/>
-                    <o4 x="-0.3" y="0"/>
-                    <offset x="0" y="-0.2"/>
+                    <o1 x="0.171429" y="0"/>
+                    <o4 x="-0.257143" y="0"/>
+                    <offset x="0" y="-0.171429"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -16867,8 +16929,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.2" y="0"/>
-                    <o4 x="-0.2" y="0"/>
+                    <o1 x="0.171429" y="0"/>
+                    <o4 x="-0.171429" y="0"/>
                     </TieSegment>
                   <up>down</up>
                   </Tie>
@@ -16935,19 +16997,12 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Spanner type="Ottava">
-            <Ottava>
-              <subtype>8vb</subtype>
-              <lineVisible>0</lineVisible>
-              </Ottava>
-            <next>
-              <location>
-                <fractions>1/4</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <durationType>quarter</durationType>
+            <Note>
+              <pitch>22</pitch>
+              <tpc>12</tpc>
+              </Note>
             <Note>
               <pitch>34</pitch>
               <tpc>12</tpc>
@@ -16955,20 +17010,13 @@
             </Chord>
           <Fermata>
             <subtype>fermataAbove</subtype>
-            <timeStretch>1.2</timeStretch>
+            <timeStretch>1.5</timeStretch>
             </Fermata>
           <Spanner type="Pedal">
             <prev>
               <location>
                 <measures>-1</measures>
                 <fractions>-1/2</fractions>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Ottava">
-            <prev>
-              <location>
-                <fractions>-1/4</fractions>
                 </location>
               </prev>
             </Spanner>

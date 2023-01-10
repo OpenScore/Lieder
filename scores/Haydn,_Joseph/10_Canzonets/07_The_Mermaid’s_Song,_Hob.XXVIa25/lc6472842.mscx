@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -44,7 +44,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger">Transcribed from IMSLP #292750. Source: https://imslp.org/wiki/Special:ReverseLookup/292750</metaTag>
+    <metaTag name="arranger">Transcribed by markpearse from IMSLP #292750.  Source: https://imslp.org/wiki/Special:ReverseLookup/292750</metaTag>
     <metaTag name="composer">Joseph Haydn</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2020-11-27</metaTag>
@@ -201,8 +201,10 @@
           </Text>
         <Text>
           <style>User-2</style>
-          <offset x="0" y="6.5"/>
-          <text>7. The Mermaid’s Song, Hob.XXVIa:25</text>
+          <textLineSpacing>1.3</textLineSpacing>
+          <offset x="0" y="8"/>
+          <text>7. The Mermaid’s Song
+<font size="16"></font>(Hob.XXVIa:25)</text>
           </Text>
         <Text>
           <style>Composer</style>
@@ -221,7 +223,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.66667</tempo>
+            <tempo>1.6666700000000001</tempo>
             <text>Allegretto</text>
             </Tempo>
           <StaffText>
@@ -11653,7 +11655,7 @@ This will then free up space on page 1, which may perhaps allow you to increase 
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
-            <p1 x="-0.484375" y="0"/>
+            <p1 x="-0.484375" y="0.2"/>
             <p2 x="0.678125" y="0.19375"/>
             <baseNote>16th</baseNote>
             <Number>

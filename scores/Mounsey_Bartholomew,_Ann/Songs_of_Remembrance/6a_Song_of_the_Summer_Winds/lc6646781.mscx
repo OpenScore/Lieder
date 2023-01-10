@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -464,7 +464,7 @@
             <sigD>2</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.96667</tempo>
+            <tempo>1.9666699999999999</tempo>
             <linkedMain/>
             <text>Allegro moderato</text>
             </Tempo>
@@ -17074,11 +17074,21 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <linkedMain/>
-            <placement>below</placement>
-            <text>mo....ren....do.</text>
-            </StaffText>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>3</subtype>
+              <endText></endText>
+              <beginText>morendo</beginText>
+              <linkedMain/>
+              <dashGapLength>20</dashGapLength>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                <fractions>1/2</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -17202,6 +17212,14 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                <fractions>-1/2</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>half</durationType>
@@ -22155,7 +22173,7 @@
               <sigD>2</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.96667</tempo>
+              <tempo>1.9666699999999999</tempo>
               <linked>
                 </linked>
               <text>Allegro moderato</text>
@@ -22180,7 +22198,7 @@
               <sigD>2</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.96667</tempo>
+              <tempo>1.9666699999999999</tempo>
               <linked>
                 <indexDiff>-3</indexDiff>
                 </linked>
@@ -26915,7 +26933,7 @@
               <sigD>2</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.96667</tempo>
+              <tempo>1.9666699999999999</tempo>
               <linked>
                 <location>
                   <staves>-1</staves>
@@ -26944,7 +26962,7 @@
               <sigD>2</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.96667</tempo>
+              <tempo>1.9666699999999999</tempo>
               <linked>
                 <location>
                   <staves>-1</staves>
@@ -30859,7 +30877,7 @@
               <sigD>2</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.96667</tempo>
+              <tempo>1.9666699999999999</tempo>
               <linked>
                 <location>
                   <staves>-2</staves>
@@ -30888,7 +30906,7 @@
               <sigD>2</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.96667</tempo>
+              <tempo>1.9666699999999999</tempo>
               <linked>
                 <location>
                   <staves>-2</staves>
@@ -34841,7 +34859,7 @@
                 </linked>
               </Dynamic>
             <Tempo>
-              <tempo>1.96667</tempo>
+              <tempo>1.9666699999999999</tempo>
               <linked>
                 <location>
                   <staves>-3</staves>
@@ -39791,6 +39809,7 @@
               <Spanner type="Slur">
                 <Slur>
                   <linked>
+                    <indexDiff>1</indexDiff>
                     </linked>
                   </Slur>
                 <next>
@@ -39802,6 +39821,7 @@
               <Spanner type="Slur">
                 <Slur>
                   <linked>
+                    <indexDiff>-1</indexDiff>
                     </linked>
                   </Slur>
                 <next>
@@ -42799,11 +42819,21 @@
           </Measure>
         <Measure>
           <voice>
-            <StaffText>
-              <linked>
-                </linked>
-              <text>mo.......ren....do.</text>
-              </StaffText>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>3</subtype>
+                <endText></endText>
+                <beginText>morendo</beginText>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>1</measures>
+                  <fractions>1/2</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -42952,6 +42982,14 @@
                 <tpc>12</tpc>
                 </Note>
               </Chord>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  <fractions>-1/2</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>

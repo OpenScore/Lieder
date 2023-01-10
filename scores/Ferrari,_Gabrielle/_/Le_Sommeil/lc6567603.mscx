@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -32,7 +32,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger">Transcribed from IMSLP #575893. Source: https://imslp.org/wiki/Special:ReverseLookup/575893</metaTag>
+    <metaTag name="arranger">Transcribed by pental from IMSLP #575893.  Source: https://imslp.org/wiki/Special:ReverseLookup/575893</metaTag>
     <metaTag name="composer">Gabrielle Ferrari</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2021-01-21</metaTag>
@@ -41,7 +41,7 @@
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="platform"></metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">http://musescore.com/scores/ferrari-gabrielle/le-sommeil-277137084101956</metaTag>
+    <metaTag name="source">http://musescore.com/user/27638568/scores/6567603</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Le Sommeil</metaTag>
@@ -53,7 +53,8 @@
         </Staff>
       <trackName>Voice</trackName>
       <Instrument id="voice">
-        <longName>Chant</longName>
+        <longName>Chant
+<i>Voice</i></longName>
         <trackName>Voice</trackName>
         <minPitchP>38</minPitchP>
         <maxPitchP>84</maxPitchP>
@@ -191,6 +192,7 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Frame</style>
+          <size>9</size>
           <italic>1</italic>
           <align>center,top</align>
           <text>À Madame YVONNE DE SAINT-ANDRÉ</text>
@@ -225,7 +227,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.66667</tempo>
+            <tempo>1.6666700000000001</tempo>
             <text>Modéré</text>
             </Tempo>
           <Rest>
@@ -942,7 +944,7 @@
             <text>rit.</text>
             </StaffText>
           <Tempo>
-            <tempo>1.4</tempo>
+            <tempo>1.3999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 84</b></text>
@@ -1029,7 +1031,7 @@
             <text>a tempo</text>
             </StaffText>
           <Tempo>
-            <tempo>1.66667</tempo>
+            <tempo>1.6666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 100</b></text>
@@ -1108,7 +1110,7 @@
             <text>Più mosso.</text>
             </StaffText>
           <Tempo>
-            <tempo>1.83333</tempo>
+            <tempo>1.8333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 110</b></text>
@@ -1425,7 +1427,7 @@
             <fractions>-1/4</fractions>
             </location>
           <Tempo>
-            <tempo>1.66667</tempo>
+            <tempo>1.6666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 100</b></text>
@@ -1438,7 +1440,7 @@
           </LayoutBreak>
         <voice>
           <Tempo>
-            <tempo>1.83333</tempo>
+            <tempo>1.8333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 110</b></text>
@@ -1614,7 +1616,7 @@
             <text>cédez</text>
             </StaffText>
           <Tempo>
-            <tempo>1.66667</tempo>
+            <tempo>1.6666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 100</b></text>
@@ -1687,7 +1689,7 @@
             <text>a tempo</text>
             </StaffText>
           <Tempo>
-            <tempo>1.83333</tempo>
+            <tempo>1.8333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 110</b></text>
@@ -1837,7 +1839,7 @@
             <text>rit.</text>
             </StaffText>
           <Tempo>
-            <tempo>1.66667</tempo>
+            <tempo>1.6666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 100</b></text>
@@ -1885,7 +1887,7 @@
             <text>a tempo</text>
             </StaffText>
           <Tempo>
-            <tempo>1.83333</tempo>
+            <tempo>1.8333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 110</b></text>
@@ -1985,7 +1987,7 @@
             <fractions>-1/2</fractions>
             </location>
           <Tempo>
-            <tempo>1.66667</tempo>
+            <tempo>1.6666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 100</b></text>
@@ -1999,7 +2001,7 @@
             <text>Tranquillo.</text>
             </StaffText>
           <Tempo>
-            <tempo>1.4</tempo>
+            <tempo>1.3999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> =84</b></text>
@@ -3438,7 +3440,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>0.9</tempo>
+            <tempo>0.90000000000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> =54</b></text>

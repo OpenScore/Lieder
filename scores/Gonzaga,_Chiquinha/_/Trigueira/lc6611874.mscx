@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -111,7 +111,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger">Transcribed from IMSLP #647333. Source: https://imslp.org/wiki/Special:ReverseLookup/647333</metaTag>
+    <metaTag name="arranger">Transcribed by markpearse from IMSLP #647333.  Source: https://imslp.org/wiki/Special:ReverseLookup/647333</metaTag>
     <metaTag name="composer">Chiquinha Gonzaga [published as Francisca Gonzaga]</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2021-02-14</metaTag>
@@ -298,13 +298,6 @@
             <tempo>1.93333</tempo>
             <text>Allegretto</text>
             </Tempo>
-          <StaffText>
-            <autoplace>0</autoplace>
-            <color r="0" g="0" b="255" a="255"/>
-            <offset x="0" y="-10"/>
-            <text>TRANSCRIBER  -  In case of doubt, the <b>full song text</b> is available on the Gonzaga website:
-https://chiquinhagonzaga.com/acervo/?musica=trigueira&amp;post_id=1750</text>
-            </StaffText>
           <Rest>
             <durationType>measure</durationType>
             <duration>2/4</duration>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -111,7 +111,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger">Transcribed from IMSLP #676305. Source: https://imslp.org/wiki/Special:ReverseLookup/676305</metaTag>
+    <metaTag name="arranger">Transcribed by ashmoggs from IMSLP #676305.  Source: https://imslp.org/wiki/Special:ReverseLookup/676305</metaTag>
     <metaTag name="composer">Louisa Gray</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2021-02-19</metaTag>
@@ -1203,6 +1203,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Tempo>
+            <tempo>1.8333333333333333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 110</b></text>
+            </Tempo>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -1218,6 +1225,36 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/2</fractions>
+            </location>
+          <Tempo>
+            <tempo>1.6666666666666667</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 100</b></text>
+            </Tempo>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <Tempo>
+            <tempo>1.5</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
+            </Tempo>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <Tempo>
+            <tempo>1.4166666666666667</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 85</b></text>
+            </Tempo>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -1239,6 +1276,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Tempo>
+            <tempo>1.9333333333333333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <size>10</size>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 116</b></text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1607,6 +1651,15 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Tempo>
+            <tempo>1.8333333333333333</tempo>
+            <followText>1</followText>
+            <autoplace>0</autoplace>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-0.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 110</b></text>
+            </Tempo>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -1667,6 +1720,15 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Tempo>
+            <tempo>1.7833333333333332</tempo>
+            <followText>1</followText>
+            <autoplace>0</autoplace>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-0.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 107</b></text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1683,6 +1745,15 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Tempo>
+            <tempo>1.7333333333333334</tempo>
+            <followText>1</followText>
+            <autoplace>0</autoplace>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-0.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 104</b></text>
+            </Tempo>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -1710,6 +1781,15 @@
               <tpc>23</tpc>
               </Note>
             </Chord>
+          <Tempo>
+            <tempo>1.6833333333333333</tempo>
+            <followText>1</followText>
+            <autoplace>0</autoplace>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-0.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 101</b></text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1756,6 +1836,15 @@
         </Measure>
       <Measure>
         <voice>
+          <Tempo>
+            <tempo>1.6333333333333333</tempo>
+            <followText>1</followText>
+            <autoplace>0</autoplace>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-0.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 98</b></text>
+            </Tempo>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
@@ -1789,6 +1878,15 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Tempo>
+            <tempo>1.5833333333333333</tempo>
+            <followText>1</followText>
+            <autoplace>0</autoplace>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-0.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 95</b></text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1825,7 +1923,7 @@
             </Rest>
           <Fermata>
             <subtype>fermataAbove</subtype>
-            <timeStretch>2</timeStretch>
+            <timeStretch>3</timeStretch>
             </Fermata>
           <Rest>
             <durationType>eighth</durationType>
@@ -1835,6 +1933,15 @@
             <offset x="0.492157" y="-2.47244"/>
             <text>a tempo</text>
             </StaffText>
+          <Tempo>
+            <tempo>1.9333333333333333</tempo>
+            <followText>1</followText>
+            <autoplace>0</autoplace>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-0.5"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 116</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -2046,17 +2153,86 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Tempo>
+            <tempo>1.8333333333333333</tempo>
+            <followText>1</followText>
+            <autoplace>0</autoplace>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-1"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 110</b></text>
+            </Tempo>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
+          <location>
+            <fractions>-3/4</fractions>
+            </location>
+          <Tempo>
+            <tempo>1.7833333333333332</tempo>
+            <followText>1</followText>
+            <autoplace>0</autoplace>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-1"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 107</b></text>
+            </Tempo>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <Tempo>
+            <tempo>1.7333333333333334</tempo>
+            <followText>1</followText>
+            <autoplace>0</autoplace>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-1"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 104</b></text>
+            </Tempo>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <Tempo>
+            <tempo>1.6833333333333333</tempo>
+            <followText>1</followText>
+            <autoplace>0</autoplace>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-1"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 101</b></text>
+            </Tempo>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Tempo>
+            <tempo>1.6499999999999999</tempo>
+            <followText>1</followText>
+            <autoplace>0</autoplace>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-1"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 99</b></text>
+            </Tempo>
           <Rest>
             <durationType>half</durationType>
             </Rest>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Tempo>
+            <tempo>1.6166666666666667</tempo>
+            <followText>1</followText>
+            <autoplace>0</autoplace>
+            <visible>0</visible>
+            <size>10</size>
+            <offset x="0" y="-1"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 97</b></text>
+            </Tempo>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -2945,12 +3121,19 @@
           <Spanner type="TextLine">
             <TextLine>
               <beginText>poco cresc.     </beginText>
+              <beginTextAlign>left,baseline</beginTextAlign>
               <beginFontSize>10</beginFontSize>
               <beginFontStyle>2</beginFontStyle>
               <diagonal>1</diagonal>
               <lineWidth>0.1488</lineWidth>
               <lineStyle>6</lineStyle>
               <dashGapLength>20</dashGapLength>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-2.6629"/>
+                <off2 x="0" y="0"/>
+                <minDistance>-0.2</minDistance>
+                </Segment>
               </TextLine>
             <next>
               <location>
@@ -2982,7 +3165,7 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-5.5"/>
+                <offset x="0" y="-5"/>
                 <off2 x="0" y="0"/>
                 <autoplace>0</autoplace>
                 </Segment>
@@ -3027,7 +3210,7 @@
               <placement>above</placement>
               <Segment>
                 <subtype>1</subtype>
-                <offset x="0" y="-5.5"/>
+                <offset x="0" y="-5"/>
                 <off2 x="0" y="0"/>
                 <autoplace>0</autoplace>
                 </Segment>
@@ -3278,7 +3461,7 @@
           </voice>
         <voice>
           <Rest>
-            <offset x="-1.5" y="0"/>
+            <offset x="0" y="2.5"/>
             <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
@@ -3381,7 +3564,6 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="-1.5" y="0"/>
             <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
@@ -7999,6 +8181,7 @@
         <voice>
           <Fermata>
             <subtype>fermataAbove</subtype>
+            <timeStretch>1.5</timeStretch>
             </Fermata>
           <Chord>
             <durationType>whole</durationType>

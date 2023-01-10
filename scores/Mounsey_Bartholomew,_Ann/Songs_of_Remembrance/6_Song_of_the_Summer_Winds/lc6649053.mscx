@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -317,7 +317,7 @@
             <sigD>2</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.96667</tempo>
+            <tempo>1.9666699999999999</tempo>
             <linkedMain/>
             <text>Allegro moderato</text>
             </Tempo>
@@ -3586,7 +3586,7 @@
           </LayoutBreak>
         <voice>
           <Tempo>
-            <tempo>1.96667</tempo>
+            <tempo>1.9666699999999999</tempo>
             <linkedMain/>
             <text>Tempo I</text>
             </Tempo>
@@ -10650,12 +10650,21 @@
             <offset x="-4.4" y="4"/>
             <text><i></i><font face="ScoreText"></font></text>
             </Dynamic>
-          <StaffText>
-            <linkedMain/>
-            <style>Expression</style>
-            <placement>below</placement>
-            <text>mo.......ren....do.</text>
-            </StaffText>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>3</subtype>
+              <endText></endText>
+              <beginText>morendo</beginText>
+              <linkedMain/>
+              <dashGapLength>20</dashGapLength>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                <fractions>1/4</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -10760,6 +10769,14 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                <fractions>-1/4</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -15604,7 +15621,7 @@
               <sigD>2</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.96667</tempo>
+              <tempo>1.9666699999999999</tempo>
               <linked>
                 </linked>
               <text>Allegro moderato</text>
@@ -15629,7 +15646,7 @@
               <sigD>2</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.96667</tempo>
+              <tempo>1.9666699999999999</tempo>
               <linked>
                 <indexDiff>-3</indexDiff>
                 </linked>
@@ -17061,6 +17078,7 @@
               <Spanner type="Slur">
                 <Slur>
                   <linked>
+                    <indexDiff>1</indexDiff>
                     </linked>
                   </Slur>
                 <next>
@@ -17072,6 +17090,7 @@
               <Spanner type="Slur">
                 <Slur>
                   <linked>
+                    <indexDiff>-1</indexDiff>
                     </linked>
                   </Slur>
                 <next>
@@ -19435,7 +19454,7 @@
             </LayoutBreak>
           <voice>
             <Tempo>
-              <tempo>1.96667</tempo>
+              <tempo>1.9666699999999999</tempo>
               <linked>
                 </linked>
               <text>Tempo I</text>
@@ -20698,7 +20717,7 @@
               <sigD>2</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.96667</tempo>
+              <tempo>1.9666699999999999</tempo>
               <linked>
                 <location>
                   <staves>-1</staves>
@@ -26966,7 +26985,7 @@
         <Measure>
           <voice>
             <Tempo>
-              <tempo>1.96667</tempo>
+              <tempo>1.9666699999999999</tempo>
               <linked>
                 <location>
                   <staves>-1</staves>
@@ -28164,11 +28183,21 @@
               <linked>
                 </linked>
               </Dynamic>
-            <StaffText>
-              <linked>
-                </linked>
-              <text>mo.......ren....do.</text>
-              </StaffText>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>3</subtype>
+                <endText></endText>
+                <beginText>morendo</beginText>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>1</measures>
+                  <fractions>1/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -28294,6 +28323,14 @@
                 <tpc>11</tpc>
                 </Note>
               </Chord>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  <fractions>-1/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>

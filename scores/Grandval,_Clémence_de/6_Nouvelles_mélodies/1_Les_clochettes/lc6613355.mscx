@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -116,10 +116,9 @@
     <showMargins>0</showMargins>
     <metaTag name="arranger">Transcribed from IMSLP #578226. Source: https://imslp.org/wiki/6_Nouvelles_m%C3%A9lodies_(Grandval%2C_Cl%C3%A9mence_de)</metaTag>
     <metaTag name="composer">Clémence de Grandval (1828 - 1907)</metaTag>
-    <metaTag name="copyright">Creative Commons copyright waiver (CC0 1.0 Universal)
-</metaTag>
+    <metaTag name="copyright">OpneScore (CC0)</metaTag>
     <metaTag name="creationDate">2021-02-15</metaTag>
-    <metaTag name="lyricist">Mme. la Baronne de Reiset (Clémence de Grandval) (1828 - 1907)</metaTag>
+    <metaTag name="lyricist">Mme. la Baronne de Reiset (Clémence de Grandval)</metaTag>
     <metaTag name="movementNumber">1</metaTag>
     <metaTag name="movementTitle">Les clochettes</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
@@ -386,7 +385,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.96667</tempo>
+            <tempo>1.9666699999999999</tempo>
             <offset x="-3" y="-2"/>
             <text>Allegro moderato</text>
             </Tempo>
@@ -2068,7 +2067,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.86667</tempo>
+            <tempo>1.8666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <size>10</size>
@@ -2514,7 +2513,7 @@
           </LayoutBreak>
         <voice>
           <Tempo>
-            <tempo>1.9</tempo>
+            <tempo>1.8999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <size>10</size>
@@ -2532,7 +2531,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.96667</tempo>
+            <tempo>1.9666699999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <minDistance>0.252182</minDistance>
@@ -4062,7 +4061,7 @@
         <vspacerFixed>10.0537</vspacerFixed>
         <voice>
           <Tempo>
-            <tempo>1.96667</tempo>
+            <tempo>1.9666699999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <minDistance>0.315746</minDistance>
@@ -5701,7 +5700,7 @@
         <vspacerFixed>9.67275</vspacerFixed>
         <voice>
           <Tempo>
-            <tempo>1.96667</tempo>
+            <tempo>1.9666699999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <minDistance>0.315746</minDistance>
@@ -8086,7 +8085,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>nez !</text>
+              <text>- nez !</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -8767,7 +8766,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.86667</tempo>
+            <tempo>1.8666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <size>10</size>
@@ -8902,7 +8901,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.9</tempo>
+            <tempo>1.8999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <size>10</size>
@@ -9035,7 +9034,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>1.16667</tempo>
+            <tempo>1.1666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <size>10</size>
@@ -9217,7 +9216,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>1.33333</tempo>
+            <tempo>1.3333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <size>10</size>
@@ -9860,11 +9859,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="2"/>
-                  <o4 x="0" y="-0.1"/>
-                  </SlurSegment>
-                <up>up</up>
                 </Slur>
               <next>
                 <location>
@@ -9873,6 +9867,11 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o1 x="0" y="2"/>
+                  <o4 x="0" y="-0.1"/>
+                  </SlurSegment>
+                <up>up</up>
                 </Slur>
               <next>
                 <location>
@@ -9944,6 +9943,10 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <offset x="0" y="0.5"/>
+                  </SlurSegment>
+                <up>up</up>
                 </Slur>
               <next>
                 <location>
@@ -9952,10 +9955,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0" y="0.5"/>
-                  </SlurSegment>
-                <up>up</up>
                 </Slur>
               <next>
                 <location>
@@ -10213,6 +10212,11 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o1 x="0" y="2"/>
+                  <o4 x="0" y="-0.1"/>
+                  </SlurSegment>
+                <up>up</up>
                 </Slur>
               <next>
                 <location>
@@ -10221,11 +10225,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="2"/>
-                  <o4 x="0" y="-0.1"/>
-                  </SlurSegment>
-                <up>up</up>
                 </Slur>
               <next>
                 <location>
@@ -10384,6 +10383,11 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o1 x="0" y="2"/>
+                  <o4 x="0" y="-0.1"/>
+                  </SlurSegment>
+                <up>up</up>
                 </Slur>
               <next>
                 <location>
@@ -10392,11 +10396,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="2"/>
-                  <o4 x="0" y="-0.1"/>
-                  </SlurSegment>
-                <up>up</up>
                 </Slur>
               <next>
                 <location>
@@ -15413,170 +15412,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <up>up</up>
-                </Slur>
-              <next>
-                <location>
-                  </location>
-                </next>
-              </Spanner>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  </location>
-                </next>
-              </Spanner>
-            <acciaccatura/>
-            <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <grace>0</grace>
-                  </location>
-                </prev>
-              </Spanner>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <grace>0</grace>
-                  </location>
-                </prev>
-              </Spanner>
-            <Articulation>
-              <subtype>articAccentBelow</subtype>
-              <anchor>4</anchor>
-              </Articulation>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
-              </Note>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              </Note>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              </Note>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  </location>
-                </next>
-              </Spanner>
-            <Spanner type="Slur">
-              <Slur>
-                <up>up</up>
-                </Slur>
-              <next>
-                <location>
-                  </location>
-                </next>
-              </Spanner>
-            <acciaccatura/>
-            <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
-              </Note>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <grace>0</grace>
-                  </location>
-                </prev>
-              </Spanner>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <grace>0</grace>
-                  </location>
-                </prev>
-              </Spanner>
-            <Articulation>
-              <subtype>articAccentBelow</subtype>
-              <anchor>4</anchor>
-              </Articulation>
-            <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              </Note>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              </Note>
-            <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <Slur>
                 </Slur>
               <next>
                 <location>
@@ -15821,7 +15656,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <up>up</up>
                 </Slur>
               <next>
                 <location>
@@ -15830,6 +15664,171 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
+                <up>up</up>
+                </Slur>
+              <next>
+                <location>
+                  </location>
+                </next>
+              </Spanner>
+            <acciaccatura/>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>0</grace>
+                  </location>
+                </prev>
+              </Spanner>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>0</grace>
+                  </location>
+                </prev>
+              </Spanner>
+            <Articulation>
+              <subtype>articAccentBelow</subtype>
+              <anchor>4</anchor>
+              </Articulation>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  </location>
+                </next>
+              </Spanner>
+            <Spanner type="Slur">
+              <Slur>
+                <up>up</up>
+                </Slur>
+              <next>
+                <location>
+                  </location>
+                </next>
+              </Spanner>
+            <acciaccatura/>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>0</grace>
+                  </location>
+                </prev>
+              </Spanner>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>0</grace>
+                  </location>
+                </prev>
+              </Spanner>
+            <Articulation>
+              <subtype>articAccentBelow</subtype>
+              <anchor>4</anchor>
+              </Articulation>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              </Note>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  </location>
+                </next>
+              </Spanner>
+            <Spanner type="Slur">
+              <Slur>
+                <up>up</up>
                 </Slur>
               <next>
                 <location>

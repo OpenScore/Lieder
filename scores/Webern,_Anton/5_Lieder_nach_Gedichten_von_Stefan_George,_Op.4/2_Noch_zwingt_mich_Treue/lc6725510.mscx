@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -303,7 +303,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.66667</tempo>
+            <tempo>1.6666700000000001</tempo>
             <followText>1</followText>
             <family>FreeSerif</family>
             <text><b>Bewegt (</b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = ca 72)</b></text>
@@ -935,6 +935,11 @@
             <HairPin>
               <subtype>0</subtype>
               <placement>above</placement>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-4"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -1323,7 +1328,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>0.866667</tempo>
+            <tempo>0.86666699999999997</tempo>
             <followText>1</followText>
             <family>FreeSerif</family>
             <text><b><font size="14"></font>ruhig (</b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = ca 52)</b></text>
@@ -1712,6 +1717,7 @@
               </prev>
             </Spanner>
           <Tuplet>
+            <offset x="0" y="-2"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -1942,6 +1948,7 @@
       <Measure>
         <voice>
           <Tuplet>
+            <offset x="0" y="-2"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -2729,7 +2736,7 @@
             <placement>above</placement>
             </Dynamic>
           <Tempo>
-            <tempo>0.866667</tempo>
+            <tempo>0.86666699999999997</tempo>
             <followText>1</followText>
             <family>FreeSerif</family>
             <text><b><font size="14"></font>gehalten (</b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = ca 52)</b></text>
@@ -3524,6 +3531,7 @@
               </next>
             </Spanner>
           <Tuplet>
+            <offset x="0" y="-1.5"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -4154,6 +4162,7 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <dynType>0</dynType>
               </HairPin>
             <next>
               <location>
@@ -5720,38 +5729,6 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="2.48031"/>
-                <off2 x="-9.86031" y="0"/>
-                </Segment>
-              </HairPin>
-            <next>
-              <location>
-                <measures>1</measures>
-                <fractions>-7/16</fractions>
-                </location>
-              </next>
-            </Spanner>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="10.3235" y="2.48031"/>
-                <off2 x="-10.3235" y="0"/>
-                </Segment>
-              </HairPin>
-            <next>
-              <location>
-                <measures>1</measures>
-                <fractions>-7/16</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -5805,22 +5782,6 @@
             <sigN>2</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                <fractions>7/16</fractions>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                <fractions>7/16</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Rest>
             <offset x="0" y="0.708661"/>
             <durationType>eighth</durationType>
@@ -7234,10 +7195,12 @@
           </voice>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <visible>0</visible>
               <style>Tuplet</style>
               <text>3</text>
               </Number>
@@ -7292,10 +7255,12 @@
             </Rest>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <visible>0</visible>
               <style>Tuplet</style>
               <text>3</text>
               </Number>
@@ -7362,10 +7327,12 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <visible>0</visible>
               <style>Tuplet</style>
               <text>3</text>
               </Number>
@@ -7577,6 +7544,18 @@
               <tpc>9</tpc>
               </Note>
             </Chord>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>1</subtype>
+              <dynType>0</dynType>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                <fractions>-5/12</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -7632,6 +7611,14 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                <fractions>5/12</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -9169,6 +9156,23 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <placement>above</placement>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-6.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <fractions>1/4</fractions>
+                </location>
+              </next>
+            </Spanner>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <dynType>0</dynType>
               </HairPin>
             <next>
               <location>
@@ -9245,25 +9249,48 @@
               </prev>
             </Spanner>
           <Spanner type="HairPin">
+            <prev>
+              <location>
+                <fractions>-1/4</fractions>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="10.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
-                <fractions>1/8</fractions>
+                <fractions>3/16</fractions>
+                </location>
+              </next>
+            </Spanner>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>1</subtype>
+              <dynType>0</dynType>
+              <placement>above</placement>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-5"/>
+                <off2 x="-1.4" y="0"/>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                <fractions>-5/8</fractions>
                 </location>
               </next>
             </Spanner>
           <location>
             <fractions>1/8</fractions>
             </location>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <fractions>-1/8</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -9304,6 +9331,13 @@
               <tpc>23</tpc>
               </Note>
             </Chord>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <fractions>-3/16</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -9413,6 +9447,14 @@
             <sigN>2</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                <fractions>5/8</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -37,7 +37,7 @@
       <user5Align>center,top</user5Align>
       <Spatium>1.64</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
@@ -189,8 +189,8 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>24</height>
-        <bottomGap>15.0576</bottomGap>
+        <height>22</height>
+        <bottomGap>16.5</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>User-1</style>
@@ -198,8 +198,10 @@
           </Text>
         <Text>
           <style>User-2</style>
-          <offset x="0" y="7.88194"/>
-          <text>8. O Tuneful Voice, Hob.XXVIa:42</text>
+          <textLineSpacing>1.2</textLineSpacing>
+          <offset x="0" y="9.38"/>
+          <text>8. O Tuneful Voice
+<font size="16"></font>(Hob.XXVIa:42)</text>
           </Text>
         <Text>
           <style>Composer</style>
@@ -1186,7 +1188,6 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -1306,7 +1307,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -1398,7 +1398,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -1640,7 +1639,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -1769,7 +1767,7 @@
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="0" y="0.3"/>
+            <offset x="0" y="-1.7"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -1778,7 +1776,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -1847,7 +1844,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <offset x="0" y="0.3"/>
+            <offset x="0" y="-0.7"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -1856,8 +1853,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
-            <minDistance>0.234425</minDistance>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -1924,7 +1919,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -2044,7 +2038,7 @@
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="0" y="0.3"/>
+            <offset x="0" y="-1.7"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -2053,7 +2047,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -2099,16 +2092,16 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <offset x="0" y="0.3"/>
+            <offset x="0" y="-0.7"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
+            <p2 x="0" y="0.1"/>
             <baseNote>eighth</baseNote>
             <Number>
               <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -2167,6 +2160,7 @@
             <offset x="0" y="0.3"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
+            <p1 x="0" y="-0.2"/>
             <p2 x="0" y="-0.215109"/>
             <baseNote>eighth</baseNote>
             <Number>
@@ -2174,7 +2168,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -2402,7 +2395,6 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -4001,7 +3993,7 @@
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="0" y="-0.3"/>
+            <offset x="0" y="-1.3"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -4010,7 +4002,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -4121,7 +4112,7 @@
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="0" y="-0.3"/>
+            <offset x="0" y="-1.3"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -4130,7 +4121,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -4257,7 +4247,7 @@
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="0" y="-0.3"/>
+            <offset x="0" y="-0.8"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -4266,7 +4256,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -4440,7 +4429,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -4541,6 +4529,7 @@
             <velocity>80</velocity>
             <visible>0</visible>
             <placement>above</placement>
+            <offset x="-2" y="-1.5"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -4549,8 +4538,9 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-3.5"/>
+                <offset x="0" y="-2"/>
                 <off2 x="0" y="0"/>
+                <minDistance>-3.03065</minDistance>
                 <visible>0</visible>
                 </Segment>
               </HairPin>
@@ -4603,7 +4593,7 @@
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="0" y="-0.3"/>
+            <offset x="0" y="-2.3"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <p1 x="0.5" y="-0.1"/>
@@ -4613,7 +4603,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -4701,8 +4690,9 @@
               <visible>0</visible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-3.5"/>
-                <off2 x="0" y="0"/>
+                <offset x="2" y="-1.5"/>
+                <off2 x="-2" y="0"/>
+                <minDistance>0.679675</minDistance>
                 <visible>0</visible>
                 </Segment>
               </HairPin>
@@ -4836,7 +4826,7 @@
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="0" y="-0.5"/>
+            <offset x="0" y="-1"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -4845,7 +4835,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -4960,7 +4949,7 @@
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="0" y="-0.5"/>
+            <offset x="0" y="-1"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -4969,7 +4958,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -5100,7 +5088,7 @@
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="0" y="-0.5"/>
+            <offset x="0" y="-1"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -5109,7 +5097,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -5296,7 +5283,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -5461,7 +5447,7 @@
               </Note>
             </Chord>
           <Tuplet>
-            <offset x="0" y="-0.5"/>
+            <offset x="0" y="-2"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -5470,7 +5456,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -5627,7 +5612,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -5695,7 +5679,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -5830,7 +5813,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -5904,7 +5886,6 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -6024,7 +6005,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -6091,7 +6071,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -6215,7 +6194,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -6281,7 +6259,6 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -6534,7 +6511,7 @@
             <placement>above</placement>
             </Dynamic>
           <Tempo>
-            <tempo>1.20833</tempo>
+            <tempo>1.2083299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <size>10</size>
@@ -6550,7 +6527,6 @@
               <text>3</text>
               </Number>
             <direction>up</direction>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -6622,7 +6598,6 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -6749,13 +6724,6 @@
             <visible>0</visible>
             <size>10</size>
             <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 72</b></text>
-            </Tempo>
-          <Tempo>
-            <tempo>1.08333</tempo>
-            <followText>1</followText>
-            <visible>0</visible>
-            <size>10</size>
-            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 65</b></text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
@@ -7506,11 +7474,11 @@
               </next>
             </Spanner>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="-2"/>
@@ -7581,11 +7549,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="-2"/>
@@ -7676,11 +7644,11 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="-2"/>
@@ -7759,11 +7727,11 @@
               </prev>
             </Spanner>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="-2"/>
@@ -7867,11 +7835,11 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="-2"/>
@@ -7942,11 +7910,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="-2"/>
@@ -8071,11 +8039,11 @@
               </next>
             </Spanner>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="-2"/>
@@ -8149,11 +8117,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="-2"/>
@@ -8244,11 +8212,11 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -8288,6 +8256,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -8332,11 +8301,11 @@
               </prev>
             </Spanner>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -8367,6 +8336,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -8412,11 +8382,11 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="2"/>
@@ -8452,6 +8422,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -8490,11 +8461,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="2"/>
@@ -8530,6 +8501,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -8588,11 +8560,11 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="1"/>
@@ -8628,6 +8600,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -8666,11 +8639,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="1"/>
@@ -8706,6 +8679,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -8764,11 +8738,11 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="1"/>
@@ -8804,6 +8778,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -8842,11 +8817,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="1"/>
@@ -8882,6 +8857,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -8940,11 +8916,11 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="1"/>
@@ -8980,6 +8956,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -9018,11 +8995,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="1"/>
@@ -9046,6 +9023,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -9107,11 +9085,11 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -9184,6 +9162,7 @@
             <leadingSpace>-2</leadingSpace>
             </Segment>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -9306,11 +9285,11 @@
               </next>
             </Spanner>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -9372,6 +9351,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -9456,11 +9436,11 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -9535,6 +9515,7 @@
             <leadingSpace>0.5</leadingSpace>
             </Segment>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -9635,11 +9616,11 @@
             <leadingSpace>0.5</leadingSpace>
             </Segment>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -9695,6 +9676,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -9769,11 +9751,11 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -9824,11 +9806,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -9879,11 +9861,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -9934,11 +9916,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -9993,6 +9975,7 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -10052,6 +10035,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -10117,11 +10101,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -10175,6 +10159,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -11805,11 +11790,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -11934,11 +11919,11 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -12055,11 +12040,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -13230,7 +13215,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <visible>0</visible>
@@ -13273,7 +13257,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <visible>0</visible>
@@ -13313,7 +13296,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <visible>0</visible>
@@ -13356,7 +13338,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <visible>0</visible>
@@ -13651,7 +13632,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <autoplace>0</autoplace>
@@ -15115,7 +15095,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -15184,7 +15163,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <distribute>1</distribute>
@@ -15270,7 +15248,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -15342,7 +15319,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <distribute>1</distribute>
@@ -15433,7 +15409,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -15499,7 +15474,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -15552,11 +15526,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -15603,7 +15577,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -15648,11 +15621,11 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -15705,7 +15678,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <distribute>1</distribute>
@@ -15761,11 +15733,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -15823,7 +15795,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <distribute>1</distribute>
@@ -15883,11 +15854,11 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -15942,7 +15913,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <distribute>1</distribute>
@@ -15998,11 +15968,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -16064,7 +16034,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <distribute>1</distribute>
@@ -16142,11 +16111,11 @@
               </next>
             </Spanner>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -16200,11 +16169,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -16258,11 +16227,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -16316,11 +16285,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -16381,11 +16350,11 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -16439,11 +16408,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -16497,11 +16466,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -16555,11 +16524,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -16627,11 +16596,11 @@
               </prev>
             </Spanner>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -16672,11 +16641,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -16708,11 +16677,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -16746,11 +16715,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -16789,11 +16758,11 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -16835,6 +16804,7 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>11</beginFontSize>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="0" y="4.5"/>
@@ -16853,7 +16823,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -16888,11 +16857,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -16931,7 +16900,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -16978,11 +16946,11 @@
               </prev>
             </Spanner>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -17037,7 +17005,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -17090,7 +17057,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -17119,7 +17085,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -18456,6 +18421,7 @@
           </voice>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -18501,6 +18467,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -18536,6 +18503,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -18582,6 +18550,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -18621,11 +18590,11 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -18707,11 +18676,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -18765,11 +18734,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -18823,11 +18792,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -18885,11 +18854,11 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -18943,6 +18912,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -19015,11 +18985,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -19073,6 +19043,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -19523,7 +19494,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -19558,7 +19528,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -19605,7 +19574,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -19634,7 +19602,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -19722,7 +19689,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -19758,7 +19724,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -19797,7 +19762,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -19829,7 +19793,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -20691,11 +20654,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -20845,11 +20808,11 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -20966,11 +20929,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -21116,11 +21079,11 @@
               </next>
             </Spanner>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -21227,11 +21190,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -21310,6 +21273,7 @@
             <subtype>mf</subtype>
             <velocity>80</velocity>
             <visible>0</visible>
+            <offset x="0" y="5.2"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -21489,7 +21453,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -21534,7 +21497,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -21582,7 +21544,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -21630,7 +21591,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -21682,7 +21642,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -21730,7 +21689,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -21778,7 +21736,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -21826,7 +21783,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -21896,7 +21852,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -21944,7 +21899,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -22019,7 +21973,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -22067,7 +22020,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -22133,7 +22085,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -22213,7 +22164,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -22292,11 +22242,11 @@
           <endTuplet/>
           <Tuplet>
             <offset x="0" y="-0.5"/>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -22394,7 +22344,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -22473,11 +22422,11 @@
         <voice>
           <Tuplet>
             <offset x="0" y="-0.5"/>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -22537,7 +22486,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -22597,11 +22545,11 @@
           <endTuplet/>
           <Tuplet>
             <offset x="0" y="-0.5"/>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -22662,7 +22610,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -22734,11 +22681,11 @@
         <voice>
           <Tuplet>
             <offset x="0" y="-0.5"/>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -22794,7 +22741,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -22848,11 +22794,11 @@
           <endTuplet/>
           <Tuplet>
             <offset x="0" y="-0.5"/>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -22916,7 +22862,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -23046,7 +22991,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -23135,7 +23079,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -23233,7 +23176,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -23289,7 +23231,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -23717,12 +23658,12 @@
               </next>
             </Spanner>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <direction>up</direction>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -23792,11 +23733,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -23859,12 +23800,12 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <direction>up</direction>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -23924,11 +23865,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -23992,12 +23933,12 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <direction>up</direction>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -24078,11 +24019,11 @@
               </next>
             </Spanner>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -24135,11 +24076,11 @@
               </Note>
             </Chord>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -24194,6 +24135,8 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>11</beginFontSize>
+              <beginText>cresc.  </beginText>
+              <dashGapLength>20</dashGapLength>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="-1" y="4"/>
@@ -24212,7 +24155,6 @@
             <baseNote>eighth</baseNote>
             <direction>up</direction>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -24256,7 +24198,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -24286,7 +24227,6 @@
             <baseNote>eighth</baseNote>
             <direction>up</direction>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -24315,7 +24255,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -24356,7 +24295,6 @@
             <baseNote>eighth</baseNote>
             <direction>up</direction>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -24397,7 +24335,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -24430,7 +24367,6 @@
             <baseNote>eighth</baseNote>
             <direction>up</direction>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -24459,7 +24395,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -24507,7 +24442,6 @@
             <baseNote>eighth</baseNote>
             <direction>up</direction>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -24549,6 +24483,8 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>11</beginFontSize>
+              <beginText>dim.  </beginText>
+              <dashGapLength>20</dashGapLength>
               </HairPin>
             <next>
               <location>
@@ -24573,7 +24509,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -24619,7 +24554,6 @@
             <baseNote>eighth</baseNote>
             <direction>up</direction>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -24677,7 +24611,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -24855,7 +24788,7 @@
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
-            <p1 x="0" y="0.322663"/>
+            <p1 x="0" y="0.122663"/>
             <baseNote>eighth</baseNote>
             <Number>
               <style>Tuplet</style>
@@ -24940,7 +24873,7 @@
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
-            <p1 x="0" y="0.215109"/>
+            <p1 x="0" y="0.015109"/>
             <baseNote>eighth</baseNote>
             <Number>
               <style>Tuplet</style>
@@ -25053,12 +24986,14 @@
               </prev>
             </Spanner>
           <Tuplet>
-            <visible>0</visible>
+            <offset x="0" y="-2"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -25067,6 +25002,11 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o1 x="0" y="0.2"/>
+                  <o2 x="0" y="0.2"/>
+                  <o3 x="0" y="0.2"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -25089,13 +25029,17 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <StaffText>
+            <style>Expression</style>
+            <offset x="3" y="2.5"/>
+            <text>sim.</text>
+            </StaffText>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -25135,7 +25079,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -25172,7 +25115,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -29380,11 +29322,11 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="-1.5"/>
@@ -29455,11 +29397,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="-2"/>
@@ -29550,11 +29492,11 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="-1"/>
@@ -29624,11 +29566,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="-1"/>
@@ -30179,11 +30121,11 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="-0.7"/>
@@ -30209,7 +30151,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -30234,11 +30175,11 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="-0.7"/>
@@ -30264,7 +30205,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -30327,7 +30267,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -30359,7 +30298,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -30391,7 +30329,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -30420,7 +30357,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -30485,7 +30421,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -30517,7 +30452,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -31213,7 +31147,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -31243,7 +31176,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -31288,7 +31220,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -31325,7 +31256,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -31359,7 +31289,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -31389,7 +31318,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -31434,7 +31362,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -31471,7 +31398,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -31505,7 +31431,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -31548,7 +31473,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -31581,7 +31505,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -31611,7 +31534,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -31726,11 +31648,11 @@
         <voice>
           <Tuplet>
             <offset x="0" y="-0.5"/>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -31778,7 +31700,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -31853,7 +31774,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -31896,7 +31816,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -31939,11 +31858,11 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -32069,7 +31988,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -32212,7 +32130,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -32315,7 +32232,6 @@
             <baseNote>eighth</baseNote>
             <direction>up</direction>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -32402,7 +32318,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -32579,12 +32494,12 @@
       <Measure>
         <voice>
           <Tuplet>
+            <visible>0</visible>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <direction>up</direction>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="2"/>
@@ -32628,7 +32543,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -32658,7 +32572,6 @@
             <baseNote>eighth</baseNote>
             <direction>up</direction>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -32687,7 +32600,6 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <numberType>2</numberType>
-            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>

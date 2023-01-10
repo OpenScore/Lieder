@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -317,7 +317,7 @@
             <sigD>8</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.9</tempo>
+            <tempo>1.8999999999999999</tempo>
             <linkedMain/>
             <text>Moderato</text>
             </Tempo>
@@ -4314,11 +4314,28 @@
             <linkedMain/>
             <durationType>eighth</durationType>
             </Rest>
-          <SystemText>
-            <linkedMain/>
-            <style>Expression</style>
-            <text>moren...do </text>
-            </SystemText>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>3</subtype>
+              <endText></endText>
+              <beginText>morendo</beginText>
+              <placement>above</placement>
+              <linkedMain/>
+              <dashGapLength>20</dashGapLength>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-1.5"/>
+                <off2 x="0" y="0"/>
+                <minDistance>0.665395</minDistance>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                <fractions>1/8</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -4352,6 +4369,14 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                <fractions>-1/8</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Rest>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -11924,12 +11949,21 @@
             <linkedMain/>
             <durationType>eighth</durationType>
             </Rest>
-          <StaffText>
-            <linkedMain/>
-            <style>Expression</style>
-            <placement>below</placement>
-            <text>moren...do</text>
-            </StaffText>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>3</subtype>
+              <endText></endText>
+              <beginText>morendo</beginText>
+              <linkedMain/>
+              <dashGapLength>20</dashGapLength>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                <fractions>1/8</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -11963,6 +11997,14 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                <fractions>-1/8</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Rest>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -15760,7 +15802,7 @@
               <sigD>8</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.9</tempo>
+              <tempo>1.8999999999999999</tempo>
               <linked>
                 </linked>
               <text>Moderato</text>
@@ -20439,12 +20481,21 @@
                 </linked>
               <durationType>eighth</durationType>
               </Rest>
-            <SystemText>
-              <linked>
-                </linked>
-              <style>Expression</style>
-              <text>moren...do </text>
-              </SystemText>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>3</subtype>
+                <endText></endText>
+                <beginText>morendo</beginText>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
+                <location>
+                  <measures>1</measures>
+                  <fractions>1/8</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -20484,6 +20535,14 @@
                 <tpc>13</tpc>
                 </Note>
               </Chord>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  <fractions>-1/8</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Rest>
               <linked>
                 </linked>
@@ -20771,7 +20830,7 @@
               <sigD>8</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.9</tempo>
+              <tempo>1.8999999999999999</tempo>
               <linked>
                 <location>
                   <staves>-1</staves>
@@ -29258,20 +29317,21 @@
                 </linked>
               <durationType>eighth</durationType>
               </Rest>
-            <SystemText>
-              <linked>
+            <Spanner type="HairPin">
+              <HairPin>
+                <subtype>3</subtype>
+                <endText></endText>
+                <beginText>morendo</beginText>
+                <linked>
+                  </linked>
+                </HairPin>
+              <next>
                 <location>
-                  <staves>-1</staves>
+                  <measures>1</measures>
+                  <fractions>1/8</fractions>
                   </location>
-                </linked>
-              <style>Expression</style>
-              <text>moren...do </text>
-              </SystemText>
-            <StaffText>
-              <linked>
-                </linked>
-              <text>moren...do</text>
-              </StaffText>
+                </next>
+              </Spanner>
             <Chord>
               <linked>
                 </linked>
@@ -29311,6 +29371,14 @@
                 <tpc>13</tpc>
                 </Note>
               </Chord>
+            <Spanner type="HairPin">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  <fractions>-1/8</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Rest>
               <linked>
                 </linked>

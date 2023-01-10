@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -39,7 +39,7 @@
     <showMargins>0</showMargins>
     <metaTag name="arranger">Transcribed from IMSLP #441122. Source: https://imslp.org/wiki/Special:ReverseLookup/441122</metaTag>
     <metaTag name="composer">Pauline Viardot (1821 - 1910)</metaTag>
-    <metaTag name="copyright">Creative Commons copyright waiver (CC0 1.0 Universal)</metaTag>
+    <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2021-01-25</metaTag>
     <metaTag name="lyricist">Jean de La Fontaine (1621 - 1695)</metaTag>
     <metaTag name="movementNumber"></metaTag>
@@ -232,7 +232,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.66667</tempo>
+            <tempo>1.6666700000000001</tempo>
             <followText>1</followText>
             <text><b>Allegro moderato (</b><font size="16"></font><font face="ScoreText"></font><b><font size="12"></font><font face="FreeSerif"></font> = 100)</b></text>
             </Tempo>
@@ -2995,7 +2995,7 @@
           </LayoutBreak>
         <voice>
           <Tempo>
-            <tempo>1.53333</tempo>
+            <tempo>1.5333300000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <size>10</size>
@@ -3009,7 +3009,7 @@
             <fractions>-1/2</fractions>
             </location>
           <Tempo>
-            <tempo>1.4</tempo>
+            <tempo>1.3999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <size>10</size>
@@ -4680,7 +4680,7 @@
             <text>Même mouvement.</text>
             </Tempo>
           <Tempo>
-            <tempo>1.66667</tempo>
+            <tempo>1.6666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <size>10</size>
@@ -5658,7 +5658,7 @@
             <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>1.36667</tempo>
+            <tempo>1.3666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <size>10</size>
@@ -6085,7 +6085,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.36667</tempo>
+            <tempo>1.3666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <size>10</size>
@@ -6133,7 +6133,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>1.33333</tempo>
+            <tempo>1.3333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <size>10</size>

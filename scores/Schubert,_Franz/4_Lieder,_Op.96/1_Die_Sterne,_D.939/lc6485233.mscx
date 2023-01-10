@@ -173,6 +173,7 @@
       <Instrument>
         <longName>Singstimme
 
+          
           <i>Voice</i>
         </longName>
         <trackName>Voice</trackName>
@@ -284,6 +285,7 @@
           <offset x="0" y="8.506"/>
           <text>Die Sterne
 
+            
             <font size="14"/>(D939)
 </text>
         </Text>
@@ -7223,6 +7225,7 @@
             <text>
               <i>(</i>
               <font face="ScoreText"/>
+              
               <i>
                 <font face="FreeSerif"/>)</i>
             </text>
@@ -15684,8 +15687,8 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
             </Note>
             <Note>
               <pitch>58</pitch>
@@ -15695,8 +15698,8 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
             </Note>
             <Note>
               <pitch>58</pitch>
@@ -15706,8 +15709,8 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
             </Note>
             <Note>
               <pitch>58</pitch>
@@ -15721,8 +15724,8 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
             </Note>
             <Note>
               <pitch>58</pitch>
@@ -15732,8 +15735,8 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
             </Note>
             <Note>
               <pitch>58</pitch>
@@ -15743,8 +15746,8 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
             </Note>
             <Note>
               <pitch>58</pitch>
@@ -15758,8 +15761,8 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
             </Note>
             <Note>
               <pitch>58</pitch>
@@ -15769,8 +15772,8 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
             </Note>
             <Note>
               <pitch>58</pitch>
@@ -15780,8 +15783,8 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
             </Note>
             <Note>
               <pitch>58</pitch>

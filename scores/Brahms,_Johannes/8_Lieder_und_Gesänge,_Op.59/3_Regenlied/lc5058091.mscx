@@ -1,129 +1,196 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.01">
-  <programVersion>3.2.3</programVersion>
-  <programRevision>d2d863f</programRevision>
+<museScore version="3.02">
+  <programVersion>3.6.2</programVersion>
+  <programRevision></programRevision>
   <Score>
-    <LayerTag id="0" tag="default"/>
+    <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
       <pageWidth>8.27008</pageWidth>
       <pageHeight>11.6902</pageHeight>
       <pagePrintableWidth>7.48268</pagePrintableWidth>
-      <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-      <pageEvenTopMargin>0.393701</pageEvenTopMargin>
-      <pageEvenBottomMargin>0.787402</pageEvenBottomMargin>
-      <pageOddTopMargin>0.393701</pageOddTopMargin>
-      <pageOddBottomMargin>0.787402</pageOddBottomMargin>
       <staffUpperBorder>5</staffUpperBorder>
+      <staffLowerBorder>5</staffLowerBorder>
       <minSystemDistance>8</minSystemDistance>
       <maxSystemDistance>17</maxSystemDistance>
+      <enableVerticalSpread>1</enableVerticalSpread>
+      <lyricsMinDistance>0.25</lyricsMinDistance>
       <lyricsDashMaxDistance>10</lyricsDashMaxDistance>
       <lyricsDashForce>0</lyricsDashForce>
       <lyricsMelismaPad>0.5</lyricsMelismaPad>
-      <lyricsOddFontSize>12</lyricsOddFontSize>
+      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
+      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
+      <lyricsOddFontSize>10</lyricsOddFontSize>
       <lyricsOddFramePadding>0</lyricsOddFramePadding>
       <lyricsOddFrameWidth>0</lyricsOddFrameWidth>
-      <lyricsEvenFontSize>12</lyricsEvenFontSize>
+      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
+      <lyricsEvenFontSize>10</lyricsEvenFontSize>
       <frameSystemDistance>10</frameSystemDistance>
-      <doubleBarDistance>0.46</doubleBarDistance>
-      <endBarDistance>0.65</endBarDistance>
+      <barWidth>0.18</barWidth>
+      <doubleBarWidth>0.18</doubleBarWidth>
+      <endBarWidth>0.55</endBarWidth>
+      <doubleBarDistance>0.55</doubleBarDistance>
+      <endBarDistance>0.7</endBarDistance>
+      <repeatBarlineDotSeparation>0.7</repeatBarlineDotSeparation>
+      <bracketWidth>0.44</bracketWidth>
       <clefLeftMargin>0.64</clefLeftMargin>
       <clefKeyRightMargin>1.75</clefKeyRightMargin>
+      <stemWidth>0.11</stemWidth>
       <barNoteDistance>1.2</barNoteDistance>
       <measureSpacing>1</measureSpacing>
+      <staffLineWidth>0.11</staffLineWidth>
+      <ledgerLineLength>0.35</ledgerLineLength>
       <hairpinPlacement>0</hairpinPlacement>
       <hairpinPosAbove x="0" y="-2"/>
       <hairpinLinePosAbove x="0" y="-1.5"/>
+      <hairpinWidth>0.12</hairpinWidth>
+      <hairpinFontFace>Edwin</hairpinFontFace>
       <hairpinFontSize>10</hairpinFontSize>
       <hairpinFontStyle>3</hairpinFontStyle>
       <hairpinFramePadding>0</hairpinFramePadding>
       <hairpinFrameWidth>0</hairpinFrameWidth>
+      <pedalLineWidth>0.11</pedalLineWidth>
+      <pedalFontFace>Edwin</pedalFontFace>
       <pedalFramePadding>0</pedalFramePadding>
       <pedalFrameWidth>0</pedalFrameWidth>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <harmonyPlay>0</harmonyPlay>
+      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
+      <chordSymbolAFontSize>11</chordSymbolAFontSize>
       <chordSymbolAFramePadding>0</chordSymbolAFramePadding>
       <chordSymbolAFrameWidth>0</chordSymbolAFrameWidth>
+      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
+      <chordSymbolBFontSize>11</chordSymbolBFontSize>
+      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
       <concertPitch>1</concertPitch>
+      <slurMidWidth>0.21</slurMidWidth>
+      <musicalSymbolFont>Leland</musicalSymbolFont>
+      <musicalTextFont>Leland Text</musicalTextFont>
+      <voltaLineWidth>0.11</voltaLineWidth>
       <voltaFontSize>10</voltaFontSize>
       <voltaFramePadding>0</voltaFramePadding>
       <voltaFrameWidth>0</voltaFrameWidth>
+      <ottavaLineWidth>0.11</ottavaLineWidth>
+      <ottavaFontFace>Edwin</ottavaFontFace>
       <ottavaFontStyle>2</ottavaFontStyle>
       <ottavaFramePadding>0</ottavaFramePadding>
       <ottavaFrameWidth>0</ottavaFrameWidth>
       <keySigNaturals>1</keySigNaturals>
+      <tupletFontFace>Edwin</tupletFontFace>
+      <tupletFontSize>9</tupletFontSize>
       <tupletFramePadding>0</tupletFramePadding>
       <tupletFrameWidth>0</tupletFrameWidth>
       <dynamicsPlacement>0</dynamicsPlacement>
       <dynamicsPosAbove x="0" y="-1.5"/>
       <textLineFramePadding>0</textLineFramePadding>
       <textLineFrameWidth>0</textLineFrameWidth>
+      <defaultFontFace>Edwin</defaultFontFace>
       <defaultFontSpatiumDependent>0</defaultFontSpatiumDependent>
       <defaultAlign>left,baseline</defaultAlign>
       <defaultFramePadding>0</defaultFramePadding>
       <defaultFrameWidth>0</defaultFrameWidth>
       <defaultFrameRound>25</defaultFrameRound>
+      <titleFontFace>Edwin</titleFontFace>
+      <titleFontSize>22</titleFontSize>
       <titleFramePadding>0</titleFramePadding>
       <titleFrameWidth>0</titleFrameWidth>
       <titleFrameRound>25</titleFrameRound>
+      <subTitleFontFace>Edwin</subTitleFontFace>
+      <subTitleFontSize>16</subTitleFontSize>
       <subTitleFramePadding>0</subTitleFramePadding>
       <subTitleFrameWidth>0</subTitleFrameWidth>
       <subTitleFrameRound>25</subTitleFrameRound>
+      <composerFontFace>Edwin</composerFontFace>
+      <composerFontSize>10</composerFontSize>
       <composerFramePadding>0</composerFramePadding>
       <composerFrameWidth>0</composerFrameWidth>
       <composerFrameRound>25</composerFrameRound>
+      <lyricistFontFace>Edwin</lyricistFontFace>
+      <lyricistFontSize>10</lyricistFontSize>
       <lyricistFramePadding>0</lyricistFramePadding>
       <lyricistFrameWidth>0</lyricistFrameWidth>
       <lyricistFrameRound>25</lyricistFrameRound>
+      <fingeringFontFace>Edwin</fingeringFontFace>
       <fingeringFramePadding>0</fingeringFramePadding>
       <fingeringFrameWidth>0</fingeringFrameWidth>
       <fingeringFrameRound>25</fingeringFrameRound>
+      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
       <lhGuitarFingeringFramePadding>0</lhGuitarFingeringFramePadding>
       <lhGuitarFingeringFrameWidth>0</lhGuitarFingeringFrameWidth>
       <lhGuitarFingeringFrameRound>25</lhGuitarFingeringFrameRound>
+      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
+      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
       <rhGuitarFingeringFramePadding>0</rhGuitarFingeringFramePadding>
       <rhGuitarFingeringFrameWidth>0</rhGuitarFingeringFrameWidth>
       <rhGuitarFingeringFrameRound>25</rhGuitarFingeringFrameRound>
+      <stringNumberFontFace>Edwin</stringNumberFontFace>
+      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
+      <longInstrumentFontSize>10</longInstrumentFontSize>
       <longInstrumentFramePadding>0</longInstrumentFramePadding>
       <longInstrumentFrameWidth>0</longInstrumentFrameWidth>
+      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
+      <shortInstrumentFontSize>10</shortInstrumentFontSize>
       <shortInstrumentFramePadding>0</shortInstrumentFramePadding>
       <shortInstrumentFrameWidth>0</shortInstrumentFrameWidth>
+      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
+      <partInstrumentFontSize>14</partInstrumentFontSize>
       <partInstrumentFramePadding>0</partInstrumentFramePadding>
       <partInstrumentFrameWidth>0</partInstrumentFrameWidth>
       <partInstrumentFrameRound>25</partInstrumentFrameRound>
+      <dynamicsFontFace>Edwin</dynamicsFontFace>
+      <dynamicsFontSize>11</dynamicsFontSize>
       <dynamicsFramePadding>0</dynamicsFramePadding>
       <dynamicsFrameWidth>0</dynamicsFrameWidth>
-      <expressionFontSize>12</expressionFontSize>
+      <expressionFontFace>Edwin</expressionFontFace>
+      <expressionFontSize>10</expressionFontSize>
       <expressionFontStyle>3</expressionFontStyle>
       <expressionFramePadding>0</expressionFramePadding>
       <expressionFrameWidth>0</expressionFrameWidth>
+      <tempoFontFace>Edwin</tempoFontFace>
       <tempoFramePadding>0</tempoFramePadding>
       <tempoFrameWidth>0</tempoFrameWidth>
       <tempoFrameRound>25</tempoFrameRound>
+      <metronomeFontFace>Edwin</metronomeFontFace>
+      <metronomeFontStyle>0</metronomeFontStyle>
       <metronomeFramePadding>0</metronomeFramePadding>
       <metronomeFrameWidth>0</metronomeFrameWidth>
-      <measureNumberAlign>center,bottom</measureNumberAlign>
+      <measureNumberFontFace>Edwin</measureNumberFontFace>
+      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
+      <measureNumberFontStyle>2</measureNumberFontStyle>
       <measureNumberFramePadding>0</measureNumberFramePadding>
       <measureNumberFrameWidth>0</measureNumberFrameWidth>
+      <translatorFontFace>Edwin</translatorFontFace>
+      <translatorFontSize>10</translatorFontSize>
       <translatorAlign>center,top</translatorAlign>
       <translatorFramePadding>0</translatorFramePadding>
       <translatorFrameWidth>0</translatorFrameWidth>
+      <systemFontFace>Edwin</systemFontFace>
       <systemAlign>left,top</systemAlign>
       <systemFramePadding>0</systemFramePadding>
       <systemFrameWidth>0</systemFrameWidth>
       <systemFrameRound>25</systemFrameRound>
+      <staffFontFace>Edwin</staffFontFace>
       <staffAlign>left,top</staffAlign>
       <staffPosAbove x="0" y="-4"/>
       <staffFramePadding>0</staffFramePadding>
       <staffFrameWidth>0</staffFrameWidth>
       <staffFrameRound>25</staffFrameRound>
+      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
+      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
+      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
+      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
+      <repeatLeftFontSize>18</repeatLeftFontSize>
       <repeatLeftFramePadding>0</repeatLeftFramePadding>
       <repeatLeftFrameWidth>0</repeatLeftFrameWidth>
       <repeatLeftFrameRound>25</repeatLeftFrameRound>
+      <repeatRightFontFace>Edwin</repeatRightFontFace>
+      <repeatRightFontSize>11</repeatRightFontSize>
       <repeatRightFramePadding>0</repeatRightFramePadding>
       <repeatRightFrameWidth>0</repeatRightFrameWidth>
       <repeatRightFrameRound>25</repeatRightFrameRound>
+      <frameFontFace>Edwin</frameFontFace>
+      <frameFontSize>10</frameFontSize>
       <frameFramePadding>0</frameFramePadding>
       <frameFrameWidth>0</frameFrameWidth>
       <glissandoAlign>center,baseline</glissandoAlign>
@@ -166,6 +233,8 @@
       <user4Align>right,baseline</user4Align>
       <user4FramePadding>0</user4FramePadding>
       <user4FrameWidth>0</user4FrameWidth>
+      <usePre_3_6_defaults>1</usePre_3_6_defaults>
+      <defaultsVersion>301</defaultsVersion>
       <Spatium>1.5</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -180,12 +249,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
     <metaTag name="lyricist">Klaus Groth</metaTag>
     <metaTag name="movementNumber">3</metaTag>
     <metaTag name="movementTitle">Regenlied</metaTag>
-    <metaTag name="originalFormat">musicxml</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
-    <metaTag name="poet"/>
+    <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/5058091</metaTag>
-    <metaTag name="translator"/>
-    <metaTag name="workNumber">59</metaTag>
+    <metaTag name="translator"></metaTag>
+    <metaTag name="workNumber">Op.59</metaTag>
     <metaTag name="workTitle">8 Lieder und Gesänge, Op.59</metaTag>
     <Part>
       <Staff id="1">
@@ -193,7 +261,7 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
           </StaffType>
         </Staff>
       <trackName>Voice</trackName>
-      <Instrument>
+      <Instrument id="voice">
         <longName>Singstimme
 <i>Voice</i></longName>
         <trackName>Voice</trackName>
@@ -251,7 +319,7 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
         <defaultClef>F</defaultClef>
         </Staff>
       <trackName>Piano</trackName>
-      <Instrument>
+      <Instrument id="grand-piano">
         <longName>Pianoforte</longName>
         <trackName>Grand Piano</trackName>
         <minPitchP>21</minPitchP>
@@ -297,13 +365,16 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
     <Staff id="1">
       <VBox>
         <height>16</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>User-2</style>
-          <offset x="1.46924" y="1.45615"/>
+          <family>Edwin</family>
+          <offset x="1.46924" y="0.10615"/>
           <text>8 Lieder und Gesänge, Op.59</text>
           </Text>
         <Text>
           <style>User-3</style>
+          <family>Edwin</family>
           <text>3. Regenlied</text>
           </Text>
         <Text>
@@ -317,8 +388,10 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
         </VBox>
       <HBox>
         <width>5</width>
+        <boxAutoSize>0</boxAutoSize>
         </HBox>
       <Measure len="1/2">
+        <irregular>1</irregular>
         <voice>
           <KeySig>
             <accidental>3</accidental>
@@ -338,7 +411,7 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
               </Groups>
             </TimeSig>
           <Tempo>
-            <tempo>2.66667</tempo>
+            <tempo>2.6666699999999999</tempo>
             <followText>1</followText>
             <offset x="3.91797" y="-3.17539"/>
             <text>In mässiger, ruhiger Bewegung</text>
@@ -1637,7 +1710,7 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
           <Spanner type="HairPin">
             <HairPin>
               <subtype>2</subtype>
-              <endText/>
+              <endText></endText>
               <visible>0</visible>
               <Segment>
                 <subtype>1</subtype>
@@ -2687,7 +2760,7 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
           <Spanner type="HairPin">
             <HairPin>
               <subtype>2</subtype>
-              <endText/>
+              <endText></endText>
               <visible>0</visible>
               <Segment>
                 <subtype>1</subtype>
@@ -3486,7 +3559,7 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
           <Spanner type="HairPin">
             <HairPin>
               <subtype>3</subtype>
-              <endText/>
+              <endText></endText>
               <visible>0</visible>
               <Segment>
                 <subtype>1</subtype>
@@ -5649,7 +5722,7 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
           <Spanner type="HairPin">
             <HairPin>
               <subtype>3</subtype>
-              <endText/>
+              <endText></endText>
               <visible>0</visible>
               <Segment>
                 <subtype>1</subtype>
@@ -6543,13 +6616,14 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
       <Measure>
         <voice>
           <Tempo>
-            <tempo>2.16667</tempo>
+            <tempo>2.1666699999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
             <minDistance>-999</minDistance>
+            <family>FreeSerif</family>
             <offset x="-0.164366" y="4.35507"/>
-            <text><b/><font face="ScoreText"/><b><font face="FreeSerif"/> = 130</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 130</b></text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
@@ -9467,7 +9541,6 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
             </Spanner>
           <Tuplet>
             <offset x="0.838423" y="-0.649188"/>
-            <direction>up</direction>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <p2 x="0.328732" y="3.61606"/>
@@ -9476,6 +9549,7 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
               <style>Tuplet</style>
               <text>6</text>
               </Number>
+            <direction>up</direction>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -9532,7 +9606,6 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
         <voice>
           <Tuplet>
             <offset x="0.177337" y="-0.72864"/>
-            <direction>down</direction>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <p1 x="0" y="-2.30538"/>
@@ -9541,6 +9614,7 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
               <style>Tuplet</style>
               <text>6</text>
               </Number>
+            <direction>down</direction>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -9745,7 +9819,6 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
             </Spanner>
           <Tuplet>
             <offset x="-0.532012" y="-0.608801"/>
-            <direction>up</direction>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <p2 x="0.328732" y="3.61606"/>
@@ -9754,6 +9827,7 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
               <style>Tuplet</style>
               <text>6</text>
               </Number>
+            <direction>up</direction>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -9803,7 +9877,6 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
         <voice>
           <Tuplet>
             <offset x="0.886686" y="-0.39416"/>
-            <direction>up</direction>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <p2 x="-1.24136" y="3.54674"/>
@@ -9812,6 +9885,7 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
               <style>Tuplet</style>
               <text>6</text>
               </Number>
+            <direction>up</direction>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -9948,7 +10022,6 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
               </Note>
             </Chord>
           <Tuplet>
-            <direction>up</direction>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <p2 x="0.328732" y="3.61606"/>
@@ -9957,6 +10030,7 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
               <style>Tuplet</style>
               <text>6</text>
               </Number>
+            <direction>up</direction>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -10043,11 +10117,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
             <fractions>1/2</fractions>
             </location>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <visible>0</visible>
@@ -10234,11 +10308,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
           </voice>
         <voice>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <visible>0</visible>
@@ -10349,7 +10423,6 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
             </Chord>
           <Tuplet>
             <offset x="0" y="-0.786105"/>
-            <direction>up</direction>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <p2 x="0.506069" y="5.21209"/>
@@ -10358,6 +10431,7 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
               <style>Tuplet</style>
               <text>6</text>
               </Number>
+            <direction>up</direction>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -10450,11 +10524,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
             <fractions>1/2</fractions>
             </location>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <visible>0</visible>
@@ -10626,11 +10700,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
           </voice>
         <voice>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <visible>0</visible>
@@ -10675,11 +10749,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <visible>0</visible>
@@ -10908,11 +10982,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
           </voice>
         <voice>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <visible>0</visible>
@@ -10957,11 +11031,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <visible>0</visible>
@@ -11210,11 +11284,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
           </voice>
         <voice>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <visible>0</visible>
@@ -11259,11 +11333,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <visible>0</visible>
@@ -11438,11 +11512,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
           </voice>
         <voice>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <visible>0</visible>
@@ -11490,11 +11564,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <visible>0</visible>
@@ -11656,11 +11730,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
           </voice>
         <voice>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <visible>0</visible>
@@ -11705,11 +11779,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <visible>0</visible>
@@ -11827,11 +11901,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
           </voice>
         <voice>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <visible>0</visible>
@@ -11976,11 +12050,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
           </voice>
         <voice>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -12029,11 +12103,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -12154,11 +12228,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
           </voice>
         <voice>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -12397,11 +12471,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
             <fractions>1/2</fractions>
             </location>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -12513,11 +12587,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
           </voice>
         <voice>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -12563,11 +12637,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -12649,11 +12723,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
           </voice>
         <voice>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -12699,11 +12773,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -12787,11 +12861,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
           </voice>
         <voice>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -12837,11 +12911,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -12959,11 +13033,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
           </voice>
         <voice>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -13013,11 +13087,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -13122,11 +13196,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
           </voice>
         <voice>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -13176,11 +13250,11 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <numberType>2</numberType>
-            <bracketType>2</bracketType>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
             <baseNote>eighth</baseNote>
+            <numberType>2</numberType>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -20300,9 +20374,9 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
             <HairPin>
               <subtype>2</subtype>
               <dynType>0</dynType>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
-              <continueText/>
+              <continueText></continueText>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="-0.00181093" y="-0.949095"/>
@@ -21173,7 +21247,7 @@ Source: http://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes) </met
           <Spanner type="HairPin">
             <HairPin>
               <subtype>2</subtype>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               </HairPin>
             <next>

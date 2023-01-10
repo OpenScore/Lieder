@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -116,13 +116,13 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger">Transcribed from IMSLP #557090. Source: https://imslp.org/wiki/Special:ReverseLookup/557090</metaTag>
+    <metaTag name="arranger">Transcribed by markpearse from IMSLP #557090.  Source: https://imslp.org/wiki/Special:ReverseLookup/557090</metaTag>
     <metaTag name="composer">Pauline Viardot</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2021-03-02</metaTag>
     <metaTag name="lyricist">Victor Wilder</metaTag>
     <metaTag name="movementNumber">5</metaTag>
-    <metaTag name="movementTitle">Gentilles hirondelles</metaTag>
+    <metaTag name="movementTitle">Gentilles hirondelles  (VWV 1107)</metaTag>
     <metaTag name="platform"></metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/6641060</metaTag>
@@ -267,15 +267,17 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>19</height>
-        <bottomGap>15.7895</bottomGap>
+        <height>20</height>
+        <bottomGap>14</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>User-1</style>
+          <family>Edwin</family>
           <text>6 Mélodies et une havanaise</text>
           </Text>
         <Text>
           <style>User-2</style>
+          <family>Edwin</family>
           <text>5. Gentilles hirondelles</text>
           </Text>
         <Text>
@@ -288,11 +290,13 @@
           </Text>
         <Text>
           <style>Frame</style>
-          <textLineSpacing>1.4</textLineSpacing>
+          <size>12</size>
           <align>center,top</align>
           <offset x="0" y="15.5"/>
           <text><i><font size="13"></font>“Potessi diventar” - Poésie toscane
-</i><font size="10"></font>(TENOR ou SOPRANO)</text>
+</i><font size="12"></font>VWV1107
+
+<font size="10"></font>(Ténor ou Soprano)</text>
           </Text>
         </VBox>
       <Measure>
@@ -1985,7 +1989,7 @@
           </LayoutBreak>
         <voice>
           <Tempo>
-            <tempo>1.91667</tempo>
+            <tempo>1.9166700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 115</b></text>
@@ -2036,7 +2040,7 @@
         <vspacerDown>9</vspacerDown>
         <voice>
           <Tempo>
-            <tempo>1.86667</tempo>
+            <tempo>1.8666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 112</b></text>
@@ -2070,7 +2074,7 @@
             <durationType>eighth</durationType>
             </Rest>
           <Tempo>
-            <tempo>1.71667</tempo>
+            <tempo>1.7166699999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 103</b></text>
@@ -3487,7 +3491,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.9</tempo>
+            <tempo>1.8999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 114</b></text>
@@ -4025,7 +4029,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.9</tempo>
+            <tempo>1.8999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 114</b></text>
@@ -5903,7 +5907,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.91667</tempo>
+            <tempo>1.9166700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-5"/>
@@ -5952,7 +5956,7 @@
           </LayoutBreak>
         <voice>
           <Tempo>
-            <tempo>1.9</tempo>
+            <tempo>1.8999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-5"/>
@@ -5987,7 +5991,7 @@
             <durationType>eighth</durationType>
             </Rest>
           <Tempo>
-            <tempo>1.88333</tempo>
+            <tempo>1.8833299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-5"/>
@@ -6084,7 +6088,7 @@
             <text>scherzando</text>
             </StaffText>
           <Tempo>
-            <tempo>1.9</tempo>
+            <tempo>1.8999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-5"/>
@@ -7366,7 +7370,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.88333</tempo>
+            <tempo>1.8833299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-5"/>
@@ -7423,7 +7427,7 @@
           </LayoutBreak>
         <voice>
           <Tempo>
-            <tempo>1.86667</tempo>
+            <tempo>1.8666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-5"/>
@@ -7471,7 +7475,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>1.83333</tempo>
+            <tempo>1.8333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-5"/>
@@ -7513,7 +7517,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.9</tempo>
+            <tempo>1.8999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-5"/>
@@ -8532,7 +8536,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.9</tempo>
+            <tempo>1.8999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 114</b></text>
@@ -8730,7 +8734,7 @@
           </LayoutBreak>
         <voice>
           <Tempo>
-            <tempo>1.88333</tempo>
+            <tempo>1.8833299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 113</b></text>
@@ -8862,7 +8866,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>1.86667</tempo>
+            <tempo>1.8666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 112</b></text>

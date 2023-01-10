@@ -10,7 +10,7 @@
       <pageWidth>8.27008</pageWidth>
       <pageHeight>11.6902</pageHeight>
       <pagePrintableWidth>7.48268</pagePrintableWidth>
-      <maxSystemDistance>25</maxSystemDistance>
+      <maxSystemDistance>30</maxSystemDistance>
       <lyricsMinDistance>0.25</lyricsMinDistance>
       <lyricsDashMaxDistance>10</lyricsDashMaxDistance>
       <lyricsMelismaPad>0.5</lyricsMelismaPad>
@@ -111,7 +111,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger">Transcribed from IMSLP #661315. Source: https://imslp.org/wiki/Special:ReverseLookup/661315</metaTag>
+    <metaTag name="arranger">Transcribed by ashmoggs from IMSLP #661315.  Source: https://imslp.org/wiki/Special:ReverseLookup/661315</metaTag>
     <metaTag name="composer">Maria Lindsay [Mrs J. W. Bliss]</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2021-02-21</metaTag>
@@ -472,8 +472,8 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>13</height>
-        <bottomGap>21.8182</bottomGap>
+        <height>14</height>
+        <bottomGap>28</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>

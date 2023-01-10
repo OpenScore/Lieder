@@ -10,6 +10,9 @@
       <pageWidth>8.5</pageWidth>
       <pageHeight>11</pageHeight>
       <pagePrintableWidth>7.7126</pagePrintableWidth>
+      <lyricsMinDistance>0.5</lyricsMinDistance>
+      <lyricsDashMaxDistance>12</lyricsDashMaxDistance>
+      <lyricsMelismaPad>0.4</lyricsMelismaPad>
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
@@ -18,15 +21,13 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger"></metaTag>
+    <metaTag name="arranger">Transcribed by Randall Gremillion from IMSLP #15779.  https://imslp.org/wiki/Special:ReverseLookup/15779</metaTag>
     <metaTag name="composer">Erik Satie</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2020-11-17</metaTag>
     <metaTag name="lyricist">Plato</metaTag>
     <metaTag name="movementNumber">2</metaTag>
     <metaTag name="movementTitle">Bords de L'Ilissus</metaTag>
-    <metaTag name="mscVersion">3.02</metaTag>
-    <metaTag name="originalFormat">mxl</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/6481941</metaTag>
@@ -39,15 +40,16 @@
           <name>stdNormal</name>
           </StaffType>
         </Staff>
-      <trackName>Chant</trackName>
-      <Instrument id="oboe">
-        <longName>CHANT</longName>
-        <trackName>Oboe</trackName>
-        <minPitchP>58</minPitchP>
-        <maxPitchP>96</maxPitchP>
-        <minPitchA>58</minPitchA>
-        <maxPitchA>87</maxPitchA>
-        <instrumentId>wind.reed.oboe</instrumentId>
+      <trackName>Voice</trackName>
+      <Instrument id="voice">
+        <longName>Chant
+<i>Voice</i></longName>
+        <trackName>Voice</trackName>
+        <minPitchP>38</minPitchP>
+        <maxPitchP>84</maxPitchP>
+        <minPitchA>41</minPitchA>
+        <maxPitchA>79</maxPitchA>
+        <instrumentId>voice.vocals</instrumentId>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -92,6 +94,7 @@
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="68"/>
+          <controller ctrl="10" value="42"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>0</midiChannel>
@@ -113,13 +116,13 @@
         </Staff>
       <trackName>Piano</trackName>
       <Instrument id="piano">
-        <longName>PIANO</longName>
+        <longName>Piano</longName>
         <trackName>Acoustic Grand Piano</trackName>
         <instrumentId>keyboard.piano</instrumentId>
         <Channel>
           <program value="0"/>
           <controller ctrl="7" value="99"/>
-          <controller ctrl="10" value="63"/>
+          <controller ctrl="10" value="85"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>1</midiChannel>
@@ -265,6 +268,7 @@
                 <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="68"/>
+                <controller ctrl="10" value="42"/>
                 <synti>Fluid</synti>
                 <midiPort>0</midiPort>
                 <midiChannel>2</midiChannel>
@@ -1236,6 +1240,7 @@
                 <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="68"/>
+                <controller ctrl="10" value="42"/>
                 <synti>Fluid</synti>
                 <midiPort>0</midiPort>
                 <midiChannel>3</midiChannel>
@@ -2733,6 +2738,7 @@
                 <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="68"/>
+                <controller ctrl="10" value="42"/>
                 <synti>Fluid</synti>
                 <midiPort>0</midiPort>
                 <midiChannel>4</midiChannel>
@@ -3187,6 +3193,7 @@
                 <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="68"/>
+                <controller ctrl="10" value="42"/>
                 <synti>Fluid</synti>
                 <midiPort>0</midiPort>
                 <midiChannel>5</midiChannel>
@@ -3421,6 +3428,7 @@
                 <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="68"/>
+                <controller ctrl="10" value="42"/>
                 <synti>Fluid</synti>
                 <midiPort>0</midiPort>
                 <midiChannel>6</midiChannel>
@@ -3582,6 +3590,7 @@
                 <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="68"/>
+                <controller ctrl="10" value="42"/>
                 <synti>Fluid</synti>
                 <midiPort>0</midiPort>
                 <midiChannel>7</midiChannel>
@@ -4347,6 +4356,7 @@
                 <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="68"/>
+                <controller ctrl="10" value="42"/>
                 <synti>Fluid</synti>
                 <midiPort>0</midiPort>
                 <midiChannel>10</midiChannel>
@@ -4577,6 +4587,7 @@
                 <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="68"/>
+                <controller ctrl="10" value="42"/>
                 <synti>Fluid</synti>
                 <midiPort>0</midiPort>
                 <midiChannel>8</midiChannel>
@@ -5356,6 +5367,7 @@
                 <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="68"/>
+                <controller ctrl="10" value="42"/>
                 <synti>Fluid</synti>
                 <midiPort>0</midiPort>
                 <midiChannel>11</midiChannel>
@@ -5516,6 +5528,7 @@
                 <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="68"/>
+                <controller ctrl="10" value="42"/>
                 <synti>Fluid</synti>
                 <midiPort>0</midiPort>
                 <midiChannel>12</midiChannel>
@@ -6428,6 +6441,7 @@
                 <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="68"/>
+                <controller ctrl="10" value="42"/>
                 <synti>Fluid</synti>
                 <midiPort>0</midiPort>
                 <midiChannel>13</midiChannel>
@@ -7259,6 +7273,7 @@
                 <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="68"/>
+                <controller ctrl="10" value="42"/>
                 <synti>Fluid</synti>
                 <midiPort>0</midiPort>
                 <midiChannel>14</midiChannel>
@@ -7975,6 +7990,7 @@
                 <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="68"/>
+                <controller ctrl="10" value="42"/>
                 <synti>Fluid</synti>
                 <midiPort>0</midiPort>
                 <midiChannel>15</midiChannel>
@@ -10707,6 +10723,7 @@
                 <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="68"/>
+                <controller ctrl="10" value="42"/>
                 <synti>Fluid</synti>
                 <midiPort>1</midiPort>
                 <midiChannel>0</midiChannel>
@@ -10897,6 +10914,7 @@
                 <controller ctrl="0" value="0"/>
                 <controller ctrl="32" value="17"/>
                 <program value="68"/>
+                <controller ctrl="10" value="42"/>
                 <synti>Fluid</synti>
                 <midiPort>1</midiPort>
                 <midiChannel>1</midiChannel>
@@ -38912,7 +38930,7 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>20.7499</vspacerDown>
+        <vspacerDown>17.7499</vspacerDown>
         <voice>
           <Rest>
             <visible>0</visible>

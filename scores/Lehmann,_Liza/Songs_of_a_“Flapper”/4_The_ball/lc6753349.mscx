@@ -111,7 +111,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger">Transcribed from IMSLP #627144. Source: https://imslp.org/wiki/Special:ReverseLookup/627144</metaTag>
+    <metaTag name="arranger">Transcribed by flutemouse from IMSLP #627144.  Source: https://imslp.org/wiki/Special:ReverseLookup/627144</metaTag>
     <metaTag name="composer">Liza Lehmann</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2021-05-02</metaTag>
@@ -332,7 +332,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>12</height>
         <bottomGap>13.5337</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <linkedMain/>
@@ -4091,7 +4091,7 @@
               <linkedMain/>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-3.5"/>
+                <offset x="0" y="-4.5"/>
                 <off2 x="0" y="0"/>
                 <autoplace>0</autoplace>
                 </Segment>
@@ -4109,7 +4109,7 @@
               <lineWidth>0.0675046</lineWidth>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-1.5"/>
+                <offset x="0" y="-1.9"/>
                 <off2 x="0" y="0"/>
                 <autoplace>0</autoplace>
                 </Segment>
@@ -4201,6 +4201,12 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Beam>
+            <Fragment>
+              <y1>-1.5</y1>
+              <y2>-1.75</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <linkedMain/>
             <durationType>16th</durationType>
@@ -4478,7 +4484,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <linkedMain/>
-              <text>sclose</text>
+              <text>close</text>
               </Lyrics>
             <Articulation>
               <subtype>articTenutoAbove</subtype>
@@ -4690,6 +4696,11 @@
               <beginText>poco cresc.</beginText>
               <placement>above</placement>
               <linkedMain/>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-2"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -5687,7 +5698,7 @@
           <StaffText>
             <linkedMain/>
             <style>Expression</style>
-            <text>con brio.</text>
+            <text>con brio</text>
             </StaffText>
           <Chord>
             <linkedMain/>
@@ -7367,7 +7378,8 @@
               <subtype>2</subtype>
               <endText></endText>
               <lineVisible>0</lineVisible>
-              <beginText>molto piu cresc.</beginText>
+              <beginText>molto più cresc.  </beginText>
+              <continueText>(cresc.)  </continueText>
               <Segment>
                 <subtype>0</subtype>
                 <offset x="0" y="5"/>
@@ -7466,12 +7478,13 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
+            <offset x="0" y="3.6"/>
             </Dynamic>
           <StaffText>
             <autoplace>0</autoplace>
             <style>Expression</style>
             <placement>below</placement>
-            <offset x="2.5" y="3.5"/>
+            <offset x="2.5" y="3.7"/>
             <text>con brio</text>
             </StaffText>
           <Spanner type="HairPin">
@@ -8384,6 +8397,7 @@
               <tpc>16</tpc>
               </Note>
             <Arpeggio>
+              <visible>0</visible>
               <subtype>0</subtype>
               </Arpeggio>
             </Chord>
@@ -8409,6 +8423,7 @@
               </Note>
             <Arpeggio>
               <autoplace>0</autoplace>
+              <visible>0</visible>
               <subtype>0</subtype>
               <userLen1>2</userLen1>
               </Arpeggio>
@@ -8523,7 +8538,10 @@
             <subtype>mf</subtype>
             <velocity>80</velocity>
             <autoplace>0</autoplace>
-            <offset x="-2" y="5"/>
+            <offset x="-2.5" y="5"/>
+            <frameType>1</frameType>
+            <frameFgColor r="255" g="255" b="255" a="255"/>
+            <frameBgColor r="255" g="255" b="255" a="255"/>
             </Dynamic>
           <Rest>
             <autoplace>0</autoplace>
@@ -11045,6 +11063,9 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="0">
+                    <o4 x="0" y="0.3"/>
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -11275,7 +11296,7 @@
           <StaffText>
             <style>Expression</style>
             <placement>below</placement>
-            <text>con brio.</text>
+            <text>con brio</text>
             </StaffText>
           <Rest>
             <durationType>quarter</durationType>
@@ -11662,6 +11683,11 @@ voce</text>
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8va</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-0.5" y="-3"/>
+                <off2 x="0.5" y="0"/>
+                </Segment>
               </Ottava>
             <next>
               <location>
@@ -11674,6 +11700,10 @@ voce</text>
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o2 x="1.6" y="-0.9"/>
+                  <o3 x="1.6" y="-0.9"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -12435,8 +12465,8 @@ voce</text>
               <lineWidth>0.0956637</lineWidth>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-1"/>
-                <off2 x="-5" y="-4"/>
+                <offset x="2" y="-1.5"/>
+                <off2 x="-8" y="-3.5"/>
                 <autoplace>0</autoplace>
                 </Segment>
               </TextLine>
@@ -13234,7 +13264,7 @@ voce</text>
             <Arpeggio>
               <autoplace>0</autoplace>
               <subtype>0</subtype>
-              <userLen1>7</userLen1>
+              <userLen1>13.1487</userLen1>
               </Arpeggio>
             </Chord>
           </voice>
@@ -20818,7 +20848,7 @@ voce</text>
               <Lyrics>
                 <linked>
                   </linked>
-                <text>sclose</text>
+                <text>close</text>
                 </Lyrics>
               <Articulation>
                 <subtype>articTenutoBelow</subtype>
@@ -22238,7 +22268,7 @@ voce</text>
               <linked>
                 </linked>
               <style>Expression</style>
-              <text>con brio.</text>
+              <text>con brio</text>
               </StaffText>
             <Chord>
               <linked>

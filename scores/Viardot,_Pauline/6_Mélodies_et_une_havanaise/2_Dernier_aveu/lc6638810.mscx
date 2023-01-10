@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -42,6 +42,8 @@
       <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
       <chordSymbolBFontSize>11</chordSymbolBFontSize>
       <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
+      <hideEmptyStaves>1</hideEmptyStaves>
+      <dontHidStavesInFirstSystm>0</dontHidStavesInFirstSystm>
       <slurMidWidth>0.21</slurMidWidth>
       <musicalSymbolFont>Leland</musicalSymbolFont>
       <musicalTextFont>Leland Text</musicalTextFont>
@@ -112,13 +114,13 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger">Transcribed from IMSLP #557087. Source: https://imslp.org/wiki/Special:ReverseLookup/557087</metaTag>
+    <metaTag name="arranger">Transcribed by ashmoggs from IMSLP #557087.  Source: https://imslp.org/wiki/Special:ReverseLookup/557087</metaTag>
     <metaTag name="composer">Pauline Viardot</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2021-03-01</metaTag>
     <metaTag name="lyricist">Théophile Gautier</metaTag>
     <metaTag name="movementNumber">2</metaTag>
-    <metaTag name="movementTitle">Dernier aveu</metaTag>
+    <metaTag name="movementTitle">Dernier aveu  (VWV 1104)</metaTag>
     <metaTag name="platform"></metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/6638810</metaTag>
@@ -263,16 +265,20 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>14</height>
+        <height>18</height>
         <bottomGap>14</bottomGap>
         <Text>
           <style>User-1</style>
+          <family>Edwin</family>
           <text>6 Mélodies et une havanaise</text>
           </Text>
         <Text>
           <style>User-2</style>
+          <family>Edwin</family>
+          <textLineSpacing>1.1</textLineSpacing>
           <text>2. Dernier aveu
-<font size="12"></font>(Baryton ou Mezzo-soprano)</text>
+<font size="12"></font>VWV 1104
+(Baryton ou Mezzo-soprano)</text>
           </Text>
         <Text>
           <style>Composer</style>
@@ -295,7 +301,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.53333</tempo>
+            <tempo>1.5333300000000001</tempo>
             <text>Andante</text>
             </Tempo>
           <Rest>
@@ -628,6 +634,11 @@
             <HairPin>
               <subtype>0</subtype>
               <placement>above</placement>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-2.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -672,7 +683,7 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-3.5"/>
+                <offset x="0" y="-2.5"/>
                 <off2 x="-1.5" y="0"/>
                 </Segment>
               </HairPin>
@@ -932,6 +943,11 @@
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-2.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -980,7 +996,7 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="2.6" y="-3.5"/>
+                <offset x="0" y="-2.5"/>
                 <off2 x="-1.5" y="0"/>
                 </Segment>
               </HairPin>

@@ -687,15 +687,6 @@
           <offset x="0" y="0.275"/>
           <text>Lady on the Silver Throne</text>
           </Text>
-        <Text>
-          <autoplace>0</autoplace>
-          <style>Frame</style>
-          <size>8</size>
-          <color r="0" g="0" b="255" a="255"/>
-          <offset x="-6.5" y="-7.8"/>
-          <text>TRANSCRIBER &amp; REVIEWER:  please use &quot;Choir Aahs Expr.&quot; in the Mixer for all voices, and mute the Piano part in the Mixer after transcribing the song: 
-this work is intended to be performed <i>a cappella</i></text>
-          </Text>
         </VBox>
       <Measure>
         <voice>

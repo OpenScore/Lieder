@@ -1,33 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.01">
-  <programVersion>3.2.3</programVersion>
-  <programRevision>d2d863f</programRevision>
+<museScore version="3.02">
+  <programVersion>3.6.2</programVersion>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.27008</pageWidth>
-      <pageHeight>11.6902</pageHeight>
-      <pagePrintableWidth>7.48268</pagePrintableWidth>
-      <akkoladeDistance>8</akkoladeDistance>
+      <pageWidth>8.26772</pageWidth>
+      <pageHeight>11.6929</pageHeight>
+      <pagePrintableWidth>7.08661</pagePrintableWidth>
+      <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
+      <pageOddLeftMargin>0.590551</pageOddLeftMargin>
+      <pageEvenTopMargin>0.590551</pageEvenTopMargin>
+      <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
+      <pageOddTopMargin>0.590551</pageOddTopMargin>
+      <pageOddBottomMargin>0.590551</pageOddBottomMargin>
+      <staffLowerBorder>5</staffLowerBorder>
+      <enableVerticalSpread>1</enableVerticalSpread>
+      <lyricsMinDistance>0.6</lyricsMinDistance>
+      <lyricsDashMaxDistance>10</lyricsDashMaxDistance>
       <lyricsDashForce>0</lyricsDashForce>
+      <lyricsMelismaPad>0.5</lyricsMelismaPad>
       <lyricsOddFramePadding>0</lyricsOddFramePadding>
       <lyricsOddFrameWidth>0</lyricsOddFrameWidth>
-      <lyricsOddFramePadding>0</lyricsOddFramePadding>
-      <lyricsOddFrameWidth>0</lyricsOddFrameWidth>
-      <doubleBarDistance>0.46</doubleBarDistance>
-      <endBarDistance>0.65</endBarDistance>
       <clefLeftMargin>0.64</clefLeftMargin>
       <clefKeyRightMargin>1.75</clefKeyRightMargin>
-      <barNoteDistance>1.2</barNoteDistance>
       <measureSpacing>1</measureSpacing>
-      <lastSystemFillLimit>0</lastSystemFillLimit>
+      <lastSystemFillLimit>0.1</lastSystemFillLimit>
+      <hairpinHeight>1.3</hairpinHeight>
       <hairpinFramePadding>0</hairpinFramePadding>
       <hairpinFrameWidth>0</hairpinFrameWidth>
       <pedalFramePadding>0</pedalFramePadding>
       <pedalFrameWidth>0</pedalFrameWidth>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <harmonyPlay>0</harmonyPlay>
       <chordSymbolAFramePadding>0</chordSymbolAFramePadding>
       <chordSymbolAFrameWidth>0</chordSymbolAFrameWidth>
       <voltaFramePadding>0</voltaFramePadding>
@@ -35,6 +42,7 @@
       <ottavaFontStyle>2</ottavaFontStyle>
       <ottavaFramePadding>0</ottavaFramePadding>
       <ottavaFrameWidth>0</ottavaFrameWidth>
+      <tupletMaxSlope>0</tupletMaxSlope>
       <tupletFramePadding>0</tupletFramePadding>
       <tupletFrameWidth>0</tupletFrameWidth>
       <textLineFramePadding>0</textLineFramePadding>
@@ -74,7 +82,6 @@
       <partInstrumentFrameRound>25</partInstrumentFrameRound>
       <dynamicsFramePadding>0</dynamicsFramePadding>
       <dynamicsFrameWidth>0</dynamicsFrameWidth>
-      <expressionFontSize>12</expressionFontSize>
       <expressionFramePadding>0</expressionFramePadding>
       <expressionFrameWidth>0</expressionFrameWidth>
       <tempoFramePadding>0</tempoFramePadding>
@@ -82,7 +89,6 @@
       <tempoFrameRound>25</tempoFrameRound>
       <metronomeFramePadding>0</metronomeFramePadding>
       <metronomeFrameWidth>0</metronomeFrameWidth>
-      <measureNumberAlign>center,bottom</measureNumberAlign>
       <measureNumberFramePadding>0</measureNumberFramePadding>
       <measureNumberFrameWidth>0</measureNumberFrameWidth>
       <translatorAlign>center,top</translatorAlign>
@@ -93,7 +99,6 @@
       <systemFrameWidth>0</systemFrameWidth>
       <systemFrameRound>25</systemFrameRound>
       <staffAlign>left,top</staffAlign>
-      <staffPosAbove x="0" y="-4"></staffPosAbove>
       <staffFramePadding>0</staffFramePadding>
       <staffFrameWidth>0</staffFrameWidth>
       <staffFrameRound>25</staffFrameRound>
@@ -120,23 +125,24 @@
       <instrumentChangeAlign>left,bottom</instrumentChangeAlign>
       <instrumentChangeFramePadding>0</instrumentChangeFramePadding>
       <instrumentChangeFrameWidth>0</instrumentChangeFrameWidth>
-      <user1Name>Repeat Text</user1Name>
-      <user1FontSize>12</user1FontSize>
-      <user1Align>right,baseline</user1Align>
+      <user1Name>Work Title</user1Name>
+      <user1FontSize>14</user1FontSize>
+      <user1FontSpatiumDependent>0</user1FontSpatiumDependent>
+      <user1Align>center,top</user1Align>
       <user1FramePadding>0</user1FramePadding>
       <user1FrameWidth>0</user1FrameWidth>
-      <user2Name>Work Title</user2Name>
-      <user2FontSize>14</user2FontSize>
+      <user2Name>Movement Title</user2Name>
+      <user2FontSize>22</user2FontSize>
       <user2FontSpatiumDependent>0</user2FontSpatiumDependent>
       <user2Align>center,top</user2Align>
-      <user2Offset x="0" y="1"></user2Offset>
+      <user2Offset x="0" y="7"/>
       <user2FramePadding>0</user2FramePadding>
       <user2FrameWidth>0</user2FrameWidth>
       <user3Name>Movement Title</user3Name>
       <user3FontSize>24</user3FontSize>
       <user3FontSpatiumDependent>0</user3FontSpatiumDependent>
       <user3Align>center,top</user3Align>
-      <user3Offset x="0" y="7"></user3Offset>
+      <user3Offset x="0" y="7"/>
       <user3FramePadding>0</user3FramePadding>
       <user3FrameWidth>0</user3FrameWidth>
       <user4Name>Dynamics (Vocal Staff)</user4Name>
@@ -145,25 +151,26 @@
       <user4Align>right,baseline</user4Align>
       <user4FramePadding>0</user4FramePadding>
       <user4FrameWidth>0</user4FrameWidth>
-      <Spatium>1.3</Spatium>
+      <Spatium>1.28</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger"></metaTag>
+    <metaTag name="arranger">Transcribed by DanielR from IMSLP #16897.  Source:
+https://imslp.org/wiki/Special:ReverseLookup/154241
+</metaTag>
     <metaTag name="composer">Ernest Chausson</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2018-07-15</metaTag>
     <metaTag name="lyricist">Leconte de Lisle</metaTag>
     <metaTag name="movementNumber">1</metaTag>
     <metaTag name="movementTitle">Nanny</metaTag>
-    <metaTag name="originalFormat">musicxml</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/5077645</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber">2</metaTag>
+    <metaTag name="workNumber">Op.2</metaTag>
     <metaTag name="workTitle">7 Mélodies, Op.2</metaTag>
     <Part>
       <Staff id="1">
@@ -171,8 +178,9 @@
           </StaffType>
         </Staff>
       <trackName>Voice</trackName>
-      <Instrument>
-        <longName>Voice</longName>
+      <Instrument id="voice">
+        <longName>Chant
+<i>Voice</i></longName>
         <trackName>Voice</trackName>
         <minPitchP>36</minPitchP>
         <maxPitchP>94</maxPitchP>
@@ -208,8 +216,10 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <controller ctrl="32" value="17"></controller>
-          <program value="68"></program>
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="68"/>
+          <controller ctrl="10" value="42"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -218,7 +228,7 @@
       <Staff id="2">
         <StaffType group="pitched">
           </StaffType>
-        <bracket type="1" span="2" col="0"></bracket>
+        <bracket type="1" span="2" col="0"/>
         <barLineSpan>1</barLineSpan>
         </Staff>
       <Staff id="3">
@@ -227,7 +237,7 @@
         <defaultClef>F</defaultClef>
         </Staff>
       <trackName>Piano</trackName>
-      <Instrument>
+      <Instrument id="piano">
         <longName>Piano</longName>
         <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
@@ -265,20 +275,26 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <program value="0"></program>
+          <program value="0"/>
+          <controller ctrl="10" value="85"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10.6</height>
+        <height>16</height>
+        <bottomGap>14</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>User-2</style>
+          <size>16</size>
+          <offset x="0" y="0.5"/>
           <text>7 Mélodies, Op.2</text>
           </Text>
         <Text>
           <style>User-3</style>
+          <offset x="0" y="8"/>
           <text>1. Nanny</text>
           </Text>
         <Text>
@@ -292,6 +308,7 @@
         </VBox>
       <HBox>
         <width>3</width>
+        <boxAutoSize>0</boxAutoSize>
         </HBox>
       <Measure>
         <voice>
@@ -404,7 +421,7 @@
               <syllabic>end</syllabic>
               <ticks>480</ticks>
               <ticks_f>1/4</ticks_f>
-              <text>miers,</text>
+              <text>- miers,</text>
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
@@ -621,6 +638,7 @@
           </voice>
         </Measure>
       <Measure>
+        <stretch>0</stretch>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -680,6 +698,7 @@
           </voice>
         </Measure>
       <Measure>
+        <stretch>0</stretch>
         <voice>
           <Spanner type="HairPin">
             <HairPin>
@@ -738,6 +757,7 @@
           </voice>
         </Measure>
       <Measure>
+        <stretch>0</stretch>
         <voice>
           <Dynamic>
             <subtype>f</subtype>
@@ -806,6 +826,7 @@
           </voice>
         </Measure>
       <Measure>
+        <stretch>0</stretch>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -861,13 +882,14 @@
               </Note>
             </Chord>
           <Tuplet>
-            <direction>up</direction>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
             </Tuplet>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -911,7 +933,7 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -920,7 +942,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text>va</text>
+              <text>- va</text>
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
@@ -1035,7 +1057,7 @@
             <text>rit.</text>
             </StaffText>
           <Tempo>
-            <tempo>0.933333</tempo>
+            <tempo>0.93333299999999997</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 56</text>
@@ -1047,7 +1069,7 @@
             <durationType>eighth</durationType>
             </Rest>
           <Tempo>
-            <tempo>0.9</tempo>
+            <tempo>0.90000000000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 54</text>
@@ -1079,7 +1101,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>d&#39;é</text>
+              <text>d'é</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1091,7 +1113,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.866667</tempo>
+            <tempo>0.86666699999999997</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 52</text>
@@ -1148,7 +1170,7 @@
             <text>Poco</text>
             </StaffText>
           <Tempo>
-            <tempo>1.16667</tempo>
+            <tempo>1.1666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 70</text>
@@ -1168,7 +1190,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>12.3077</vspacerDown>
         <voice>
           <StaffText>
             <style>Expression</style>
@@ -1178,7 +1199,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>temps,</text>
+              <text>- temps,</text>
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
@@ -1459,13 +1480,14 @@
               </Note>
             </Chord>
           <Tuplet>
-            <direction>up</direction>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
             </Tuplet>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -1506,7 +1528,7 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -1516,7 +1538,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>sant,</text>
+              <text>- sant,</text>
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
@@ -1842,8 +1864,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o2 x="0" y="-0.246154"></o2>
-                    <o3 x="0" y="-0.246154"></o3>
+                    <o2 x="0" y="-0.182857"/>
+                    <o3 x="0" y="-0.182857"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -1860,16 +1882,17 @@
             <fractions>-3/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.933333</tempo>
+            <tempo>0.93333299999999997</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <offset x="0" y="-4"/>
             <text><sym>metNoteQuarterUp</sym> = 56</text>
             </Tempo>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Tempo>
-            <tempo>0.866667</tempo>
+            <tempo>0.86666699999999997</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 52</text>
@@ -1907,7 +1930,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>L&#39;an</text>
+              <text>L'an</text>
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
@@ -1958,7 +1981,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>d&#39;ai</text>
+              <text>d'ai</text>
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2041,8 +2064,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o2 x="0" y="-0.492308"></o2>
-                    <o3 x="0" y="-0.492308"></o3>
+                    <o2 x="0" y="-0.365715"/>
+                    <o3 x="0" y="-0.365715"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -2231,7 +2254,7 @@
               <syllabic>end</syllabic>
               <ticks>480</ticks>
               <ticks_f>1/4</ticks_f>
-              <text>rez!</text>
+              <text>- rez!</text>
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2284,7 +2307,7 @@
             <text><sym>dynamicForte</sym></text>
             </Dynamic>
           <Tempo>
-            <tempo>0.966667</tempo>
+            <tempo>0.96666700000000005</tempo>
             <style>Expression</style>
             <text>en retenant</text>
             </Tempo>
@@ -2334,7 +2357,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>l&#39;ai</text>
+              <text>l'ai</text>
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2365,8 +2388,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o2 x="0" y="0.738462"></o2>
-                    <o3 x="0" y="0.738462"></o3>
+                    <o2 x="0" y="0.548572"/>
+                    <o3 x="0" y="0.548572"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -2380,7 +2403,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.933333</tempo>
+            <tempo>0.93333299999999997</tempo>
             <style>Expression</style>
             <text>rit.</text>
             </Tempo>
@@ -2407,7 +2430,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>0.833333</tempo>
+            <tempo>0.83333299999999999</tempo>
             <style>Expression</style>
             <text>un peu plus lent</text>
             </Tempo>
@@ -2481,13 +2504,14 @@
               </Note>
             </Chord>
           <Tuplet>
-            <direction>up</direction>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
             </Tuplet>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -2530,7 +2554,7 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -2555,7 +2579,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>d&#39;el</text>
+              <text>d'el</text>
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2603,15 +2627,15 @@
               <syllabic>end</syllabic>
               <ticks>480</ticks>
               <ticks_f>1/4</ticks_f>
-              <text>ny</text>
+              <text>- ny</text>
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o2 x="0" y="-0.492308"></o2>
-                    <o3 x="0" y="-0.492308"></o3>
+                    <o2 x="0" y="-0.365715"/>
+                    <o3 x="0" y="-0.365715"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -2625,7 +2649,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.8</tempo>
+            <tempo>0.80000000000000004</tempo>
             <style>Expression</style>
             <text>en retenant</text>
             </Tempo>
@@ -2669,7 +2693,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>0.766667</tempo>
+            <tempo>0.76666699999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 46</text>
@@ -3151,8 +3175,8 @@
           <Beam>
             <StemDirection>down</StemDirection>
             <Fragment>
-              <y1>8.30769</y1>
-              <y2>10.4615</y2>
+              <y1>6.17143</y1>
+              <y2>7.7714</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -3719,7 +3743,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="-5"></o4>
+                  <o4 x="0" y="-3.71429"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -3769,7 +3793,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="-5"></o4>
+                  <o4 x="0" y="-3.71429"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -3819,7 +3843,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="-5"></o4>
+                  <o4 x="0" y="-3.71429"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -5338,7 +5362,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="-5"></o4>
+                  <o4 x="0" y="-3.71429"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -5420,7 +5444,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="-6"></o4>
+                  <o4 x="0" y="-4.45714"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -5479,7 +5503,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="-6"></o4>
+                  <o4 x="0" y="-4.45714"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -5532,7 +5556,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="4.8"></o1>
+                  <o1 x="0" y="3.56571"/>
                   </SlurSegment>
                 <up>down</up>
                 </Slur>
@@ -5594,7 +5618,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="-5"></o4>
+                  <o4 x="0" y="-3.71429"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -5661,7 +5685,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="-6"></o4>
+                  <o4 x="0" y="-4.45714"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -5878,7 +5902,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="-5"></o4>
+                  <o4 x="0" y="-3.71429"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -6010,7 +6034,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="-5"></o4>
+                  <o4 x="0" y="-3.71429"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -6063,7 +6087,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="4"></o1>
+                  <o1 x="0" y="2.97143"/>
                   </SlurSegment>
                 <up>down</up>
                 </Slur>
@@ -6319,7 +6343,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="-5"></o4>
+                  <o4 x="0" y="-3.71429"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -6407,7 +6431,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="-5"></o4>
+                  <o4 x="0" y="-3.71429"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -6465,7 +6489,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="-5"></o4>
+                  <o4 x="0" y="-3.71429"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -6518,7 +6542,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0" y="4"></o1>
+                  <o1 x="0" y="2.97143"/>
                   </SlurSegment>
                 <up>down</up>
                 </Slur>
@@ -6579,7 +6603,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="-5"></o4>
+                  <o4 x="0" y="-3.71429"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -7098,7 +7122,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="1"></o4>
+                  <o4 x="0" y="0.742857"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -7269,7 +7293,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>11.0769</vspacerDown>
         <voice>
           <Dynamic>
             <subtype>mf</subtype>
@@ -7491,8 +7514,8 @@
         <voice>
           <Beam>
             <Fragment>
-              <y1>7.07692</y1>
-              <y2>9.84615</y2>
+              <y1>5.25714</y1>
+              <y2>7.31428</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -7553,8 +7576,8 @@
           <Beam>
             <StemDirection>down</StemDirection>
             <Fragment>
-              <y1>7.38462</y1>
-              <y2>9.53846</y2>
+              <y1>5.48572</y1>
+              <y2>7.08571</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -7608,8 +7631,8 @@
           <Beam>
             <StemDirection>down</StemDirection>
             <Fragment>
-              <y1>7.38462</y1>
-              <y2>9.53846</y2>
+              <y1>5.48572</y1>
+              <y2>7.08571</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -7663,7 +7686,7 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>11.0769</vspacerDown>
+        <vspacerDown>8.22855</vspacerDown>
         <voice>
           <Dynamic>
             <subtype>mp</subtype>
@@ -8209,7 +8232,7 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>11.4462</vspacerDown>
+        <vspacerDown>8.50289</vspacerDown>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -8785,6 +8808,8 @@
           <Dynamic>
             <subtype>other-dynamics</subtype>
             <velocity>49</velocity>
+            <family>FreeSerif</family>
+            <offset x="4" y="2.5"/>
             <text><i></i><font face="ScoreText"></font><i><font face="FreeSerif"></font> un peu plus lent</i></text>
             </Dynamic>
           <Beam>
@@ -9190,7 +9215,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="1" y="0"></o1>
+                  <o1 x="0.742857" y="0"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -9244,7 +9269,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="1" y="0"></o1>
+                  <o1 x="0.742857" y="0"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -9295,7 +9320,7 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>13.4154</vspacerDown>
+        <vspacerDown>9.96573</vspacerDown>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -9432,7 +9457,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="1" y="0"></o1>
+                  <o1 x="0.742857" y="0"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -9520,7 +9545,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="1" y="0"></o1>
+                  <o1 x="0.742857" y="0"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -9577,7 +9602,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="1" y="0"></o1>
+                  <o1 x="0.742857" y="0"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -9634,8 +9659,8 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="1" y="0"></o1>
-                  <o4 x="0" y="-8"></o4>
+                  <o1 x="0.742857" y="0"/>
+                  <o4 x="0" y="-5.94286"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
@@ -9721,11 +9746,10 @@
               <endHookType>1</endHookType>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <visible>0</visible>
-              <lineWidth>0.184615</lineWidth>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="2.97143"/>
+                <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
               </Pedal>
@@ -9740,6 +9764,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9785,12 +9810,13 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9836,7 +9862,7 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Spanner type="Pedal">
             <prev>
               <location>
@@ -9849,11 +9875,10 @@
               <endHookType>1</endHookType>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <visible>0</visible>
-              <lineWidth>0.184615</lineWidth>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="2.97143"/>
+                <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
               </Pedal>
@@ -9869,6 +9894,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9914,7 +9940,7 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -9932,11 +9958,10 @@
               <endHookType>1</endHookType>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <visible>0</visible>
-              <lineWidth>0.184615</lineWidth>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="2.97143"/>
+                <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
               </Pedal>
@@ -9953,6 +9978,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10001,7 +10027,7 @@
               <tpc>24</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -10009,6 +10035,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10054,7 +10081,7 @@
               <tpc>24</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Spanner type="Pedal">
             <prev>
               <location>
@@ -10067,11 +10094,10 @@
               <endHookType>1</endHookType>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <visible>0</visible>
-              <lineWidth>0.184615</lineWidth>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="2.97143"/>
+                <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
               </Pedal>
@@ -10089,6 +10115,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10137,7 +10164,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -10155,11 +10182,10 @@
               <endHookType>1</endHookType>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <visible>0</visible>
-              <lineWidth>0.184615</lineWidth>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="2.97143"/>
+                <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
               </Pedal>
@@ -10176,6 +10202,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10221,7 +10248,7 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -10229,6 +10256,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10274,7 +10302,7 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Spanner type="Pedal">
             <prev>
               <location>
@@ -10287,11 +10315,10 @@
               <endHookType>1</endHookType>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <visible>0</visible>
-              <lineWidth>0.184615</lineWidth>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="2.97143"/>
+                <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
               </Pedal>
@@ -10309,6 +10336,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10338,11 +10366,10 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>12.3077</vspacerDown>
         <voice>
           <Spanner type="Pedal">
             <prev>
@@ -10357,11 +10384,10 @@
               <endHookType>1</endHookType>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <visible>0</visible>
-              <lineWidth>0.184615</lineWidth>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="2.97143"/>
+                <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
               </Pedal>
@@ -10378,6 +10404,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10426,7 +10453,7 @@
               <tpc>24</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -10434,6 +10461,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10479,7 +10507,7 @@
               <tpc>24</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Spanner type="Pedal">
             <prev>
               <location>
@@ -10492,11 +10520,10 @@
               <endHookType>1</endHookType>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <visible>0</visible>
-              <lineWidth>0.184615</lineWidth>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="2.97143"/>
+                <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
               </Pedal>
@@ -10514,6 +10541,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10562,7 +10590,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -10580,11 +10608,10 @@
               <endHookType>1</endHookType>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <visible>0</visible>
-              <lineWidth>0.184615</lineWidth>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="2.97143"/>
+                <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
               </Pedal>
@@ -10601,6 +10628,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10646,7 +10674,7 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -10654,6 +10682,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10699,7 +10728,7 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -10707,6 +10736,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10752,7 +10782,7 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -10771,6 +10801,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10820,7 +10851,7 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -10828,6 +10859,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10874,7 +10906,7 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -10882,6 +10914,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10928,7 +10961,7 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -10948,11 +10981,10 @@
               <endHookType>1</endHookType>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
               <visible>0</visible>
-              <lineWidth>0.184615</lineWidth>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"></offset>
-                <off2 x="0" y="0"></off2>
+                <offset x="0" y="2.97143"/>
+                <off2 x="0" y="0"/>
                 <visible>0</visible>
                 </Segment>
               </Pedal>
@@ -10969,6 +11001,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11017,7 +11050,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -11025,6 +11058,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11070,7 +11104,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -11078,6 +11112,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11107,7 +11142,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -11126,6 +11161,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11171,7 +11207,7 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -11179,6 +11215,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11224,7 +11261,7 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -11232,6 +11269,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11277,7 +11315,7 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -11289,6 +11327,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11334,7 +11373,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -11342,6 +11381,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11387,7 +11427,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -11395,6 +11435,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11440,7 +11481,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -11459,6 +11500,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11507,7 +11549,7 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -11515,6 +11557,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11560,7 +11603,7 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -11568,6 +11611,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11597,7 +11641,7 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -11620,6 +11664,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11665,7 +11710,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -11673,6 +11718,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11722,7 +11768,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -11730,6 +11776,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11778,7 +11825,7 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -11790,6 +11837,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11838,7 +11886,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -11846,6 +11894,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11891,7 +11940,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -11899,6 +11948,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11944,7 +11994,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -11956,6 +12006,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -12004,7 +12055,7 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -12012,6 +12063,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -12061,7 +12113,7 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -12069,6 +12121,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -12117,7 +12170,7 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -12129,6 +12182,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -12174,7 +12228,7 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -12182,6 +12236,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -12227,7 +12282,7 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -12235,6 +12290,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -12293,7 +12349,7 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -12381,8 +12437,8 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o2 x="0" y="-0.246154"></o2>
-                    <o3 x="0" y="-0.246154"></o3>
+                    <o2 x="0" y="-0.182857"/>
+                    <o3 x="0" y="-0.182857"/>
                     </TieSegment>
                   <up>down</up>
                   </Tie>
@@ -12522,7 +12578,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0" y="6"></o4>
+                  <o4 x="0" y="4.45714"/>
                   </SlurSegment>
                 <up>down</up>
                 </Slur>
@@ -12659,7 +12715,7 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0.492308" y="0"></o1>
+                    <o1 x="0.365715" y="0"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -12743,6 +12799,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -12788,7 +12845,7 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -12796,6 +12853,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -12841,7 +12899,7 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -12849,6 +12907,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -12894,7 +12953,7 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -12906,6 +12965,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -12954,7 +13014,7 @@
               <tpc>24</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -12962,6 +13022,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13007,7 +13068,7 @@
               <tpc>24</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -13015,6 +13076,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13060,7 +13122,7 @@
               <tpc>24</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -13079,6 +13141,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13128,7 +13191,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -13136,6 +13199,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13181,7 +13245,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -13189,6 +13253,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13234,7 +13299,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -13246,6 +13311,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13291,7 +13357,7 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -13299,6 +13365,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13344,7 +13411,7 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -13352,6 +13419,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13397,7 +13465,7 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -13419,6 +13487,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13464,7 +13533,7 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -13472,6 +13541,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13517,7 +13587,7 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -13525,6 +13595,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13570,7 +13641,7 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -13582,6 +13653,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13627,7 +13699,7 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -13635,6 +13707,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13680,7 +13753,7 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -13688,6 +13761,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13733,7 +13807,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -13752,6 +13826,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13803,7 +13878,7 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -13811,6 +13886,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13856,7 +13932,7 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -13864,6 +13940,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13909,7 +13986,7 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -13932,6 +14009,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13984,7 +14062,7 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -13992,6 +14070,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14037,7 +14116,7 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <StaffText>
             <style>Expression</style>
             <text>rit.</text>
@@ -14049,6 +14128,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14094,7 +14174,7 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -14113,6 +14193,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14161,7 +14242,7 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -14169,6 +14250,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14214,7 +14296,7 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -14222,6 +14304,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14267,7 +14350,7 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -14279,6 +14362,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14324,7 +14408,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -14332,6 +14416,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14377,7 +14462,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -14385,6 +14470,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14430,7 +14516,7 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -14453,6 +14539,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14498,7 +14585,7 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -14506,6 +14593,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14551,7 +14639,7 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -14559,6 +14647,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14604,7 +14693,7 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -14616,6 +14705,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14664,7 +14754,7 @@
               <tpc>24</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <StaffText>
             <style>Expression</style>
             <text>en retenant</text>
@@ -14676,6 +14766,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14721,7 +14812,7 @@
               <tpc>24</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -14729,6 +14820,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14777,7 +14869,7 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -14789,6 +14881,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14837,7 +14930,7 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -14845,6 +14938,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14890,17 +14984,18 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           <Tuplet>
             <visible>0</visible>
-            <direction>up</direction>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
             </Tuplet>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -14948,7 +15043,7 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <endTuplet></endTuplet>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -15277,9 +15372,9 @@
               <Spanner type="Tie">
                 <Tie>
                   <TieSegment no="0">
-                    <o1 x="0" y="0.738462"></o1>
-                    <o2 x="0" y="0.492308"></o2>
-                    <o3 x="0" y="0.492308"></o3>
+                    <o1 x="0" y="0.548572"/>
+                    <o2 x="0" y="0.365715"/>
+                    <o3 x="0" y="0.365715"/>
                     </TieSegment>
                   </Tie>
                 <next>

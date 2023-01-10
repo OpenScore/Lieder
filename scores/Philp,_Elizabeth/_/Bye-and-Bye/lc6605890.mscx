@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.1</programVersion>
+  <programVersion>3.6.2</programVersion>
   <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
@@ -113,7 +113,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger">Transcribed from IMSLP #286660. Source: https://imslp.org/wiki/Special:ReverseLookup/286660</metaTag>
+    <metaTag name="arranger">Transcribed by MusiPhil from IMSLP #286660. Source: https://imslp.org/wiki/Special:ReverseLookup/286660</metaTag>
     <metaTag name="composer">Elizabeth Philp</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
     <metaTag name="creationDate">2021-02-11</metaTag>
@@ -263,32 +263,28 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>20.6624</height>
-        <bottomGap>13.2</bottomGap>
+        <height>18</height>
+        <bottomGap>15.5</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <bold>1</bold>
-          <offset x="0.392194" y="3.92194"/>
           <text>Bye-and-Bye</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <bold>1</bold>
-          <offset x="-0.554646" y="3.58788"/>
-          <text>Music by Elizabeth Philp</text>
+          <offset x="-0.554646" y="0.73788"/>
+          <text>Elizabeth Philp</text>
           </Text>
         <Text>
           <style>Lyricist</style>
-          <bold>1</bold>
-          <offset x="0.689226" y="3.35575"/>
-          <text>Words by Edward Litt Laman Blanchard</text>
+          <offset x="0.689226" y="0.20575"/>
+          <text>Edward Litt Laman Blanchard</text>
           </Text>
         <Text>
           <style>Subtitle</style>
           <size>11</size>
           <italic>1</italic>
-          <offset x="0" y="16.2751"/>
           <text>No.35 in Modern Ballads 
 (A Selection of 50 Favourite Songs and Ballads by the Most Eminent Composers)</text>
           </Text>
@@ -301,7 +297,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.9</tempo>
+            <tempo>1.8999999999999999</tempo>
             <text>Moderato</text>
             </Tempo>
           <Rest>

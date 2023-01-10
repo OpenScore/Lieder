@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.01">
-  <programVersion>3.5.2</programVersion>
-  <programRevision>465e7b6</programRevision>
+<museScore version="3.02">
+  <programVersion>3.6.2</programVersion>
+  <programRevision></programRevision>
   <Score>
-    <LayerTag id="0" tag="default"/>
+    <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
@@ -13,106 +13,176 @@
       <pageEvenBottomMargin>0.708661</pageEvenBottomMargin>
       <staffDistance>5.5</staffDistance>
       <minSystemDistance>7.5</minSystemDistance>
-      <maxSystemDistance>25</maxSystemDistance>
-      <lyricsMinDistance>0.6</lyricsMinDistance>
+      <maxSystemDistance>32</maxSystemDistance>
+      <lyricsMinDistance>0.25</lyricsMinDistance>
       <lyricsDashMaxDistance>10</lyricsDashMaxDistance>
       <lyricsDashForce>0</lyricsDashForce>
       <lyricsMelismaPad>0.5</lyricsMelismaPad>
-      <lyricsOddFontSize>12</lyricsOddFontSize>
+      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
+      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
+      <lyricsOddFontSize>10</lyricsOddFontSize>
       <lyricsOddFramePadding>0</lyricsOddFramePadding>
       <lyricsOddFrameWidth>0</lyricsOddFrameWidth>
-      <lyricsEvenFontSize>12</lyricsEvenFontSize>
-      <doubleBarDistance>0.46</doubleBarDistance>
-      <endBarDistance>0.65</endBarDistance>
+      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
+      <lyricsEvenFontSize>10</lyricsEvenFontSize>
+      <barWidth>0.18</barWidth>
+      <doubleBarWidth>0.18</doubleBarWidth>
+      <endBarWidth>0.55</endBarWidth>
+      <doubleBarDistance>0.55</doubleBarDistance>
+      <endBarDistance>0.7</endBarDistance>
+      <repeatBarlineDotSeparation>0.7</repeatBarlineDotSeparation>
+      <bracketWidth>0.44</bracketWidth>
       <clefLeftMargin>0.64</clefLeftMargin>
       <clefKeyRightMargin>1.75</clefKeyRightMargin>
+      <stemWidth>0.11</stemWidth>
       <barNoteDistance>1.2</barNoteDistance>
       <measureSpacing>1</measureSpacing>
+      <staffLineWidth>0.11</staffLineWidth>
+      <ledgerLineLength>0.35</ledgerLineLength>
       <lastSystemFillLimit>0</lastSystemFillLimit>
       <hairpinPosAbove x="0" y="-2.5"/>
       <hairpinHeight>1.3</hairpinHeight>
+      <hairpinWidth>0.12</hairpinWidth>
+      <hairpinFontFace>Edwin</hairpinFontFace>
+      <hairpinFontSize>10</hairpinFontSize>
       <hairpinFramePadding>0</hairpinFramePadding>
       <hairpinFrameWidth>0</hairpinFrameWidth>
+      <pedalLineWidth>0.11</pedalLineWidth>
+      <pedalFontFace>Edwin</pedalFontFace>
       <pedalFramePadding>0</pedalFramePadding>
       <pedalFrameWidth>0</pedalFrameWidth>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
+      <chordSymbolAFontSize>11</chordSymbolAFontSize>
       <chordSymbolAFramePadding>0</chordSymbolAFramePadding>
       <chordSymbolAFrameWidth>0</chordSymbolAFrameWidth>
+      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
+      <chordSymbolBFontSize>11</chordSymbolBFontSize>
+      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
+      <slurMidWidth>0.21</slurMidWidth>
+      <musicalSymbolFont>Leland</musicalSymbolFont>
+      <musicalTextFont>Leland Text</musicalTextFont>
+      <voltaLineWidth>0.11</voltaLineWidth>
       <voltaFramePadding>0</voltaFramePadding>
       <voltaFrameWidth>0</voltaFrameWidth>
+      <ottavaLineWidth>0.11</ottavaLineWidth>
+      <ottavaFontFace>Edwin</ottavaFontFace>
       <ottavaFontStyle>2</ottavaFontStyle>
       <ottavaFramePadding>0</ottavaFramePadding>
       <ottavaFrameWidth>0</ottavaFrameWidth>
+      <tupletFontFace>Edwin</tupletFontFace>
+      <tupletFontSize>9</tupletFontSize>
       <tupletFramePadding>0</tupletFramePadding>
       <tupletFrameWidth>0</tupletFrameWidth>
       <dynamicsPosAbove x="0" y="-1"/>
       <textLineFramePadding>0</textLineFramePadding>
       <textLineFrameWidth>0</textLineFrameWidth>
+      <defaultFontFace>Edwin</defaultFontFace>
       <defaultFontSpatiumDependent>0</defaultFontSpatiumDependent>
       <defaultAlign>left,baseline</defaultAlign>
       <defaultFramePadding>0</defaultFramePadding>
       <defaultFrameWidth>0</defaultFrameWidth>
       <defaultFrameRound>25</defaultFrameRound>
+      <titleFontFace>Edwin</titleFontFace>
+      <titleFontSize>22</titleFontSize>
       <titleFramePadding>0</titleFramePadding>
       <titleFrameWidth>0</titleFrameWidth>
       <titleFrameRound>25</titleFrameRound>
+      <subTitleFontFace>Edwin</subTitleFontFace>
+      <subTitleFontSize>16</subTitleFontSize>
       <subTitleFramePadding>0</subTitleFramePadding>
       <subTitleFrameWidth>0</subTitleFrameWidth>
       <subTitleFrameRound>25</subTitleFrameRound>
+      <composerFontFace>Edwin</composerFontFace>
+      <composerFontSize>10</composerFontSize>
       <composerFramePadding>0</composerFramePadding>
       <composerFrameWidth>0</composerFrameWidth>
       <composerFrameRound>25</composerFrameRound>
+      <lyricistFontFace>Edwin</lyricistFontFace>
+      <lyricistFontSize>10</lyricistFontSize>
       <lyricistFramePadding>0</lyricistFramePadding>
       <lyricistFrameWidth>0</lyricistFrameWidth>
       <lyricistFrameRound>25</lyricistFrameRound>
+      <fingeringFontFace>Edwin</fingeringFontFace>
       <fingeringFramePadding>0</fingeringFramePadding>
       <fingeringFrameWidth>0</fingeringFrameWidth>
       <fingeringFrameRound>25</fingeringFrameRound>
+      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
       <lhGuitarFingeringFramePadding>0</lhGuitarFingeringFramePadding>
       <lhGuitarFingeringFrameWidth>0</lhGuitarFingeringFrameWidth>
       <lhGuitarFingeringFrameRound>25</lhGuitarFingeringFrameRound>
+      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
+      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
       <rhGuitarFingeringFramePadding>0</rhGuitarFingeringFramePadding>
       <rhGuitarFingeringFrameWidth>0</rhGuitarFingeringFrameWidth>
       <rhGuitarFingeringFrameRound>25</rhGuitarFingeringFrameRound>
+      <stringNumberFontFace>Edwin</stringNumberFontFace>
+      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
+      <longInstrumentFontSize>10</longInstrumentFontSize>
       <longInstrumentAlign>center,center</longInstrumentAlign>
       <longInstrumentFramePadding>0</longInstrumentFramePadding>
       <longInstrumentFrameWidth>0</longInstrumentFrameWidth>
+      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
+      <shortInstrumentFontSize>10</shortInstrumentFontSize>
       <shortInstrumentFramePadding>0</shortInstrumentFramePadding>
       <shortInstrumentFrameWidth>0</shortInstrumentFrameWidth>
+      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
+      <partInstrumentFontSize>14</partInstrumentFontSize>
       <partInstrumentFramePadding>0</partInstrumentFramePadding>
       <partInstrumentFrameWidth>0</partInstrumentFrameWidth>
       <partInstrumentFrameRound>25</partInstrumentFrameRound>
+      <dynamicsFontFace>Edwin</dynamicsFontFace>
+      <dynamicsFontSize>11</dynamicsFontSize>
       <dynamicsFramePadding>0</dynamicsFramePadding>
       <dynamicsFrameWidth>0</dynamicsFrameWidth>
-      <expressionFontSize>12</expressionFontSize>
+      <expressionFontFace>Edwin</expressionFontFace>
+      <expressionFontSize>10</expressionFontSize>
       <expressionFramePadding>0</expressionFramePadding>
       <expressionFrameWidth>0</expressionFrameWidth>
+      <tempoFontFace>Edwin</tempoFontFace>
       <tempoFramePadding>0</tempoFramePadding>
       <tempoFrameWidth>0</tempoFrameWidth>
       <tempoFrameRound>25</tempoFrameRound>
+      <metronomeFontFace>Edwin</metronomeFontFace>
+      <metronomeFontStyle>0</metronomeFontStyle>
       <metronomeFramePadding>0</metronomeFramePadding>
       <metronomeFrameWidth>0</metronomeFrameWidth>
-      <measureNumberAlign>center,bottom</measureNumberAlign>
+      <measureNumberFontFace>Edwin</measureNumberFontFace>
+      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
+      <measureNumberFontStyle>2</measureNumberFontStyle>
       <measureNumberFramePadding>0</measureNumberFramePadding>
       <measureNumberFrameWidth>0</measureNumberFrameWidth>
+      <translatorFontFace>Edwin</translatorFontFace>
+      <translatorFontSize>10</translatorFontSize>
       <translatorAlign>center,top</translatorAlign>
       <translatorFramePadding>0</translatorFramePadding>
       <translatorFrameWidth>0</translatorFrameWidth>
+      <systemFontFace>Edwin</systemFontFace>
       <systemAlign>left,top</systemAlign>
       <systemFramePadding>0</systemFramePadding>
       <systemFrameWidth>0</systemFrameWidth>
       <systemFrameRound>25</systemFrameRound>
+      <staffFontFace>Edwin</staffFontFace>
       <staffAlign>left,top</staffAlign>
       <staffPosAbove x="0" y="-4"/>
       <staffFramePadding>0</staffFramePadding>
       <staffFrameWidth>0</staffFrameWidth>
       <staffFrameRound>25</staffFrameRound>
+      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
+      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
+      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
+      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
+      <repeatLeftFontSize>18</repeatLeftFontSize>
       <repeatLeftFramePadding>0</repeatLeftFramePadding>
       <repeatLeftFrameWidth>0</repeatLeftFrameWidth>
       <repeatLeftFrameRound>25</repeatLeftFrameRound>
+      <repeatRightFontFace>Edwin</repeatRightFontFace>
+      <repeatRightFontSize>11</repeatRightFontSize>
       <repeatRightFramePadding>0</repeatRightFramePadding>
       <repeatRightFrameWidth>0</repeatRightFrameWidth>
       <repeatRightFrameRound>25</repeatRightFrameRound>
+      <frameFontFace>Edwin</frameFontFace>
+      <frameFontSize>10</frameFontSize>
       <frameFramePadding>0</frameFramePadding>
       <frameFrameWidth>0</frameFrameWidth>
       <glissandoAlign>center,baseline</glissandoAlign>
@@ -154,6 +224,8 @@
       <user4Align>right,baseline</user4Align>
       <user4FramePadding>0</user4FramePadding>
       <user4FrameWidth>0</user4FrameWidth>
+      <usePre_3_6_defaults>1</usePre_3_6_defaults>
+      <defaultsVersion>301</defaultsVersion>
       <Spatium>1.3</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -163,16 +235,15 @@
     <metaTag name="arranger">Transcribed by ashmoggs from IMSLP #333826.  Source: https://imslp.org/wiki/8_New_Nursery_Rhymes,_Op.23_(Davies,_Walford)</metaTag>
     <metaTag name="composer">Walford Davies</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
-    <metaTag name="creationDate"/>
+    <metaTag name="creationDate">2020-06-22</metaTag>
     <metaTag name="lyricist">Walford Davies</metaTag>
     <metaTag name="movementNumber">2</metaTag>
     <metaTag name="movementTitle">Old Woman</metaTag>
-    <metaTag name="originalFormat"/>
-    <metaTag name="platform"/>
-    <metaTag name="poet"/>
+    <metaTag name="platform"></metaTag>
+    <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/27638568/scores/6218722</metaTag>
-    <metaTag name="translator"/>
-    <metaTag name="workNumber">23</metaTag>
+    <metaTag name="translator"></metaTag>
+    <metaTag name="workNumber">Op.23</metaTag>
     <metaTag name="workTitle">8 New Nursery Rhymes, Op.23</metaTag>
     <Part>
       <Staff id="1">
@@ -182,7 +253,7 @@
         <bracket type="0" span="4" col="0"/>
         </Staff>
       <trackName>Soprano</trackName>
-      <Instrument>
+      <Instrument id="soprano">
         <longName>Soprano</longName>
         <trackName>Soprano</trackName>
         <minPitchP>60</minPitchP>
@@ -231,9 +302,10 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="0"/>
-          <program value="68"/>
+          <controller ctrl="0" value="1"/>
+          <controller ctrl="32" value="18"/>
+          <program value="52"/>
+          <controller ctrl="10" value="52"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>0</midiChannel>
@@ -242,6 +314,7 @@
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="52"/>
+          <controller ctrl="10" value="52"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>2</midiChannel>
@@ -255,7 +328,7 @@
           </StaffType>
         </Staff>
       <trackName>Alto</trackName>
-      <Instrument>
+      <Instrument id="alto">
         <longName>Alto</longName>
         <trackName>Alto</trackName>
         <minPitchP>52</minPitchP>
@@ -304,9 +377,10 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="0"/>
-          <program value="69"/>
+          <controller ctrl="0" value="1"/>
+          <controller ctrl="32" value="18"/>
+          <program value="52"/>
+          <controller ctrl="10" value="76"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>3</midiChannel>
@@ -315,6 +389,7 @@
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="52"/>
+          <controller ctrl="10" value="76"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>4</midiChannel>
@@ -330,7 +405,7 @@
         <defaultTransposingClef>G</defaultTransposingClef>
         </Staff>
       <trackName>Tenor</trackName>
-      <Instrument>
+      <Instrument id="tenor">
         <longName>Tenor</longName>
         <trackName>Tenor</trackName>
         <minPitchP>48</minPitchP>
@@ -381,9 +456,10 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="0"/>
-          <program value="71"/>
+          <controller ctrl="0" value="1"/>
+          <controller ctrl="32" value="18"/>
+          <program value="52"/>
+          <controller ctrl="10" value="38"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>5</midiChannel>
@@ -392,6 +468,7 @@
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="52"/>
+          <controller ctrl="10" value="38"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>6</midiChannel>
@@ -406,7 +483,7 @@
         <defaultClef>F</defaultClef>
         </Staff>
       <trackName>Bass</trackName>
-      <Instrument>
+      <Instrument id="bass">
         <longName>Bass</longName>
         <trackName>Bass</trackName>
         <minPitchP>38</minPitchP>
@@ -456,9 +533,10 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="0"/>
-          <program value="70"/>
+          <controller ctrl="0" value="1"/>
+          <controller ctrl="32" value="18"/>
+          <program value="52"/>
+          <controller ctrl="10" value="89"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>7</midiChannel>
@@ -467,6 +545,7 @@
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="52"/>
+          <controller ctrl="10" value="89"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>8</midiChannel>
@@ -488,7 +567,7 @@
         <defaultClef>F</defaultClef>
         </Staff>
       <trackName>Piano</trackName>
-      <Instrument>
+      <Instrument id="piano">
         <longName>Piano</longName>
         <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
@@ -539,7 +618,8 @@
           </Articulation>
         <Channel>
           <program value="0"/>
-          <controller ctrl="10" value="84"/>
+          <controller ctrl="7" value="64"/>
+          <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>1</midiChannel>
@@ -548,9 +628,10 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>15.8617</height>
+        <height>16</height>
         <topGap>4.61538</topGap>
-        <bottomGap>8.61538</bottomGap>
+        <bottomGap>18.5</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>User-2</style>
           <text>Eight New Nursery Rhymes, Op. 23</text>
@@ -561,6 +642,7 @@
           </Text>
         <Text>
           <style>User-3</style>
+          <offset x="0" y="8.7"/>
           <text>2. Old Woman</text>
           </Text>
         <Text>
@@ -570,6 +652,7 @@
         </VBox>
       <HBox>
         <width>3</width>
+        <boxAutoSize>0</boxAutoSize>
         </HBox>
       <Measure>
         <voice>
@@ -588,9 +671,10 @@
               </Groups>
             </TimeSig>
           <Tempo>
-            <tempo>1.46667</tempo>
+            <tempo>1.4666699999999999</tempo>
             <followText>1</followText>
-            <text><b>Andante con moto (</b><font face="ScoreText"/><b><font face="FreeSerif"/> = 88)</b></text>
+            <family>FreeSerif</family>
+            <text><b>Andante con moto (</b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 88)</b></text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
@@ -672,7 +756,6 @@
             <small>1</small>
             <durationType>eighth</durationType>
             <Lyrics>
-              <size>10</size>
               <text>(A</text>
               </Lyrics>
             <Note>
@@ -685,7 +768,6 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <size>10</size>
               <text>lit</text>
               </Lyrics>
             <Note>
@@ -699,7 +781,6 @@
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
-              <size>10</size>
               <text>tle</text>
               </Lyrics>
             <Note>
@@ -716,7 +797,6 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <size>10</size>
               <text>loud</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -730,7 +810,6 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <size>10</size>
               <text>er,</text>
               </Lyrics>
             <Note>
@@ -745,7 +824,6 @@
             <small>1</small>
             <durationType>eighth</durationType>
             <Lyrics>
-              <size>10</size>
               <text>a</text>
               </Lyrics>
             <Note>
@@ -758,7 +836,6 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <size>10</size>
               <text>lit</text>
               </Lyrics>
             <Note>
@@ -772,7 +849,6 @@
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/8</ticks_f>
-              <size>10</size>
               <text>tle</text>
               </Lyrics>
             <Note>
@@ -793,7 +869,6 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <size>10</size>
               <text>loud</text>
               </Lyrics>
             <Note>
@@ -806,7 +881,6 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <size>10</size>
               <text>er,)</text>
               </Lyrics>
             <Note>
@@ -862,13 +936,10 @@
             <Lyrics>
               <ticks>360</ticks>
               <ticks_f>3/16</ticks_f>
-              <size>10</size>
               <text>(old</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -877,8 +948,6 @@
                 </next>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -910,7 +979,6 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <size>10</size>
               <text>wo</text>
               </Lyrics>
             <Articulation>
@@ -926,7 +994,6 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <size>10</size>
               <text>man,)</text>
               </Lyrics>
             <Articulation>
@@ -962,13 +1029,10 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <size>10</size>
               <text>(dear</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -1006,12 +1070,9 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <size>10</size>
               <text>ly)</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -1127,8 +1188,6 @@
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -1183,12 +1242,8 @@
               <text>ly!</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -1423,7 +1478,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text>I&apos;m</text>
+              <text>I'm</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -1564,8 +1619,6 @@
               <text>ing;</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -1642,13 +1695,10 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <size>10</size>
               <text>(dear</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -1687,12 +1737,9 @@
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
-              <size>10</size>
               <text>ly)</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -1745,8 +1792,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -1833,7 +1878,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>yoiu</text>
+              <text>you</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -1876,8 +1921,6 @@
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -1889,8 +1932,6 @@
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
-              <NoteDot>
-                </NoteDot>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -1910,8 +1951,6 @@
                 </prev>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -1941,12 +1980,8 @@
               <text>ly!</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -2123,8 +2158,6 @@
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -2133,8 +2166,6 @@
                 </next>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
@@ -2204,8 +2235,6 @@
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -2214,8 +2243,6 @@
                 </next>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
@@ -2271,8 +2298,6 @@
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -2281,8 +2306,6 @@
                 </next>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
@@ -2391,8 +2414,6 @@
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -2427,8 +2448,6 @@
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -2473,8 +2492,6 @@
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -2518,12 +2535,8 @@
               <text>ly?</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -2595,8 +2608,6 @@
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -2605,8 +2616,6 @@
                 </next>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -2626,8 +2635,6 @@
                 </prev>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -2660,12 +2667,8 @@
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -2765,8 +2768,6 @@
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -2775,8 +2776,6 @@
                 </next>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -2832,8 +2831,6 @@
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -2842,8 +2839,6 @@
                 </next>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -2931,8 +2926,6 @@
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -3040,8 +3033,6 @@
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -3050,8 +3041,6 @@
                 </next>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -3107,8 +3096,6 @@
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -3117,8 +3104,6 @@
                 </next>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -3193,8 +3178,6 @@
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -3203,8 +3186,6 @@
                 </next>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -3260,8 +3241,6 @@
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -3270,8 +3249,6 @@
                 </next>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -3642,7 +3619,8 @@
             </TimeSig>
           <StaffText>
             <style>Tempo</style>
-            <text><b>Andante con moto (</b><font face="ScoreText"/><b><font face="FreeSerif"/> = 88)</b></text>
+            <family>FreeSerif</family>
+            <text><b>Andante con moto (</b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 88)</b></text>
             </StaffText>
           <Dynamic>
             <subtype>f</subtype>
@@ -4344,8 +4322,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -4481,7 +4457,7 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>3</subtype>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>11</beginFontSize>
               </HairPin>
@@ -4677,8 +4653,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -5037,7 +5011,7 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>2</subtype>
-              <endText/>
+              <endText></endText>
               <lineVisible>0</lineVisible>
               <beginFontSize>11</beginFontSize>
               <Segment>
@@ -5765,8 +5739,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -5819,8 +5791,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -5873,8 +5843,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -5944,8 +5912,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -5982,8 +5948,6 @@
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -5992,8 +5956,6 @@
                 </next>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -6127,8 +6089,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>

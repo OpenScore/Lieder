@@ -1,117 +1,188 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.01">
-  <programVersion>3.5.2</programVersion>
-  <programRevision>465e7b6</programRevision>
+<museScore version="3.02">
+  <programVersion>3.6.2</programVersion>
+  <programRevision></programRevision>
   <Score>
-    <LayerTag id="0" tag="default"/>
+    <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
       <pageWidth>8.27008</pageWidth>
       <pageHeight>11.6902</pageHeight>
       <pagePrintableWidth>7.48268</pagePrintableWidth>
+      <staffUpperBorder>15</staffUpperBorder>
       <maxSystemDistance>25</maxSystemDistance>
-      <lyricsMinDistance>0.6</lyricsMinDistance>
+      <lyricsMinDistance>0.25</lyricsMinDistance>
       <lyricsDashMaxDistance>10</lyricsDashMaxDistance>
       <lyricsDashForce>0</lyricsDashForce>
       <lyricsMelismaPad>0.5</lyricsMelismaPad>
-      <lyricsOddFontSize>12</lyricsOddFontSize>
+      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
+      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
+      <lyricsOddFontSize>10</lyricsOddFontSize>
       <lyricsOddFramePadding>0</lyricsOddFramePadding>
       <lyricsOddFrameWidth>0</lyricsOddFrameWidth>
-      <lyricsEvenFontSize>12</lyricsEvenFontSize>
-      <doubleBarDistance>0.46</doubleBarDistance>
-      <endBarDistance>0.65</endBarDistance>
+      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
+      <lyricsEvenFontSize>10</lyricsEvenFontSize>
+      <barWidth>0.18</barWidth>
+      <doubleBarWidth>0.18</doubleBarWidth>
+      <endBarWidth>0.55</endBarWidth>
+      <doubleBarDistance>0.55</doubleBarDistance>
+      <endBarDistance>0.7</endBarDistance>
+      <repeatBarlineDotSeparation>0.7</repeatBarlineDotSeparation>
+      <bracketWidth>0.44</bracketWidth>
       <clefLeftMargin>0.64</clefLeftMargin>
       <clefKeyRightMargin>1.75</clefKeyRightMargin>
+      <stemWidth>0.11</stemWidth>
       <barNoteDistance>1.2</barNoteDistance>
       <measureSpacing>1</measureSpacing>
+      <staffLineWidth>0.11</staffLineWidth>
+      <ledgerLineLength>0.35</ledgerLineLength>
       <lastSystemFillLimit>0</lastSystemFillLimit>
       <hairpinPosAbove x="0" y="-2.5"/>
       <hairpinHeight>1.3</hairpinHeight>
+      <hairpinWidth>0.12</hairpinWidth>
+      <hairpinFontFace>Edwin</hairpinFontFace>
+      <hairpinFontSize>10</hairpinFontSize>
       <hairpinFramePadding>0</hairpinFramePadding>
       <hairpinFrameWidth>0</hairpinFrameWidth>
+      <pedalLineWidth>0.11</pedalLineWidth>
+      <pedalFontFace>Edwin</pedalFontFace>
       <pedalFramePadding>0</pedalFramePadding>
       <pedalFrameWidth>0</pedalFrameWidth>
       <harmonyFretDist>0.5</harmonyFretDist>
       <harmonyPlay>0</harmonyPlay>
+      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
+      <chordSymbolAFontSize>11</chordSymbolAFontSize>
       <chordSymbolAFramePadding>0</chordSymbolAFramePadding>
       <chordSymbolAFrameWidth>0</chordSymbolAFrameWidth>
+      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
+      <chordSymbolBFontSize>11</chordSymbolBFontSize>
+      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
       <useStandardNoteNames>0</useStandardNoteNames>
+      <slurMidWidth>0.21</slurMidWidth>
+      <musicalSymbolFont>Leland</musicalSymbolFont>
+      <musicalTextFont>Leland Text</musicalTextFont>
+      <voltaLineWidth>0.11</voltaLineWidth>
       <voltaFramePadding>0</voltaFramePadding>
       <voltaFrameWidth>0</voltaFrameWidth>
+      <ottavaLineWidth>0.11</ottavaLineWidth>
+      <ottavaFontFace>Edwin</ottavaFontFace>
       <ottavaFontStyle>2</ottavaFontStyle>
       <ottavaFramePadding>0</ottavaFramePadding>
       <ottavaFrameWidth>0</ottavaFrameWidth>
+      <tupletFontFace>Edwin</tupletFontFace>
+      <tupletFontSize>9</tupletFontSize>
       <tupletFramePadding>0</tupletFramePadding>
       <tupletFrameWidth>0</tupletFrameWidth>
       <dynamicsPosAbove x="0" y="-1"/>
       <textLineFramePadding>0</textLineFramePadding>
       <textLineFrameWidth>0</textLineFrameWidth>
+      <defaultFontFace>Edwin</defaultFontFace>
       <defaultFontSpatiumDependent>0</defaultFontSpatiumDependent>
       <defaultAlign>left,baseline</defaultAlign>
       <defaultFramePadding>0</defaultFramePadding>
       <defaultFrameWidth>0</defaultFrameWidth>
       <defaultFrameRound>25</defaultFrameRound>
+      <titleFontFace>Edwin</titleFontFace>
+      <titleFontSize>22</titleFontSize>
       <titleFramePadding>0</titleFramePadding>
       <titleFrameWidth>0</titleFrameWidth>
       <titleFrameRound>25</titleFrameRound>
+      <subTitleFontFace>Edwin</subTitleFontFace>
+      <subTitleFontSize>16</subTitleFontSize>
       <subTitleFramePadding>0</subTitleFramePadding>
       <subTitleFrameWidth>0</subTitleFrameWidth>
       <subTitleFrameRound>25</subTitleFrameRound>
+      <composerFontFace>Edwin</composerFontFace>
+      <composerFontSize>10</composerFontSize>
       <composerFramePadding>0</composerFramePadding>
       <composerFrameWidth>0</composerFrameWidth>
       <composerFrameRound>25</composerFrameRound>
+      <lyricistFontFace>Edwin</lyricistFontFace>
+      <lyricistFontSize>10</lyricistFontSize>
       <lyricistFramePadding>0</lyricistFramePadding>
       <lyricistFrameWidth>0</lyricistFrameWidth>
       <lyricistFrameRound>25</lyricistFrameRound>
+      <fingeringFontFace>Edwin</fingeringFontFace>
       <fingeringFramePadding>0</fingeringFramePadding>
       <fingeringFrameWidth>0</fingeringFrameWidth>
       <fingeringFrameRound>25</fingeringFrameRound>
+      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
       <lhGuitarFingeringFramePadding>0</lhGuitarFingeringFramePadding>
       <lhGuitarFingeringFrameWidth>0</lhGuitarFingeringFrameWidth>
       <lhGuitarFingeringFrameRound>25</lhGuitarFingeringFrameRound>
+      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
+      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
       <rhGuitarFingeringFramePadding>0</rhGuitarFingeringFramePadding>
       <rhGuitarFingeringFrameWidth>0</rhGuitarFingeringFrameWidth>
       <rhGuitarFingeringFrameRound>25</rhGuitarFingeringFrameRound>
+      <stringNumberFontFace>Edwin</stringNumberFontFace>
+      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
+      <longInstrumentFontSize>10</longInstrumentFontSize>
       <longInstrumentAlign>center,center</longInstrumentAlign>
       <longInstrumentFramePadding>0</longInstrumentFramePadding>
       <longInstrumentFrameWidth>0</longInstrumentFrameWidth>
+      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
+      <shortInstrumentFontSize>10</shortInstrumentFontSize>
       <shortInstrumentFramePadding>0</shortInstrumentFramePadding>
       <shortInstrumentFrameWidth>0</shortInstrumentFrameWidth>
+      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
+      <partInstrumentFontSize>14</partInstrumentFontSize>
       <partInstrumentFramePadding>0</partInstrumentFramePadding>
       <partInstrumentFrameWidth>0</partInstrumentFrameWidth>
       <partInstrumentFrameRound>25</partInstrumentFrameRound>
+      <dynamicsFontFace>Edwin</dynamicsFontFace>
+      <dynamicsFontSize>11</dynamicsFontSize>
       <dynamicsFramePadding>0</dynamicsFramePadding>
       <dynamicsFrameWidth>0</dynamicsFrameWidth>
-      <expressionFontSize>12</expressionFontSize>
+      <expressionFontFace>Edwin</expressionFontFace>
+      <expressionFontSize>10</expressionFontSize>
       <expressionFramePadding>0</expressionFramePadding>
       <expressionFrameWidth>0</expressionFrameWidth>
+      <tempoFontFace>Edwin</tempoFontFace>
       <tempoFramePadding>0</tempoFramePadding>
       <tempoFrameWidth>0</tempoFrameWidth>
       <tempoFrameRound>25</tempoFrameRound>
+      <metronomeFontFace>Edwin</metronomeFontFace>
+      <metronomeFontStyle>0</metronomeFontStyle>
       <metronomeFramePadding>0</metronomeFramePadding>
       <metronomeFrameWidth>0</metronomeFrameWidth>
-      <measureNumberAlign>center,bottom</measureNumberAlign>
+      <measureNumberFontFace>Edwin</measureNumberFontFace>
+      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
+      <measureNumberFontStyle>2</measureNumberFontStyle>
       <measureNumberFramePadding>0</measureNumberFramePadding>
       <measureNumberFrameWidth>0</measureNumberFrameWidth>
+      <translatorFontFace>Edwin</translatorFontFace>
+      <translatorFontSize>10</translatorFontSize>
       <translatorAlign>center,top</translatorAlign>
       <translatorFramePadding>0</translatorFramePadding>
       <translatorFrameWidth>0</translatorFrameWidth>
+      <systemFontFace>Edwin</systemFontFace>
       <systemAlign>left,top</systemAlign>
       <systemFramePadding>0</systemFramePadding>
       <systemFrameWidth>0</systemFrameWidth>
       <systemFrameRound>25</systemFrameRound>
+      <staffFontFace>Edwin</staffFontFace>
       <staffAlign>left,top</staffAlign>
       <staffPosAbove x="0" y="-4"/>
       <staffFramePadding>0</staffFramePadding>
       <staffFrameWidth>0</staffFrameWidth>
       <staffFrameRound>25</staffFrameRound>
+      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
+      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
+      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
+      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
+      <repeatLeftFontSize>18</repeatLeftFontSize>
       <repeatLeftFramePadding>0</repeatLeftFramePadding>
       <repeatLeftFrameWidth>0</repeatLeftFrameWidth>
       <repeatLeftFrameRound>25</repeatLeftFrameRound>
+      <repeatRightFontFace>Edwin</repeatRightFontFace>
+      <repeatRightFontSize>11</repeatRightFontSize>
       <repeatRightFramePadding>0</repeatRightFramePadding>
       <repeatRightFrameWidth>0</repeatRightFrameWidth>
       <repeatRightFrameRound>25</repeatRightFrameRound>
+      <frameFontFace>Edwin</frameFontFace>
+      <frameFontSize>10</frameFontSize>
       <frameFramePadding>0</frameFramePadding>
       <frameFrameWidth>0</frameFrameWidth>
       <glissandoAlign>center,baseline</glissandoAlign>
@@ -153,25 +224,26 @@
       <user4Align>right,baseline</user4Align>
       <user4FramePadding>0</user4FramePadding>
       <user4FrameWidth>0</user4FrameWidth>
+      <usePre_3_6_defaults>1</usePre_3_6_defaults>
+      <defaultsVersion>301</defaultsVersion>
       <Spatium>1.4</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger">Transcribedby ashmoggs from IMSLP #333826.  Source: https://imslp.org/wiki/8_New_Nursery_Rhymes,_Op.23_(Davies,_Walford)</metaTag>
+    <metaTag name="arranger">Transcribed by ashmoggs from IMSLP #333826.  Source: https://imslp.org/wiki/8_New_Nursery_Rhymes,_Op.23_(Davies,_Walford)</metaTag>
     <metaTag name="composer">Walford Davies</metaTag>
     <metaTag name="copyright">OpenScore (CC0)</metaTag>
-    <metaTag name="creationDate"/>
+    <metaTag name="creationDate">2020-06-22</metaTag>
     <metaTag name="lyricist">Walford Davies</metaTag>
     <metaTag name="movementNumber">4</metaTag>
     <metaTag name="movementTitle">A Little Old Man</metaTag>
-    <metaTag name="originalFormat"/>
-    <metaTag name="platform"/>
-    <metaTag name="poet"/>
-    <metaTag name="source">http://musescore.comhttps://musescore.com/user/27638568/scores/6218732</metaTag>
-    <metaTag name="translator"/>
-    <metaTag name="workNumber">23</metaTag>
+    <metaTag name="platform"></metaTag>
+    <metaTag name="poet"></metaTag>
+    <metaTag name="source">http://musescore.com/user/27638568/scores/6218732</metaTag>
+    <metaTag name="translator"></metaTag>
+    <metaTag name="workNumber">Op.23</metaTag>
     <metaTag name="workTitle">8 New Nursery Rhymes, Op.23</metaTag>
     <Part>
       <Staff id="1">
@@ -179,10 +251,9 @@
           <name>stdNormal</name>
           </StaffType>
         <bracket type="0" span="4" col="0"/>
-        <color r="0" g="0" b="0" a="255"/>
         </Staff>
       <trackName>Soprano</trackName>
-      <Instrument>
+      <Instrument id="soprano">
         <longName>Soprano</longName>
         <trackName>Soprano</trackName>
         <minPitchP>60</minPitchP>
@@ -231,9 +302,10 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="0"/>
-          <program value="68"/>
+          <controller ctrl="0" value="1"/>
+          <controller ctrl="32" value="18"/>
+          <program value="52"/>
+          <controller ctrl="10" value="52"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>0</midiChannel>
@@ -242,6 +314,7 @@
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="52"/>
+          <controller ctrl="10" value="52"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>2</midiChannel>
@@ -253,10 +326,9 @@
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
-        <color r="0" g="0" b="0" a="255"/>
         </Staff>
       <trackName>Alto</trackName>
-      <Instrument>
+      <Instrument id="alto">
         <longName>Alto</longName>
         <trackName>Alto</trackName>
         <minPitchP>52</minPitchP>
@@ -305,9 +377,10 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="0"/>
-          <program value="69"/>
+          <controller ctrl="0" value="1"/>
+          <controller ctrl="32" value="18"/>
+          <program value="52"/>
+          <controller ctrl="10" value="74"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>3</midiChannel>
@@ -316,6 +389,7 @@
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="52"/>
+          <controller ctrl="10" value="74"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>4</midiChannel>
@@ -329,10 +403,9 @@
           </StaffType>
         <defaultConcertClef>G8vb</defaultConcertClef>
         <defaultTransposingClef>G</defaultTransposingClef>
-        <color r="0" g="0" b="0" a="255"/>
         </Staff>
       <trackName>Tenor</trackName>
-      <Instrument>
+      <Instrument id="tenor">
         <longName>Tenor</longName>
         <trackName>Tenor</trackName>
         <minPitchP>48</minPitchP>
@@ -383,9 +456,10 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="0"/>
-          <program value="71"/>
+          <controller ctrl="0" value="1"/>
+          <controller ctrl="32" value="1"/>
+          <program value="52"/>
+          <controller ctrl="10" value="40"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>5</midiChannel>
@@ -394,6 +468,7 @@
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="52"/>
+          <controller ctrl="10" value="40"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>6</midiChannel>
@@ -406,10 +481,9 @@
           <name>stdNormal</name>
           </StaffType>
         <defaultClef>F</defaultClef>
-        <color r="0" g="0" b="0" a="255"/>
         </Staff>
       <trackName>Bass</trackName>
-      <Instrument>
+      <Instrument id="bass">
         <longName>Bass</longName>
         <trackName>Bass</trackName>
         <minPitchP>38</minPitchP>
@@ -459,9 +533,10 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="0"/>
-          <program value="70"/>
+          <controller ctrl="0" value="1"/>
+          <controller ctrl="32" value="18"/>
+          <program value="52"/>
+          <controller ctrl="10" value="87"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>7</midiChannel>
@@ -470,6 +545,7 @@
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="52"/>
+          <controller ctrl="10" value="87"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>8</midiChannel>
@@ -483,17 +559,15 @@
           </StaffType>
         <bracket type="1" span="2" col="0"/>
         <barLineSpan>1</barLineSpan>
-        <color r="0" g="0" b="0" a="255"/>
         </Staff>
       <Staff id="6">
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
         <defaultClef>F</defaultClef>
-        <color r="0" g="0" b="0" a="255"/>
         </Staff>
       <trackName>Piano</trackName>
-      <Instrument>
+      <Instrument id="piano">
         <longName>Piano
 (For practice
 only)</longName>
@@ -546,7 +620,8 @@ only)</longName>
           </Articulation>
         <Channel>
           <program value="0"/>
-          <controller ctrl="10" value="84"/>
+          <controller ctrl="7" value="77"/>
+          <controller ctrl="10" value="61"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>1</midiChannel>
@@ -555,10 +630,13 @@ only)</longName>
       </Part>
     <Staff id="1">
       <VBox>
-        <height>15.8617</height>
+        <height>16</height>
         <topGap>4.28571</topGap>
+        <bottomGap>13</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>User-2</style>
+          <family>Edwin</family>
           <text>Eight New Nursery Rhymes, Op. 23</text>
           </Text>
         <Text>
@@ -567,6 +645,7 @@ only)</longName>
           </Text>
         <Text>
           <style>User-3</style>
+          <family>Edwin</family>
           <text>4. A Little Old Man</text>
           </Text>
         <Text>
@@ -576,8 +655,10 @@ only)</longName>
         </VBox>
       <HBox>
         <width>3</width>
+        <boxAutoSize>0</boxAutoSize>
         </HBox>
       <Measure len="1/8">
+        <irregular>1</irregular>
         <voice>
           <KeySig>
             <accidental>-3</accidental>
@@ -593,18 +674,18 @@ only)</longName>
               <Node pos="20" action="513"/>
               </Groups>
             </TimeSig>
-          <Tempo>
-            <tempo>3.3</tempo>
-            <followText>1</followText>
-            <text><b>Quickly (</b><font size="18"/><font face="ScoreText"/> <b><font size="12"/><font face="FreeSerif"/> = 132)</b></text>
-            </Tempo>
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
             <placement>above</placement>
             <minDistance>-999</minDistance>
-            <offset x="0" y="0"/>
+            <offset x="0" y="-0.8"/>
             </Dynamic>
+          <Tempo>
+            <tempo>3.3000000000000003</tempo>
+            <followText>1</followText>
+            <text><b>Quickly (</b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 132)</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -660,8 +741,6 @@ only)</longName>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -801,8 +880,6 @@ only)</longName>
               <text>out;</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -909,8 +986,6 @@ only)</longName>
               <text>bout?</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -1018,12 +1093,8 @@ only)</longName>
               <text>how?</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -1044,6 +1115,7 @@ only)</longName>
             <Volta>
               <endHookType>1</endHookType>
               <beginText>1.</beginText>
+              <beginFontSize>9</beginFontSize>
               <endings>1</endings>
               </Volta>
             <next>
@@ -1072,12 +1144,8 @@ only)</longName>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -1124,7 +1192,7 @@ only)</longName>
         </Measure>
       <Measure>
         <LayoutBreak>
-          <subtype>line</subtype>
+          <subtype>page</subtype>
           </LayoutBreak>
         <voice>
           <Spanner type="Volta">
@@ -1145,6 +1213,7 @@ only)</longName>
             <Volta>
               <endHookType>1</endHookType>
               <beginText>2.</beginText>
+              <beginFontSize>9</beginFontSize>
               <endings>2</endings>
               </Volta>
             <next>
@@ -1185,8 +1254,6 @@ only)</longName>
               <visible>0</visible>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -1206,8 +1273,6 @@ only)</longName>
               <text>________</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -1227,8 +1292,8 @@ only)</longName>
       <Measure>
         <voice>
           <Tempo>
-            <tempo>2.66667</tempo>
-            <text>Slower.</text>
+            <tempo>2.6666699999999999</tempo>
+            <text>Slower</text>
             </Tempo>
           <Spanner type="Volta">
             <prev>
@@ -1284,11 +1349,11 @@ only)</longName>
         <voice>
           <StaffText>
             <minDistance>0.377688</minDistance>
-            <offset x="-3.32507" y="-4.66501"/>
+            <offset x="-3.82507" y="-4.66501"/>
             <text><i>lunga</i></text>
             </StaffText>
           <Tempo>
-            <tempo>3.3</tempo>
+            <tempo>3.2999999999999998</tempo>
             <offset x="2" y="-2"/>
             <text>Presto</text>
             </Tempo>
@@ -1308,7 +1373,7 @@ only)</longName>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text>&quot;Get</text>
+              <text>“Get</text>
               </Lyrics>
             <Note>
               <pitch>68</pitch>
@@ -1341,14 +1406,8 @@ only)</longName>
               <text>gone!</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -1368,8 +1427,6 @@ only)</longName>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -1463,12 +1520,8 @@ only)</longName>
               <text>gone!</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -1505,7 +1558,7 @@ only)</longName>
             <text>rit.</text>
             </StaffText>
           <Tempo>
-            <tempo>1.83333</tempo>
+            <tempo>1.8333299999999999</tempo>
             <visible>0</visible>
             <offset x="0.335979" y="-3.5959"/>
             <text>T</text>
@@ -1525,7 +1578,7 @@ only)</longName>
               </Note>
             </Chord>
           <Tempo>
-            <tempo>1.66667</tempo>
+            <tempo>1.6666700000000001</tempo>
             <visible>0</visible>
             <offset x="0.335979" y="-3.5959"/>
             <text>T</text>
@@ -1569,7 +1622,7 @@ only)</longName>
               </Note>
             </Chord>
           <Tempo>
-            <tempo>14.8333</tempo>
+            <tempo>14.833299999999999</tempo>
             <visible>0</visible>
             <offset x="0.335979" y="-3.5959"/>
             <text>T</text>
@@ -1597,8 +1650,9 @@ only)</longName>
             <subtype>other-dynamics</subtype>
             <velocity>112</velocity>
             <placement>above</placement>
+            <family>FreeSerif</family>
             <offset x="9" y="-1"/>
-            <text><i>ten. </i><font face="ScoreText"/></text>
+            <text><i>ten. </i><font face="ScoreText"></font></text>
             </Dynamic>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -1611,8 +1665,6 @@ only)</longName>
               <text>man!”</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -1752,8 +1804,6 @@ only)</longName>
               <text>out;</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -1859,8 +1909,6 @@ only)</longName>
               <text>bout?</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
@@ -1895,12 +1943,8 @@ only)</longName>
               <text>How?</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -1920,12 +1964,8 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -1953,8 +1993,6 @@ only)</longName>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -1965,8 +2003,6 @@ only)</longName>
                 </next>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -1994,8 +2030,6 @@ only)</longName>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -2019,8 +2053,6 @@ only)</longName>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -2037,8 +2069,6 @@ only)</longName>
                 </prev>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -2090,8 +2120,6 @@ only)</longName>
                 </next>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -2107,8 +2135,6 @@ only)</longName>
                 </prev>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -2167,7 +2193,7 @@ only)</longName>
         <voice>
           <StaffText>
             <minDistance>0.377688</minDistance>
-            <offset x="-3.32507" y="-4.66501"/>
+            <offset x="-3.82507" y="-4.66501"/>
             <text><i>lunga</i></text>
             </StaffText>
           <Rest>
@@ -2186,7 +2212,7 @@ only)</longName>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text>&quot;Get</text>
+              <text>“Get</text>
               </Lyrics>
             <Note>
               <pitch>68</pitch>
@@ -2217,10 +2243,6 @@ only)</longName>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
-                <SlurSegment no="1">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -2229,8 +2251,6 @@ only)</longName>
                 </next>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -2250,8 +2270,6 @@ only)</longName>
                 </prev>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -2338,12 +2356,8 @@ only)</longName>
               <text>gone!</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -2450,8 +2464,9 @@ only)</longName>
             <subtype>other-dynamics</subtype>
             <velocity>112</velocity>
             <placement>above</placement>
+            <family>FreeSerif</family>
             <offset x="9" y="-1"/>
-            <text><i>ten. </i><font face="ScoreText"/></text>
+            <text><i>ten. </i><font face="ScoreText"></font></text>
             </Dynamic>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -2463,8 +2478,6 @@ only)</longName>
               <text>man!”</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -2587,8 +2600,6 @@ only)</longName>
               <text>out;</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -2713,12 +2724,8 @@ only)</longName>
               <subtype>articAccentAbove</subtype>
               </Articulation>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -2749,8 +2756,6 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -2804,8 +2809,6 @@ only)</longName>
               <visible>0</visible>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -2824,8 +2827,6 @@ only)</longName>
               <text>________</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -2892,8 +2893,6 @@ only)</longName>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -2962,8 +2961,6 @@ only)</longName>
               <text>can:</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
@@ -2980,7 +2977,7 @@ only)</longName>
         <voice>
           <StaffText>
             <minDistance>0.377688</minDistance>
-            <offset x="-3.32507" y="-4.66501"/>
+            <offset x="-3.82507" y="-4.66501"/>
             <text><i>lunga</i></text>
             </StaffText>
           <Rest>
@@ -3040,8 +3037,6 @@ only)</longName>
               <text>can:</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -3128,12 +3123,8 @@ only)</longName>
               <text>gone!</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -3238,8 +3229,9 @@ only)</longName>
             <subtype>other-dynamics</subtype>
             <velocity>112</velocity>
             <placement>above</placement>
+            <family>FreeSerif</family>
             <offset x="9" y="-1"/>
-            <text><i>ten. </i><font face="ScoreText"/></text>
+            <text><i>ten. </i><font face="ScoreText"></font></text>
             </Dynamic>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -3251,8 +3243,6 @@ only)</longName>
               <text>man!”</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
@@ -3371,8 +3361,6 @@ only)</longName>
               <text>out;</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -3494,12 +3482,8 @@ only)</longName>
               <subtype>articAccentAbove</subtype>
               </Articulation>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -3530,8 +3514,6 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -3585,8 +3567,6 @@ only)</longName>
               <visible>0</visible>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -3605,8 +3585,6 @@ only)</longName>
               <text>________</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -3677,8 +3655,6 @@ only)</longName>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -3747,8 +3723,6 @@ only)</longName>
               <text>can:</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -3765,7 +3739,7 @@ only)</longName>
         <voice>
           <StaffText>
             <minDistance>0.377688</minDistance>
-            <offset x="-3.32507" y="-4.66501"/>
+            <offset x="-3.82507" y="-4.66501"/>
             <text><i>lunga</i></text>
             </StaffText>
           <Rest>
@@ -3825,8 +3799,6 @@ only)</longName>
               <text>can:</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>51</pitch>
               <tpc>11</tpc>
               </Note>
@@ -3913,12 +3885,8 @@ only)</longName>
               <text>gone!</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -4022,8 +3990,9 @@ only)</longName>
             <subtype>other-dynamics</subtype>
             <velocity>112</velocity>
             <placement>above</placement>
+            <family>FreeSerif</family>
             <offset x="9" y="-1"/>
-            <text><i>ten. </i><font face="ScoreText"/></text>
+            <text><i>ten. </i><font face="ScoreText"></font></text>
             </Dynamic>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -4035,8 +4004,6 @@ only)</longName>
               <text>man!”</text>
               </Lyrics>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -4057,8 +4024,9 @@ only)</longName>
           <StaffText>
             <style>Tempo</style>
             <minDistance>0.474931</minDistance>
+            <family>FreeSerif</family>
             <offset x="0" y="-1"/>
-            <text><b>Quickly (</b><font face="ScoreText"/><b><font face="FreeSerif"/> = 132)</b></text>
+            <text><b>Quickly (</b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 132)</b></text>
             </StaffText>
           <Dynamic>
             <subtype>mf</subtype>
@@ -4252,8 +4220,6 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -4264,8 +4230,6 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -4341,8 +4305,6 @@ only)</longName>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -4377,12 +4339,8 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -4424,12 +4382,8 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -4456,12 +4410,8 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -4480,8 +4430,6 @@ only)</longName>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -4491,8 +4439,6 @@ only)</longName>
                 </next>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -4508,8 +4454,6 @@ only)</longName>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -4522,8 +4466,6 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -4541,8 +4483,6 @@ only)</longName>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -4559,8 +4499,6 @@ only)</longName>
                 </prev>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -4584,8 +4522,6 @@ only)</longName>
               <visible>0</visible>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -4600,8 +4536,6 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -4635,8 +4569,6 @@ only)</longName>
                 </next>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -4652,8 +4584,6 @@ only)</longName>
                 </prev>
               </Spanner>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -4703,7 +4633,7 @@ only)</longName>
         <voice>
           <StaffText>
             <minDistance>0.377688</minDistance>
-            <offset x="-3.32507" y="-4.66501"/>
+            <offset x="-3.82507" y="-4.66501"/>
             <text><i>lunga</i></text>
             </StaffText>
           <StaffText>
@@ -4743,14 +4673,8 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -4762,14 +4686,8 @@ only)</longName>
               <tpc>10</tpc>
               </Note>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -4789,8 +4707,6 @@ only)</longName>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -4802,8 +4718,6 @@ only)</longName>
               <tpc>10</tpc>
               </Note>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -4897,12 +4811,8 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -4920,12 +4830,8 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -5043,14 +4949,10 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -5181,8 +5083,6 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -5193,8 +5093,6 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -5267,8 +5165,6 @@ only)</longName>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
@@ -5367,12 +5263,8 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -5396,12 +5288,8 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -5421,8 +5309,6 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -5440,8 +5326,6 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -5472,8 +5356,6 @@ only)</longName>
               <visible>0</visible>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -5488,8 +5370,6 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -5521,8 +5401,6 @@ only)</longName>
               <visible>0</visible>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -5537,8 +5415,6 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -5662,8 +5538,6 @@ only)</longName>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
@@ -5691,8 +5565,6 @@ only)</longName>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -5753,14 +5625,10 @@ only)</longName>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>51</pitch>
               <tpc>11</tpc>
               </Note>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>63</pitch>
               <tpc>11</tpc>
               </Note>
@@ -5843,12 +5711,8 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -5860,12 +5724,8 @@ only)</longName>
               <tpc>14</tpc>
               </Note>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="0">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -5977,14 +5837,10 @@ only)</longName>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
             <Note>
-              <NoteDot>
-                </NoteDot>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>

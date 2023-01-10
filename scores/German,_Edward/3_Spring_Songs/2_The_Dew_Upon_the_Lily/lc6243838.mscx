@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.01">
-  <programVersion>3.5.0</programVersion>
-  <programRevision>43c5553</programRevision>
+  <programVersion>3.5.2</programVersion>
+  <programRevision>465e7b6</programRevision>
   <Score>
     <LayerTag id="0" tag="default"/>
     <currentLayer>0</currentLayer>
@@ -173,7 +173,6 @@
     <metaTag name="lyricist">Harold Boulton</metaTag>
     <metaTag name="movementNumber">2</metaTag>
     <metaTag name="movementTitle">The Dew Upon the Lily</metaTag>
-    <metaTag name="originalFormat"/>
     <metaTag name="platform"/>
     <metaTag name="poet"/>
     <metaTag name="source">http://musescore.com/user/27638568/scores/6243838</metaTag>
@@ -239,6 +238,7 @@
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="68"/>
+          <controller ctrl="10" value="48"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -9050,7 +9050,6 @@
                 <subtype>0</subtype>
                 <offset x="-1" y="4"/>
                 <off2 x="7.9" y="0"/>
-                <offset x="-1" y="4"/>
                 </Segment>
               </Pedal>
             <next>
