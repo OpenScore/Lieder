@@ -1,7 +1,7 @@
 
 # Samuel Coleridge-Taylor
 
-__English composer (1875–1912)__
+__English composer and conductor (1875–1912)__
 
 View [sets by this composer] in [OpenScore Lieder].
 

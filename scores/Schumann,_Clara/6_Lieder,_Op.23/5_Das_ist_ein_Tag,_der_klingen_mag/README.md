@@ -1,7 +1,7 @@
 
 # Das ist ein Tag, der klingen mag
 
-__No.5 from [6 Lieder, Op.23](..) by [Clara Schumann](../..)__
+__No.5 from [6 Lieder, Op.23](..) by [Clara Wieck](../..)__
 
 Transcribed and maintained by contributors to [OpenScore Lieder].
 

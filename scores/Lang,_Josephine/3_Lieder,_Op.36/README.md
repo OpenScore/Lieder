@@ -1,7 +1,7 @@
 
 # 3 Lieder, Op.36
 
-__By [Josephine Caroline Lang](..)__
+__By [Josephine Lang](..)__
 
 Visit the [official set page] in [OpenScore Lieder].
 

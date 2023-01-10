@@ -16,4 +16,4 @@ Please visit the [official score page] for more information.
 - [IMSLP] - view the [source PDF file(s)][IMSLP] that this score was transcribed from.
 
 [MuseScore]: https://musescore.com/score/6137985
-[IMSLP]: https://imslp.org/wiki/Special:ReverseLookup/291524
+[IMSLP]: https://imslp.org/wiki/Special:ReverseLookup/24123

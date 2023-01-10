@@ -1,5 +1,5 @@
 
-# Other songs by [Clara Schumann](..)
+# Other songs by [Clara Wieck](..)
 
 Visit the [official set page] in [OpenScore Lieder].
 

@@ -1,5 +1,5 @@
 
-# Josephine Caroline Lang
+# Josephine Lang
 
 __German composer (1815–1880)__
 

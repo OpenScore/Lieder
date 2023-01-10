@@ -1,7 +1,7 @@
 
 # 2 Lieder, Op.28
 
-__By [Josephine Caroline Lang](..)__
+__By [Josephine Lang](..)__
 
 Visit the [official set page] in [OpenScore Lieder].
 

@@ -1,7 +1,7 @@
 
 # Herz, mein Herz, so schweig auch du!
 
-__No.2 from [2 Lieder, Op.28](..) by [Josephine Caroline Lang](../..)__
+__No.2 from [2 Lieder, Op.28](..) by [Josephine Lang](../..)__
 
 Transcribed and maintained by contributors to [OpenScore Lieder].
 

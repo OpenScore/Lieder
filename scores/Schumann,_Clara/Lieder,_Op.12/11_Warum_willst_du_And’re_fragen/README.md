@@ -1,7 +1,7 @@
 
 # Warum willst du And’re fragen
 
-__No.11 from [Lieder, Op.12](..) by [Clara Schumann](../..)__
+__No.11 from [Lieder, Op.12](..) by [Clara Wieck](../..)__
 
 Transcribed and maintained by contributors to [OpenScore Lieder].
 

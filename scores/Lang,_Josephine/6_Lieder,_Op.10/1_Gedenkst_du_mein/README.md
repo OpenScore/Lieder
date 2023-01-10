@@ -1,7 +1,7 @@
 
 # Gedenkst du mein?
 
-__No.1 from [6 Lieder, Op.10](..) by [Josephine Caroline Lang](../..)__
+__No.1 from [6 Lieder, Op.10](..) by [Josephine Lang](../..)__
 
 Transcribed and maintained by contributors to [OpenScore Lieder].
 

@@ -1,7 +1,7 @@
 
 # Liebeszauber
 
-__No.3 from [6 Lieder, Op.13](..) by [Clara Schumann](../..)__
+__No.3 from [6 Lieder, Op.13](..) by [Clara Wieck](../..)__
 
 Transcribed and maintained by contributors to [OpenScore Lieder].
 

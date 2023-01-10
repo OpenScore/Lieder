@@ -1,7 +1,7 @@
 
 # Der Wanderer an die Quellen
 
-__No.2 from [6 Lieder, Op.13](..) by [Josephine Caroline Lang](../..)__
+__No.2 from [6 Lieder, Op.13](..) by [Josephine Lang](../..)__
 
 Transcribed and maintained by contributors to [OpenScore Lieder].
 

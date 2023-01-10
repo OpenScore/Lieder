@@ -1,7 +1,7 @@
 
 # Auf einem grünen Hügel
 
-__No.4 from [6 Lieder, Op.23](..) by [Clara Schumann](../..)__
+__No.4 from [6 Lieder, Op.23](..) by [Clara Wieck](../..)__
 
 Transcribed and maintained by contributors to [OpenScore Lieder].
 

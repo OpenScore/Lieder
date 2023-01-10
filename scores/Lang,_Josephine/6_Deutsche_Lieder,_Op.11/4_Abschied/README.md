@@ -1,7 +1,7 @@
 
 # Abschied
 
-__No.4 from [6 Deutsche Lieder, Op.11](..) by [Josephine Caroline Lang](../..)__
+__No.4 from [6 Deutsche Lieder, Op.11](..) by [Josephine Lang](../..)__
 
 Transcribed and maintained by contributors to [OpenScore Lieder].
 

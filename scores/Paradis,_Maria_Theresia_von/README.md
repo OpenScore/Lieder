@@ -1,7 +1,7 @@
 
 # Maria Theresia von Paradis
 
-__Austrian musician and composer, contemporary of Mozart (1759–1824)__
+__Austrian musician and composer (1759–1824)__
 
 View [sets by this composer] in [OpenScore Lieder].
 

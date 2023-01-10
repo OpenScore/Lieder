@@ -1,7 +1,7 @@
 
 # Henry Bishop
 
-__British composer (1786–1855)__
+__British composer (1787–1855)__
 
 View [sets by this composer] in [OpenScore Lieder].
 

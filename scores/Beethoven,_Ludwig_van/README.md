@@ -1,7 +1,7 @@
 
 # Ludwig van Beethoven
 
-__German classical and romantic composer (1770–1827)__
+__German composer (1770–1827)__
 
 View [sets by this composer] in [OpenScore Lieder].
 

@@ -1,5 +1,5 @@
 
-# Other songs by [Josephine Caroline Lang](..)
+# Other songs by [Josephine Lang](..)
 
 Visit the [official set page] in [OpenScore Lieder].
 

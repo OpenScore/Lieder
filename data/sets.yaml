@@ -106,7 +106,7 @@
 5079544:
   path: Bizet,_Georges/20_Mélodies,_Op.21
   name: 20 Mélodies, Op.21
-  scores: 1
+  scores: 20
   target: 20
   link: https://musescore.com/openscore-lieder-corpus/sets/5079544
   imslp: '#342985'
@@ -122,7 +122,7 @@
 5107411:
   path: Bonis,_Mel/_
   name: Other songs by Mélanie Bonis
-  scores: 1
+  scores: 2
   target:
   link: https://musescore.com/openscore-lieder-corpus/sets/5107411
   imslp:
@@ -287,6 +287,14 @@
   link: https://musescore.com/openscore-lieder-corpus/sets/5033077
   imslp: '#88147'
   composer_id: 7294
+5577240:
+  path: Brahms,_Johannes/Marienlieder,_Op.22
+  name: Marienlieder, Op.22
+  scores: 6
+  target: 7
+  link: https://musescore.com/openscore-lieder-corpus/sets/5577240
+  imslp: '#22901'
+  composer_id: 7294
 5103544:
   path: Bridge,_Frank/_
   name: Other songs by Frank Bridge
@@ -447,6 +455,14 @@
   link: https://musescore.com/openscore-lieder-corpus/sets/5043619
   imslp: '#80679'
   composer_id: 57257
+5110379:
+  path: Cornelius,_Peter/Weihnachtslieder,_Op.8
+  name: Weihnachtslieder, Op.8
+  scores: 8
+  target: 8
+  link: https://musescore.com/openscore-lieder-corpus/sets/5110379
+  imslp: '#80690'
+  composer_id: 57257
 5105987:
   path: Cowen,_Frederic_Hymen/_
   name: Other songs by Frederic Hymen Cowen
@@ -463,9 +479,17 @@
   link: https://musescore.com/openscore-lieder-corpus/sets/5103573
   imslp: '#333826'
   composer_id: 3131948
+5110892:
+  path: Debussy,_Claude/2_Romances
+  name: 2 Romances
+  scores: 2
+  target: 2
+  link: https://musescore.com/openscore-lieder-corpus/sets/5110892
+  imslp:
+  composer_id: 4700
 5060912:
-  path: Debussy,_Claude/Ariettes_Oubliées
-  name: Ariettes Oubliées
+  path: Debussy,_Claude/Ariettes_oubliées
+  name: Ariettes oubliées
   scores: 6
   target: 6
   link: https://musescore.com/openscore-lieder-corpus/sets/5060912
@@ -554,7 +578,7 @@
 5106755:
   path: Faisst,_Clara_Mathilda/2_Lieder,_Op.19
   name: 2 Lieder, Op.19
-  scores: 1
+  scores: 2
   target: 2
   link: https://musescore.com/openscore-lieder-corpus/sets/5106755
   imslp:
@@ -634,7 +658,7 @@
 5108674:
   path: Fauré,_Gabriel/3_Songs,_Op.7
   name: 3 Songs, Op.7
-  scores: 2
+  scores: 3
   target: 3
   link: https://musescore.com/openscore-lieder-corpus/sets/5108674
   imslp:
@@ -671,6 +695,14 @@
   link: https://musescore.com/openscore-lieder-corpus/sets/5099780
   imslp: '#88709'
   composer_id: 561967
+5109140:
+  path: Franz,_Robert/6_Gesänge,_Op.10
+  name: 6 Gesänge, Op.10
+  scores: 6
+  target: 6
+  link: https://musescore.com/openscore-lieder-corpus/sets/5109140
+  imslp: '#96278'
+  composer_id: 561967
 5032888:
   path: Franz,_Robert/6_Gesänge,_Op.14
   name: 6 Gesänge, Op.14
@@ -682,7 +714,7 @@
 5032875:
   path: Franz,_Robert/6_Gesänge,_Op.16
   name: 6 Gesänge, Op.16
-  scores: 3
+  scores: 6
   target: 6
   link: https://musescore.com/openscore-lieder-corpus/sets/5032875
   imslp: '#97638'
@@ -690,7 +722,7 @@
 5032887:
   path: Franz,_Robert/6_Gesänge,_Op.26
   name: 6 Gesänge, Op.26
-  scores: 1
+  scores: 6
   target: 6
   link: https://musescore.com/openscore-lieder-corpus/sets/5032887
   imslp: '#97775'
@@ -702,6 +734,14 @@
   target: 6
   link: https://musescore.com/openscore-lieder-corpus/sets/5032885
   imslp: '#96281'
+  composer_id: 561967
+5109143:
+  path: Franz,_Robert/6_Lieder,_Op.25
+  name: 6 Lieder, Op.25
+  scores: 6
+  target: 6
+  link: https://musescore.com/openscore-lieder-corpus/sets/5109143
+  imslp: '#97777'
   composer_id: 561967
 5106922:
   path: Freer,_Eleanor_Everest/2_Songs,_Op.16
@@ -762,7 +802,7 @@
 5104018:
   path: Grandval,_Clémence_de/_
   name: Other songs by Clémence de Grandval
-  scores: 6
+  scores: 7
   target:
   link: https://musescore.com/openscore-lieder-corpus/sets/5104018
   imslp:
@@ -1129,7 +1169,7 @@
   composer_id: 89972
 5102731:
   path: Lang,_Josephine/_
-  name: Other songs by Josephine Caroline Lang
+  name: Other songs by Josephine Lang
   scores: 2
   target:
   link: https://musescore.com/openscore-lieder-corpus/sets/5102731
@@ -1282,7 +1322,7 @@
 5106656:
   path: Lehmann,_Liza/Songs_of_Love_and_Spring
   name: Songs of Love and Spring
-  scores: 9
+  scores: 12
   target: 12
   link: https://musescore.com/openscore-lieder-corpus/sets/5106656
   imslp: '#627769'
@@ -1367,6 +1407,22 @@
   link: https://musescore.com/openscore-lieder-corpus/sets/5100878
   imslp: '#133722'
   composer_id: 447851
+5110262:
+  path: Mendelssohn,_Felix/6_Duets,_Op.63
+  name: 6 Duets, Op.63
+  scores: 6
+  target: 6
+  link: https://musescore.com/openscore-lieder-corpus/sets/5110262
+  imslp:
+  composer_id: 46096
+5110240:
+  path: Mendelssohn,_Felix/6_Gesänge,_Op.86
+  name: 6 Gesänge, Op.86
+  scores: 6
+  target: 6
+  link: https://musescore.com/openscore-lieder-corpus/sets/5110240
+  imslp: '#09356'
+  composer_id: 46096
 5107543:
   path: Mounsey_Bartholomew,_Ann/Songs_of_Remembrance
   name: Songs of Remembrance
@@ -1479,37 +1535,37 @@
   link: https://musescore.com/openscore-lieder-corpus/sets/5107695
   imslp:
   composer_id: 3264560
-5002042:
-  path: Reichardt,_Louise/Sechs_Lieder_von_Novalis,_Op.4
-  name: Sechs Lieder von Novalis, Op.4
-  scores: 7
-  target: 7
-  link: https://musescore.com/openscore-lieder-corpus/sets/5002042
-  imslp: '#511862'
-  composer_id: 6688923
 5002090:
-  path: Reichardt,_Louise/Zwölf_Deutsche_und_Italiänische_Romantische_Gesänge
-  name: Zwölf Deutsche und Italiänische Romantische Gesänge
+  path: Reichardt,_Louise/12_Deutsche_und_Italiänische_Romantische_Gesänge
+  name: 12 Deutsche und Italiänische Romantische Gesänge
   scores: 12
   target: 12
   link: https://musescore.com/openscore-lieder-corpus/sets/5002090
   imslp: '#511856'
   composer_id: 6688923
 5001873:
-  path: Reichardt,_Louise/Zwölf_Gesänge
-  name: Zwölf Gesänge
+  path: Reichardt,_Louise/12_Gesänge
+  name: 12 Gesänge
   scores: 12
   target: 12
   link: https://musescore.com/openscore-lieder-corpus/sets/5001873
   imslp: '#23388'
   composer_id: 6688923
 5001966:
-  path: Reichardt,_Louise/Zwölf_Gesänge,_Op.3
-  name: Zwölf Gesänge, Op.3
+  path: Reichardt,_Louise/12_Gesänge,_Op.3
+  name: 12 Gesänge, Op.3
   scores: 12
   target: 12
   link: https://musescore.com/openscore-lieder-corpus/sets/5001966
   imslp: '#511854'
+  composer_id: 6688923
+5002042:
+  path: Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4
+  name: 6 Lieder von Novalis, Op.4
+  scores: 7
+  target: 7
+  link: https://musescore.com/openscore-lieder-corpus/sets/5002042
+  imslp: '#511862'
   composer_id: 6688923
 5105824:
   path: Rootham,_Cyril/_
@@ -1519,10 +1575,26 @@
   link: https://musescore.com/openscore-lieder-corpus/sets/5105824
   imslp:
   composer_id: 323117
+5110233:
+  path: Satie,_Erik/_
+  name: Other songs by Erik Satie
+  scores: 5
+  target:
+  link: https://musescore.com/openscore-lieder-corpus/sets/5110233
+  imslp:
+  composer_id: 187192
+5110243:
+  path: Satie,_Erik/4_Petites_mélodies
+  name: 4 Petites mélodies
+  scores: 3
+  target: 4
+  link: https://musescore.com/openscore-lieder-corpus/sets/5110243
+  imslp: '#16886'
+  composer_id: 187192
 5106049:
   path: Satie,_Erik/Socrate
   name: Socrate
-  scores: 2
+  scores: 3
   target: 3
   link: https://musescore.com/openscore-lieder-corpus/sets/5106049
   imslp: '#15779'
@@ -1538,7 +1610,7 @@
 5101602:
   path: Schubert,_Franz/_
   name: Other songs by Franz Schubert
-  scores: 3
+  scores: 7
   target:
   link: https://musescore.com/openscore-lieder-corpus/sets/5101602
   imslp:
@@ -1566,6 +1638,14 @@
   target: 20
   link: https://musescore.com/openscore-lieder-corpus/sets/5004732
   imslp: '#3233'
+  composer_id: 7312
+5109410:
+  path: Schubert,_Franz/Op.22
+  name: Op.22
+  scores: 2
+  target: 2
+  link: https://musescore.com/openscore-lieder-corpus/sets/5109410
+  imslp:
   composer_id: 7312
 5103429:
   path: Schubert,_Franz/Op.52
@@ -1609,7 +1689,7 @@
   composer_id: 7312
 5101059:
   path: Schumann,_Clara/_
-  name: Other songs by Clara Schumann
+  name: Other songs by Clara Wieck
   scores: 2
   target:
   link: https://musescore.com/openscore-lieder-corpus/sets/5101059
@@ -1639,6 +1719,14 @@
   link: https://musescore.com/openscore-lieder-corpus/sets/5016675
   imslp: '#270918'
   composer_id: 132232
+5109333:
+  path: Schumann,_Robert/5_Lieder_und_Gesänge,_Op.127
+  name: 5 Lieder und Gesänge, Op.127
+  scores: 5
+  target: 5
+  link: https://musescore.com/openscore-lieder-corpus/sets/5109333
+  imslp: '#271937'
+  composer_id: 7351
 5003152:
   path: Schumann,_Robert/Dichterliebe,_Op.48
   name: Dichterliebe, Op.48
@@ -1655,6 +1743,14 @@
   link: https://musescore.com/openscore-lieder-corpus/sets/5016693
   imslp: '#51733'
   composer_id: 7351
+5109332:
+  path: Schumann,_Robert/Lieder_und_Gesänge,_Vol.IV,_Op.96
+  name: Lieder und Gesänge, Vol.IV, Op.96
+  scores: 5
+  target: 5
+  link: https://musescore.com/openscore-lieder-corpus/sets/5109332
+  imslp: '#271883'
+  composer_id: 7351
 5003125:
   path: Schumann,_Robert/Liederkreis,_Op.39
   name: Liederkreis, Op.39
@@ -1662,6 +1758,14 @@
   target: 12
   link: https://musescore.com/openscore-lieder-corpus/sets/5003125
   imslp: '#270920'
+  composer_id: 7351
+5109331:
+  path: Schumann,_Robert/Myrthen,_Op.25
+  name: Myrthen, Op.25
+  scores: 26
+  target: 26
+  link: https://musescore.com/openscore-lieder-corpus/sets/5109331
+  imslp: '#270905'
   composer_id: 7351
 5105781:
   path: Shield,_William/_
@@ -1698,7 +1802,7 @@
 5103542:
   path: Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68
   name: A Cycle of Songs, Op.68
-  scores: 2
+  scores: 9
   target: 9
   link: https://musescore.com/openscore-lieder-corpus/sets/5103542
   imslp: '#225685'
@@ -1727,6 +1831,14 @@
   link: https://musescore.com/openscore-lieder-corpus/sets/5103593
   imslp:
   composer_id: 212692
+5108131:
+  path: Tegnér,_Alice/_
+  name: Other songs by Alice Tegnér
+  scores: 2
+  target:
+  link: https://musescore.com/openscore-lieder-corpus/sets/5108131
+  imslp:
+  composer_id: 462879
 5107708:
   path: Thys,_Pauline/_
   name: Other songs by Pauline-Marie-Elisa Thys

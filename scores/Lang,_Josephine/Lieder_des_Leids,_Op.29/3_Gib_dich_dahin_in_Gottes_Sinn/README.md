@@ -1,7 +1,7 @@
 
 # Gib dich dahin in Gottes Sinn
 
-__No.3 from [Lieder des Leids, Op.29](..) by [Josephine Caroline Lang](../..)__
+__No.3 from [Lieder des Leids, Op.29](..) by [Josephine Lang](../..)__
 
 Transcribed and maintained by contributors to [OpenScore Lieder].
 

@@ -1,7 +1,7 @@
 
 # Liliʻuokalani
 
-__last monarch of the Kingdom of Hawaii (1838–1917)__
+__monarch of the Hawaiian Kingdom (1838–1917)__
 
 View [sets by this composer] in [OpenScore Lieder].
 

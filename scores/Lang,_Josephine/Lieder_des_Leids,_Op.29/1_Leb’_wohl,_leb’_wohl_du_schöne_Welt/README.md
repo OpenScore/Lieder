@@ -1,7 +1,7 @@
 
 # Leb’ wohl, leb’ wohl du schöne Welt
 
-__No.1 from [Lieder des Leids, Op.29](..) by [Josephine Caroline Lang](../..)__
+__No.1 from [Lieder des Leids, Op.29](..) by [Josephine Lang](../..)__
 
 Transcribed and maintained by contributors to [OpenScore Lieder].
 

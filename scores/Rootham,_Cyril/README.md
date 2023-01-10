@@ -1,7 +1,7 @@
 
 # Cyril Rootham
 
-__English composer, educator and organist (1875–1938)__
+__English organist, teacher, conductor and composer (1875–1938)__
 
 View [sets by this composer] in [OpenScore Lieder].
 

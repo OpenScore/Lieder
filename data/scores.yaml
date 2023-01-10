@@ -307,6 +307,90 @@
   imslp: '#572445'
   set_id: 5105780
   lyricist_url: https://imslp.org/wiki/Category:Moore,_Thomas
+6877413:
+  path: Bizet,_Georges/20_Mélodies,_Op.21/01_Chanson_d’avril
+  name: Chanson d’avril
+  link: https://musescore.com/openscore-lieder-corpus/scores/6877413
+  imslp: '#342985'
+  set_id: 5079544
+  lyricist_url: https://imslp.org/wiki/Category:Bouilhet,_Louis
+6877530:
+  path: Bizet,_Georges/20_Mélodies,_Op.21/02_Le_matin
+  name: Le matin
+  link: https://musescore.com/openscore-lieder-corpus/scores/6877530
+  imslp: '#342985'
+  set_id: 5079544
+  lyricist_url:
+6877589:
+  path: Bizet,_Georges/20_Mélodies,_Op.21/03_Vieille_chanson
+  name: Vieille chanson
+  link: https://musescore.com/openscore-lieder-corpus/scores/6877589
+  imslp: '#342985'
+  set_id: 5079544
+  lyricist_url: https://imslp.org/wiki/Category:Millevoye,_Charles
+6878940:
+  path: Bizet,_Georges/20_Mélodies,_Op.21/04_Adieux_de_l’hôtesse_arabe
+  name: Adieux de l’hôtesse arabe
+  link: https://musescore.com/openscore-lieder-corpus/scores/6878940
+  imslp: '#342985'
+  set_id: 5079544
+  lyricist_url: https://imslp.org/wiki/Category:Hugo,_Victor
+6888209:
+  path: Bizet,_Georges/20_Mélodies,_Op.21/05_Rêve_de_la_bien-aimée
+  name: Rêve de la bien-aimée
+  link: https://musescore.com/openscore-lieder-corpus/scores/6888209
+  imslp: '#342985'
+  set_id: 5079544
+  lyricist_url: https://imslp.org/wiki/Category:Courmont,_Louis_de
+6894036:
+  path: Bizet,_Georges/20_Mélodies,_Op.21/06_J’aime_l’amour
+  name: J’aime l’amour
+  link: https://musescore.com/openscore-lieder-corpus/scores/6894036
+  imslp: '#342985'
+  set_id: 5079544
+  lyricist_url: https://imslp.org/wiki/Category:Gallet,_Louis
+6895220:
+  path: Bizet,_Georges/20_Mélodies,_Op.21/07_Vous_ne_priez_pas
+  name: Vous ne priez pas
+  link: https://musescore.com/openscore-lieder-corpus/scores/6895220
+  imslp: '#342985'
+  set_id: 5079544
+  lyricist_url: https://imslp.org/wiki/Category:Delavigne,_Casimir
+6895581:
+  path: Bizet,_Georges/20_Mélodies,_Op.21/08_Ma_vie_a_son_secret
+  name: Ma vie a son secret
+  link: https://musescore.com/openscore-lieder-corpus/scores/6895581
+  imslp: '#342985'
+  set_id: 5079544
+  lyricist_url: https://imslp.org/wiki/Category:Arvers,_F%C3%A9lix
+6898041:
+  path: Bizet,_Georges/20_Mélodies,_Op.21/09_Pastorale
+  name: Pastorale
+  link: https://musescore.com/openscore-lieder-corpus/scores/6898041
+  imslp: '#342985'
+  set_id: 5079544
+  lyricist_url: https://imslp.org/wiki/Category:Regnard,_Jean-Fran%C3%A7ois
+6898141:
+  path: Bizet,_Georges/20_Mélodies,_Op.21/10_Sérénade
+  name: Sérénade
+  link: https://musescore.com/openscore-lieder-corpus/scores/6898141
+  imslp: '#342985'
+  set_id: 5079544
+  lyricist_url: https://imslp.org/wiki/Category:Carr%C3%A9,_Michel
+6901078:
+  path: Bizet,_Georges/20_Mélodies,_Op.21/11_Berceuse
+  name: Berceuse
+  link: https://musescore.com/openscore-lieder-corpus/scores/6901078
+  imslp: '#342985'
+  set_id: 5079544
+  lyricist_url: https://imslp.org/wiki/Category:Desbordes-Valmore,_Marceline
+6901197:
+  path: Bizet,_Georges/20_Mélodies,_Op.21/12_La_chanson_du_fou
+  name: La chanson du fou
+  link: https://musescore.com/openscore-lieder-corpus/scores/6901197
+  imslp: '#342985'
+  set_id: 5079544
+  lyricist_url: https://imslp.org/wiki/Category:Hugo,_Victor
 5079487:
   path: Bizet,_Georges/20_Mélodies,_Op.21/13_Absence
   name: Absence
@@ -314,6 +398,55 @@
   imslp: '#342985'
   set_id: 5079544
   lyricist_url: https://imslp.org/wiki/Category:Gautier,_Th%C3%A9ophile
+6902355:
+  path: Bizet,_Georges/20_Mélodies,_Op.21/14_Douce_mer
+  name: Douce mer
+  link: https://musescore.com/openscore-lieder-corpus/scores/6902355
+  imslp: '#342985'
+  set_id: 5079544
+  lyricist_url: https://imslp.org/wiki/Category:Lamartine,_Alphonse_de
+6902615:
+  path: Bizet,_Georges/20_Mélodies,_Op.21/15_Après_l’hiver
+  name: Après l’hiver
+  link: https://musescore.com/openscore-lieder-corpus/scores/6902615
+  imslp: '#342985'
+  set_id: 5079544
+  lyricist_url: https://imslp.org/wiki/Category:Hugo,_Victor
+6903757:
+  path: Bizet,_Georges/20_Mélodies,_Op.21/16_La_coccinelle
+  name: La coccinelle
+  link: https://musescore.com/openscore-lieder-corpus/scores/6903757
+  imslp: '#342985'
+  set_id: 5079544
+  lyricist_url: https://imslp.org/wiki/Category:Hugo,_Victor
+6903010:
+  path: Bizet,_Georges/20_Mélodies,_Op.21/17_Chant_d’amour!
+  name: Chant d’amour!
+  link: https://musescore.com/openscore-lieder-corpus/scores/6903010
+  imslp: '#342985'
+  set_id: 5079544
+  lyricist_url: https://imslp.org/wiki/Category:Lamartine,_Alphonse_de
+6905092:
+  path: Bizet,_Georges/20_Mélodies,_Op.21/18_Je_n’en_dirai_rien!
+  name: Je n’en dirai rien!
+  link: https://musescore.com/openscore-lieder-corpus/scores/6905092
+  imslp: '#342985'
+  set_id: 5079544
+  lyricist_url: https://imslp.org/wiki/Category:Adenis,_Jules
+6906944:
+  path: Bizet,_Georges/20_Mélodies,_Op.21/19_L’esprit_saint
+  name: L’esprit saint
+  link: https://musescore.com/openscore-lieder-corpus/scores/6906944
+  imslp: '#342985'
+  set_id: 5079544
+  lyricist_url:
+6908450:
+  path: Bizet,_Georges/20_Mélodies,_Op.21/20_Tarentelle
+  name: Tarentelle
+  link: https://musescore.com/openscore-lieder-corpus/scores/6908450
+  imslp: '#342985'
+  set_id: 5079544
+  lyricist_url: https://imslp.org/wiki/Category:Pailleron,_%C3%89douard
 5079494:
   path: Bizet,_Georges/Feuilles_d’album/1_À_une_Fleur
   name: À une Fleur
@@ -363,6 +496,13 @@
   imslp: '#654022'
   set_id: 5107411
   lyricist_url: https://imslp.org/wiki/Category:Rimbault,_L%C3%A9on
+6635391:
+  path: Bonis,_Mel/_/Le_chat_sur_le_toit,_Op.93
+  name: Le chat sur le toit, Op.93
+  link: https://musescore.com/openscore-lieder-corpus/scores/6635391
+  imslp: '#262191'
+  set_id: 5107411
+  lyricist_url:
 5983850:
   path: Boulanger,_Lili/_/Attente
   name: Attente
@@ -406,8 +546,8 @@
   set_id: 5100931
   lyricist_url: https://imslp.org/wiki/Category:Jammes,_Francis
 5857981:
-  path: Boulanger,_Lili/Clairières_dans_le_ciel/04_Un_Poète_disait
-  name: Un Poète disait
+  path: Boulanger,_Lili/Clairières_dans_le_ciel/04_Un_poète_disait
+  name: Un poète disait
   link: https://musescore.com/openscore-lieder-corpus/scores/5857981
   imslp: '#25057'
   set_id: 5100931
@@ -1287,6 +1427,48 @@
   imslp: '#88147'
   set_id: 5033077
   lyricist_url: https://imslp.org/wiki/Category:Groth,_Klaus
+8708253:
+  path: Brahms,_Johannes/Marienlieder,_Op.22/2_Marias_Kirchgang
+  name: Marias Kirchgang
+  link: https://musescore.com/openscore-lieder-corpus/scores/8708253
+  imslp: '#22901'
+  set_id: 5577240
+  lyricist_url:
+8708688:
+  path: Brahms,_Johannes/Marienlieder,_Op.22/3_Marias_Wallfahrt
+  name: Marias Wallfahrt
+  link: https://musescore.com/openscore-lieder-corpus/scores/8708688
+  imslp: '#22901'
+  set_id: 5577240
+  lyricist_url:
+8712405:
+  path: Brahms,_Johannes/Marienlieder,_Op.22/4_Der_Jäger
+  name: Der Jäger
+  link: https://musescore.com/openscore-lieder-corpus/scores/8712405
+  imslp: '#22901'
+  set_id: 5577240
+  lyricist_url:
+8712648:
+  path: Brahms,_Johannes/Marienlieder,_Op.22/5_Ruf_zur_Maria
+  name: Ruf zur Maria
+  link: https://musescore.com/openscore-lieder-corpus/scores/8712648
+  imslp: '#22901'
+  set_id: 5577240
+  lyricist_url:
+8702982:
+  path: Brahms,_Johannes/Marienlieder,_Op.22/6_Magdalena
+  name: Magdalena
+  link: https://musescore.com/openscore-lieder-corpus/scores/8702982
+  imslp: '#22901'
+  set_id: 5577240
+  lyricist_url:
+8718660:
+  path: Brahms,_Johannes/Marienlieder,_Op.22/7_Marias_Lob
+  name: Marias Lob
+  link: https://musescore.com/openscore-lieder-corpus/scores/8718660
+  imslp: '#22901'
+  set_id: 5577240
+  lyricist_url:
 6451773:
   path: Bridge,_Frank/_/’Tis_but_a_Week,_H.146
   name: ’Tis but a Week, H.146
@@ -1638,8 +1820,8 @@
   set_id: 5097140
   lyricist_url: https://imslp.org/wiki/Category:Lafrique,_Armand
 6293357:
-  path: Chaminade,_Cécile/_/Chanson_Groënlandaise
-  name: Chanson Groënlandaise
+  path: Chaminade,_Cécile/_/Chanson_groënlandaise
+  name: Chanson groënlandaise
   link: https://musescore.com/openscore-lieder-corpus/scores/6293357
   imslp: '#154084'
   set_id: 5097140
@@ -1694,15 +1876,15 @@
   set_id: 5097140
   lyricist_url: https://imslp.org/wiki/Category:Prudhomme,_Sully
 4999581:
-  path: Chaminade,_Cécile/_/La_Fiancée_du_soldat
-  name: La Fiancée du soldat
+  path: Chaminade,_Cécile/_/La_fiancée_du_soldat
+  name: La fiancée du soldat
   link: https://musescore.com/openscore-lieder-corpus/scores/4999581
   imslp: '#154211'
   set_id: 5097140
   lyricist_url: https://imslp.org/wiki/Category:Grandmougin,_Charles
 4999602:
-  path: Chaminade,_Cécile/_/Les_Rêves
-  name: Les Rêves
+  path: Chaminade,_Cécile/_/Les_rêves
+  name: Les rêves
   link: https://musescore.com/openscore-lieder-corpus/scores/4999602
   imslp: '#154059'
   set_id: 5097140
@@ -2078,6 +2260,62 @@
   imslp: '#80679'
   set_id: 5043619
   lyricist_url: https://imslp.org/wiki/Category:Cornelius,_Peter
+7006856:
+  path: Cornelius,_Peter/Weihnachtslieder,_Op.8/1_Christbaum
+  name: Christbaum
+  link: https://musescore.com/openscore-lieder-corpus/scores/7006856
+  imslp: '#80690'
+  set_id: 5110379
+  lyricist_url:
+7006959:
+  path: Cornelius,_Peter/Weihnachtslieder,_Op.8/2a_Die_Hirten
+  name: Die Hirten
+  link: https://musescore.com/openscore-lieder-corpus/scores/7006959
+  imslp: '#80690'
+  set_id: 5110379
+  lyricist_url:
+7008709:
+  path: Cornelius,_Peter/Weihnachtslieder,_Op.8/2b_Die_Hirten
+  name: Die Hirten
+  link: https://musescore.com/openscore-lieder-corpus/scores/7008709
+  imslp: '#80690'
+  set_id: 5110379
+  lyricist_url:
+7011202:
+  path: Cornelius,_Peter/Weihnachtslieder,_Op.8/3a_Die_Könige
+  name: Die Könige
+  link: https://musescore.com/openscore-lieder-corpus/scores/7011202
+  imslp: '#80690'
+  set_id: 5110379
+  lyricist_url:
+7011252:
+  path: Cornelius,_Peter/Weihnachtslieder,_Op.8/3b_Die_Könige
+  name: Die Könige
+  link: https://musescore.com/openscore-lieder-corpus/scores/7011252
+  imslp: '#80690'
+  set_id: 5110379
+  lyricist_url:
+7018964:
+  path: Cornelius,_Peter/Weihnachtslieder,_Op.8/4_Simeon
+  name: Simeon
+  link: https://musescore.com/openscore-lieder-corpus/scores/7018964
+  imslp: '#80690'
+  set_id: 5110379
+  lyricist_url:
+7019213:
+  path: Cornelius,_Peter/Weihnachtslieder,_Op.8/5_Christus_der_Kinderfreund
+  name: Christus der Kinderfreund
+  link: https://musescore.com/openscore-lieder-corpus/scores/7019213
+  imslp: '#80690'
+  set_id: 5110379
+  lyricist_url:
+7019290:
+  path: Cornelius,_Peter/Weihnachtslieder,_Op.8/6_Christkind
+  name: Christkind
+  link: https://musescore.com/openscore-lieder-corpus/scores/7019290
+  imslp: '#80690'
+  set_id: 5110379
+  lyricist_url:
 6482928:
   path: Cowen,_Frederic_Hymen/_/Hail!
   name: Hail!
@@ -2155,43 +2393,57 @@
   imslp: '#333826'
   set_id: 5103573
   lyricist_url:
+7163829:
+  path: Debussy,_Claude/2_Romances/1_L’âme_évaporée
+  name: L’âme évaporée
+  link: https://musescore.com/openscore-lieder-corpus/scores/7163829
+  imslp: '#14816'
+  set_id: 5110892
+  lyricist_url: https://imslp.org/wiki/Category:Bourget,_Paul
+7086632:
+  path: Debussy,_Claude/2_Romances/2_Les_cloches
+  name: Les cloches
+  link: https://musescore.com/openscore-lieder-corpus/scores/7086632
+  imslp: '#14816'
+  set_id: 5110892
+  lyricist_url: https://imslp.org/wiki/Category:Bourget,_Paul
 5060910:
-  path: Debussy,_Claude/Ariettes_Oubliées/1_C’est_l’extase_langoureuse
+  path: Debussy,_Claude/Ariettes_oubliées/1_C’est_l’extase_langoureuse
   name: C’est l’extase langoureuse
   link: https://musescore.com/openscore-lieder-corpus/scores/5060910
   imslp: '#14819'
   set_id: 5060912
   lyricist_url: https://imslp.org/wiki/Category:Verlaine,_Paul
 5060918:
-  path: Debussy,_Claude/Ariettes_Oubliées/2_Il_pleure_dans_mon_coeur
+  path: Debussy,_Claude/Ariettes_oubliées/2_Il_pleure_dans_mon_coeur
   name: Il pleure dans mon coeur
   link: https://musescore.com/openscore-lieder-corpus/scores/5060918
   imslp: '#14819'
   set_id: 5060912
   lyricist_url: https://imslp.org/wiki/Category:Verlaine,_Paul
 5060924:
-  path: Debussy,_Claude/Ariettes_Oubliées/3_L’ombre_des_arbres
+  path: Debussy,_Claude/Ariettes_oubliées/3_L’ombre_des_arbres
   name: L’ombre des arbres
   link: https://musescore.com/openscore-lieder-corpus/scores/5060924
   imslp: '#14819'
   set_id: 5060912
   lyricist_url: https://imslp.org/wiki/Category:Verlaine,_Paul
 5060932:
-  path: Debussy,_Claude/Ariettes_Oubliées/4_Paysages_belges._Chevaux_de_bois
+  path: Debussy,_Claude/Ariettes_oubliées/4_Paysages_belges._Chevaux_de_bois
   name: Paysages belges. Chevaux de bois
   link: https://musescore.com/openscore-lieder-corpus/scores/5060932
   imslp: '#14819'
   set_id: 5060912
   lyricist_url: https://imslp.org/wiki/Category:Verlaine,_Paul
 5060938:
-  path: Debussy,_Claude/Ariettes_Oubliées/5_Aquarelles_I._Green
+  path: Debussy,_Claude/Ariettes_oubliées/5_Aquarelles_I._Green
   name: Aquarelles I. Green
   link: https://musescore.com/openscore-lieder-corpus/scores/5060938
   imslp: '#14819'
   set_id: 5060912
   lyricist_url: https://imslp.org/wiki/Category:Verlaine,_Paul
 5060943:
-  path: Debussy,_Claude/Ariettes_Oubliées/6_Aquarelles_II._Spleen
+  path: Debussy,_Claude/Ariettes_oubliées/6_Aquarelles_II._Spleen
   name: Aquarelles II. Spleen
   link: https://musescore.com/openscore-lieder-corpus/scores/5060943
   imslp: '#14819'
@@ -2435,6 +2687,13 @@
   imslp: '#623002'
   set_id: 5106729
   lyricist_url: https://imslp.org/wiki/Category:Hauptmann,_Gerhart
+6575317:
+  path: Faisst,_Clara_Mathilda/2_Lieder,_Op.19/1_Stimme_eines_seligen_Geistes
+  name: Stimme eines seligen Geistes
+  link: https://musescore.com/openscore-lieder-corpus/scores/6575317
+  imslp: '#622488'
+  set_id: 5106755
+  lyricist_url: https://imslp.org/wiki/Category:Claudius,_Matthias
 6575466:
   path: Faisst,_Clara_Mathilda/2_Lieder,_Op.19/2_Das_Brünnlein
   name: Das Brünnlein
@@ -2645,6 +2904,13 @@
   imslp: '#24047'
   set_id: 5108674
   lyricist_url: https://imslp.org/wiki/Category:Bussine,_Romain
+6772652:
+  path: Fauré,_Gabriel/3_Songs,_Op.7/2_Hymne
+  name: Hymne
+  link: https://musescore.com/openscore-lieder-corpus/scores/6772652
+  imslp: '#24050'
+  set_id: 5108674
+  lyricist_url: https://imslp.org/wiki/Category:Baudelaire,_Charles
 6772888:
   path: Fauré,_Gabriel/3_Songs,_Op.7/3_Barcarolle
   name: Barcarolle
@@ -2656,28 +2922,28 @@
   path: Fauré,_Gabriel/4_Songs,_Op.51/1_Larmes
   name: Larmes
   link: https://musescore.com/openscore-lieder-corpus/scores/6135958
-  imslp: '#291524'
+  imslp: '#24123'
   set_id: 5102376
   lyricist_url: https://imslp.org/wiki/Category:Richepin,_Jean
 6137985:
   path: Fauré,_Gabriel/4_Songs,_Op.51/2_Au_cimetière
   name: Au cimetière
   link: https://musescore.com/openscore-lieder-corpus/scores/6137985
-  imslp: '#291524'
+  imslp: '#24123'
   set_id: 5102376
   lyricist_url: https://imslp.org/wiki/Category:Richepin,_Jean
 6141092:
   path: Fauré,_Gabriel/4_Songs,_Op.51/3_Spleen
   name: Spleen
   link: https://musescore.com/openscore-lieder-corpus/scores/6141092
-  imslp: '#291524'
+  imslp: '#24123'
   set_id: 5102376
   lyricist_url: https://imslp.org/wiki/Category:Verlaine,_Paul
 6138105:
   path: Fauré,_Gabriel/4_Songs,_Op.51/4_La_rose
   name: La rose
   link: https://musescore.com/openscore-lieder-corpus/scores/6138105
-  imslp: '#291524'
+  imslp: '#24124'
   set_id: 5102376
   lyricist_url: https://imslp.org/wiki/Category:Leconte_de_Lisle
 5598547:
@@ -2813,6 +3079,48 @@
   imslp: '#89295'
   set_id: 5099780
   lyricist_url: https://imslp.org/wiki/Category:Geibel,_Emanuel
+6806626:
+  path: Franz,_Robert/6_Gesänge,_Op.10/1_Für_Musik
+  name: Für Musik
+  link: https://musescore.com/openscore-lieder-corpus/scores/6806626
+  imslp: '#96278'
+  set_id: 5109140
+  lyricist_url: https://imslp.org/wiki/Category:Geibel,_Emanuel
+6808938:
+  path: Franz,_Robert/6_Gesänge,_Op.10/2_Stille_Sicherheit
+  name: Stille Sicherheit
+  link: https://musescore.com/openscore-lieder-corpus/scores/6808938
+  imslp: '#96278'
+  set_id: 5109140
+  lyricist_url: https://imslp.org/wiki/Category:Lenau,_Nikolaus
+6826058:
+  path: Franz,_Robert/6_Gesänge,_Op.10/3_Mutter,_o_sing’_mich_zur_Ruh’!
+  name: Mutter, o sing’ mich zur Ruh’!
+  link: https://musescore.com/openscore-lieder-corpus/scores/6826058
+  imslp: '#96278'
+  set_id: 5109140
+  lyricist_url: https://imslp.org/wiki/Category:Hemans,_Felicia
+6826157:
+  path: Franz,_Robert/6_Gesänge,_Op.10/4_Der_vielschönen_Fraue
+  name: Der vielschönen Fraue
+  link: https://musescore.com/openscore-lieder-corpus/scores/6826157
+  imslp: '#96278'
+  set_id: 5109140
+  lyricist_url: https://imslp.org/wiki/Category:Eichendorff,_Joseph_von
+6827644:
+  path: Franz,_Robert/6_Gesänge,_Op.10/5_Und_die_Rosen,_die_prangen
+  name: Und die Rosen, die prangen
+  link: https://musescore.com/openscore-lieder-corpus/scores/6827644
+  imslp: '#96278'
+  set_id: 5109140
+  lyricist_url: https://imslp.org/wiki/Category:Osterwald,_Wilhelm
+6829065:
+  path: Franz,_Robert/6_Gesänge,_Op.10/6_Umsonst
+  name: Umsonst
+  link: https://musescore.com/openscore-lieder-corpus/scores/6829065
+  imslp: '#96278'
+  set_id: 5109140
+  lyricist_url: https://imslp.org/wiki/Category:Osterwald,_Wilhelm
 5117906:
   path: Franz,_Robert/6_Gesänge,_Op.14/1_Widmung
   name: Widmung
@@ -2876,6 +3184,34 @@
   imslp: '#97638'
   set_id: 5032875
   lyricist_url: https://imslp.org/wiki/Category:Heine,_Heinrich
+6801340:
+  path: Franz,_Robert/6_Gesänge,_Op.16/4_Abends
+  name: Abends
+  link: https://musescore.com/openscore-lieder-corpus/scores/6801340
+  imslp: '#97638'
+  set_id: 5032875
+  lyricist_url: https://imslp.org/wiki/Category:Eichendorff,_Joseph_von
+6801402:
+  path: Franz,_Robert/6_Gesänge,_Op.16/5_Weisst_du_noch
+  name: Weisst du noch
+  link: https://musescore.com/openscore-lieder-corpus/scores/6801402
+  imslp: '#97638'
+  set_id: 5032875
+  lyricist_url: https://imslp.org/wiki/Category:Roquette,_Otto
+6801790:
+  path: Franz,_Robert/6_Gesänge,_Op.16/6_Um_Mitternacht
+  name: Um Mitternacht
+  link: https://musescore.com/openscore-lieder-corpus/scores/6801790
+  imslp: '#97638'
+  set_id: 5032875
+  lyricist_url: https://imslp.org/wiki/Category:Osterwald,_Wilhelm
+6804721:
+  path: Franz,_Robert/6_Gesänge,_Op.26/1_Wenn_ich’s_nur_wüsste!
+  name: Wenn ich’s nur wüsste!
+  link: https://musescore.com/openscore-lieder-corpus/scores/6804721
+  imslp: '#97775'
+  set_id: 5032887
+  lyricist_url: https://imslp.org/wiki/Category:Osterwald,_Wilhelm
 4976646:
   path: Franz,_Robert/6_Gesänge,_Op.26/2_Lieber_Schatz,_sei_wieder_gut
   name: Lieber Schatz, sei wieder gut
@@ -2883,6 +3219,34 @@
   imslp: '#97775'
   set_id: 5032887
   lyricist_url: https://imslp.org/wiki/Category:Osterwald,_Wilhelm
+6804766:
+  path: Franz,_Robert/6_Gesänge,_Op.26/3_Vergiss_mein_nicht!
+  name: Vergiss mein nicht!
+  link: https://musescore.com/openscore-lieder-corpus/scores/6804766
+  imslp: '#97775'
+  set_id: 5032887
+  lyricist_url: https://imslp.org/wiki/Category:Osterwald,_Wilhelm
+6805149:
+  path: Franz,_Robert/6_Gesänge,_Op.26/4_Des_Müden_Abendlied
+  name: Des Müden Abendlied
+  link: https://musescore.com/openscore-lieder-corpus/scores/6805149
+  imslp: '#97775'
+  set_id: 5032887
+  lyricist_url: https://imslp.org/wiki/Category:Geibel,_Emanuel
+6806109:
+  path: Franz,_Robert/6_Gesänge,_Op.26/5_Vom_Auge_zum_Herzen
+  name: Vom Auge zum Herzen
+  link: https://musescore.com/openscore-lieder-corpus/scores/6806109
+  imslp: '#97775'
+  set_id: 5032887
+  lyricist_url: https://imslp.org/wiki/Category:R%C3%BCckert,_Friedrich
+6806187:
+  path: Franz,_Robert/6_Gesänge,_Op.26/6_An_den_Wind
+  name: An den Wind
+  link: https://musescore.com/openscore-lieder-corpus/scores/6806187
+  imslp: '#97775'
+  set_id: 5032887
+  lyricist_url: https://imslp.org/wiki/Category:Lenau,_Nikolaus
 5644083:
   path: Franz,_Robert/6_Gesänge,_Op.6/1_Wasserfahrt
   name: Wasserfahrt
@@ -2925,6 +3289,48 @@
   imslp: '#96281'
   set_id: 5032885
   lyricist_url: https://imslp.org/wiki/Category:Chamisso,_Adelbert_von
+6810938:
+  path: Franz,_Robert/6_Lieder,_Op.25/1_Die_Lotosblume
+  name: Die Lotosblume
+  link: https://musescore.com/openscore-lieder-corpus/scores/6810938
+  imslp: '#97777'
+  set_id: 5109143
+  lyricist_url: https://imslp.org/wiki/Category:Heine,_Heinrich
+6811470:
+  path: Franz,_Robert/6_Lieder,_Op.25/2_O_lüge_nicht
+  name: O lüge nicht
+  link: https://musescore.com/openscore-lieder-corpus/scores/6811470
+  imslp: '#97777'
+  set_id: 5109143
+  lyricist_url: https://imslp.org/wiki/Category:Heine,_Heinrich
+6812631:
+  path: Franz,_Robert/6_Lieder,_Op.25/3_Ich_hab’_im_Traum_geweinet
+  name: Ich hab’ im Traum geweinet
+  link: https://musescore.com/openscore-lieder-corpus/scores/6812631
+  imslp: '#97777'
+  set_id: 5109143
+  lyricist_url: https://imslp.org/wiki/Category:Heine,_Heinrich
+6812991:
+  path: Franz,_Robert/6_Lieder,_Op.25/4_Kommt_fein’s_Liebchen_heut’
+  name: Kommt fein’s Liebchen heut’?
+  link: https://musescore.com/openscore-lieder-corpus/scores/6812991
+  imslp: '#97777'
+  set_id: 5109143
+  lyricist_url: https://imslp.org/wiki/Category:Heine,_Heinrich
+6813842:
+  path: Franz,_Robert/6_Lieder,_Op.25/5_Im_wunderschönen_Monat_Mai
+  name: Im wunderschönen Monat Mai
+  link: https://musescore.com/openscore-lieder-corpus/scores/6813842
+  imslp: '#97777'
+  set_id: 5109143
+  lyricist_url: https://imslp.org/wiki/Category:Heine,_Heinrich
+6816059:
+  path: Franz,_Robert/6_Lieder,_Op.25/6_Auf_dem_Meere
+  name: Auf dem Meere
+  link: https://musescore.com/openscore-lieder-corpus/scores/6816059
+  imslp: '#97777'
+  set_id: 5109143
+  lyricist_url: https://imslp.org/wiki/Category:Heine,_Heinrich
 6598624:
   path: Freer,_Eleanor_Everest/2_Songs,_Op.16/1_The_boat_is_chafing_at_our_long_delay
   name: The boat is chafing at our long delay
@@ -3177,6 +3583,13 @@
   imslp: '#243472'
   set_id: 5104018
   lyricist_url: https://imslp.org/wiki/Category:Prudhomme,_Sully
+6626468:
+  path: Grandval,_Clémence_de/_/Villanelle
+  name: Villanelle
+  link: https://musescore.com/openscore-lieder-corpus/scores/6626468
+  imslp: '#456006'
+  set_id: 5104018
+  lyricist_url: https://imslp.org/wiki/Category:Passerat,_Jean
 6613355:
   path: Grandval,_Clémence_de/6_Nouvelles_mélodies/1_Les_clochettes
   name: Les clochettes
@@ -5501,6 +5914,13 @@
   imslp: '#627769'
   set_id: 5106656
   lyricist_url: https://imslp.org/wiki/Category:Geibel,_Emanuel
+6762513:
+  path: Lehmann,_Liza/Songs_of_Love_and_Spring/03_In_April_Mood
+  name: In April Mood
+  link: https://musescore.com/openscore-lieder-corpus/scores/6762513
+  imslp: '#627769'
+  set_id: 5106656
+  lyricist_url: https://imslp.org/wiki/Category:Geibel,_Emanuel
 6762153:
   path: Lehmann,_Liza/Songs_of_Love_and_Spring/04_Dawning_Love
   name: Dawning Love
@@ -5529,10 +5949,24 @@
   imslp: '#627769'
   set_id: 5106656
   lyricist_url: https://imslp.org/wiki/Category:Geibel,_Emanuel
+6765984:
+  path: Lehmann,_Liza/Songs_of_Love_and_Spring/07_Star_Fancies
+  name: Star Fancies
+  link: https://musescore.com/openscore-lieder-corpus/scores/6765984
+  imslp: '#627769'
+  set_id: 5106656
+  lyricist_url: https://imslp.org/wiki/Category:Geibel,_Emanuel
 6764425:
   path: Lehmann,_Liza/Songs_of_Love_and_Spring/08_Love’s_Emblems
   name: Love’s Emblems
   link: https://musescore.com/openscore-lieder-corpus/scores/6764425
+  imslp: '#627769'
+  set_id: 5106656
+  lyricist_url: https://imslp.org/wiki/Category:Geibel,_Emanuel
+6764874:
+  path: Lehmann,_Liza/Songs_of_Love_and_Spring/09_My_Secret
+  name: My Secret
+  link: https://musescore.com/openscore-lieder-corpus/scores/6764874
   imslp: '#627769'
   set_id: 5106656
   lyricist_url: https://imslp.org/wiki/Category:Geibel,_Emanuel
@@ -5746,6 +6180,90 @@
   imslp: '#133722'
   set_id: 5100878
   lyricist_url:
+7074684:
+  path: Mendelssohn,_Felix/6_Duets,_Op.63/1_Ich_wollt’,_meine_Lieb’_ergösse_sich,_MWV_J_5
+  name: Ich wollt’, meine Lieb’ ergösse sich, MWV J 5
+  link: https://musescore.com/openscore-lieder-corpus/scores/7074684
+  imslp: '#41097 '
+  set_id: 5110262
+  lyricist_url: https://imslp.org/wiki/Category:Heine,_Heinrich
+7076589:
+  path: Mendelssohn,_Felix/6_Duets,_Op.63/2_Abschiedslied_der_Zugvögel,_MWV_J_9
+  name: Abschiedslied der Zugvögel, MWV J 9
+  link: https://musescore.com/openscore-lieder-corpus/scores/7076589
+  imslp: '#41375'
+  set_id: 5110262
+  lyricist_url: https://imslp.org/wiki/Category:Hoffmann_von_Fallersleben,_August_Heinrich
+7163985:
+  path: Mendelssohn,_Felix/6_Duets,_Op.63/3_Gruss,_MWV_J_8
+  name: Gruss, MWV J 8
+  link: https://musescore.com/openscore-lieder-corpus/scores/7163985
+  imslp: '#43630'
+  set_id: 5110262
+  lyricist_url: https://imslp.org/wiki/Category:Eichendorff,_Joseph_von
+7374512:
+  path: Mendelssohn,_Felix/6_Duets,_Op.63/4_Herbstlied,_MWV_J_11
+  name: Herbstlied, MWV J 11
+  link: https://musescore.com/openscore-lieder-corpus/scores/7374512
+  imslp: '#43758'
+  set_id: 5110262
+  lyricist_url: https://imslp.org/wiki/Category:Klingemann,_Karl
+7374854:
+  path: Mendelssohn,_Felix/6_Duets,_Op.63/5_Volkslied,_MWV_J_10
+  name: Volkslied, MWV J 10
+  link: https://musescore.com/openscore-lieder-corpus/scores/7374854
+  imslp: '#43916'
+  set_id: 5110262
+  lyricist_url: https://imslp.org/wiki/Category:Freiligrath,_Ferdinand
+7380386:
+  path: Mendelssohn,_Felix/6_Duets,_Op.63/6_Maiglöckchen_und_die_Blümelein,_MWV_J_7
+  name: Maiglöckchen und die Blümelein, MWV J 7
+  link: https://musescore.com/openscore-lieder-corpus/scores/7380386
+  imslp: '#44341'
+  set_id: 5110262
+  lyricist_url: https://imslp.org/wiki/Category:Hoffmann_von_Fallersleben,_August_Heinrich
+6989284:
+  path: Mendelssohn,_Felix/6_Gesänge,_Op.86/1_Das_Fenster,_MWV_K_29
+  name: Das Fenster, MWV K 29
+  link: https://musescore.com/openscore-lieder-corpus/scores/6989284
+  imslp: '#09356'
+  set_id: 5110240
+  lyricist_url: https://imslp.org/wiki/Category:Klingemann,_Karl
+6989204:
+  path: Mendelssohn,_Felix/6_Gesänge,_Op.86/2_Morgenlied,_MWV_K_123
+  name: Morgenlied, MWV K 123
+  link: https://musescore.com/openscore-lieder-corpus/scores/6989204
+  imslp: '#09356'
+  set_id: 5110240
+  lyricist_url: https://imslp.org/wiki/Category:Voss,_Johann_Heinrich
+6989465:
+  path: Mendelssohn,_Felix/6_Gesänge,_Op.86/3_Die_Liebende_schreibt,_MWV_K_66
+  name: Die Liebende schreibt, MWV K 66
+  link: https://musescore.com/openscore-lieder-corpus/scores/6989465
+  imslp: '#09356'
+  set_id: 5110240
+  lyricist_url: https://imslp.org/wiki/Category:Goethe,_Johann_Wolfgang_von
+6994338:
+  path: Mendelssohn,_Felix/6_Gesänge,_Op.86/4_Allnächtlich_im_Traume_seh’_ich_dich,_MWV_K_78
+  name: Allnächtlich im Traume seh’ ich dich, MWV K 78
+  link: https://musescore.com/openscore-lieder-corpus/scores/6994338
+  imslp: '#09356'
+  set_id: 5110240
+  lyricist_url: https://imslp.org/wiki/Category:Heine,_Heinrich
+6995255:
+  path: Mendelssohn,_Felix/6_Gesänge,_Op.86/5_Der_Mond,_MWV_K_122
+  name: Der Mond, MWV K 122
+  link: https://musescore.com/openscore-lieder-corpus/scores/6995255
+  imslp: '#09356'
+  set_id: 5110240
+  lyricist_url: https://imslp.org/wiki/Category:Geibel,_Emanuel
+6997609:
+  path: Mendelssohn,_Felix/6_Gesänge,_Op.86/6_Altdeutsches_Frühlingslied,_MWV_K_127
+  name: Altdeutsches Frühlingslied, MWV K 127
+  link: https://musescore.com/openscore-lieder-corpus/scores/6997609
+  imslp: '#09356'
+  set_id: 5110240
+  lyricist_url: https://imslp.org/wiki/Category:Spee,_Friedrich_von
 6646808:
   path: Mounsey_Bartholomew,_Ann/Songs_of_Remembrance/1_If_love_be_life,_I_long_to_die
   name: If love be life, I long to die
@@ -6222,308 +6740,308 @@
   imslp: '#66251'
   set_id: 5107695
   lyricist_url: https://imslp.org/wiki/Category:Lemoine,_Gustave
-5002041:
-  path: Reichardt,_Louise/Sechs_Lieder_von_Novalis,_Op.4/1_Sehnsucht_nach_dem_Vaterlande
-  name: Sehnsucht nach dem Vaterlande
-  link: https://musescore.com/openscore-lieder-corpus/scores/5002041
-  imslp: '#511862'
-  set_id: 5002042
-  lyricist_url: https://imslp.org/wiki/Category:Hardenberg,_Friedrich_von
-5002052:
-  path: Reichardt,_Louise/Sechs_Lieder_von_Novalis,_Op.4/2_Frühlingslied
-  name: Frühlingslied
-  link: https://musescore.com/openscore-lieder-corpus/scores/5002052
-  imslp: '#511862'
-  set_id: 5002042
-  lyricist_url: https://imslp.org/wiki/Category:Hardenberg,_Friedrich_von
-5092560:
-  path: Reichardt,_Louise/Sechs_Lieder_von_Novalis,_Op.4/3a_Geistliches_Lied
-  name: Geistliches Lied
-  link: https://musescore.com/openscore-lieder-corpus/scores/5092560
-  imslp: '#511862'
-  set_id: 5002042
-  lyricist_url: https://imslp.org/wiki/Category:Hardenberg,_Friedrich_von
-5092551:
-  path: Reichardt,_Louise/Sechs_Lieder_von_Novalis,_Op.4/3b_Geistliches_Lied_(4-part)
-  name: Geistliches Lied (4-part)
-  link: https://musescore.com/openscore-lieder-corpus/scores/5092551
-  imslp: '#511862'
-  set_id: 5002042
-  lyricist_url: https://imslp.org/wiki/Category:Hardenberg,_Friedrich_von
-5002062:
-  path: Reichardt,_Louise/Sechs_Lieder_von_Novalis,_Op.4/4_Bergmannslied
-  name: Bergmannslied
-  link: https://musescore.com/openscore-lieder-corpus/scores/5002062
-  imslp: '#511862'
-  set_id: 5002042
-  lyricist_url: https://imslp.org/wiki/Category:Hardenberg,_Friedrich_von
-5092612:
-  path: Reichardt,_Louise/Sechs_Lieder_von_Novalis,_Op.4/5_Noch_ein_Bergmannslied
-  name: Noch ein Bergmannslied
-  link: https://musescore.com/openscore-lieder-corpus/scores/5092612
-  imslp: '#511862'
-  set_id: 5002042
-  lyricist_url: https://imslp.org/wiki/Category:Hardenberg,_Friedrich_von
-5002078:
-  path: Reichardt,_Louise/Sechs_Lieder_von_Novalis,_Op.4/6_Er_besucht_den_Klostergarten_und_den_Kirchoff,_über_den_letztern_findet_sich_folgendes_Gedicht
-  name: Er besucht den Klostergarten und den Kirchoff, über den letztern findet sich
-    folgendes Gedicht
-  link: https://musescore.com/openscore-lieder-corpus/scores/5002078
-  imslp: '#511862'
-  set_id: 5002042
-  lyricist_url: https://imslp.org/wiki/Category:Hardenberg,_Friedrich_von
 5067312:
-  path: Reichardt,_Louise/Zwölf_Deutsche_und_Italiänische_Romantische_Gesänge/01_Frühlingslied
+  path: Reichardt,_Louise/12_Deutsche_und_Italiänische_Romantische_Gesänge/01_Frühlingslied
   name: Frühlingslied
   link: https://musescore.com/openscore-lieder-corpus/scores/5067312
   imslp: '#511856'
   set_id: 5002090
   lyricist_url: https://imslp.org/wiki/Category:Hardenberg,_Friedrich_von
 5100067:
-  path: Reichardt,_Louise/Zwölf_Deutsche_und_Italiänische_Romantische_Gesänge/02_Wenn_ich_ihn_nur_habe
+  path: Reichardt,_Louise/12_Deutsche_und_Italiänische_Romantische_Gesänge/02_Wenn_ich_ihn_nur_habe
   name: Wenn ich ihn nur habe
   link: https://musescore.com/openscore-lieder-corpus/scores/5100067
   imslp: '#511856'
   set_id: 5002090
   lyricist_url: https://imslp.org/wiki/Category:Hardenberg,_Friedrich_von
 5002087:
-  path: Reichardt,_Louise/Zwölf_Deutsche_und_Italiänische_Romantische_Gesänge/03_Durch_die_bunten_Rosenhecken
+  path: Reichardt,_Louise/12_Deutsche_und_Italiänische_Romantische_Gesänge/03_Durch_die_bunten_Rosenhecken
   name: Durch die bunten Rosenhecken
   link: https://musescore.com/openscore-lieder-corpus/scores/5002087
   imslp: '#511856'
   set_id: 5002090
   lyricist_url: https://imslp.org/wiki/Category:Tieck,_Johann_Ludwig
 5100073:
-  path: Reichardt,_Louise/Zwölf_Deutsche_und_Italiänische_Romantische_Gesänge/04_Wohl_dem_Mann
+  path: Reichardt,_Louise/12_Deutsche_und_Italiänische_Romantische_Gesänge/04_Wohl_dem_Mann
   name: Wohl dem Mann
   link: https://musescore.com/openscore-lieder-corpus/scores/5100073
   imslp: '#511856'
   set_id: 5002090
   lyricist_url: https://imslp.org/wiki/Category:Tieck,_Johann_Ludwig
 5100080:
-  path: Reichardt,_Louise/Zwölf_Deutsche_und_Italiänische_Romantische_Gesänge/05_Poesia_di_Metastasio_(I)
+  path: Reichardt,_Louise/12_Deutsche_und_Italiänische_Romantische_Gesänge/05_Poesia_di_Metastasio_(I)
   name: Poesia di Metastasio (I)
   link: https://musescore.com/openscore-lieder-corpus/scores/5100080
   imslp: '#511856'
   set_id: 5002090
   lyricist_url: https://imslp.org/wiki/Category:Metastasio,_Pietro
 5100188:
-  path: Reichardt,_Louise/Zwölf_Deutsche_und_Italiänische_Romantische_Gesänge/06_Notturno
+  path: Reichardt,_Louise/12_Deutsche_und_Italiänische_Romantische_Gesänge/06_Notturno
   name: Notturno
   link: https://musescore.com/openscore-lieder-corpus/scores/5100188
   imslp: '#511856'
   set_id: 5002090
   lyricist_url: https://imslp.org/wiki/Category:Metastasio,_Pietro
 5101789:
-  path: Reichardt,_Louise/Zwölf_Deutsche_und_Italiänische_Romantische_Gesänge/07_Poesia_di_Metastasio_(II)
+  path: Reichardt,_Louise/12_Deutsche_und_Italiänische_Romantische_Gesänge/07_Poesia_di_Metastasio_(II)
   name: Poesia di Metastasio (II)
   link: https://musescore.com/openscore-lieder-corpus/scores/5101789
   imslp: '#511856'
   set_id: 5002090
   lyricist_url: https://imslp.org/wiki/Category:Metastasio,_Pietro
 5002096:
-  path: Reichardt,_Louise/Zwölf_Deutsche_und_Italiänische_Romantische_Gesänge/08_Poesie_von_Tieck
+  path: Reichardt,_Louise/12_Deutsche_und_Italiänische_Romantische_Gesänge/08_Poesie_von_Tieck
   name: Poesie von Tieck
   link: https://musescore.com/openscore-lieder-corpus/scores/5002096
   imslp: '#511856'
   set_id: 5002090
   lyricist_url: https://imslp.org/wiki/Category:Tieck,_Johann_Ludwig
 5002100:
-  path: Reichardt,_Louise/Zwölf_Deutsche_und_Italiänische_Romantische_Gesänge/09_Aus_Ariels_Offenbarungen
+  path: Reichardt,_Louise/12_Deutsche_und_Italiänische_Romantische_Gesänge/09_Aus_Ariels_Offenbarungen
   name: Aus Ariels Offenbarungen
   link: https://musescore.com/openscore-lieder-corpus/scores/5002100
   imslp: '#511856'
   set_id: 5002090
   lyricist_url: https://imslp.org/wiki/Category:Arnim,_Achim_von
 5002108:
-  path: Reichardt,_Louise/Zwölf_Deutsche_und_Italiänische_Romantische_Gesänge/10_Ida_(aus_Ariels_Offenbarungen)
+  path: Reichardt,_Louise/12_Deutsche_und_Italiänische_Romantische_Gesänge/10_Ida_(aus_Ariels_Offenbarungen)
   name: Ida (aus Ariels Offenbarungen)
   link: https://musescore.com/openscore-lieder-corpus/scores/5002108
   imslp: '#511856'
   set_id: 5002090
   lyricist_url: https://imslp.org/wiki/Category:Arnim,_Achim_von
 5002111:
-  path: Reichardt,_Louise/Zwölf_Deutsche_und_Italiänische_Romantische_Gesänge/11_Aus_Tiecks_Genoveva
+  path: Reichardt,_Louise/12_Deutsche_und_Italiänische_Romantische_Gesänge/11_Aus_Tiecks_Genoveva
   name: Aus Tiecks Genoveva
   link: https://musescore.com/openscore-lieder-corpus/scores/5002111
   imslp: '#511856'
   set_id: 5002090
   lyricist_url: https://imslp.org/wiki/Category:Tieck,_Johann_Ludwig
 5101826:
-  path: Reichardt,_Louise/Zwölf_Deutsche_und_Italiänische_Romantische_Gesänge/12_Heymdal_(aus_Ariels_Offenbarungen)
+  path: Reichardt,_Louise/12_Deutsche_und_Italiänische_Romantische_Gesänge/12_Heymdal_(aus_Ariels_Offenbarungen)
   name: Heymdal (aus Ariels Offenbarungen)
   link: https://musescore.com/openscore-lieder-corpus/scores/5101826
   imslp: '#511856'
   set_id: 5002090
   lyricist_url: https://imslp.org/wiki/Category:Arnim,_Achim_von
 5087917:
-  path: Reichardt,_Louise/Zwölf_Gesänge/01_Erinnrung_zum_Bach
+  path: Reichardt,_Louise/12_Gesänge/01_Erinnrung_zum_Bach
   name: Erinnrung zum Bach
   link: https://musescore.com/openscore-lieder-corpus/scores/5087917
   imslp: '#23388'
   set_id: 5001873
   lyricist_url:
 5002130:
-  path: Reichardt,_Louise/Zwölf_Gesänge/02_Der_Sänger_geht
+  path: Reichardt,_Louise/12_Gesänge/02_Der_Sänger_geht
   name: Der Sänger geht
   link: https://musescore.com/openscore-lieder-corpus/scores/5002130
   imslp: '#23388'
   set_id: 5001873
   lyricist_url: https://imslp.org/wiki/Category:Hardenberg,_Friedrich_von
 5046249:
-  path: Reichardt,_Louise/Zwölf_Gesänge/03_Nach_Sevilla
+  path: Reichardt,_Louise/12_Gesänge/03_Nach_Sevilla
   name: Nach Sevilla
   link: https://musescore.com/openscore-lieder-corpus/scores/5046249
   imslp: '#23388'
   set_id: 5001873
   lyricist_url: https://imslp.org/wiki/Category:Brentano,_Clemens
 5001870:
-  path: Reichardt,_Louise/Zwölf_Gesänge/04_Vaters_Klage
+  path: Reichardt,_Louise/12_Gesänge/04_Vaters_Klage
   name: Vaters Klage
   link: https://musescore.com/openscore-lieder-corpus/scores/5001870
   imslp: '#23388'
   set_id: 5001873
   lyricist_url:
 5001880:
-  path: Reichardt,_Louise/Zwölf_Gesänge/05_Für_die_Laute_componirt
+  path: Reichardt,_Louise/12_Gesänge/05_Für_die_Laute_componirt
   name: Für die Laute componirt
   link: https://musescore.com/openscore-lieder-corpus/scores/5001880
   imslp: '#23388'
   set_id: 5001873
   lyricist_url: https://imslp.org/wiki/Category:Brentano,_Clemens
 5001911:
-  path: Reichardt,_Louise/Zwölf_Gesänge/06_Unruhiger_Schlaf
+  path: Reichardt,_Louise/12_Gesänge/06_Unruhiger_Schlaf
   name: Unruhiger Schlaf
   link: https://musescore.com/openscore-lieder-corpus/scores/5001911
   imslp: '#23388'
   set_id: 5001873
   lyricist_url: https://imslp.org/wiki/Category:Arnim,_Achim_von
 5001925:
-  path: Reichardt,_Louise/Zwölf_Gesänge/07_Volkslied
+  path: Reichardt,_Louise/12_Gesänge/07_Volkslied
   name: Volkslied
   link: https://musescore.com/openscore-lieder-corpus/scores/5001925
   imslp: '#23388'
   set_id: 5001873
   lyricist_url:
 5001930:
-  path: Reichardt,_Louise/Zwölf_Gesänge/08_Ein_recht_Gemüth
+  path: Reichardt,_Louise/12_Gesänge/08_Ein_recht_Gemüth
   name: Ein recht Gemüth
   link: https://musescore.com/openscore-lieder-corpus/scores/5001930
   imslp: '#23388'
   set_id: 5001873
   lyricist_url: https://imslp.org/wiki/Category:Arnim,_Achim_von
 5001937:
-  path: Reichardt,_Louise/Zwölf_Gesänge/09_Der_Spinnerin_Nachtlied
+  path: Reichardt,_Louise/12_Gesänge/09_Der_Spinnerin_Nachtlied
   name: Der Spinnerin Nachtlied
   link: https://musescore.com/openscore-lieder-corpus/scores/5001937
   imslp: '#23388'
   set_id: 5001873
   lyricist_url: https://imslp.org/wiki/Category:Brentano,_Clemens
 5087944:
-  path: Reichardt,_Louise/Zwölf_Gesänge/10_Die_Veilchen
+  path: Reichardt,_Louise/12_Gesänge/10_Die_Veilchen
   name: Die Veilchen
   link: https://musescore.com/openscore-lieder-corpus/scores/5087944
   imslp: '#23388'
   set_id: 5001873
   lyricist_url: https://imslp.org/wiki/Category:Oehlenschl%C3%A4ger,_Adam
 5087973:
-  path: Reichardt,_Louise/Zwölf_Gesänge/11_Daphne_am_Bach
+  path: Reichardt,_Louise/12_Gesänge/11_Daphne_am_Bach
   name: Daphne am Bach
   link: https://musescore.com/openscore-lieder-corpus/scores/5087973
   imslp: '#23388'
   set_id: 5001873
   lyricist_url: https://imslp.org/wiki/Category:Stolberg-Stolberg,_Friedrich_Leopold_zu
 5001945:
-  path: Reichardt,_Louise/Zwölf_Gesänge/12_Aus_Novalis_Hymnen_an_die_Nacht
+  path: Reichardt,_Louise/12_Gesänge/12_Aus_Novalis_Hymnen_an_die_Nacht
   name: Aus Novalis Hymnen an die Nacht
   link: https://musescore.com/openscore-lieder-corpus/scores/5001945
   imslp: '#23388'
   set_id: 5001873
   lyricist_url: https://imslp.org/wiki/Category:Hardenberg,_Friedrich_von
 5001965:
-  path: Reichardt,_Louise/Zwölf_Gesänge,_Op.3/01_Frühlingsblumen
+  path: Reichardt,_Louise/12_Gesänge,_Op.3/01_Frühlingsblumen
   name: Frühlingsblumen
   link: https://musescore.com/openscore-lieder-corpus/scores/5001965
   imslp: '#511854'
   set_id: 5001966
   lyricist_url:
 5061310:
-  path: Reichardt,_Louise/Zwölf_Gesänge,_Op.3/02_Der_traurige_Wanderer
+  path: Reichardt,_Louise/12_Gesänge,_Op.3/02_Der_traurige_Wanderer
   name: Der traurige Wanderer
   link: https://musescore.com/openscore-lieder-corpus/scores/5061310
   imslp: '#511854'
   set_id: 5001966
   lyricist_url:
 5001980:
-  path: Reichardt,_Louise/Zwölf_Gesänge,_Op.3/03_Die_Blume_der_Blumen
+  path: Reichardt,_Louise/12_Gesänge,_Op.3/03_Die_Blume_der_Blumen
   name: Die Blume der Blumen
   link: https://musescore.com/openscore-lieder-corpus/scores/5001980
   imslp: '#511854'
   set_id: 5001966
   lyricist_url:
 5001994:
-  path: Reichardt,_Louise/Zwölf_Gesänge,_Op.3/04_Wachtelwacht
+  path: Reichardt,_Louise/12_Gesänge,_Op.3/04_Wachtelwacht
   name: Wachtelwacht
   link: https://musescore.com/openscore-lieder-corpus/scores/5001994
   imslp: '#511854'
   set_id: 5001966
   lyricist_url:
 5001997:
-  path: Reichardt,_Louise/Zwölf_Gesänge,_Op.3/05_Betteley_der_Vögel
+  path: Reichardt,_Louise/12_Gesänge,_Op.3/05_Betteley_der_Vögel
   name: Betteley der Vögel
   link: https://musescore.com/openscore-lieder-corpus/scores/5001997
   imslp: '#511854'
   set_id: 5001966
   lyricist_url:
 5002006:
-  path: Reichardt,_Louise/Zwölf_Gesänge,_Op.3/06_Kriegslied_des_Mays
+  path: Reichardt,_Louise/12_Gesänge,_Op.3/06_Kriegslied_des_Mays
   name: Kriegslied des Mays
   link: https://musescore.com/openscore-lieder-corpus/scores/5002006
   imslp: '#511854'
   set_id: 5001966
   lyricist_url: https://imslp.org/wiki/Category:Arnim,_Achim_von
 5046362:
-  path: Reichardt,_Louise/Zwölf_Gesänge,_Op.3/07_Die_Wiese
+  path: Reichardt,_Louise/12_Gesänge,_Op.3/07_Die_Wiese
   name: Die Wiese
   link: https://musescore.com/openscore-lieder-corpus/scores/5046362
   imslp: '#511854'
   set_id: 5001966
   lyricist_url:
 5002015:
-  path: Reichardt,_Louise/Zwölf_Gesänge,_Op.3/08_Kaeuzlein
+  path: Reichardt,_Louise/12_Gesänge,_Op.3/08_Kaeuzlein
   name: Kaeuzlein
   link: https://musescore.com/openscore-lieder-corpus/scores/5002015
   imslp: '#511854'
   set_id: 5001966
   lyricist_url:
 5002019:
-  path: Reichardt,_Louise/Zwölf_Gesänge,_Op.3/09_Hier_liegt_ein_Spielmann_begraben
+  path: Reichardt,_Louise/12_Gesänge,_Op.3/09_Hier_liegt_ein_Spielmann_begraben
   name: Hier liegt ein Spielmann begraben
   link: https://musescore.com/openscore-lieder-corpus/scores/5002019
   imslp: '#511854'
   set_id: 5001966
   lyricist_url:
 5061932:
-  path: Reichardt,_Louise/Zwölf_Gesänge,_Op.3/10_Der_Mond
+  path: Reichardt,_Louise/12_Gesänge,_Op.3/10_Der_Mond
   name: Der Mond
   link: https://musescore.com/openscore-lieder-corpus/scores/5061932
   imslp: '#511854'
   set_id: 5001966
   lyricist_url:
 5002026:
-  path: Reichardt,_Louise/Zwölf_Gesänge,_Op.3/11_An_Maria_(aus_Novalis_geistlichen_Liedern)
+  path: Reichardt,_Louise/12_Gesänge,_Op.3/11_An_Maria_(aus_Novalis_geistlichen_Liedern)
   name: An Maria (aus Novalis geistlichen Liedern)
   link: https://musescore.com/openscore-lieder-corpus/scores/5002026
   imslp: '#511854'
   set_id: 5001966
   lyricist_url: https://imslp.org/wiki/Category:Hardenberg,_Friedrich_von
 5062143:
-  path: Reichardt,_Louise/Zwölf_Gesänge,_Op.3/12_Duettino
+  path: Reichardt,_Louise/12_Gesänge,_Op.3/12_Duettino
   name: Duettino
   link: https://musescore.com/openscore-lieder-corpus/scores/5062143
   imslp: '#511854'
   set_id: 5001966
   lyricist_url: https://imslp.org/wiki/Category:Brentano,_Clemens
+5002041:
+  path: Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4/1_Sehnsucht_nach_dem_Vaterlande
+  name: Sehnsucht nach dem Vaterlande
+  link: https://musescore.com/openscore-lieder-corpus/scores/5002041
+  imslp: '#511862'
+  set_id: 5002042
+  lyricist_url: https://imslp.org/wiki/Category:Hardenberg,_Friedrich_von
+5002052:
+  path: Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4/2_Frühlingslied
+  name: Frühlingslied
+  link: https://musescore.com/openscore-lieder-corpus/scores/5002052
+  imslp: '#511862'
+  set_id: 5002042
+  lyricist_url: https://imslp.org/wiki/Category:Hardenberg,_Friedrich_von
+5092560:
+  path: Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4/3a_Geistliches_Lied
+  name: Geistliches Lied
+  link: https://musescore.com/openscore-lieder-corpus/scores/5092560
+  imslp: '#511862'
+  set_id: 5002042
+  lyricist_url: https://imslp.org/wiki/Category:Hardenberg,_Friedrich_von
+5092551:
+  path: Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4/3b_Geistliches_Lied_(4-part)
+  name: Geistliches Lied (4-part)
+  link: https://musescore.com/openscore-lieder-corpus/scores/5092551
+  imslp: '#511862'
+  set_id: 5002042
+  lyricist_url: https://imslp.org/wiki/Category:Hardenberg,_Friedrich_von
+5002062:
+  path: Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4/4_Bergmannslied
+  name: Bergmannslied
+  link: https://musescore.com/openscore-lieder-corpus/scores/5002062
+  imslp: '#511862'
+  set_id: 5002042
+  lyricist_url: https://imslp.org/wiki/Category:Hardenberg,_Friedrich_von
+5092612:
+  path: Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4/5_Noch_ein_Bergmannslied
+  name: Noch ein Bergmannslied
+  link: https://musescore.com/openscore-lieder-corpus/scores/5092612
+  imslp: '#511862'
+  set_id: 5002042
+  lyricist_url: https://imslp.org/wiki/Category:Hardenberg,_Friedrich_von
+5002078:
+  path: Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4/6_Er_besucht_den_Klostergarten_und_den_Kirchoff,_über_den_letztern_findet_sich_folgendes_Gedicht
+  name: Er besucht den Klostergarten und den Kirchoff, über den letztern findet sich
+    folgendes Gedicht
+  link: https://musescore.com/openscore-lieder-corpus/scores/5002078
+  imslp: '#511862'
+  set_id: 5002042
+  lyricist_url: https://imslp.org/wiki/Category:Hardenberg,_Friedrich_von
 6449397:
   path: Rootham,_Cyril/_/The_Ballad_of_Kingslea_Mere
   name: The Ballad of Kingslea Mere
@@ -6531,6 +7049,62 @@
   imslp: '#657998'
   set_id: 5105824
   lyricist_url: https://imslp.org/wiki/Category:Peacock,_Thomas_Love
+6986065:
+  path: Satie,_Erik/_/Chez_le_docteur
+  name: Chez le docteur
+  link: https://musescore.com/openscore-lieder-corpus/scores/6986065
+  imslp: '#92046'
+  set_id: 5110233
+  lyricist_url: https://imslp.org/wiki/Category:Hyspa,_Vincent
+6986302:
+  path: Satie,_Erik/_/Je_te_veux
+  name: Je te veux
+  link: https://musescore.com/openscore-lieder-corpus/scores/6986302
+  imslp: '#16883'
+  set_id: 5110233
+  lyricist_url:
+6987889:
+  path: Satie,_Erik/_/L’omnibus_automobile
+  name: L’omnibus automobile
+  link: https://musescore.com/openscore-lieder-corpus/scores/6987889
+  imslp: '#92050'
+  set_id: 5110233
+  lyricist_url: https://imslp.org/wiki/Category:Hyspa,_Vincent
+6987705:
+  path: Satie,_Erik/_/La_diva_de_“L’Empire”
+  name: La diva de “L’Empire”
+  link: https://musescore.com/openscore-lieder-corpus/scores/6987705
+  imslp: '#16887'
+  set_id: 5110233
+  lyricist_url:
+6993176:
+  path: Satie,_Erik/_/Tendrement
+  name: Tendrement
+  link: https://musescore.com/openscore-lieder-corpus/scores/6993176
+  imslp: '#16890'
+  set_id: 5110233
+  lyricist_url: https://imslp.org/wiki/Category:Hyspa,_Vincent
+6988229:
+  path: Satie,_Erik/4_Petites_mélodies/1_Elégie
+  name: Elégie
+  link: https://musescore.com/openscore-lieder-corpus/scores/6988229
+  imslp: '#16886'
+  set_id: 5110243
+  lyricist_url: https://imslp.org/wiki/Category:Lamartine,_Alphonse_de
+6990810:
+  path: Satie,_Erik/4_Petites_mélodies/3_Chanson
+  name: Chanson
+  link: https://musescore.com/openscore-lieder-corpus/scores/6990810
+  imslp: '#16886'
+  set_id: 5110243
+  lyricist_url:
+6990957:
+  path: Satie,_Erik/4_Petites_mélodies/4_Adieu
+  name: Adieu
+  link: https://musescore.com/openscore-lieder-corpus/scores/6990957
+  imslp: '#16886'
+  set_id: 5110243
+  lyricist_url:
 6481218:
   path: Satie,_Erik/Socrate/1_Portrait_de_Socrate
   name: Portrait de Socrate
@@ -6542,6 +7116,13 @@
   path: Satie,_Erik/Socrate/2_Bords_de_l’Ilissus
   name: Bords de l’Ilissus
   link: https://musescore.com/openscore-lieder-corpus/scores/6481941
+  imslp: '#15779'
+  set_id: 5106049
+  lyricist_url:
+6482032:
+  path: Satie,_Erik/Socrate/3_Mort_de_Socrate
+  name: Mort de Socrate
+  link: https://musescore.com/openscore-lieder-corpus/scores/6482032
   imslp: '#15779'
   set_id: 5106049
   lyricist_url:
@@ -6734,6 +7315,34 @@
   imslp: '#10416'
   set_id: 5101602
   lyricist_url: https://imslp.org/wiki/Category:Klopstock,_Friedrich_Gottlieb
+6900961:
+  path: Schubert,_Franz/_/Die_Forelle,_Op.32,_D550d
+  name: Die Forelle, Op.32, D550d
+  link: https://musescore.com/openscore-lieder-corpus/scores/6900961
+  imslp: '#10602'
+  set_id: 5101602
+  lyricist_url: https://imslp.org/wiki/Category:Schubart,_Christian_Friedrich_Daniel
+7111114:
+  path: Schubert,_Franz/_/Gretchen_am_Spinnrade,_D.118
+  name: Gretchen am Spinnrade, D.118
+  link: https://musescore.com/openscore-lieder-corpus/scores/7111114
+  imslp: '#13971'
+  set_id: 5101602
+  lyricist_url: https://imslp.org/wiki/Category:Goethe,_Johann_Wolfgang_von
+6834411:
+  path: Schubert,_Franz/_/Himmelsfunken,_D.651
+  name: Himmelsfunken, D.651
+  link: https://musescore.com/openscore-lieder-corpus/scores/6834411
+  imslp: '#16259'
+  set_id: 5101602
+  lyricist_url: https://imslp.org/wiki/Category:Silbert,_Johann_Peter
+7071193:
+  path: Schubert,_Franz/_/Liebesrausch,_D.179
+  name: Liebesrausch, D.179
+  link: https://musescore.com/openscore-lieder-corpus/scores/7071193
+  imslp: '#14336'
+  set_id: 5101602
+  lyricist_url: https://imslp.org/wiki/Category:K%C3%B6rner,_Theodor
 5133353:
   path: Schubert,_Franz/_/Ständchen,_D.889
   name: Ständchen, D.889
@@ -6937,6 +7546,20 @@
   imslp: '#03233'
   set_id: 5004732
   lyricist_url: https://imslp.org/wiki/Category:Müller,_Wilhelm
+6838113:
+  path: Schubert,_Franz/Op.22/1_Der_Zwerg,_D.771
+  name: Der Zwerg, D.771
+  link: https://musescore.com/openscore-lieder-corpus/scores/6838113
+  imslp: '#16369'
+  set_id: 5109410
+  lyricist_url: https://imslp.org/wiki/Category:Collin,_Matth%C3%A4us_von
+6834474:
+  path: Schubert,_Franz/Op.22/2_Wehmut,_D.772
+  name: Wehmut, D.772
+  link: https://musescore.com/openscore-lieder-corpus/scores/6834474
+  imslp: '#16370'
+  set_id: 5109410
+  lyricist_url: https://imslp.org/wiki/Category:Collin,_Matthäus_von
 6181353:
   path: Schubert,_Franz/Op.52/1_Ellens_Gesang_I,_D.837
   name: Ellens Gesang I, D.837
@@ -7413,6 +8036,41 @@
   imslp: '#270918'
   set_id: 5016675
   lyricist_url: https://imslp.org/wiki/Category:Rückert,_Friedrich
+6826352:
+  path: Schumann,_Robert/5_Lieder_und_Gesänge,_Op.127/1_Sängers_Trost
+  name: Sängers Trost
+  link: https://musescore.com/openscore-lieder-corpus/scores/6826352
+  imslp: '#271937'
+  set_id: 5109333
+  lyricist_url: https://imslp.org/wiki/Category:Kerner,_Justinus
+6834542:
+  path: Schumann,_Robert/5_Lieder_und_Gesänge,_Op.127/2_Dein_Angesicht
+  name: Dein Angesicht
+  link: https://musescore.com/openscore-lieder-corpus/scores/6834542
+  imslp: '#271937'
+  set_id: 5109333
+  lyricist_url: https://imslp.org/wiki/Category:Heine,_Heinrich
+6826597:
+  path: Schumann,_Robert/5_Lieder_und_Gesänge,_Op.127/3_Es_leuchtet_meine_Liebe
+  name: Es leuchtet meine Liebe
+  link: https://musescore.com/openscore-lieder-corpus/scores/6826597
+  imslp: '#271937'
+  set_id: 5109333
+  lyricist_url: https://imslp.org/wiki/Category:Heine,_Heinrich
+6827712:
+  path: Schumann,_Robert/5_Lieder_und_Gesänge,_Op.127/4_Mein_altes_Ross
+  name: Mein altes Ross
+  link: https://musescore.com/openscore-lieder-corpus/scores/6827712
+  imslp: '#271937'
+  set_id: 5109333
+  lyricist_url: https://imslp.org/wiki/Category:Strachwitz,_Moritz
+6828018:
+  path: Schumann,_Robert/5_Lieder_und_Gesänge,_Op.127/5_Schlusslied_des_Narren
+  name: Schlusslied des Narren
+  link: https://musescore.com/openscore-lieder-corpus/scores/6828018
+  imslp: '#271937'
+  set_id: 5109333
+  lyricist_url: https://imslp.org/wiki/Category:Schlegel,_August_Wilhelm
 4976777:
   path: Schumann,_Robert/Dichterliebe,_Op.48/01_Im_wunderschönen_Monat_Mai
   name: Im wunderschönen Monat Mai
@@ -7581,6 +8239,41 @@
   imslp: '#51733'
   set_id: 5016693
   lyricist_url: https://imslp.org/wiki/Category:Chamisso,_Adelbert_von
+6984262:
+  path: Schumann,_Robert/Lieder_und_Gesänge,_Vol.IV,_Op.96/1_Nachtlied
+  name: Nachtlied
+  link: https://musescore.com/openscore-lieder-corpus/scores/6984262
+  imslp: '#271883'
+  set_id: 5109332
+  lyricist_url: https://imslp.org/wiki/Category:Goethe,_Johann_Wolfgang_von
+6984553:
+  path: Schumann,_Robert/Lieder_und_Gesänge,_Vol.IV,_Op.96/2_Schneeglöckchen
+  name: Schneeglöckchen
+  link: https://musescore.com/openscore-lieder-corpus/scores/6984553
+  imslp: '#271883'
+  set_id: 5109332
+  lyricist_url:
+6834630:
+  path: Schumann,_Robert/Lieder_und_Gesänge,_Vol.IV,_Op.96/3_Ihre_Stimme
+  name: Ihre Stimme
+  link: https://musescore.com/openscore-lieder-corpus/scores/6834630
+  imslp: '#271883'
+  set_id: 5109332
+  lyricist_url: https://imslp.org/wiki/Category:Platen,_August_von
+6984631:
+  path: Schumann,_Robert/Lieder_und_Gesänge,_Vol.IV,_Op.96/4_Gesungen
+  name: Gesungen
+  link: https://musescore.com/openscore-lieder-corpus/scores/6984631
+  imslp: '#271883'
+  set_id: 5109332
+  lyricist_url: https://imslp.org/wiki/Category:Schöpff,_Wilhelm
+6985082:
+  path: Schumann,_Robert/Lieder_und_Gesänge,_Vol.IV,_Op.96/5_Himmel_und_Erde
+  name: Himmel und Erde
+  link: https://musescore.com/openscore-lieder-corpus/scores/6985082
+  imslp: '#271883'
+  set_id: 5109332
+  lyricist_url: https://imslp.org/wiki/Category:Schöpff,_Wilhelm
 5080752:
   path: Schumann,_Robert/Liederkreis,_Op.39/01_In_der_Fremde_[I]
   name: In der Fremde [I]
@@ -7665,6 +8358,188 @@
   imslp: '#270920'
   set_id: 5003125
   lyricist_url: https://imslp.org/wiki/Category:Eichendorff,_Joseph_von
+6885211:
+  path: Schumann,_Robert/Myrthen,_Op.25/01_Widmung
+  name: Widmung
+  link: https://musescore.com/openscore-lieder-corpus/scores/6885211
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Rückert,_Friedrich
+6885263:
+  path: Schumann,_Robert/Myrthen,_Op.25/02_Freisinn
+  name: Freisinn
+  link: https://musescore.com/openscore-lieder-corpus/scores/6885263
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Goethe,_Johann_Wolfgang_von
+6891758:
+  path: Schumann,_Robert/Myrthen,_Op.25/03_Der_Nussbaum
+  name: Der Nussbaum
+  link: https://musescore.com/openscore-lieder-corpus/scores/6891758
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Mosen,_Julius
+6909438:
+  path: Schumann,_Robert/Myrthen,_Op.25/04_Jemand
+  name: Jemand
+  link: https://musescore.com/openscore-lieder-corpus/scores/6909438
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Gerhard,_Wilhelm
+6909543:
+  path: Schumann,_Robert/Myrthen,_Op.25/05_Sitz’_ich_allein
+  name: Sitz’ ich allein
+  link: https://musescore.com/openscore-lieder-corpus/scores/6909543
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Goethe,_Johann_Wolfgang_von
+6909785:
+  path: Schumann,_Robert/Myrthen,_Op.25/06_Setze_mir_nicht
+  name: Setze mir nicht
+  link: https://musescore.com/openscore-lieder-corpus/scores/6909785
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Goethe,_Johann_Wolfgang_von
+6909797:
+  path: Schumann,_Robert/Myrthen,_Op.25/07_Die_Lotosblume
+  name: Die Lotosblume
+  link: https://musescore.com/openscore-lieder-corpus/scores/6909797
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Heine,_Heinrich
+6910703:
+  path: Schumann,_Robert/Myrthen,_Op.25/08_Talismane
+  name: Talismane
+  link: https://musescore.com/openscore-lieder-corpus/scores/6910703
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Goethe,_Johann_Wolfgang_von
+6914397:
+  path: Schumann,_Robert/Myrthen,_Op.25/09_Lied_der_Suleika
+  name: Lied der Suleika
+  link: https://musescore.com/openscore-lieder-corpus/scores/6914397
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Willemer,_Marianne_von
+6915474:
+  path: Schumann,_Robert/Myrthen,_Op.25/10_Die_Hochländer-Witwe
+  name: Die Hochländer-Witwe
+  link: https://musescore.com/openscore-lieder-corpus/scores/6915474
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Gerhard,_Wilhelm
+6915729:
+  path: Schumann,_Robert/Myrthen,_Op.25/11_Lieder_der_Braut_I_(Mutter!_Mutter!)
+  name: Lieder der Braut I (Mutter! Mutter!)
+  link: https://musescore.com/openscore-lieder-corpus/scores/6915729
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Rückert,_Friedrich
+6915753:
+  path: Schumann,_Robert/Myrthen,_Op.25/12_Lieder_der_Braut_II_(Lass_mich_ihm_am_Busen_hangen)
+  name: Lieder der Braut II (Lass mich ihm am Busen hangen)
+  link: https://musescore.com/openscore-lieder-corpus/scores/6915753
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Rückert,_Friedrich
+6916642:
+  path: Schumann,_Robert/Myrthen,_Op.25/13_Hochländers_Abschied
+  name: Hochländers Abschied
+  link: https://musescore.com/openscore-lieder-corpus/scores/6916642
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Gerhard,_Wilhelm
+6917116:
+  path: Schumann,_Robert/Myrthen,_Op.25/14_Hochländisches_Wiegenlied
+  name: Hochländisches Wiegenlied
+  link: https://musescore.com/openscore-lieder-corpus/scores/6917116
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Gerhard,_Wilhelm
+6925763:
+  path: Schumann,_Robert/Myrthen,_Op.25/15_Aus_den_hebräischen_Gesängen_(Mein_Herz_ist_schwer)
+  name: Aus den hebräischen Gesängen (Mein Herz ist schwer)
+  link: https://musescore.com/openscore-lieder-corpus/scores/6925763
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Körner,_Karl_Julius
+6834588:
+  path: Schumann,_Robert/Myrthen,_Op.25/16_Rätsel
+  name: Rätsel
+  link: https://musescore.com/openscore-lieder-corpus/scores/6834588
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Kannegiesser,_Karl_Ludwig
+6965894:
+  path: Schumann,_Robert/Myrthen,_Op.25/17_Zwei_venetianische_Lieder_I_(Leis’_rudern_hin)
+  name: Zwei venetianische Lieder I (Leis’ rudern hin)
+  link: https://musescore.com/openscore-lieder-corpus/scores/6965894
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Freiligrath,_Ferdinand
+6969398:
+  path: Schumann,_Robert/Myrthen,_Op.25/18_Zwei_venetianische_Lieder_II_(Wenn_durch_die_Piazza)
+  name: Zwei venetianische Lieder II (Wenn durch die Piazza)
+  link: https://musescore.com/openscore-lieder-corpus/scores/6969398
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Freiligrath,_Ferdinand
+6974646:
+  path: Schumann,_Robert/Myrthen,_Op.25/19_Hauptmanns_Weib
+  name: Hauptmanns Weib
+  link: https://musescore.com/openscore-lieder-corpus/scores/6974646
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Gerhard,_Wilhelm
+6979621:
+  path: Schumann,_Robert/Myrthen,_Op.25/20_Weit,_weit
+  name: Weit, weit
+  link: https://musescore.com/openscore-lieder-corpus/scores/6979621
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Gerhard,_Wilhelm
+6980134:
+  path: Schumann,_Robert/Myrthen,_Op.25/21_Was_will_die_einsame_Träne
+  name: Was will die einsame Träne?
+  link: https://musescore.com/openscore-lieder-corpus/scores/6980134
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Heine,_Heinrich
+6980464:
+  path: Schumann,_Robert/Myrthen,_Op.25/22_Niemand
+  name: Niemand
+  link: https://musescore.com/openscore-lieder-corpus/scores/6980464
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Gerhard,_Wilhelm
+6981173:
+  path: Schumann,_Robert/Myrthen,_Op.25/23_Im_Westen
+  name: Im Westen
+  link: https://musescore.com/openscore-lieder-corpus/scores/6981173
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Gerhard,_Wilhelm
+6982729:
+  path: Schumann,_Robert/Myrthen,_Op.25/24_Du_bist_wie_ein_Blume
+  name: Du bist wie ein Blume
+  link: https://musescore.com/openscore-lieder-corpus/scores/6982729
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Heine,_Heinrich
+6982743:
+  path: Schumann,_Robert/Myrthen,_Op.25/25_Aus_den_östlichen_Rosen
+  name: Aus den östlichen Rosen
+  link: https://musescore.com/openscore-lieder-corpus/scores/6982743
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Rückert,_Friedrich
+6915685:
+  path: Schumann,_Robert/Myrthen,_Op.25/26_Zum_Schluss
+  name: Zum Schluss
+  link: https://musescore.com/openscore-lieder-corpus/scores/6915685
+  imslp: '#270905'
+  set_id: 5109331
+  lyricist_url: https://imslp.org/wiki/Category:Rückert,_Friedrich
 6445119:
   path: Shield,_William/_/The_Maid_of_Lodi
   name: The Maid of Lodi
@@ -7777,10 +8652,59 @@
   imslp: '#225685'
   set_id: 5103542
   lyricist_url: https://imslp.org/wiki/Category:Tennyson,_Alfred
+6788150:
+  path: Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/2_Sweet_and_low
+  name: Sweet and low
+  link: https://musescore.com/openscore-lieder-corpus/scores/6788150
+  imslp: '#225685'
+  set_id: 5103542
+  lyricist_url: https://imslp.org/wiki/Category:Tennyson,_Alfred
+6789660:
+  path: Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/3_The_splendour_falls
+  name: The splendour falls
+  link: https://musescore.com/openscore-lieder-corpus/scores/6789660
+  imslp: '#225685'
+  set_id: 5103542
+  lyricist_url: https://imslp.org/wiki/Category:Tennyson,_Alfred
+6788555:
+  path: Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/4_Tears,_idle_tears
+  name: Tears, idle tears
+  link: https://musescore.com/openscore-lieder-corpus/scores/6788555
+  imslp: '#225685'
+  set_id: 5103542
+  lyricist_url: https://imslp.org/wiki/Category:Tennyson,_Alfred
 6789668:
   path: Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/5_O_swallow,_swallow
   name: O swallow, swallow
   link: https://musescore.com/openscore-lieder-corpus/scores/6789668
+  imslp: '#225685'
+  set_id: 5103542
+  lyricist_url: https://imslp.org/wiki/Category:Tennyson,_Alfred
+6789677:
+  path: Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/6_Thy_voice_is_heard
+  name: Thy voice is heard
+  link: https://musescore.com/openscore-lieder-corpus/scores/6789677
+  imslp: '#225685'
+  set_id: 5103542
+  lyricist_url: https://imslp.org/wiki/Category:Tennyson,_Alfred
+6793692:
+  path: Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/7_Home_they_brought_her_warrior_dead
+  name: Home they brought her warrior dead
+  link: https://musescore.com/openscore-lieder-corpus/scores/6793692
+  imslp: '#225685'
+  set_id: 5103542
+  lyricist_url: https://imslp.org/wiki/Category:Tennyson,_Alfred
+6793961:
+  path: Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/8_Our_enemies_have_fall’n
+  name: Our enemies have fall’n
+  link: https://musescore.com/openscore-lieder-corpus/scores/6793961
+  imslp: '#225685'
+  set_id: 5103542
+  lyricist_url: https://imslp.org/wiki/Category:Tennyson,_Alfred
+6794671:
+  path: Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/9_Ask_me_no_more
+  name: Ask me no more
+  link: https://musescore.com/openscore-lieder-corpus/scores/6794671
   imslp: '#225685'
   set_id: 5103542
   lyricist_url: https://imslp.org/wiki/Category:Tennyson,_Alfred
@@ -7861,6 +8785,20 @@
   imslp: '#75214'
   set_id: 5103593
   lyricist_url: https://imslp.org/wiki/Category:Procter,_Adelaide_A.
+6910499:
+  path: Tegnér,_Alice/_/Betlehems_stjärna
+  name: Betlehems stjärna
+  link: https://musescore.com/openscore-lieder-corpus/scores/6910499
+  imslp: '#436417'
+  set_id: 5108131
+  lyricist_url: https://imslp.org/wiki/Category:Rydberg,_Viktor
+6910483:
+  path: Tegnér,_Alice/_/Walzer
+  name: Walzer
+  link: https://musescore.com/openscore-lieder-corpus/scores/6910483
+  imslp: '#436431'
+  set_id: 5108131
+  lyricist_url: https://imslp.org/wiki/Category:Goethe,_Johann_Wolfgang_von
 6670960:
   path: Thys,_Pauline/_/Petit_nègre
   name: Petit nègre
@@ -7946,8 +8884,8 @@
   set_id: 5107407
   lyricist_url: https://imslp.org/wiki/Category:Wilder,_Victor
 6639381:
-  path: Viardot,_Pauline/6_Mélodies_et_une_havanaise/4_Hai_Luli
-  name: Hai Luli
+  path: Viardot,_Pauline/6_Mélodies_et_une_havanaise/4_Hai_Luli_!
+  name: Hai Luli !
   link: https://musescore.com/openscore-lieder-corpus/scores/6639381
   imslp: '#557089'
   set_id: 5107407

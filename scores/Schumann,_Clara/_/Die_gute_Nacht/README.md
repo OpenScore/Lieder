@@ -1,7 +1,7 @@
 
 # Die gute Nacht
 
-__A [standalone piece](..) by [Clara Schumann](../..)__
+__A [standalone piece](..) by [Clara Wieck](../..)__
 
 Transcribed and maintained by contributors to [OpenScore Lieder].
 

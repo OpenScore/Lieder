@@ -12,9 +12,9 @@ id	path	name	scores	target	link	imslp	composer_id
 5106092	Beethoven,_Ludwig_van/8_Lieder,_Op.52	8 Lieder, Op.52	8	8	https://musescore.com/openscore-lieder-corpus/sets/5106092	#472274	255
 5106889	Bianchi_Lacy,_Jane/_	Other songs by Jane Bianchi	1		https://musescore.com/openscore-lieder-corpus/sets/5106889		18529943
 5105780	Bishop,_Henry/_	Other songs by Henry Bishop	2		https://musescore.com/openscore-lieder-corpus/sets/5105780		1200639
-5079544	Bizet,_Georges/20_Mélodies,_Op.21	20 Mélodies, Op.21	1	20	https://musescore.com/openscore-lieder-corpus/sets/5079544	#342985	56158
+5079544	Bizet,_Georges/20_Mélodies,_Op.21	20 Mélodies, Op.21	20	20	https://musescore.com/openscore-lieder-corpus/sets/5079544	#342985	56158
 5079497	Bizet,_Georges/Feuilles_d’album	Feuilles d’album	6	6	https://musescore.com/openscore-lieder-corpus/sets/5079497		56158
-5107411	Bonis,_Mel/_	Other songs by Mélanie Bonis	1		https://musescore.com/openscore-lieder-corpus/sets/5107411		467452
+5107411	Bonis,_Mel/_	Other songs by Mélanie Bonis	2		https://musescore.com/openscore-lieder-corpus/sets/5107411		467452
 5101802	Boulanger,_Lili/_	Other songs by Lili Boulanger	3		https://musescore.com/openscore-lieder-corpus/sets/5101802		230412
 5100931	Boulanger,_Lili/Clairières_dans_le_ciel	Clairières dans le ciel	13	13	https://musescore.com/openscore-lieder-corpus/sets/5100931	#25057	230412
 5104057	Boulton,_Harold/12_New_Songs	12 New Songs	12	12	https://musescore.com/openscore-lieder-corpus/sets/5104057	#285334	7527034
@@ -35,6 +35,7 @@ id	path	name	scores	target	link	imslp	composer_id
 5032872	Brahms,_Johannes/8_Lieder_und_Gesänge,_Op.59	8 Lieder und Gesänge, Op.59	8	8	https://musescore.com/openscore-lieder-corpus/sets/5032872	#81993	7294
 5033093	Brahms,_Johannes/9_Lieder_und_Gesänge,_Op.32	9 Lieder und Gesänge, Op.32	9	9	https://musescore.com/openscore-lieder-corpus/sets/5033093	#97708	7294
 5033077	Brahms,_Johannes/9_Lieder_und_Gesänge,_Op.63	9 Lieder und Gesänge, Op.63	9	9	https://musescore.com/openscore-lieder-corpus/sets/5033077	#88147	7294
+5577240	Brahms,_Johannes/Marienlieder,_Op.22	Marienlieder, Op.22	6	7	https://musescore.com/openscore-lieder-corpus/sets/5577240	#22901	7294
 5103544	Bridge,_Frank/_	Other songs by Frank Bridge	9		https://musescore.com/openscore-lieder-corpus/sets/5103544		366636
 5106888	Browne,_Augusta/_	Other songs by Augusta Browne	3		https://musescore.com/openscore-lieder-corpus/sets/5106888		4820896
 5104072	Burleigh,_Harry_Thacker/_	Other songs by Harry T. Burleigh	3		https://musescore.com/openscore-lieder-corpus/sets/5104072		1586825
@@ -55,9 +56,11 @@ id	path	name	scores	target	link	imslp	composer_id
 5062162	Cornelius,_Peter/An_Bertha,_Op.15	An Bertha, Op.15	4	4	https://musescore.com/openscore-lieder-corpus/sets/5062162	#344852	57257
 5062145	Cornelius,_Peter/Liebeslieder,_Op.4	Liebeslieder, Op.4	3	6	https://musescore.com/openscore-lieder-corpus/sets/5062145	#80149	57257
 5043619	Cornelius,_Peter/Trauer_und_Trost,_Op.3	Trauer und Trost, Op.3	6	6	https://musescore.com/openscore-lieder-corpus/sets/5043619	#80679	57257
+5110379	Cornelius,_Peter/Weihnachtslieder,_Op.8	Weihnachtslieder, Op.8	8	8	https://musescore.com/openscore-lieder-corpus/sets/5110379	#80690	57257
 5105987	Cowen,_Frederic_Hymen/_	Other songs by Frederic Hymen Cowen	3		https://musescore.com/openscore-lieder-corpus/sets/5105987		1452734
 5103573	Davies,_Walford/8_New_Nursery_Rhymes,_Op.23	8 New Nursery Rhymes, Op.23	8	8	https://musescore.com/openscore-lieder-corpus/sets/5103573	#333826	3131948
-5060912	Debussy,_Claude/Ariettes_Oubliées	Ariettes Oubliées	6	6	https://musescore.com/openscore-lieder-corpus/sets/5060912	#14819	4700
+5110892	Debussy,_Claude/2_Romances	2 Romances	2	2	https://musescore.com/openscore-lieder-corpus/sets/5110892		4700
+5060912	Debussy,_Claude/Ariettes_oubliées	Ariettes oubliées	6	6	https://musescore.com/openscore-lieder-corpus/sets/5060912	#14819	4700
 5060952	Debussy,_Claude/Cinq_Poëmes_de_Baudelaire	Cinq Poëmes de Baudelaire	5	5	https://musescore.com/openscore-lieder-corpus/sets/5060952	#225776	4700
 5079444	Debussy,_Claude/Trois_Chansons_de_Bilitis	Trois Chansons de Bilitis	3	3	https://musescore.com/openscore-lieder-corpus/sets/5079444	#225679	4700
 5106276	Delius,_Frederick/2_Songs,_RT_V16	2 Songs, RT V/16	2	2	https://musescore.com/openscore-lieder-corpus/sets/5106276	#148197	312698
@@ -68,7 +71,7 @@ id	path	name	scores	target	link	imslp	composer_id
 5103578	Elgar,_Edward/2_Songs,_Op.60	2 Songs, Op.60	2	2	https://musescore.com/openscore-lieder-corpus/sets/5103578		179631
 5103577	Elgar,_Edward/7_Lieder	7 Lieder	7	7	https://musescore.com/openscore-lieder-corpus/sets/5103577	#556602	179631
 5106729	Faisst,_Clara_Mathilda/2_Kriegslieder	2 Kriegslieder	2	2	https://musescore.com/openscore-lieder-corpus/sets/5106729	#623002	17626542
-5106755	Faisst,_Clara_Mathilda/2_Lieder,_Op.19	2 Lieder, Op.19	1	2	https://musescore.com/openscore-lieder-corpus/sets/5106755		17626542
+5106755	Faisst,_Clara_Mathilda/2_Lieder,_Op.19	2 Lieder, Op.19	2	2	https://musescore.com/openscore-lieder-corpus/sets/5106755		17626542
 5103310	Faisst,_Clara_Mathilda/2_Lieder,_Op.8	2 Lieder, Op.8	2	2	https://musescore.com/openscore-lieder-corpus/sets/5103310		17626542
 5104223	Faisst,_Clara_Mathilda/4_Lieder,_Op._11	4 Lieder, Op. 11	4	4	https://musescore.com/openscore-lieder-corpus/sets/5104223		17626542
 5104227	Faisst,_Clara_Mathilda/4_Lieder,_Op.1	4 Lieder, Op.1	3	4	https://musescore.com/openscore-lieder-corpus/sets/5104227		17626542
@@ -78,15 +81,17 @@ id	path	name	scores	target	link	imslp	composer_id
 5104226	Faisst,_Clara_Mathilda/5_Lieder,_Op.6	5 Lieder, Op.6	3	5	https://musescore.com/openscore-lieder-corpus/sets/5104226		17626542
 5106920	Faltis,_Evelyn/Lieder_fernen_Gedenkens,_Op._posth	Lieder fernen Gedenkens, Op. posth.	4	4	https://musescore.com/openscore-lieder-corpus/sets/5106920	#86859	5416317
 5106921	Farrenc,_Louise/_	Other songs by Louise Farrenc	1		https://musescore.com/openscore-lieder-corpus/sets/5106921		442198
-5108674	Fauré,_Gabriel/3_Songs,_Op.7	3 Songs, Op.7	2	3	https://musescore.com/openscore-lieder-corpus/sets/5108674		104919
+5108674	Fauré,_Gabriel/3_Songs,_Op.7	3 Songs, Op.7	3	3	https://musescore.com/openscore-lieder-corpus/sets/5108674		104919
 5102376	Fauré,_Gabriel/4_Songs,_Op.51	4 Songs, Op.51	4	4	https://musescore.com/openscore-lieder-corpus/sets/5102376	#291524	104919
 5099424	Fauré,_Gabriel/Cinq_Mélodies,_Op.58	Cinq Mélodies, Op.58	5	5	https://musescore.com/openscore-lieder-corpus/sets/5099424	#24127	104919
 5079368	Ferrari,_Gabrielle/_	Other songs by Gabrielle Ferrari	2		https://musescore.com/openscore-lieder-corpus/sets/5079368		5516070
 5099780	Franz,_Robert/12_Gesänge,_Op.1	12 Gesänge, Op.1	12	12	https://musescore.com/openscore-lieder-corpus/sets/5099780	#88709	561967
+5109140	Franz,_Robert/6_Gesänge,_Op.10	6 Gesänge, Op.10	6	6	https://musescore.com/openscore-lieder-corpus/sets/5109140	#96278	561967
 5032888	Franz,_Robert/6_Gesänge,_Op.14	6 Gesänge, Op.14	6	6	https://musescore.com/openscore-lieder-corpus/sets/5032888	#295030	561967
-5032875	Franz,_Robert/6_Gesänge,_Op.16	6 Gesänge, Op.16	3	6	https://musescore.com/openscore-lieder-corpus/sets/5032875	#97638	561967
-5032887	Franz,_Robert/6_Gesänge,_Op.26	6 Gesänge, Op.26	1	6	https://musescore.com/openscore-lieder-corpus/sets/5032887	#97775	561967
+5032875	Franz,_Robert/6_Gesänge,_Op.16	6 Gesänge, Op.16	6	6	https://musescore.com/openscore-lieder-corpus/sets/5032875	#97638	561967
+5032887	Franz,_Robert/6_Gesänge,_Op.26	6 Gesänge, Op.26	6	6	https://musescore.com/openscore-lieder-corpus/sets/5032887	#97775	561967
 5032885	Franz,_Robert/6_Gesänge,_Op.6	6 Gesänge, Op.6	6	6	https://musescore.com/openscore-lieder-corpus/sets/5032885	#96281	561967
+5109143	Franz,_Robert/6_Lieder,_Op.25	6 Lieder, Op.25	6	6	https://musescore.com/openscore-lieder-corpus/sets/5109143	#97777	561967
 5106922	Freer,_Eleanor_Everest/2_Songs,_Op.16	2 Songs, Op.16	2	2	https://musescore.com/openscore-lieder-corpus/sets/5106922	#33081	4492825
 5107057	Gabriel,_Virginia/_	Other songs by Virginia Gabriel	4		https://musescore.com/openscore-lieder-corpus/sets/5107057		7934272
 5107059	Gail,_Sophie/_	Other songs by Sophie Gail	2		https://musescore.com/openscore-lieder-corpus/sets/5107059		3490938
@@ -94,7 +99,7 @@ id	path	name	scores	target	link	imslp	composer_id
 5103585	German,_Edward/3_Spring_Songs	3 Spring Songs	3	3	https://musescore.com/openscore-lieder-corpus/sets/5103585	#167819	2355124
 5107147	Gonzaga,_Chiquinha/_	Other songs by Chiquinha Gonzaga	12		https://musescore.com/openscore-lieder-corpus/sets/5107147		465902
 5079369	Gounod,_Charles/6_Mélodies	6 Mélodies	6	6	https://musescore.com/openscore-lieder-corpus/sets/5079369	#518017	180278
-5104018	Grandval,_Clémence_de/_	Other songs by Clémence de Grandval	6		https://musescore.com/openscore-lieder-corpus/sets/5104018		2980557
+5104018	Grandval,_Clémence_de/_	Other songs by Clémence de Grandval	7		https://musescore.com/openscore-lieder-corpus/sets/5104018		2980557
 5107148	Grandval,_Clémence_de/6_Nouvelles_mélodies	6 Nouvelles mélodies	6	6	https://musescore.com/openscore-lieder-corpus/sets/5107148		2980557
 5107149	Gray,_Louisa/_	Other songs by Louisa Gray	7		https://musescore.com/openscore-lieder-corpus/sets/5107149		105376516
 5103397	Greger,_Luise/_	Other songs by Luise Greger	1		https://musescore.com/openscore-lieder-corpus/sets/5103397		1472118
@@ -140,7 +145,7 @@ id	path	name	scores	target	link	imslp	composer_id
 5103022	Kinkel,_Johanna/6_Lieder,_Op.7	6 Lieder, Op.7	6	6	https://musescore.com/openscore-lieder-corpus/sets/5103022	#617921	165824
 5103316	Kralik,_Mathilde/Blumenlieder	Blumenlieder	5	5	https://musescore.com/openscore-lieder-corpus/sets/5103316	#621212	89972
 5103328	Kralik,_Mathilde/Jugend-Lieder	Jugend-Lieder	13	13	https://musescore.com/openscore-lieder-corpus/sets/5103328	#621374	89972
-5102731	Lang,_Josephine/_	Other songs by Josephine Caroline Lang	2		https://musescore.com/openscore-lieder-corpus/sets/5102731		276246
+5102731	Lang,_Josephine/_	Other songs by Josephine Lang	2		https://musescore.com/openscore-lieder-corpus/sets/5102731		276246
 5102030	Lang,_Josephine/2_Lieder,_Op.28	2 Lieder, Op.28	2	2	https://musescore.com/openscore-lieder-corpus/sets/5102030		276246
 5102015	Lang,_Josephine/3_Lieder,_Op.23	3 Lieder, Op.23	3	3	https://musescore.com/openscore-lieder-corpus/sets/5102015		276246
 5102907	Lang,_Josephine/3_Lieder,_Op.36	3 Lieder, Op.36	3	3	https://musescore.com/openscore-lieder-corpus/sets/5102907	#617782	276246
@@ -159,7 +164,7 @@ id	path	name	scores	target	link	imslp	composer_id
 5103710	Lehmann,_Liza/5_Little_Love_Songs	5 Little Love Songs	5	5	https://musescore.com/openscore-lieder-corpus/sets/5103710	#172611	4887488
 5103535	Lehmann,_Liza/Bird_Songs	Bird Songs	5	5	https://musescore.com/openscore-lieder-corpus/sets/5103535	#226386	4887488
 5106654	Lehmann,_Liza/Songs_of_a_“Flapper”	Songs of a “Flapper”	5	5	https://musescore.com/openscore-lieder-corpus/sets/5106654	#627144	4887488
-5106656	Lehmann,_Liza/Songs_of_Love_and_Spring	Songs of Love and Spring	9	12	https://musescore.com/openscore-lieder-corpus/sets/5106656	#627769	4887488
+5106656	Lehmann,_Liza/Songs_of_Love_and_Spring	Songs of Love and Spring	12	12	https://musescore.com/openscore-lieder-corpus/sets/5106656	#627769	4887488
 5107537	Liliuokalani,_Queen_of_the_Hawaiian_Islands/_	Other songs by Liliʻuokalani	1		https://musescore.com/openscore-lieder-corpus/sets/5107537		107288
 5107146	Lindsay,_Maria/_	Other songs by Maria Lindsay	2		https://musescore.com/openscore-lieder-corpus/sets/5107146		6761364
 5105990	Mackenzie,_Alexander/_	Other songs by Alexander Mackenzie	1		https://musescore.com/openscore-lieder-corpus/sets/5105990		674739
@@ -170,6 +175,8 @@ id	path	name	scores	target	link	imslp	composer_id
 5106658	Mayer,_Emilie/_	Other songs by Emilie Mayer	1		https://musescore.com/openscore-lieder-corpus/sets/5106658		447851
 5100810	Mayer,_Emilie/2_Gesänge	2 Gesänge	2	2	https://musescore.com/openscore-lieder-corpus/sets/5100810	#133706	447851
 5100878	Mayer,_Emilie/3_Lieder,_Op.7	3 Lieder, Op.7	3	3	https://musescore.com/openscore-lieder-corpus/sets/5100878	#133722	447851
+5110262	Mendelssohn,_Felix/6_Duets,_Op.63	6 Duets, Op.63	6	6	https://musescore.com/openscore-lieder-corpus/sets/5110262		46096
+5110240	Mendelssohn,_Felix/6_Gesänge,_Op.86	6 Gesänge, Op.86	6	6	https://musescore.com/openscore-lieder-corpus/sets/5110240	#09356	46096
 5107543	Mounsey_Bartholomew,_Ann/Songs_of_Remembrance	Songs of Remembrance	7	7	https://musescore.com/openscore-lieder-corpus/sets/5107543	#668562	4766585
 5107548	Munktell,_Helena/_	Other songs by Helena Munktell	2		https://musescore.com/openscore-lieder-corpus/sets/5107548		4968368
 5107547	Munktell,_Helena/10_Songs	10 Songs	10	10	https://musescore.com/openscore-lieder-corpus/sets/5107547	#434307	4968368
@@ -184,37 +191,44 @@ id	path	name	scores	target	link	imslp	composer_id
 5107080	Philp,_Elizabeth/_	Other songs by Elizabeth Philp	2		https://musescore.com/openscore-lieder-corpus/sets/5107080		5363347
 5107694	Poldowski/_	Other songs by Poldowski	3		https://musescore.com/openscore-lieder-corpus/sets/5107694		4107299
 5107695	Puget,_Loïsa/_	Other songs by Loïsa Puget	3		https://musescore.com/openscore-lieder-corpus/sets/5107695		3264560
-5002042	Reichardt,_Louise/Sechs_Lieder_von_Novalis,_Op.4	Sechs Lieder von Novalis, Op.4	7	7	https://musescore.com/openscore-lieder-corpus/sets/5002042	#511862	6688923
-5002090	Reichardt,_Louise/Zwölf_Deutsche_und_Italiänische_Romantische_Gesänge	Zwölf Deutsche und Italiänische Romantische Gesänge	12	12	https://musescore.com/openscore-lieder-corpus/sets/5002090	#511856	6688923
-5001873	Reichardt,_Louise/Zwölf_Gesänge	Zwölf Gesänge	12	12	https://musescore.com/openscore-lieder-corpus/sets/5001873	#23388	6688923
-5001966	Reichardt,_Louise/Zwölf_Gesänge,_Op.3	Zwölf Gesänge, Op.3	12	12	https://musescore.com/openscore-lieder-corpus/sets/5001966	#511854	6688923
+5002090	Reichardt,_Louise/12_Deutsche_und_Italiänische_Romantische_Gesänge	12 Deutsche und Italiänische Romantische Gesänge	12	12	https://musescore.com/openscore-lieder-corpus/sets/5002090	#511856	6688923
+5001873	Reichardt,_Louise/12_Gesänge	12 Gesänge	12	12	https://musescore.com/openscore-lieder-corpus/sets/5001873	#23388	6688923
+5001966	Reichardt,_Louise/12_Gesänge,_Op.3	12 Gesänge, Op.3	12	12	https://musescore.com/openscore-lieder-corpus/sets/5001966	#511854	6688923
+5002042	Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4	6 Lieder von Novalis, Op.4	7	7	https://musescore.com/openscore-lieder-corpus/sets/5002042	#511862	6688923
 5105824	Rootham,_Cyril/_	Other songs by Cyril Rootham	1		https://musescore.com/openscore-lieder-corpus/sets/5105824		323117
-5106049	Satie,_Erik/Socrate	Socrate	2	3	https://musescore.com/openscore-lieder-corpus/sets/5106049	#15779	187192
+5110233	Satie,_Erik/_	Other songs by Erik Satie	5		https://musescore.com/openscore-lieder-corpus/sets/5110233		187192
+5110243	Satie,_Erik/4_Petites_mélodies	4 Petites mélodies	3	4	https://musescore.com/openscore-lieder-corpus/sets/5110243	#16886	187192
+5106049	Satie,_Erik/Socrate	Socrate	3	3	https://musescore.com/openscore-lieder-corpus/sets/5106049	#15779	187192
 5102093	Schröter,_Corona/25_Lieder	25 Lieder	25	25	https://musescore.com/openscore-lieder-corpus/sets/5102093	#109659	64880
-5101602	Schubert,_Franz/_	Other songs by Franz Schubert	3		https://musescore.com/openscore-lieder-corpus/sets/5101602		7312
+5101602	Schubert,_Franz/_	Other songs by Franz Schubert	7		https://musescore.com/openscore-lieder-corpus/sets/5101602		7312
 5016678	Schubert,_Franz/4_Gesänge_aus_„Wilhelm_Meister“,_D.877	4 Gesänge aus „Wilhelm Meister“, D.877	4	4	https://musescore.com/openscore-lieder-corpus/sets/5016678	#62399	7312
 5106080	Schubert,_Franz/4_Lieder,_Op.96	4 Lieder, Op.96	4	4	https://musescore.com/openscore-lieder-corpus/sets/5106080		7312
 5004732	Schubert,_Franz/Die_schöne_Müllerin,_D.795	Die schöne Müllerin, D.795	20	20	https://musescore.com/openscore-lieder-corpus/sets/5004732	#3233	7312
+5109410	Schubert,_Franz/Op.22	Op.22	2	2	https://musescore.com/openscore-lieder-corpus/sets/5109410		7312
 5103429	Schubert,_Franz/Op.52	Op.52	7	7	https://musescore.com/openscore-lieder-corpus/sets/5103429		7312
 5032890	Schubert,_Franz/Op.59	Op.59	4	4	https://musescore.com/openscore-lieder-corpus/sets/5032890		7312
 5032891	Schubert,_Franz/Op.60	Op.60	2	2	https://musescore.com/openscore-lieder-corpus/sets/5032891		7312
 5004836	Schubert,_Franz/Schwanengesang,_D.957	Schwanengesang, D.957	14	14	https://musescore.com/openscore-lieder-corpus/sets/5004836	#60828	7312
 5015409	Schubert,_Franz/Winterreise,_D.911	Winterreise, D.911	24	24	https://musescore.com/openscore-lieder-corpus/sets/5015409	#60822	7312
-5101059	Schumann,_Clara/_	Other songs by Clara Schumann	2		https://musescore.com/openscore-lieder-corpus/sets/5101059		132232
+5101059	Schumann,_Clara/_	Other songs by Clara Wieck	2		https://musescore.com/openscore-lieder-corpus/sets/5101059		132232
 5097002	Schumann,_Clara/6_Lieder,_Op.13	6 Lieder, Op.13	6	6	https://musescore.com/openscore-lieder-corpus/sets/5097002	#348578	132232
 5097034	Schumann,_Clara/6_Lieder,_Op.23	6 Lieder, Op.23	6	6	https://musescore.com/openscore-lieder-corpus/sets/5097034	#485202	132232
 5016675	Schumann,_Clara/Lieder,_Op.12	Lieder, Op.12	3	3	https://musescore.com/openscore-lieder-corpus/sets/5016675	#270918	132232
+5109333	Schumann,_Robert/5_Lieder_und_Gesänge,_Op.127	5 Lieder und Gesänge, Op.127	5	5	https://musescore.com/openscore-lieder-corpus/sets/5109333	#271937	7351
 5003152	Schumann,_Robert/Dichterliebe,_Op.48	Dichterliebe, Op.48	16	16	https://musescore.com/openscore-lieder-corpus/sets/5003152	#51736	7351
 5016693	Schumann,_Robert/Frauenliebe_und_Leben,_Op.42	Frauenliebe und Leben, Op.42	8	8	https://musescore.com/openscore-lieder-corpus/sets/5016693	#51733	7351
+5109332	Schumann,_Robert/Lieder_und_Gesänge,_Vol.IV,_Op.96	Lieder und Gesänge, Vol.IV, Op.96	5	5	https://musescore.com/openscore-lieder-corpus/sets/5109332	#271883	7351
 5003125	Schumann,_Robert/Liederkreis,_Op.39	Liederkreis, Op.39	12	12	https://musescore.com/openscore-lieder-corpus/sets/5003125	#270920	7351
+5109331	Schumann,_Robert/Myrthen,_Op.25	Myrthen, Op.25	26	26	https://musescore.com/openscore-lieder-corpus/sets/5109331	#270905	7351
 5105781	Shield,_William/_	Other songs by William Shield	1		https://musescore.com/openscore-lieder-corpus/sets/5105781		3568956
 5107787	Smyth,_Ethel/3_Songs	3 Songs	1	3	https://musescore.com/openscore-lieder-corpus/sets/5107787		236599
 5103592	Somervell,_Arthur/A_Shropshire_Lad	A Shropshire Lad	10	10	https://musescore.com/openscore-lieder-corpus/sets/5103592	#529227	4800330
 5103541	Stanford,_Charles_Villiers/3_Songs_of_Robert_Bridges,_Op.43	3 Songs of Robert Bridges, Op.43	3	3	https://musescore.com/openscore-lieder-corpus/sets/5103541	#474472	368264
-5103542	Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68	A Cycle of Songs, Op.68	2	9	https://musescore.com/openscore-lieder-corpus/sets/5103542	#225685	368264
+5103542	Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68	A Cycle of Songs, Op.68	9	9	https://musescore.com/openscore-lieder-corpus/sets/5103542	#225685	368264
 5106583	Stanford,_Charles_Villiers/Songs_of_a_Roving_Celt,_Op.157	Songs of a Roving Celt, Op.157	5	5	https://musescore.com/openscore-lieder-corpus/sets/5106583	#463803	368264
 5102996	Strauss,_Richard/4_Lieder,_Op.27	4 Lieder, Op.27	4	4	https://musescore.com/openscore-lieder-corpus/sets/5102996	#135548	13894
 5103593	Sullivan,_Arthur/_	Other songs by Arthur Sullivan	2		https://musescore.com/openscore-lieder-corpus/sets/5103593		212692
+5108131	Tegnér,_Alice/_	Other songs by Alice Tegnér	2		https://musescore.com/openscore-lieder-corpus/sets/5108131		462879
 5107708	Thys,_Pauline/_	Other songs by Pauline-Marie-Elisa Thys	1		https://musescore.com/openscore-lieder-corpus/sets/5107708		1487925
 5106660	Viardot,_Pauline/_	Other songs by Pauline Viardot	8		https://musescore.com/openscore-lieder-corpus/sets/5106660		122998
 5107407	Viardot,_Pauline/6_Mélodies_et_une_havanaise	6 Mélodies et une havanaise	7	7	https://musescore.com/openscore-lieder-corpus/sets/5107407		122998

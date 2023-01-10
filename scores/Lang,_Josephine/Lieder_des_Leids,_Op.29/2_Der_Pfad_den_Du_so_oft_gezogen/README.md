@@ -1,7 +1,7 @@
 
 # Der Pfad den Du so oft gezogen
 
-__No.2 from [Lieder des Leids, Op.29](..) by [Josephine Caroline Lang](../..)__
+__No.2 from [Lieder des Leids, Op.29](..) by [Josephine Lang](../..)__
 
 Transcribed and maintained by contributors to [OpenScore Lieder].
 

@@ -1,13 +1,13 @@
 # Parse this file with StrictYAML - https://github.com/crdoconnor/strictyaml
 Male:
-  composers: 46
-  sets: 109
-  scores: 577
+  composers: 47
+  sets: 122
+  scores: 703
 Female:
-  composers: 59
-  sets: 130
-  scores: 645
+  composers: 60
+  sets: 131
+  scores: 653
 TOTAL:
-  composers: 105
-  sets: 239
-  scores: 1222
+  composers: 107
+  sets: 253
+  scores: 1356

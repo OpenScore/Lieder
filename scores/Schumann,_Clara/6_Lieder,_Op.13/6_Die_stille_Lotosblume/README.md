@@ -1,7 +1,7 @@
 
 # Die stille Lotosblume
 
-__No.6 from [6 Lieder, Op.13](..) by [Clara Schumann](../..)__
+__No.6 from [6 Lieder, Op.13](..) by [Clara Wieck](../..)__
 
 Transcribed and maintained by contributors to [OpenScore Lieder].
 

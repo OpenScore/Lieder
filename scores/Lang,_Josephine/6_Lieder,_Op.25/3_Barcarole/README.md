@@ -1,7 +1,7 @@
 
 # Barcarole
 
-__No.3 from [6 Lieder, Op.25](..) by [Josephine Caroline Lang](../..)__
+__No.3 from [6 Lieder, Op.25](..) by [Josephine Lang](../..)__
 
 Transcribed and maintained by contributors to [OpenScore Lieder].
 

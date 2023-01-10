@@ -1,7 +1,7 @@
 
 # 6 Lieder, Op.13
 
-__By [Clara Schumann](..)__
+__By [Clara Wieck](..)__
 
 Visit the [official set page] in [OpenScore Lieder].
 

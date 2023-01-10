@@ -1,7 +1,7 @@
 
 # Liebst du um Schönheit
 
-__No.4 from [Lieder, Op.12](..) by [Clara Schumann](../..)__
+__No.4 from [Lieder, Op.12](..) by [Clara Wieck](../..)__
 
 Transcribed and maintained by contributors to [OpenScore Lieder].
 

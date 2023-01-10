@@ -1,7 +1,7 @@
 
 # Seid mir gegrüsst
 
-__No.3 from [3 Lieder, Op.36](..) by [Josephine Caroline Lang](../..)__
+__No.3 from [3 Lieder, Op.36](..) by [Josephine Lang](../..)__
 
 Transcribed and maintained by contributors to [OpenScore Lieder].
 

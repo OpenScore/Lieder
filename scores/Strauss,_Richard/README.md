@@ -1,7 +1,7 @@
 
 # Richard Strauss
 
-__German composer and orchestra director (1866–1949)__
+__German composer and orchestra director (1864–1949)__
 
 View [sets by this composer] in [OpenScore Lieder].
 

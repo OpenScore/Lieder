@@ -1,7 +1,7 @@
 
 # Richard Wagner
 
-__German composer and conductor (1813–1883)__
+__German opera composer (1813–1883)__
 
 View [sets by this composer] in [OpenScore Lieder].
 

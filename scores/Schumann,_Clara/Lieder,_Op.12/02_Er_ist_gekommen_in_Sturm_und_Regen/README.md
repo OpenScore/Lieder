@@ -1,7 +1,7 @@
 
 # Er ist gekommen in Sturm und Regen
 
-__No.2 from [Lieder, Op.12](..) by [Clara Schumann](../..)__
+__No.2 from [Lieder, Op.12](..) by [Clara Wieck](../..)__
 
 Transcribed and maintained by contributors to [OpenScore Lieder].
 

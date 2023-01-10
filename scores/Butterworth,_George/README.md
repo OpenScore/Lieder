@@ -1,7 +1,7 @@
 
 # George Butterworth
 
-__British composer (1885–1916)__
+__English composer (1885–1916)__
 
 View [sets by this composer] in [OpenScore Lieder].
 

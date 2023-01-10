@@ -1,7 +1,7 @@
 
 # Am Bache, Op.20
 
-__A [standalone piece](..) by [Josephine Caroline Lang](../..)__
+__A [standalone piece](..) by [Josephine Lang](../..)__
 
 Transcribed and maintained by contributors to [OpenScore Lieder].
 

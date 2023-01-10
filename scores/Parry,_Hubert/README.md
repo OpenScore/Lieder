@@ -1,7 +1,7 @@
 
 # Hubert Parry
 
-__British composer, teacher and historian of music (1848–1918)__
+__British composer and musicologist (1848–1918)__
 
 View [sets by this composer] in [OpenScore Lieder].
 

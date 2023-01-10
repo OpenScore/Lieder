@@ -1,5 +1,5 @@
 
-# Clara Schumann
+# Clara Wieck
 
 __German musician and composer (1819–1896)__
 
