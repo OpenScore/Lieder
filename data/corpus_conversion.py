@@ -84,7 +84,7 @@ def prep_conversion_doc(songs_data,
     if write:
         out_path = os.path.join('.', 'corpus_conversion.json')
         with open(out_path, 'w') as json_file:
-            json.dump(out_data, json_file)    
+            json.dump(out_data, json_file, indent=4, sort_keys=True)
 
 
 def run_process():
