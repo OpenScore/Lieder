@@ -1,5 +1,5 @@
 
-# Ariettes oubliées
+# Ariettes Oubliées
 
 __By [Claude Debussy](..)__
 
