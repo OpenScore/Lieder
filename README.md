@@ -101,6 +101,14 @@ For consistency, we include an empty `.txt` file.
 
 See issue #1 for known challenges.
 
+## Automatic harmonic analyses
+
+We also provide automatic harmonic analyses for each score in the
+human- and computer-readable "Roman text" standard.
+Files are named `analysis_automatic.rntxt`.
+For more information and more analyses in this format,
+see the [When in Rome meta-corpus repository](https://github.com/MarkGotham/When-in-Rome).
+
 ## Unicode characters in file paths
 
 With the exception of a few unsafe or illegal characters, names of songs,
