@@ -1728,6 +1728,9 @@
   imslp: '#154241'
   set_id: 5097140
   lyricist_url: https://imslp.org/wiki/Category:Mari%C3%A9ton,_Paul
+  audio:
+    - audio_id: vonOtterForsberg2001
+      audio: https://www.youtube.com/watch?v=mYat0LEO7Mg
 6261036:
   path: Chaminade,_Cécile/_/Amertume
   name: Amertume
@@ -1770,6 +1773,9 @@
   imslp: '#154060'
   set_id: 5097140
   lyricist_url: https://imslp.org/wiki/Category:Pradels,_Octave
+  audio:
+    - audio_id: vonOtterForsberg2001
+      audio: https://www.youtube.com/watch?v=tk1hEsGGiQg
 6262544:
   path: Chaminade,_Cécile/_/Avril_s’éveille
   name: Avril s’éveille
@@ -1805,6 +1811,9 @@
   imslp: '#598858'
   set_id: 5097140
   lyricist_url: https://imslp.org/wiki/Category:Wailly,_Am%C3%A9lie_de
+  audio:
+    - audio_id: vonOtterForsberg2001
+      audio: https://www.youtube.com/watch?v=bIlOkaaTOJ8
 6415075:
   path: Chaminade,_Cécile/_/Chanson_de_neige
   name: Chanson de neige
@@ -1861,6 +1870,9 @@
   imslp: '#154070'
   set_id: 5097140
   lyricist_url: https://imslp.org/wiki/Category:Maquet,_Th%C3%A9r%C3%A8se
+  audio:
+    - audio_id: vonOtterForsberg2001
+      audio: https://www.youtube.com/watch?v=vi5KdFRW5ks
 5987667:
   path: Chaminade,_Cécile/_/L’été
   name: L’été
