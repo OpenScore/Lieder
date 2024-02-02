@@ -1728,6 +1728,9 @@
   imslp: '#154241'
   set_id: 5097140
   lyricist_url: https://imslp.org/wiki/Category:Mari%C3%A9ton,_Paul
+  audio:
+    - audio_id: vonOtterForsberg2001
+      audio: https://www.youtube.com/watch?v=mYat0LEO7Mg
 6261036:
   path: Chaminade,_Cécile/_/Amertume
   name: Amertume
@@ -1770,6 +1773,9 @@
   imslp: '#154060'
   set_id: 5097140
   lyricist_url: https://imslp.org/wiki/Category:Pradels,_Octave
+  audio:
+    - audio_id: vonOtterForsberg2001
+      audio: https://www.youtube.com/watch?v=tk1hEsGGiQg
 6262544:
   path: Chaminade,_Cécile/_/Avril_s’éveille
   name: Avril s’éveille
@@ -1805,6 +1811,9 @@
   imslp: '#598858'
   set_id: 5097140
   lyricist_url: https://imslp.org/wiki/Category:Wailly,_Am%C3%A9lie_de
+  audio:
+    - audio_id: vonOtterForsberg2001
+      audio: https://www.youtube.com/watch?v=bIlOkaaTOJ8
 6415075:
   path: Chaminade,_Cécile/_/Chanson_de_neige
   name: Chanson de neige
@@ -1861,6 +1870,9 @@
   imslp: '#154070'
   set_id: 5097140
   lyricist_url: https://imslp.org/wiki/Category:Maquet,_Th%C3%A9r%C3%A8se
+  audio:
+    - audio_id: vonOtterForsberg2001
+      audio: https://www.youtube.com/watch?v=vi5KdFRW5ks
 5987667:
   path: Chaminade,_Cécile/_/L’été
   name: L’été
@@ -3940,6 +3952,9 @@
   imslp: '#29138'
   set_id: 5102031
   lyricist_url: https://imslp.org/wiki/Category:Droysen,_Johann_Gustav
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=e0eNCPgLW_Y
 6013106:
   path: Hensel,_Fanny_(Mendelssohn)/3_Lieder/2_Verlust
   name: Verlust
@@ -3947,6 +3962,9 @@
   imslp: '#29138'
   set_id: 5102031
   lyricist_url: https://imslp.org/wiki/Category:Heine,_Heinrich
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=x0HM4E-FCwo
 6013171:
   path: Hensel,_Fanny_(Mendelssohn)/3_Lieder/3_Die_Nonne
   name: Die Nonne
@@ -3954,6 +3972,9 @@
   imslp: '#29138'
   set_id: 5102031
   lyricist_url: https://imslp.org/wiki/Category:Uhland,_Ludwig
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=AJju_HFV2IE
 6022316:
   path: Hensel,_Fanny_(Mendelssohn)/3_Songs/1_Das_Heimweh
   name: Das Heimweh
@@ -3961,6 +3982,9 @@
   imslp: '#28641'
   set_id: 5102129
   lyricist_url:
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=sX8qyWJXF-U
 6022185:
   path: Hensel,_Fanny_(Mendelssohn)/3_Songs/2_Italien
   name: Italien
@@ -3968,6 +3992,9 @@
   imslp: '#28641'
   set_id: 5102129
   lyricist_url: https://imslp.org/wiki/Category:Grillparzer,_Franz
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=W7XAl7B0tMQ
 6022146:
   path: Hensel,_Fanny_(Mendelssohn)/3_Songs/3_Suleika_und_Hatem
   name: Suleika und Hatem
@@ -3982,6 +4009,9 @@
   imslp: '#100337'
   set_id: 5016673
   lyricist_url:
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=4f_gX_LPOoE
 5000464:
   path: Hensel,_Fanny_(Mendelssohn)/5_Lieder,_Op.10/2_Vorwurf
   name: Vorwurf
@@ -3989,6 +4019,9 @@
   imslp: '#100337'
   set_id: 5016673
   lyricist_url: https://imslp.org/wiki/Category:Lenau,_Nikolaus
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=J_ftLEDiNiw
 4919798:
   path: Hensel,_Fanny_(Mendelssohn)/5_Lieder,_Op.10/3_Abendbild
   name: Abendbild
@@ -3996,6 +4029,9 @@
   imslp: '#100337'
   set_id: 5016673
   lyricist_url: https://imslp.org/wiki/Category:Lenau,_Nikolaus
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=yf29QxFNQ84
 5000459:
   path: Hensel,_Fanny_(Mendelssohn)/5_Lieder,_Op.10/4_Im_Herbste
   name: Im Herbste
@@ -4003,6 +4039,9 @@
   imslp: '#100337'
   set_id: 5016673
   lyricist_url: https://imslp.org/wiki/Category:Geibel,_Emanuel
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=Rbv5-W4urYM
 5000446:
   path: Hensel,_Fanny_(Mendelssohn)/5_Lieder,_Op.10/5_Bergeslust
   name: Bergeslust
@@ -4010,6 +4049,9 @@
   imslp: '#100337'
   set_id: 5016673
   lyricist_url: https://imslp.org/wiki/Category:Eichendorff,_Joseph_von
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=7frqC5Omm38
 5100543:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.1/1_Schwanenlied
   name: Schwanenlied
@@ -4017,6 +4059,9 @@
   imslp: '#99178'
   set_id: 5004627
   lyricist_url: https://imslp.org/wiki/Category:Heine,_Heinrich
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=6IMxCfqDQIA
 5004632:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.1/2_Wanderlied
   name: Wanderlied
@@ -4024,6 +4069,9 @@
   imslp: '#99178'
   set_id: 5004627
   lyricist_url: https://imslp.org/wiki/Category:Goethe,_Johann_Wolfgang_von
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=p9OjrvC1L_M
 5004640:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.1/3_Warum_sind_denn_die_Rosen_so_blass
   name: Warum sind denn die Rosen so blass
@@ -4031,6 +4079,9 @@
   imslp: '#99178'
   set_id: 5004627
   lyricist_url: https://imslp.org/wiki/Category:Heine,_Heinrich
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=xS5FD_x8hEY
 5101299:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.1/4_Mayenlied
   name: Mayenlied
@@ -4038,6 +4089,9 @@
   imslp: '#99178'
   set_id: 5004627
   lyricist_url: https://imslp.org/wiki/Category:Eichendorff,_Joseph_von
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=MjoyHMHnq7U
 5004650:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.1/5_Morgenständchen
   name: Morgenständchen
@@ -4045,6 +4099,9 @@
   imslp: '#99178'
   set_id: 5004627
   lyricist_url: https://imslp.org/wiki/Category:Eichendorff,_Joseph_von
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=L3w_5IQG-kc
 5101361:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.1/6_Gondellied
   name: Gondellied
@@ -4052,6 +4109,9 @@
   imslp: '#99178'
   set_id: 5004627
   lyricist_url:
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=Bj0yn5ud5f0
 5987757:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.7/1_Nachtwanderer
   name: Nachtwanderer
@@ -4059,6 +4119,9 @@
   imslp: '#558449'
   set_id: 5101840
   lyricist_url:
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=u_apfk8J-cc
 5987806:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.7/2_Erwin
   name: Erwin
@@ -4066,6 +4129,9 @@
   imslp: '#558449'
   set_id: 5101840
   lyricist_url:
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=Y4APc0pcCyw
 5987851:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.7/3_Frühling
   name: Frühling
@@ -4073,6 +4139,9 @@
   imslp: '#558449'
   set_id: 5101840
   lyricist_url:
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=3pygD2N_8JM
 5987937:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.7/4_Du_bist_die_Ruh
   name: Du bist die Ruh
@@ -4080,6 +4149,9 @@
   imslp: '#558449'
   set_id: 5101840
   lyricist_url:
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=zNpJ63b_f3w
 5987963:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.7/5_Bitte
   name: Bitte
@@ -4087,6 +4159,9 @@
   imslp: '#558449'
   set_id: 5101840
   lyricist_url:
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=rbr0NJOFSxw
 5987993:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.7/6_Dein_ist_mein_Herz
   name: Dein ist mein Herz
@@ -4094,6 +4169,9 @@
   imslp: '#558449'
   set_id: 5101840
   lyricist_url:
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=3MMtJ5ftjXY
 4986023:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.9/1_Die_Ersehnte
   name: Die Ersehnte
@@ -4101,6 +4179,9 @@
   imslp: '#113581'
   set_id: 5016683
   lyricist_url: https://imslp.org/wiki/Category:Hölty,_Ludwig_Christoph_Heinrich
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=zwf69PSKfpw
 5103883:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.9/2_Ferne
   name: Ferne
@@ -4108,6 +4189,9 @@
   imslp: '#113581'
   set_id: 5016683
   lyricist_url: https://imslp.org/wiki/Category:Tieck,_Johann_Ludwig
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=lUQ19vZ1rxo
 5108166:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.9/3_Der_Rosenkranz
   name: Der Rosenkranz
@@ -4115,6 +4199,9 @@
   imslp: '#113581'
   set_id: 5016683
   lyricist_url: https://imslp.org/wiki/Category:Voss,_Johann_Heinrich
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=1RD83njHE2Q
 4986026:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.9/4_Die_frühen_Gräber
   name: Die frühen Gräber
@@ -4122,6 +4209,9 @@
   imslp: '#113581'
   set_id: 5016683
   lyricist_url: https://imslp.org/wiki/Category:Klopstock,_Friedrich_Gottlieb
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=p_vutuiVA7o
 5103913:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.9/5_Der_Maiabend
   name: Der Maiabend
@@ -4129,6 +4219,9 @@
   imslp: '#113581'
   set_id: 5016683
   lyricist_url: https://imslp.org/wiki/Category:Voss,_Johann_Heinrich
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=HhO83THOacI
 4986030:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.9/6_Die_Mainacht
   name: Die Mainacht
@@ -4136,6 +4229,9 @@
   imslp: '#113581'
   set_id: 5016683
   lyricist_url: https://imslp.org/wiki/Category:Hölty,_Ludwig_Christoph_Heinrich
+  audio:
+    - audio_id: KolbShrut1992
+      audio: https://www.youtube.com/watch?v=-98niy-k3is
 6022950:
   path: Hensel,_Fanny_(Mendelssohn)/Gartenlieder,_Op.3/1_Hörst_du_nicht_die_Bäume_rauschen
   name: Hörst du nicht die Bäume rauschen
