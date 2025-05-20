@@ -7,8 +7,5 @@
 *.mp3
 *.zip
 
-# Backup and temporary files
-.mscbackup
-.*.mscx,
-.*.mscz,
-*~
+# All backup and temporary files
+.*
