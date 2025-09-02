@@ -1,11 +1,32 @@
 # -*- coding: utf-8 -*-
 """
 MuseScore command line conversion script.
- 
+
 Intended for the lieder corpus, but applicable more widely.
 
 By Alex Pacha (apacha) 2023
-and Mark Gotham 2025 
+and Mark Gotham 2025
+
+To run with all conversions written to the same/equivalent directories:
+`python3 convert_all.py -i "/your/path/to/openscore/lieder" -o "/your/path/to/openscore/lieder"`
+
+NOTE!
+Batch convert may lead to the display of an error message “last time MuseScore did not close correctly”,
+potentially for every score in the corpus.
+This may require a manual answer which is impractical at scale.
+
+If so, try these steps:
+1. Launch MuseScore.
+2. Open any score (or create a new one).
+3. File -> Close (not Quit), don't save changes.
+4. Now do File -> Quit.
+5. Run this script.
+
+This ensures the last score was closed cleanly, so MuseScore shouldn't detect an autosave version.
+If many users have this issue, and it's not solved by the above,
+then we may adjust this batch script to delete the autosave file before each conversion
+(but better not to go there unless needed).
+
 """
 
 __author__ = ["Alex Pacha", "Mark Gotham"]
