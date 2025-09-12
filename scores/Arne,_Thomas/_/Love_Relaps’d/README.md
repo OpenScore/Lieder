@@ -1,12 +1,12 @@
-# Der englische Gruss
+# Love Relaps’d
 
-__No.1 from [Marienlieder, Op.22](..) by [Johannes Brahms](../..)__
+__A [standalone piece](..) by [Thomas Arne](../..)__
 
 Transcribed and maintained by contributors to [OpenScore Lieder].
 
 Please visit the [official score page] for more information.
 
-[official score page]: https://musescore.com/openscore-lieder-corpus/scores/8707581
+[official score page]: https://musescore.com/openscore-lieder-corpus/scores/8873154
 [OpenScore Lieder]: https://musescore.com/openscore-lieder-corpus
 
 ## External links
@@ -14,5 +14,5 @@ Please visit the [official score page] for more information.
 - [MuseScore] - view and listen to [this score][MuseScore], or download in a variety of formats.
 - [IMSLP] - view the [source PDF file(s)][IMSLP] that this score was transcribed from.
 
-[MuseScore]: https://musescore.com/score/8707581
-[IMSLP]: https://imslp.org/wiki/Special:ReverseLookup/101428
+[MuseScore]: https://musescore.com/score/8873154
+[IMSLP]: https://imslp.org/wiki/Special:ReverseLookup/154952
