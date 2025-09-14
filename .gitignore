@@ -1,11 +1,11 @@
-# Binary formats
-*.mscz
-*.mxl
+# Some binary formats
 *.pdf
 *.mid
 *.wav
 *.mp3
 *.zip
+
+data/__pycache__/*
 
 # All backup and temporary files
 .*
