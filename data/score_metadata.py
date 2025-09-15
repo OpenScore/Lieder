@@ -8,18 +8,17 @@ but the instrumentation and lyrics.
 from __future__ import annotations
 from music21 import converter, stream, text
 from pathlib import Path
+import re
 from utils import path_to_scores
 
-
 accompaniment_parts_no_lyrics = ("Piano", "Guitar")  # Any others?
-
 
 __author__ = "Mark Gotham"
 
 
 # ------------------------------------------------------------------------------
 
-def corpus_run(
+def corpus_retrieve(
         base_path: Path = path_to_scores,
         file_type: str = ".mxl",
         overwrite: bool = True,
@@ -68,7 +67,7 @@ def extract_lyrics_from_score(
         score: stream.Score,
         part_numbers: list[int] | None = None,
         standardise: bool = True,
-):
+) -> str:
     """
     Extract the lyrics from a score.
 
@@ -90,7 +89,7 @@ def extract_lyrics_from_score(
     """
     if part_numbers is None:
         part_numbers = range(len(score.parts))
-    
+
     out_string = ""
     for i in part_numbers:
         part = score.parts[i]
@@ -108,8 +107,57 @@ def extract_lyrics_from_score(
     return out_string
 
 
+def reorder_numbered_list(text: str) -> str | None:
+    """
+    In many cases, the text will be retrieved in a complex order.
+
+    Use this to
+    - pattern match numbered items (1-9) followed by a period and optional whitespace,
+    - find all matching cases, numbered items (1-9 only)
+    - sort by those number
+    """
+    pattern = r'(\d+)\.\s*(.*?)(?=\s*\d+\.\s*|\Z)'
+    items = []
+
+    for match in re.finditer(pattern, text, re.DOTALL):
+        num = int(match.group(1))
+        if 1 <= num <= 9:
+            items.append((num, match.group(2)))
+
+    if not items:
+        return None
+
+    items.sort(key=lambda x: x[0])
+
+    return "\n".join([f"{num}. {text_part}" for num, text_part in items])
+
+
+def read_reorder_write(text_path: Path) -> None:
+    with open(text_path, "r") as f:
+        text = f.read()
+
+    output_text = reorder_numbered_list(text)
+    
+    if output_text is not None:
+        with open(text_path, "w") as f:
+            f.write(output_text)
+
+
+def corpus_reorder(base_path: Path = path_to_scores) -> None:
+    """
+    Get all text files across a corpus (base_path).
+    and attempt to reorder the verses in the correct order.
+    TODO not perfect, but an improvement overall.
+
+    :param base_path: The top level of the directory to search.
+    """
+    files = base_path.rglob("*.txt")
+    for text_path in files:
+        read_reorder_write(text_path)
+
 
 # ------------------------------------------------------------------------------
 
 if __name__ == "__main__":
-    corpus_run()
+    # corpus_retrieve()
+    corpus_reorder()
