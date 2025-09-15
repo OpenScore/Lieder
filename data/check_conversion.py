@@ -39,6 +39,9 @@ def check_leaf_directories_have_file_of_given_format(root_dir: Path, format: str
         if not dirpath.is_dir():
             continue
 
+        if dirpath.name.startswith('.'):
+            continue
+
         has_subdir = any(p.is_dir() for p in dirpath.iterdir())
 
         if not has_subdir:
