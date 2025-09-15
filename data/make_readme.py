@@ -3,13 +3,38 @@
 Make Readme Files (make_readme.py)
 Basic script for creating the read me files in every directory.
 
+TODO develop `contents` to include, for example, on the composer page, lists of all sets
+
 """
 from __future__ import annotations
-from utils import *
-from urllib.parse import quote
+from pathlib import Path
+from utils import get_info, path_to_scores, path_to_data_dir
 
 
 __author__ = "Mark Gotham"
+
+
+# ------------------------------------------------------------------------------
+
+# Local
+path_to_scores_fourscore = Path("/<your>/<local>/<path>/fourscoreandmore.org/openscore/lieder")
+
+# Online
+four_score_public = "https://fourscoreandmore.org/openscore/lieder/"
+open_score_on_muse_score = "https://musescore.com/openscore-lieder-corpus"
+
+
+def base_path_to_direct_download(org: str, repo: str, branch: str = "main"):
+    """
+    Basic script to create the start of URLs for direct download links.
+    Simply to show the structure and maintain consistency across repos.
+    """
+    # Ossia: return f"https://github.com/{org}/{repo}/raw/refs/heads/{branch}/"
+    return f"https://github.com/{org}/{repo}/blob/{branch}/"
+
+
+open_score_download = base_path_to_direct_download("openscore", "lieder", "main")
+open_score_download += "scores/"
 
 
 # ------------------------------------------------------------------------------
@@ -43,7 +68,7 @@ def songs(four_score: bool = False):
         composer, set_name, title = relative_path.split("/")
 
         if four_score:
-            set_url = four_score_and_more + quote(f"{composer}/{set_name}/")
+            set_url = four_score_public + f"{composer}/{set_name}/"
         else:
             set_url = ".."
 
@@ -59,7 +84,7 @@ def songs(four_score: bool = False):
             markdown_content += f"__No.{number} from [{set_name.replace("_", " ")}]({set_url})"
 
         if four_score:
-            composer_url = four_score_and_more + quote(composer)
+            composer_url = four_score_public + composer
         else:
             composer_url = "../.."
 
@@ -74,12 +99,12 @@ def songs(four_score: bool = False):
             markdown_content += "## Direct Download\n\n"
             markdown_content += "Click on the links below to download the score in your preferred format:\n"
             markdown_content += "- [MuseScore 4 (compressed)]"
-            markdown_content += f"({four_score_and_more + quote(relative_path)}.mscz).\n"
+            markdown_content += f"({open_score_download + relative_path}/lc{this_key}.mscz?raw=true).\n"
             markdown_content += "- [MusicXML (compressed)]"
-            markdown_content += f"({four_score_and_more + quote(relative_path)}.mxl). "
+            markdown_content += f"({open_score_download + relative_path}/lc{this_key}.mxl?raw=true). "
             markdown_content += "Use this version to open the file in other notation apps.\n"
             markdown_content += "- [MuseScore 3 (uncompressed)]"
-            markdown_content += f"({raw_git + quote(relative_path)}/lc{this_key}.mscx). "
+            markdown_content += f"({open_score_download + relative_path}/lc{this_key}.mscx?raw=true). "
             markdown_content += "This is the version as transcribed by our team (with no updates etc.). "
             markdown_content += "It is uncompressed (so a larger file).\n\n"
 
@@ -96,7 +121,7 @@ def songs(four_score: bool = False):
             markdown_content += '/embed" frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe>\n'
 
         if four_score:
-            destination = path_to_scores / relative_path / "index.md"  # GitHub.io as website
+            destination = path_to_scores_fourscore / relative_path / "index.md"  # GitHub.io as website
         else:
             destination = path_to_scores / relative_path / "README.md"  # GitHub as repo
 
@@ -138,7 +163,7 @@ def sets(four_score: bool = False):
         markdown_content += f"[OpenScore Lieder]: {open_score_on_muse_score}\n\n"
 
         if four_score:
-            destination = path_to_scores / relative_path / "index.md"  # GitHub.io as website
+            destination = path_to_scores_fourscore / relative_path / "index.md"  # GitHub.io as website
         else:
             destination = path_to_scores / relative_path / "README.md"  # GitHub as repo
 
@@ -184,7 +209,7 @@ def composers(four_score: bool = False):
         markdown_content += f'[Wikidata]: https://www.wikidata.org/wiki/{entry["wikidata"]}\n'
 
         if four_score:
-            destination = path_to_scores / relative_path / "index.md"  # GitHub.io as website
+            destination = path_to_scores_fourscore / relative_path / "index.md"  # GitHub.io as website
         else:
             destination = path_to_scores / relative_path / "README.md"  # GitHub as repo
 
@@ -199,4 +224,4 @@ def composers(four_score: bool = False):
 if __name__ == "__main__":
     songs(four_score=True)
     sets(four_score=True)
-    composers(four_score=False)
+    composers(four_score=True)
