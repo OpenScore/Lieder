@@ -1,5 +1,5 @@
 
-# Guy d'Hardelot
+# Guy d’Hardelot
 
 __French-English composer (1858–1936)__
 
