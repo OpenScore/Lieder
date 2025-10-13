@@ -162,8 +162,10 @@ These scores are released under Creative Commons Zero (CC0). See LICENSE.txt.
 We kindly ask that you credit OpenScore Lieder and provide a link to
 https://musescore.com/openscore-lieder-corpus or this repository for any public-facing use of these scores.
 
-For academic publications, please cite the report on this mirror we published in M.E.C.:
-- Gotham, M. R. H.; and Jonas, P. The OpenScore Lieder Corpus. In Münnich, S.; and Rizo, D., editor(s), Music Encoding Conference Proceedings 2021, pages 131–136, 2022. Humanities Commons. Best Poster Award. https://doi.org/10.17613/1my2-dm23
+For academic publications, please cite one of these two as appropriate:
+- Data directly: The specific release (with DOI) on Zenodo, e.g., https://doi.org/10.5281/zenodo.15450143
+the report on this mirror we published in M.E.C.:
+- Commentary: Gotham, M. R. H.; and Jonas, P. The OpenScore Lieder Corpus. In Münnich, S.; and Rizo, D., editor(s), Music Encoding Conference Proceedings 2021, pages 131–136, 2022. Humanities Commons. Best Poster Award. https://doi.org/10.17613/1my2-dm23. full bib.
 
 ```
 @inproceedings{GothamJonas2022,
@@ -197,6 +199,7 @@ For more about this corpus, its motivations, how to contribute, who has contribu
 
 ## Summary of external links
 
-- Scores online: https://musescore.com/openscore-lieder-corpus
+- Scores on MuseScore: https://musescore.com/openscore-lieder-corpus
+- Data on Zenodo: https://doi.org/10.5281/zenodo.15450143
 - Academic report: https://doi.org/10.17613/1my2-dm23
 - Motivation, explanation, credits, and more: https://fourscoreandmore.org/scores-of-scores/
