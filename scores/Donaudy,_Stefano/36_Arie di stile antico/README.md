@@ -1,4 +1,4 @@
-# 36 Arie di stile antico
+# 36 Arie di Stile Antico
 
 __By [Stefano Donaudy](..)__
 
