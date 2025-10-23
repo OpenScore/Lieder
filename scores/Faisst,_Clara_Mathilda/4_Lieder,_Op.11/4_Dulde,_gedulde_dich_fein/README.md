@@ -1,7 +1,7 @@
 
 # Dulde, gedulde dich fein
 
-__No.4 from [4 Lieder, Op. 11](..) by [Clara Mathilda Faisst](../..)__
+__No.4 from [4 Lieder, Op.11](..) by [Clara Mathilda Faisst](../..)__
 
 Transcribed and maintained by contributors to [OpenScore Lieder].
 
