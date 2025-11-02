@@ -1,0 +1,8 @@
+# H.40
+
+__By [Frank Bridge](..)__
+
+Visit the [official set page] in [OpenScore Lieder].
+
+[official set page]: https://musescore.com/openscore-lieder-corpus/sets/13854956
+[OpenScore Lieder]: https://musescore.com/openscore-lieder-corpus
