@@ -1,12 +1,12 @@
-# Erinnrung zum Bach
+# The Bracelet
 
-__No.1 from [12 Gesänge](..) by [Louise Reichardt](../..)__
+__No.2 from [To Julia, Op.8](..) by [Roger Quilter](../..)__
 
 Transcribed and maintained by contributors to [OpenScore Lieder].
 
 Please visit the [official score page] for more information.
 
-[official score page]: https://musescore.com/openscore-lieder-corpus/scores/5087917
+[official score page]: https://musescore.com/openscore-lieder-corpus/scores/321919
 [OpenScore Lieder]: https://musescore.com/openscore-lieder-corpus
 
 ## External links
@@ -14,5 +14,5 @@ Please visit the [official score page] for more information.
 - [MuseScore] - view and listen to [this score][MuseScore], or download in a variety of formats.
 - [IMSLP] - view the [source PDF file(s)][IMSLP] that this score was transcribed from.
 
-[MuseScore]: https://musescore.com/score/5087917
-[IMSLP]: https://imslp.org/wiki/Special:ReverseLookup/23388
+[MuseScore]: https://musescore.com/score/321919
+[IMSLP]: https://imslp.org/wiki/Special:ReverseLookup/321919
