@@ -1,4 +1,3 @@
-
 # Wiegenlied
 
 __No.4 from [5 Lieder, Op.49](..) by [Johannes Brahms](../..)__
