@@ -1,4 +1,4 @@
-# Frederic Chopin
+# Frédéric Chopin
 
 __Polish composer and virtuoso pianist (1810–1849)__
 
