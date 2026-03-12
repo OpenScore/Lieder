@@ -1,14 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-Make Readme Files (make_readme.py)
-Basic script for creating the read me files in every directory.
-
-TODO develop `contents` to include, for example, on the composer page, lists of all sets
+Make README Files (make_readme.py)
+Basic script for creating the README files in every directory.
 
 """
 from __future__ import annotations
 from pathlib import Path
-from utils import get_info, path_to_scores, path_to_data_dir
+from utils import *
 
 
 __author__ = "Mark Gotham"
@@ -16,8 +14,8 @@ __author__ = "Mark Gotham"
 
 # ------------------------------------------------------------------------------
 
-# Local
-path_to_scores_fourscore = Path("/<your>/<local>/<path>/fourscoreandmore.org/openscore/lieder")
+# Local (replace with yours)
+fourscore_local = path_to_data_dir.parent.parent / "fourscoreandmore.org/openscore/lieder"
 
 # Online
 four_score_public = "https://fourscoreandmore.org/openscore/lieder/"
@@ -51,82 +49,79 @@ def songs(four_score: bool = False):
             name = entry["name"]
             link = entry["link"]
             imslp = entry["imslp"]
-            set_id = entry["set_id"]
-            # lyricist_url = entry["lyricist_url"]  # TODO
 
         except KeyError as e:
             print(entry)
             return f"Error: Missing key in YAML data: {e}"
 
         if four_score:
-            markdown_content = "---\nlayout: post\n"
-            markdown_content += f"title: '{name} (OpenScore Lieder Corpus)'\n---\n\n"
+            destination_dir = fourscore_local / relative_path
+            if not Path.exists(destination_dir):
+                Path.mkdir(destination_dir)
+            destination = destination_dir / "index.md"  # GitHub.io as website
         else:
-            markdown_content = "\n"
-            markdown_content += f"# {name}\n\n"
+            destination = path_to_scores / relative_path / "README.md"  # GitHub as repo
 
-        composer, set_name, title = relative_path.split("/")
+        with open(destination, "w") as f:
 
-        if four_score:
-            set_url = four_score_public + f"{composer}/{set_name}/"
-        else:
-            set_url = ".."
+            if four_score:
+                f.write("---\nlayout: post\n")
+                f.write(f"title: '{name} (OpenScore Lieder Corpus)'\n---\n\n")
+            else:
+                f.write(f"\n# {name}\n\n")
 
-        if set_name == "_":
-            markdown_content += f"__A [standalone piece]({set_url})"
-        else:
+            composer, set_name, title = relative_path.split("/")
             number = title.split("_")[0]
             try:
                 number = int(number)
             except:  # known cases like "1a"
                 print(f"Warning: Not a standalone and no direct str-int conversion of {number}")
 
-            markdown_content += f"__No.{number} from [{set_name.replace("_", " ")}]({set_url})"
+            if four_score:
+                set_url = four_score_public + f"{composer}/{set_name}/"
+            else:
+                set_url = ".."
 
-        if four_score:
-            composer_url = four_score_public + composer
-        else:
-            composer_url = "../.."
+            if four_score:
+                composer_url = four_score_public + composer
+                set_url = "/".join([composer_url, set_name])  # "
+            else:
+                composer_url = "../.."
 
-        markdown_content += f" by [{composer}]({composer_url})__\n\n"
+            f.write(f"## About This Song\n\n"
+                    f"- Composed by: [{composer}]({composer_url})\n"
+                    )
+            if set_name == "_":
+                f.write(f"- A [standalone piece]({set_url})\n")
+            else:
+                f.write(f"- Number {number} from [{set_name.replace('_', ' ')}]({set_url})\n")
 
-        markdown_content += "Transcribed and maintained by contributors to [OpenScore Lieder].\n\n"
-        markdown_content += f"Please visit the [official score page] for more information.\n\n"
-        markdown_content += f"[official score page]: {link}\n"
-        markdown_content += f"[OpenScore Lieder]: {open_score_on_muse_score}\n\n"
+            f.write(
+                f"- Transcribed and maintained by contributors to [OpenScore Lieder].\n\n"
+                f"[OpenScore Lieder]: {open_score_on_muse_score}\n\n"
+            )
 
-        if four_score:
-            markdown_content += "## Direct Download\n\n"
-            markdown_content += "Click on the links below to download the score in your preferred format:\n"
-            markdown_content += "- [MuseScore 4 (compressed)]"
-            markdown_content += f"({open_score_download + relative_path}/lc{this_key}.mscz?raw=true).\n"
-            markdown_content += "- [MusicXML (compressed)]"
-            markdown_content += f"({open_score_download + relative_path}/lc{this_key}.mxl?raw=true). "
-            markdown_content += "Use this version to open the file in other notation apps.\n"
-            markdown_content += "- [MuseScore 3 (uncompressed)]"
-            markdown_content += f"({open_score_download + relative_path}/lc{this_key}.mscx?raw=true). "
-            markdown_content += "This is the version as transcribed by our team (with no updates etc.). "
-            markdown_content += "It is uncompressed (so a larger file).\n\n"
+            if four_score:  # Direct Download block
+                f.write("## Direct Download\n\n"
+                        "Click on the links below to download the score in your preferred format:\n"
+                        "- [MuseScore (compressed)]"
+                        f"({open_score_download + relative_path}/lc{this_key}.mscz?raw=true).\n"
+                        f"- [MusicXML (compressed)]"
+                        f"({open_score_download + relative_path}/lc{this_key}.mxl?raw=true). "
+                        f"Use this version to open the file in other notation apps.\n\n")
 
-        markdown_content += "## External links\n\n"
-        markdown_content += f"- [MuseScore] - view and listen to [this score][MuseScore], or download in a variety of formats.\n"
-        markdown_content += f"- [IMSLP] - view the [source PDF file(s)][IMSLP] that this score was transcribed from.\n\n"
-        markdown_content += f"[MuseScore]: https://musescore.com/score/{this_key}\n"
-        markdown_content += f"[IMSLP]: https://imslp.org/wiki/Special:ReverseLookup/{imslp[1:]}\n\n"
+            f.write("## External links\n\n")
+            f.write(f"- MuseScore.com: view and listen to [this score][MuseScore], or download in a variety of formats.\n")
+            f.write(f"- IMSLP.org: view the [source PDF file(s)][IMSLP] that this score was transcribed from.\n\n")
 
-        if four_score:
-            markdown_content += "## Preview\n\n"
-            markdown_content += f'<iframe width="100%" height="394" src="'
-            markdown_content += link
-            markdown_content += '/embed" frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe>\n'
+            f.write(f"[MuseScore]: https://musescore.com/score/{this_key}\n")
+            f.write(f"[IMSLP]: https://imslp.org/wiki/Special:ReverseLookup/{imslp[1:]}\n\n")
 
-        if four_score:
-            destination = path_to_scores_fourscore / relative_path / "index.md"  # GitHub.io as website
-        else:
-            destination = path_to_scores / relative_path / "README.md"  # GitHub as repo
-
-        with open(destination, "w") as f:
-            f.write(markdown_content)
+            if four_score:
+                f.write("## Preview\n\n")
+                f.write(f'<iframe width="100%" height="394" src="')
+                f.write(link)
+                f.write('/embed" frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe>\n')
 
     return None
 
@@ -142,33 +137,40 @@ def sets(four_score: bool = False):
             relative_path = entry["path"]
             name = entry["name"]
             link = entry["link"]
+            imslp = entry["imslp"]
 
-        except KeyError as e:
+        except KeyError:
             return f"Error: Missing key in YAML data for {this_key}"
 
         if four_score:
-            markdown_content = "---\nlayout: post\n"
-            markdown_content += f"title: '{name} (OpenScore Lieder Corpus)'\n---\n\n"
-        else:
-            markdown_content = "\n"
-            markdown_content += f"# [{name}](..)\n\n"
-
-        markdown_content += "Visit the [official set page] in [OpenScore Lieder].\n\n"
-        markdown_content += f"[official set page]: {link}\n"
-
-        # TODO: consider this nearer match to scores:
-        # markdown_content += "View [sets by this composer] in [OpenScore Lieder].\n\n"
-        # markdown_content += f"[sets by this composer]: {link}\n"
-
-        markdown_content += f"[OpenScore Lieder]: {open_score_on_muse_score}\n\n"
-
-        if four_score:
-            destination = path_to_scores_fourscore / relative_path / "index.md"  # GitHub.io as website
+            destination_dir = fourscore_local / relative_path
+            if not Path.exists(destination_dir):
+                Path.mkdir(destination_dir)
+            destination = destination_dir / "index.md"  # GitHub.io as website
         else:
             destination = path_to_scores / relative_path / "README.md"  # GitHub as repo
 
         with open(destination, "w") as f:
-            f.write(markdown_content)
+
+            if four_score:
+                f.write("---\nlayout: post\n")
+                f.write(f"title: '{name} (OpenScore Lieder Corpus)'\n---\n\n")
+            else:
+                f.write(f"\n# [{name}](..)\n\n")
+
+            f.write(
+                "## External links\n\n"
+                "- MuseScore.com: View [this set] as part of the [OpenScore Lieder] collection on MuseScore.com.\n"
+            )
+            if imslp is not None:
+                f.write(
+                    f"- IMSLP.org: view the [source PDF file(s)][IMSLP] that this score was transcribed from.\n\n"
+                    f"[IMSLP]: https://imslp.org/wiki/Special:ReverseLookup/{imslp[1:]}\n"
+                )
+            f.write(
+                f"[this set]: {link}\n"
+                f"[OpenScore Lieder]: {open_score_on_muse_score}\n"
+            )
 
     return None
 
@@ -188,33 +190,38 @@ def composers(four_score: bool = False):
             died = entry["died"]
             link = entry["link"]
 
-        except KeyError as e:
+        except KeyError:
             return f"Error: Missing key in YAML data for {this_key}"
 
         if four_score:
-            markdown_content = "---\nlayout: post\n"
-            markdown_content += f"title: '{name} (OpenScore Lieder Corpus)'\n---\n\n"
-        else:
-            markdown_content = "\n"
-            markdown_content += f"# {name}\n\n"
-
-        markdown_content += f"__{desc} ({born}–{died})__\n\n"
-        markdown_content += "View [sets by this composer] in [OpenScore Lieder].\n\n"
-        markdown_content += f"[sets by this composer]: {link}\n"
-        markdown_content += f"[OpenScore Lieder]: {open_score_on_muse_score}\n\n"
-        markdown_content += "## External links\n\n"
-        markdown_content += "- [Wikipedia] - learn about this composer.\n"
-        markdown_content += "- [Wikidata] - get data about this composer.\n\n"
-        markdown_content += f'[Wikipedia]: {entry["wikipedia"]}\n'
-        markdown_content += f'[Wikidata]: https://www.wikidata.org/wiki/{entry["wikidata"]}\n'
-
-        if four_score:
-            destination = path_to_scores_fourscore / relative_path / "index.md"  # GitHub.io as website
+            destination_dir = fourscore_local / relative_path
+            if not Path.exists(destination_dir):
+                Path.mkdir(destination_dir)
+            destination = destination_dir / "index.md"  # GitHub.io as website
         else:
             destination = path_to_scores / relative_path / "README.md"  # GitHub as repo
 
         with open(destination, "w") as f:
-            f.write(markdown_content)
+
+            if four_score:
+                f.write("---\nlayout: post\n")
+                f.write(f"title: '{name} (OpenScore Lieder Corpus)'\n---\n\n")
+            else:
+                f.write(f"\n# {name}\n\n")
+
+            f.write(f"## About {name}\n\n"
+                    f"- {desc}\n"
+                    f"- Dates: {born}–{died}\n\n")
+
+            f.write("## External links\n\n"
+                    "- MuseScore.com: View [sets by this composer] in [OpenScore Lieder] on MuseScore.com.\n"
+                    "- Wikipedia: Crowd-sourced text about this composer on [Wikipedia].\n"
+                    "- Wikidata: Crowd-sourced, structured, linked data about this composer on [Wikidata].\n\n")
+            f.write(f'[Wikipedia]: {entry["wikipedia"]}\n'
+                    f'[Wikidata]: https://www.wikidata.org/wiki/{entry["wikidata"]}\n'
+                    f'[sets by this composer]: {link}\n'
+                    f'[OpenScore Lieder]: {open_score_on_muse_score}\n\n'
+                    )
 
     return None
 
