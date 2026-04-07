@@ -18,6 +18,7 @@ import argparse
 import html
 import sqlite3
 from pathlib import Path
+from urllib.parse import quote
 
 
 __author__ = "Mark Gotham"
@@ -28,18 +29,46 @@ __author__ = "Mark Gotham"
 
 
 def slugify(text: str) -> str:
-    """Replace spaces with underscores for URL path segments (no percent-encoding)."""
-    return text.replace(" ", "_")
-
-
-def build_url(composer_sort: str, set_title: str | None, song_number: str | None, song_title: str) -> str:
     """
-    Construct the fourscoreandmore.org page URL for a song.
+    Convert to URL-safe path segment
+    - spaces→underscores,
+    - encode other special chars with `urllib.parse.quote`."""
+    if not text:
+        return ""
+    text = text.replace(" ", "_")
+    return quote(text, safe="_")
 
-    Pattern:  /OpenScore/<composer_sort>/<set_or_dash>/<number_title>
+
+def build_url(
+        composer_sort: str,
+        set_title: str | None,
+        song_number: str | None,
+        song_title: str | None,
+        musescore_id: int | None,
+        fourscoreandmore: bool = False
+) -> str:
+    """
+    Construct the relevant URL.
+
+    If fourscoreandmore is False (default),
+    build the base URL for direct score download from GitHub (leaving off the variable file format extension).
+    Pattern base: "https://github.com/OpenScore/Lieder/blob/main/scores"
+    Output example: base + "Schumann,_Clara/Lieder,_Op.12/04_Liebst_du_um_Schönheit/lc5000397"
+    Added later: ".mscz?raw=true"
+
+    If fourscoreandmore is True,
+    build the fourscoreandmore.org viewing page URL for the song.
+    TODO: Note that this provision is experimental and may not remain. Does anyone want it?
+    Pattern base: "https://fourscoreandmore.org/openscore/lieder"
+
+    Pattern (both case): <base>/<composer_sort>/<set_or_dash>/<number_title>
     Singles:  set segment is '_' (bare underscore, matching the existing convention)
     """
-    base = "https://fourscoreandmore.org/OpenScore"
+    if fourscoreandmore:
+        base = "https://fourscoreandmore.org/openscore/lieder"
+    else:
+        base = "https://github.com/OpenScore/Lieder/blob/main/scores"
+
     composer_seg = slugify(composer_sort)
 
     if set_title:
@@ -53,7 +82,7 @@ def build_url(composer_sort: str, set_title: str | None, song_number: str | None
     else:
         song_seg = slugify(song_title)
 
-    return f"{base}/{composer_seg}/{set_seg}/{song_seg}"
+    return f"{base}/{composer_seg}/{set_seg}/{song_seg}/lc{musescore_id}"
 
 
 def esc(value) -> str:
@@ -226,13 +255,32 @@ HTML_TEMPLATE = """\
 """
 
 
-def render_row(r: dict) -> str:
+def render_row(r: dict,
+        fourscoreandmore: bool = False
+) -> str:
+    """See notes at `build_url`."""
+
     url = build_url(
         r["composer_sort"],
         r["set_title"],
         r["song_number"],
         r["song_title"],
+        r["musescore_id"],
+        fourscoreandmore=fourscoreandmore
     )
+
+    if fourscoreandmore:  # previews. TODO argument higher up.
+        url_cell = f'<td><a href="{esc(url)}" target="_blank" rel="noopener">View score</a></td>'
+    else:  # downloads_not_previews
+        mscz = esc(url + ".mscz?raw=true")
+        mxl = esc(url + ".mxl?raw=true")
+        url_cell = (
+            '<td>'
+            f'<a href="{mscz}" target="_blank" rel="noopener">.mscz</a>'
+            ' '
+            f'<a href="{mxl}" target="_blank" rel="noopener">.mxl</a>'
+            '</td>'
+        )
 
     # Display: prepend number to song title if present
     if r["song_number"]:
@@ -249,10 +297,9 @@ def render_row(r: dict) -> str:
         f'<td>{song_display}</td>'
         f'<td>{esc(r["lyricist"])}</td>'
         f'<td>{esc(r["language"])}</td>'
-        f'<td><a href="{esc(url)}" target="_blank" rel="noopener">View score</a></td>'
+        f'{url_cell}'
         f'</tr>'
     )
-
 
 def generate_html(rows: list[dict]) -> str:
     rendered_rows = "\n".join(render_row(r) for r in rows)
