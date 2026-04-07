@@ -107,8 +107,9 @@ def load_rows(db_path: Path) -> list[dict]:
 # HTML generation
 
 
+JQUERY_CDN = "https://code.jquery.com/jquery-3.7.1.min.js"
 DATATABLES_CSS = "https://cdn.datatables.net/2.1.7/css/dataTables.dataTables.min.css"
-DATATABLES_JS  = "https://cdn.datatables.net/2.1.7/js/dataTables.min.js"
+DATATABLES_JS = "https://cdn.datatables.net/2.1.7/js/dataTables.min.js"
 
 HTML_TEMPLATE = """\
 <!DOCTYPE html>
@@ -206,6 +207,8 @@ HTML_TEMPLATE = """\
     </tbody>
   </table>
 
+  <!-- jQuery MUST load before DataTables -->
+  <script src="{jquery_cdn}"></script>
   <script src="{datatables_js}"></script>
   <script>
     document.addEventListener('DOMContentLoaded', function () {{
@@ -255,6 +258,7 @@ def generate_html(rows: list[dict]) -> str:
     rendered_rows = "\n".join(render_row(r) for r in rows)
     composer_count = len({r["composer_sort"] for r in rows})
     return HTML_TEMPLATE.format(
+        jquery_cdn=JQUERY_CDN,
         datatables_css=DATATABLES_CSS,
         datatables_js=DATATABLES_JS,
         row_count=len(rows),
