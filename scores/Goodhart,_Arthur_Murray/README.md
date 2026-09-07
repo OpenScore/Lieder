@@ -10,4 +10,4 @@ View [sets by this composer] in [OpenScore Lieder].
 ## External links
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Arthur_Murray_Goodhart) - learn about this composer.
-- [Wikidata](https://www.wikidata.org/wiki/Q9499799) - get data about this composer.
+- [Wikidata](https://www.wikidata.org/wiki/Q4799799) - get data about this composer.
