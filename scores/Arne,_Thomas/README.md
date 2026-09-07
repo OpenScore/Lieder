@@ -14,4 +14,4 @@ View [sets by this composer] in [OpenScore Lieder].
 - [Wikidata] - get data about this composer.
 
 [Wikipedia]: https://en.wikipedia.org/wiki/Thomas_Arne
-[Wikidata]: https://www.wikidata.org/wiki/Q39709
+[Wikidata]: https://www.wikidata.org/wiki/Q309709
