@@ -12,7 +12,9 @@
   wikidata: Q60159846
   wikipedia: https://de.wikipedia.org/wiki/Jane_Abbott_(Komponistin)
   imslp: https://imslp.org/wiki/Category:Abbott,_Jane_Bingham
-  image:
+  name_sort: Abbott, Jane Bingham
+  musescore_singles_id: 5106766
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=16549
 11925257:
   path: Abrams,_Harriett
   name: Harriett Abrams
@@ -27,6 +29,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Harriett_Abrams
   imslp: https://imslp.org/wiki/Category:Abrams,_Harriett
   image: https://upload.wikimedia.org/wikipedia/commons/c/cc/A_duet_by_Miss_Harriet_and_Miss_Theodosia_Abrams,_Harrison's_Concert,_Hanover_Square.jpg
+  name_sort: Abrams, Harriett
+  musescore_singles_id: 5106769
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=17219
 309709:
   path: Arne,_Thomas
   name: Thomas Arne
@@ -40,7 +45,9 @@
   wikidata: Q309709
   wikipedia: https://en.wikipedia.org/wiki/Thomas_Arne
   imslp: https://imslp.org/wiki/Category:Arne,_Thomas
-  image:
+  name_sort: Arne, Thomas
+  musescore_singles_id: 5106315
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=94
 106641:
   path: Bach,_Johann_Christian
   name: Johann Christian Bach
@@ -54,7 +61,8 @@
   wikidata: Q106641
   wikipedia: https://en.wikipedia.org/wiki/Johann_Christian_Bach
   imslp: https://imslp.org/wiki/Category:Bach,_Johann_Christian
-  image:
+  name_sort: Bach, Johann Christian
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3258
 552010:
   path: Bantock,_Granville
   name: Granville Bantock
@@ -69,6 +77,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Granville_Bantock
   imslp: https://imslp.org/wiki/Category:Bantock,_Granville
   image: https://upload.wikimedia.org/wikipedia/commons/8/8d/Granville_Bantock.jpg
+  name_sort: Bantock, Granville
+  musescore_singles_id: 5106316
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3297
 5085825:
   path: Barnard,_Charlotte_Alington_-_aka_Claribel
   name: Charlotte Alington Barnard
@@ -82,7 +93,8 @@
   wikidata: Q5085825
   wikipedia: https://en.wikipedia.org/wiki/Charlotte_Alington_Barnard
   imslp: https://imslp.org/wiki/Category:Barnard,_Charlotte_Alington
-  image:
+  name_sort: Barnard, Charlotte Alington
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=9568
 5566022:
   path: Barnby,_Joseph
   name: Joseph Barnby
@@ -97,6 +109,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Joseph_Barnby
   imslp: https://imslp.org/wiki/Category:Barnby,_Joseph
   image: https://upload.wikimedia.org/wikipedia/commons/b/b3/Joseph_Barnby.jpg
+  name_sort: Barnby, Joseph
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3303
 5403071:
   path: Barns,_Ethel
   name: Ethel Barns
@@ -110,7 +124,8 @@
   wikidata: Q5403071
   wikipedia: https://en.wikipedia.org/wiki/Ethel_Barns
   imslp: https://imslp.org/wiki/Category:Barns,_Ethel
-  image:
+  name_sort: Barns, Ethel
+  musescore_singles_id: 5103567
 235699:
   path: Beach,_Amy
   name: Amy Beach
@@ -125,6 +140,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Amy_Beach
   imslp: https://imslp.org/wiki/Category:Beach,_Amy_Marcy
   image: https://upload.wikimedia.org/wikipedia/commons/9/91/Amy_March_(Cheney)_Beach,_1867-1944,_head_and_shoulders,_facing_slightly_left_LCCN2006690272.jpg
+  name_sort: Beach, Amy
+  musescore_singles_id: 5106882
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=174
 255:
   path: Beethoven,_Ludwig_van
   name: Ludwig van Beethoven
@@ -139,6 +157,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Ludwig_van_Beethoven
   imslp: https://imslp.org/wiki/Category:Beethoven,_Ludwig_van
   image: https://upload.wikimedia.org/wikipedia/commons/6/6f/Beethoven.jpg
+  name_sort: Beethoven, Ludwig van
+  musescore_singles_id: 5105982
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3351
 78475:
   path: Berg,_Alban
   name: Alban Berg
@@ -152,7 +173,9 @@
   wikidata: Q78475
   wikipedia: https://en.wikipedia.org/wiki/Alban_Berg
   imslp: https://imslp.org/wiki/Category:Berg,_Alban
-  image:
+  name_sort: Berg, Alban
+  musescore_singles_id: 5106884
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3386
 1151:
   path: Berlioz,_Hector
   name: Hector Berlioz
@@ -166,7 +189,8 @@
   wikidata: Q1151
   wikipedia: https://en.wikipedia.org/wiki/Hector_Berlioz
   imslp: https://imslp.org/wiki/Category:Berlioz,_Hector
-  image:
+  name_sort: Berlioz, Hector
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3401
 18529943:
   path: Bianchi_Lacy,_Jane
   name: Jane Bianchi
@@ -180,7 +204,8 @@
   wikidata: Q18529943
   wikipedia: https://en.wikipedia.org/wiki/Jane_Bianchi
   imslp: https://imslp.org/wiki/Category:Bianchi_Lacy,_Jane
-  image:
+  name_sort: Bianchi Lacy, Jane
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=41297
 1200639:
   path: Bishop,_Henry
   name: Henry Bishop
@@ -195,6 +220,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Henry_Bishop_(composer)
   imslp: https://imslp.org/wiki/Category:Bishop,_Henry_Rowley
   image: https://upload.wikimedia.org/wikipedia/commons/9/9f/Sir_Henry_Rowley_Bishop_by_Isaac_Pocock.jpg
+  name_sort: Bishop, Henry
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3438
 56158:
   path: Bizet,_Georges
   name: Georges Bizet
@@ -209,6 +236,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Georges_Bizet
   imslp: https://imslp.org/wiki/Category:Bizet,_Georges
   image: https://upload.wikimedia.org/wikipedia/commons/9/96/Georges_bizet.jpg
+  name_sort: Bizet, Georges
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3441
 467452:
   path: Bonis,_Mel
   name: Mélanie Bonis
@@ -223,6 +252,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Mélanie_Bonis
   imslp: https://imslp.org/wiki/Category:Bonis,_Mel
   image: https://upload.wikimedia.org/wikipedia/commons/0/07/Mel_Bonis_1.jpg
+  name_sort: Bonis, Mel
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=7198
 230412:
   path: Boulanger,_Lili
   name: Lili Boulanger
@@ -237,6 +268,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Lili_Boulanger
   imslp: https://imslp.org/wiki/Category:Boulanger,_Lili
   image: https://upload.wikimedia.org/wikipedia/commons/d/da/Lili_Boulanger_1.jpg
+  name_sort: Boulanger, Lili
+  musescore_singles_id: 5106889
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3516
 7527034:
   path: Boulton,_Harold
   name: Sir Harold Boulton, 2nd Baronet
@@ -250,7 +284,8 @@
   wikidata: Q7527034
   wikipedia: https://en.wikipedia.org/wiki/Harold_Boulton
   imslp: https://imslp.org/wiki/Category:Boulton,_Harold
-  image:
+  name_sort: Boulton, Harold
+  musescore_singles_id: 5105780
 7294:
   path: Brahms,_Johannes
   name: Johannes Brahms
@@ -265,6 +300,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Johannes_Brahms
   imslp: https://imslp.org/wiki/Category:Brahms,_Johannes
   image: https://upload.wikimedia.org/wikipedia/commons/1/15/JohannesBrahms.jpg
+  name_sort: Brahms, Johannes
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3535
 366636:
   path: Bridge,_Frank
   name: Frank Bridge
@@ -278,7 +315,8 @@
   wikidata: Q366636
   wikipedia: https://en.wikipedia.org/wiki/Frank_Bridge
   imslp: https://imslp.org/wiki/Category:Bridge,_Frank
-  image:
+  name_sort: Bridge, Frank
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3562
 5497415:
   path: Bridge,_Frederick
   name: Frederick Bridge
@@ -292,7 +330,8 @@
   wikidata: Q5497415
   wikipedia: https://en.wikipedia.org/wiki/Frederick_Bridge
   imslp: https://imslp.org/wiki/Category:Bridge,_Frederick
-  image:
+  name_sort: Bridge, Frederick
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3563
 4820896:
   path: Browne,_Augusta
   name: Augusta Browne
@@ -307,6 +346,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Augusta_Browne
   imslp: https://imslp.org/wiki/Category:Browne,_Augusta
   image: https://upload.wikimedia.org/wikipedia/commons/4/45/Numa_Blanc_&_Cie._Lady_Augusta_Browne._1860s_(mw116799)_(cropped).jpg
+  name_sort: Browne, Augusta
+  musescore_singles_id: 5107411
 1586825:
   path: Burleigh,_Harry_Thacker
   name: Harry T. Burleigh
@@ -321,6 +362,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Harry_Burleigh
   imslp: https://imslp.org/wiki/Category:Burleigh,_Harry_Thacker
   image: https://upload.wikimedia.org/wikipedia/commons/9/96/Maud_Cuney_Hare-Harry_T_Burleigh_328.jpg
+  name_sort: Burleigh, Harry Thacker
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3619
 774863:
   path: Butterworth,_George
   name: George Butterworth
@@ -334,12 +377,14 @@
   wikidata: Q774863
   wikipedia: https://en.wikipedia.org/wiki/George_Butterworth
   imslp: https://imslp.org/wiki/Category:Butterworth,_George
-  image:
+  name_sort: Butterworth, George
+  musescore_singles_id: 5103552
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3634
 1606590:
   path: Carey,_Henry
   name: Henry Carey
   gender: Male
-  born:
+  born: 1687
   died: 1743
   desc: English poet, dramatist and composer
   sets: 1
@@ -348,7 +393,8 @@
   wikidata: Q1606590
   wikipedia: https://en.wikipedia.org/wiki/Henry_Carey_(writer)
   imslp: https://imslp.org/wiki/Category:Carey,_Henry
-  image:
+  name_sort: Carey, Henry
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=7160
 1699111:
   path: Carpenter,_John_Alden
   name: John Alden Carpenter
@@ -362,7 +408,9 @@
   wikidata: Q1699111
   wikipedia: https://en.wikipedia.org/wiki/John_Alden_Carpenter
   imslp: https://imslp.org/wiki/Category:Carpenter,_John_Alden
-  image:
+  name_sort: Carpenter, John Alden
+  musescore_singles_id: 14311520
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3677
 2603318:
   path: Cellier,_Alfred
   name: Alfred Cellier
@@ -377,6 +425,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Alfred_Cellier
   imslp: https://imslp.org/wiki/Category:Cellier,_Alfred
   image: https://upload.wikimedia.org/wikipedia/commons/5/57/A_Cellier,_H_J_Leslie,_B_C_Stephenson.jpg
+  name_sort: Cellier, Alfred
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=14770
 313374:
   path: Chabrier,_Emmanuel
   name: Emmanuel Chabrier
@@ -391,6 +441,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Emmanuel_Chabrier
   imslp: https://imslp.org/wiki/Category:Chabrier,_Emmanuel
   image: https://upload.wikimedia.org/wikipedia/commons/c/ce/Emmanuel_Chabrier.jpg
+  name_sort: Chabrier, Emmanuel
+  musescore_singles_id: 5106319
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3700
 236438:
   path: Chaminade,_Cécile
   name: Cécile Chaminade
@@ -405,6 +458,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Cécile_Chaminade
   imslp: https://imslp.org/wiki/Category:Chaminade,_Cécile
   image: https://upload.wikimedia.org/wikipedia/commons/a/ae/Cecile_chaminade.jpg
+  name_sort: Chaminade, Cécile
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3705
 312368:
   path: Chausson,_Ernest
   name: Ernest Chausson
@@ -419,6 +474,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Ernest_Chausson
   imslp: https://imslp.org/wiki/Category:Chausson,_Ernest
   image: https://upload.wikimedia.org/wikipedia/commons/1/11/Ernest_Chausson.jpg
+  name_sort: Chausson, Ernest
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3710
 1268:
   path: Chopin,_Frédéric
   name: Frédéric Chopin
@@ -432,7 +489,9 @@
   wikidata: Q1268
   wikipedia: https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin
   imslp: https://imslp.org/wiki/Category:Chopin,_Frédéric
-  image:
+  name_sort: Chopin, Frédéric
+  musescore_singles_id: 14162129
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3719
 268979:
   path: Colbran,_Isabella
   name: Isabella Colbran
@@ -446,7 +505,8 @@
   wikidata: Q268979
   wikipedia: https://en.wikipedia.org/wiki/Isabella_Colbran
   imslp: https://imslp.org/wiki/Category:Colbran,_Isabella
-  image:
+  name_sort: Colbran, Isabella
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=33514
 739229:
   path: Coleridge-Taylor,_Samuel
   name: Samuel Coleridge-Taylor
@@ -461,6 +521,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Samuel_Coleridge-Taylor
   imslp: https://imslp.org/wiki/Category:Coleridge-Taylor,_Samuel
   image: https://upload.wikimedia.org/wikipedia/commons/b/b6/Samuel_Coleridge-Taylor.jpg
+  name_sort: Coleridge-Taylor, Samuel
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3748
 706644:
   path: Corder,_Frederick
   name: Frederick Corder
@@ -475,6 +537,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Frederick_Corder
   imslp: https://imslp.org/wiki/Category:Corder,_Frederick
   image: https://upload.wikimedia.org/wikipedia/commons/f/f9/Frederick_Corder_001.jpg
+  name_sort: Corder, Frederick
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=8124
 57257:
   path: Cornelius,_Peter
   name: Peter Cornelius
@@ -489,6 +553,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Peter_Cornelius
   imslp: https://imslp.org/wiki/Category:Cornelius,_Peter
   image: https://upload.wikimedia.org/wikipedia/commons/3/34/Peter_cornelius.jpg
+  name_sort: Cornelius, Peter
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=585
 1452734:
   path: Cowen,_Frederic_Hymen
   name: Frederic Hymen Cowen
@@ -503,6 +569,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Frederic_Hymen_Cowen
   imslp: https://imslp.org/wiki/Category:Cowen,_Frederic_Hymen
   image: https://upload.wikimedia.org/wikipedia/commons/5/5a/FredericCowen.png
+  name_sort: Cowen, Frederic Hymen
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3779
 1685459:
   path: Cras,_Jean
   name: Jean Cras
@@ -516,7 +584,9 @@
   wikidata: Q1685459
   wikipedia: https://en.wikipedia.org/wiki/Jean_Cras
   imslp: https://imslp.org/wiki/Category:Cras,_Jean
-  image:
+  name_sort: Cras, Jean
+  musescore_singles_id: 13645345
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3783
 1236164:
   path: Croft,_William
   name: William Croft
@@ -530,7 +600,8 @@
   wikidata: Q1236164
   wikipedia: https://en.wikipedia.org/wiki/William_Croft
   imslp: https://imslp.org/wiki/Category:Croft,_William
-  image:
+  name_sort: Croft, William
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3790
 3131948:
   path: Davies,_Walford
   name: Walford Davies
@@ -545,6 +616,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Walford_Davies
   imslp: https://imslp.org/wiki/Category:Davies,_Henry_Walford
   image: https://upload.wikimedia.org/wikipedia/commons/0/0d/Walford_Davies_001.jpg
+  name_sort: Davies, Walford
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3828
 4700:
   path: Debussy,_Claude
   name: Claude Debussy
@@ -559,6 +632,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Claude_Debussy
   imslp: https://imslp.org/wiki/Category:Debussy,_Claude
   image: https://upload.wikimedia.org/wikipedia/commons/f/f9/Claude_Debussy_ca_1908,_foto_av_Félix_Nadar.jpg
+  name_sort: Debussy, Claude
+  musescore_singles_id: 13838981
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=658
 312698:
   path: Delius,_Frederick
   name: Frederick Delius
@@ -573,6 +649,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Frederick_Delius
   imslp: https://imslp.org/wiki/Category:Delius,_Frederick
   image: https://upload.wikimedia.org/wikipedia/commons/3/37/Frederich_Delius_portrait_(5427720404)_(cropped).jpg
+  name_sort: Delius, Frederick
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=669
 5364812:
   path: Dickson,_Ellen
   name: Ellen Dickson
@@ -586,7 +664,8 @@
   wikidata: Q5364812
   wikipedia: https://en.wikipedia.org/wiki/Ellen_Dickson
   imslp: https://imslp.org/wiki/Category:Dickson,_Ellen
-  image:
+  name_sort: Dickson, Ellen
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=11910
 7606430:
   path: Donaudy,_Stefano
   name: Stefano Donaudy
@@ -600,7 +679,9 @@
   wikidata: Q7606430
   wikipedia: https://en.wikipedia.org/wiki/Stefano_Donaudy
   imslp: https://imslp.org/wiki/Category:Donaudy,_Stefano
-  image:
+  name_sort: Donaudy, Stefano
+  musescore_singles_id: 13788439
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3895
 3372712:
   path: Duchambge,_Pauline
   name: Pauline Duchambge
@@ -615,6 +696,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Pauline_Duchambge
   imslp: https://imslp.org/wiki/Category:Duchambge,_Pauline
   image: https://upload.wikimedia.org/wikipedia/commons/4/46/Robert_Lefevre_12.jpg
+  name_sort: Duchambge, Pauline
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3918
 7298:
   path: Dvořák,_Antonín
   name: Antonín Dvořák
@@ -628,7 +711,9 @@
   wikidata: Q7298
   wikipedia: https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k
   imslp: https://imslp.org/wiki/Category:Dvořák,_Antonín
-  image:
+  name_sort: Dvořák, Antonín
+  musescore_singles_id: 13920539
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3933
 179631:
   path: Elgar,_Edward
   name: Edward Elgar
@@ -643,6 +728,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Edward_Elgar
   imslp: https://imslp.org/wiki/Category:Elgar,_Edward
   image: https://upload.wikimedia.org/wikipedia/commons/c/ce/Edward_Elgar.jpg
+  name_sort: Elgar, Edward
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=3963
 17626542:
   path: Faisst,_Clara_Mathilda
   name: Clara Mathilda Faisst
@@ -656,7 +743,8 @@
   wikidata: Q17626542
   wikipedia: https://en.wikipedia.org/wiki/Clara_Mathilda_Faisst
   imslp: https://imslp.org/wiki/Category:Faisst,_Clara
-  image:
+  name_sort: Faisst, Clara Mathilda
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=15987
 5416317:
   path: Faltis,_Evelyn
   name: Evelyn Faltis
@@ -670,7 +758,8 @@
   wikidata: Q5416317
   wikipedia: https://en.wikipedia.org/wiki/Evelyn_Faltis
   imslp: https://imslp.org/wiki/Category:Faltis,_Evelyn
-  image:
+  name_sort: Faltis, Evelyn
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=38383
 442198:
   path: Farrenc,_Louise
   name: Louise Farrenc
@@ -685,6 +774,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Louise_Farrenc
   imslp: https://imslp.org/wiki/Category:Farrenc,_Louise
   image: https://upload.wikimedia.org/wikipedia/commons/f/f5/Louise_Farrenc.jpg
+  name_sort: Farrenc, Louise
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=16721
 104919:
   path: Fauré,_Gabriel
   name: Gabriel Fauré
@@ -699,6 +790,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Gabriel_Fauré
   imslp: https://imslp.org/wiki/Category:Fauré,_Gabriel
   image: https://upload.wikimedia.org/wikipedia/commons/9/91/FauréPirou1905.jpg
+  name_sort: Fauré, Gabriel
+  musescore_singles_id: 13892684
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=4004
 5516070:
   path: Ferrari,_Gabrielle
   name: Gabrielle Ferrari
@@ -713,6 +807,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Gabrielle_Ferrari
   imslp: https://imslp.org/wiki/Category:Ferrari,_Gabrielle
   image: https://upload.wikimedia.org/wikipedia/commons/1/17/Gabrielle_Ferrari.jpg
+  name_sort: Ferrari, Gabrielle
+  musescore_singles_id: 5103544
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=15188
 15407385:
   path: Flégier,_Ange
   name: Ange Flégier
@@ -726,7 +823,9 @@
   wikidata: Q15407385
   wikipedia: https://fr.wikipedia.org/wiki/Ange_Fl%C3%A9gier
   imslp: https://imslp.org/wiki/Category:Flégier,_Ange
-  image:
+  name_sort: Flégier, Ange
+  musescore_singles_id: 13838993
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=7842
 561967:
   path: Franz,_Robert
   name: Robert Franz
@@ -741,6 +840,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Robert_Franz
   imslp: https://imslp.org/wiki/Category:Franz,_Robert
   image: https://upload.wikimedia.org/wikipedia/commons/b/b6/Robert_Franz.jpg
+  name_sort: Franz, Robert
+  musescore_singles_id: 5107921
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=4091
 4492825:
   path: Freer,_Eleanor_Everest
   name: Eleanor Everest Freer
@@ -755,6 +857,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Eleanor_Everest_Freer
   imslp: https://imslp.org/wiki/Category:Freer,_Eleanor_Everest
   image: https://upload.wikimedia.org/wikipedia/commons/d/d8/Eleanor_Everest_Freer_1.jpg
+  name_sort: Freer, Eleanor Everest
+  musescore_singles_id: 5106888
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=6519
 7934272:
   path: Gabriel,_Virginia
   name: Virginia Gabriel
@@ -769,6 +874,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Virginia_Gabriel
   imslp: https://imslp.org/wiki/Category:Gabriel,_Virginia
   image: https://upload.wikimedia.org/wikipedia/commons/a/a3/Virginia_Gabriel.jpg
+  name_sort: Gabriel, Virginia
+  musescore_singles_id: 5107057
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=4119
 3490938:
   path: Gail,_Sophie
   name: Sophie Gail
@@ -783,6 +891,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Sophie_Gail
   imslp: https://imslp.org/wiki/Category:Gail,_Sophie
   image: https://upload.wikimedia.org/wikipedia/commons/5/5a/Sophie_Gail_d'après_Eugène_Isabey.jpg
+  name_sort: Gail, Sophie
+  musescore_singles_id: 5107059
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=30822
 2442794:
   path: Gambarini,_Elisabetta_de
   name: Elisabetta de Gambarini
@@ -797,6 +908,7 @@
   wikipedia: https://en.wikipedia.org/wiki/Elisabetta_de_Gambarini
   imslp: https://imslp.org/wiki/Category:Gambarini,_Elisabetta_de
   image: https://upload.wikimedia.org/wikipedia/commons/e/e1/Portrait_of_Elizabetta_de_Gambarini,_print,_frontispiece_(cropped).jpg
+  name_sort: Gambarini, Elisabetta de
 2355124:
   path: German,_Edward
   name: Edward German
@@ -811,6 +923,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Edward_German
   imslp: https://imslp.org/wiki/Category:German,_Edward
   image: https://upload.wikimedia.org/wikipedia/commons/2/2c/Edwardgerman.jpg
+  name_sort: German, Edward
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=4163
 465902:
   path: Gonzaga,_Chiquinha
   name: Chiquinha Gonzaga
@@ -825,6 +939,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Chiquinha_Gonzaga
   imslp: https://imslp.org/wiki/Category:Gonzaga,_Chiquinha
   image: https://upload.wikimedia.org/wikipedia/commons/8/80/Chiquinha_6a.jpg
+  name_sort: Gonzaga, Chiquinha
+  musescore_singles_id: 5107147
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=37654
 4799799:
   path: Goodhart,_Arthur_Murray
   name: Arthur Murray Goodhart
@@ -838,7 +955,8 @@
   wikidata: Q4799799
   wikipedia: https://en.wikipedia.org/wiki/Arthur_Murray_Goodhart
   imslp: https://imslp.org/wiki/Category:Goodhart,_Arthur_Murray
-  image:
+  name_sort: Goodhart, Arthur Murray
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=4225
 180278:
   path: Gounod,_Charles
   name: Charles Gounod
@@ -853,6 +971,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Charles_Gounod
   imslp: https://imslp.org/wiki/Category:Gounod,_Charles
   image: https://upload.wikimedia.org/wikipedia/commons/e/e4/Charles_Gounod_(1890)_by_Nadar.jpg
+  name_sort: Gounod, Charles
+  musescore_singles_id: 13936751
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=1028
 2980557:
   path: Grandval,_Clémence_de
   name: Clémence de Grandval
@@ -867,20 +988,24 @@
   wikipedia: https://en.wikipedia.org/wiki/Clémence_de_Grandval
   imslp: https://imslp.org/wiki/Category:Grandval,_Clémence_de
   image: https://upload.wikimedia.org/wikipedia/commons/0/00/Mme_de_Grandval.png
+  name_sort: Grandval, Clémence de
+  musescore_singles_id: 5104018
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=26399
 105376516:
   path: Gray,_Louisa
   name: Louisa Gray
   gender: Female
-  born:
+  born: 1830
   died: 1911
   desc: Composer of songs
   sets: 1
   scores: 7
   link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Gray,+Louisa
   wikidata: Q105376516
-  wikipedia:
   imslp: https://imslp.org/wiki/Category:Gray,_Louisa
-  image:
+  name_sort: Gray, Louisa
+  musescore_singles_id: 5105983
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=15731
 1472118:
   path: Greger,_Luise
   name: Luise Greger
@@ -895,6 +1020,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Luise_Greger
   imslp: https://imslp.org/wiki/Category:Greger,_Luise
   image: https://upload.wikimedia.org/wikipedia/commons/e/ef/Luise_Greger.jpg
+  name_sort: Greger, Luise
+  musescore_singles_id: 5100086
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=9977
 6152538:
   path: Guest,_Jane_Mary
   name: Jane Mary Guest
@@ -908,7 +1036,8 @@
   wikidata: Q6152538
   wikipedia: https://en.wikipedia.org/wiki/Jane_Mary_Guest
   imslp: https://imslp.org/wiki/Category:Guest,_Jane_Mary
-  image:
+  name_sort: Guest, Jane Mary
+  musescore_singles_id: 5097140
 323048:
   path: Gurney,_Ivor
   name: Ivor Gurney
@@ -922,7 +1051,9 @@
   wikidata: Q323048
   wikipedia: https://en.wikipedia.org/wiki/Ivor_Gurney
   imslp: https://imslp.org/wiki/Category:Gurney,_Ivor
-  image:
+  name_sort: Gurney, Ivor
+  musescore_singles_id: 5103526
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=1090
 432938:
   path: Hahn,_Reynaldo
   name: Reynaldo Hahn
@@ -936,7 +1067,9 @@
   wikidata: Q432938
   wikipedia: https://en.wikipedia.org/wiki/Reynaldo_Hahn
   imslp: https://imslp.org/wiki/Category:Hahn,_Reynaldo
-  image:
+  name_sort: Hahn, Reynaldo
+  musescore_singles_id: 14210948
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=4309
 5622702:
   path: Hardelot,_Guy_d’
   name: Guy d'Hardelot
@@ -951,6 +1084,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Guy_d'Hardelot
   imslp: https://imslp.org/wiki/Category:Hardelot,_Guy_d'
   image: https://upload.wikimedia.org/wikipedia/commons/f/fe/Guy_d-Hardelot.jpg
+  name_sort: Hardelot, Guy d’
+  musescore_singles_id: 5107151
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=4334
 7349:
   path: Haydn,_Joseph
   name: Joseph Haydn
@@ -965,6 +1101,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Joseph_Haydn
   imslp: https://imslp.org/wiki/Category:Haydn,_Joseph
   image: https://upload.wikimedia.org/wikipedia/commons/6/69/Joseph_Haydn,_målning_av_Thomas_Hardy_från_1792.jpg
+  name_sort: Haydn, Joseph
+  musescore_singles_id: 5106890
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=4366
 57286:
   path: Hensel,_Fanny_(Mendelssohn)
   name: Fanny Mendelssohn
@@ -979,6 +1118,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Fanny_Mendelssohn
   imslp: https://imslp.org/wiki/Category:Hensel,_Fanny
   image: https://upload.wikimedia.org/wikipedia/commons/0/0b/Fannymendelssohn-improved.jpg
+  name_sort: Hensel, Fanny
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=5037
 1398729:
   path: Hodges,_Faustina_Hasse
   name: Faustina Hasse Hodges
@@ -993,6 +1134,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Faustina_Hasse_Hodges
   imslp: https://imslp.org/wiki/Category:Hodges,_Faustina_Hasse
   image: https://upload.wikimedia.org/wikipedia/commons/a/ad/Small_portrait_of_Faustina_Hasse_Hodges.png
+  name_sort: Hodges, Faustina Hasse
+  musescore_singles_id: 5103493
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=12037
 464636:
   path: Holmès,_Augusta_Mary_Anne
   name: Augusta Holmès
@@ -1007,6 +1151,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Augusta_Holmès
   imslp: https://imslp.org/wiki/Category:Holmès,_Augusta_Mary_Anne
   image: https://upload.wikimedia.org/wikipedia/commons/4/4c/Augusta_Holmes.jpg
+  name_sort: Holmès, Augusta Mary Anne
+  musescore_singles_id: 5101391
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=1233
 614576:
   path: Hook,_James
   name: James Hook
@@ -1020,7 +1167,8 @@
   wikidata: Q614576
   wikipedia: https://en.wikipedia.org/wiki/James_Hook_(composer)
   imslp: https://imslp.org/wiki/Category:Hook,_James
-  image:
+  name_sort: Hook, James
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=4460
 5702488:
   path: Hopekirk,_Helen
   name: Helen Hopekirk
@@ -1035,6 +1183,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Helen_Hopekirk
   imslp: https://imslp.org/wiki/Category:Hopekirk,_Helen
   image: https://upload.wikimedia.org/wikipedia/commons/0/0f/Hopekirk.jpg
+  name_sort: Hopekirk, Helen
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=6735
 4749174:
   path: Horrocks,_Amy_Elsie
   name: Amy Elsie Horrocks
@@ -1048,7 +1198,9 @@
   wikidata: Q4749174
   wikipedia: https://en.wikipedia.org/wiki/Amy_Elsie_Horrocks
   imslp: https://imslp.org/wiki/Category:Horrocks,_Amy_Elsie
-  image:
+  name_sort: Horrocks, Amy Elsie
+  musescore_singles_id: 5107154
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=12189
 309648:
   path: Ives,_Charles
   name: Charles Ives
@@ -1062,7 +1214,9 @@
   wikidata: Q309648
   wikipedia: https://en.wikipedia.org/wiki/Charles_Ives
   imslp: https://imslp.org/wiki/Category:Ives,_Charles
-  image:
+  name_sort: Ives, Charles
+  musescore_singles_id: 13921853
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=1307
 6117834:
   path: Jackson,_William
   name: William Jackson
@@ -1076,7 +1230,8 @@
   wikidata: Q6117834
   wikipedia: https://en.wikipedia.org/wiki/Jackson_of_Exeter
   imslp: https://imslp.org/wiki/Category:Jackson,_William
-  image:
+  name_sort: Jackson, William
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=17450
 5046241:
   path: Jacobs-Bond,_Carrie
   name: Carrie Jacobs-Bond
@@ -1091,6 +1246,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Carrie_Jacobs-Bond
   imslp: https://imslp.org/wiki/Category:Jacobs-Bond,_Carrie
   image: https://upload.wikimedia.org/wikipedia/commons/b/bb/Carrie_Jacobs-Bond,_Who's_who_among_the_women_of_California.jpg
+  name_sort: Jacobs-Bond, Carrie
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=1316
 2706282:
   path: Jaëll,_Marie
   name: Marie Jaëll
@@ -1105,6 +1262,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Marie_Jaëll
   imslp: https://imslp.org/wiki/Category:Jaëll,_Marie
   image: https://upload.wikimedia.org/wikipedia/commons/0/0c/Marie_Jaell-Jeune_femme.jpg
+  name_sort: Jaëll, Marie
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=25346
 191499:
   path: Joplin,_Scott
   name: Scott Joplin
@@ -1119,6 +1278,7 @@
   wikipedia: https://en.wikipedia.org/wiki/Scott_Joplin
   imslp: https://imslp.org/wiki/Category:Joplin,_Scott
   image: https://upload.wikimedia.org/wikipedia/commons/6/6d/Scott_Joplin.jpg
+  name_sort: Joplin, Scott
 165824:
   path: Kinkel,_Johanna
   name: Johanna Kinkel
@@ -1133,6 +1293,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Johanna_Kinkel
   imslp: https://imslp.org/wiki/Category:Kinkel,_Johanna
   image: https://upload.wikimedia.org/wikipedia/commons/8/80/Bildnis_Johanna_Kinkel_1840.jpg
+  name_sort: Kinkel, Johanna
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=4643
 89972:
   path: Kralik,_Mathilde
   name: Mathilde Kralik
@@ -1147,6 +1309,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Mathilde_Kralik
   imslp: https://imslp.org/wiki/Category:Kralik,_Mathilde
   image: https://upload.wikimedia.org/wikipedia/commons/a/a3/Mathilde_Kralik.png
+  name_sort: Kralik, Mathilde
+  musescore_singles_id: 5105987
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=32069
 276246:
   path: Lang,_Josephine
   name: Josephine Lang
@@ -1161,6 +1326,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Josephine_Lang
   imslp: https://imslp.org/wiki/Category:Lang,_Josephine
   image: https://upload.wikimedia.org/wikipedia/commons/3/3d/Josephine_Caroline_Lang.jpg
+  name_sort: Lang, Josephine
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=4770
 467888:
   path: Le_Beau,_Luise_Adolpha
   name: Luise Adolpha Le Beau
@@ -1175,6 +1342,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Luise_Adolpha_Le_Beau
   imslp: https://imslp.org/wiki/Category:Le_Beau,_Luise_Adolpha
   image: https://upload.wikimedia.org/wikipedia/commons/0/0a/Luise_Adolpha_Le_Beau_1872.jpg
+  name_sort: Le Beau, Luise Adolpha
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=4798
 17479334:
   path: Lehmann,_Amelia
   name: Amelia Lehmann
@@ -1189,6 +1358,7 @@
   wikipedia: https://en.wikipedia.org/wiki/Amelia_Lehmann
   imslp: https://imslp.org/wiki/Category:Lehmann,_Amelia
   image: https://upload.wikimedia.org/wikipedia/commons/9/9b/Amelia_Lehmann_by_Rudolf_Lehmann.jpg
+  name_sort: Lehmann, Amelia
 4887488:
   path: Lehmann,_Liza
   name: Liza Lehmann
@@ -1203,6 +1373,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Liza_Lehmann
   imslp: https://imslp.org/wiki/Category:Lehmann,_Liza
   image: https://upload.wikimedia.org/wikipedia/commons/a/ae/Liza_Lehmann_1.jpg
+  name_sort: Lehmann, Liza
+  musescore_singles_id: 5107920
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=4810
 189015:
   path: Leoncavallo,_Ruggero
   name: Ruggero Leoncavallo
@@ -1216,7 +1389,9 @@
   wikidata: Q189015
   wikipedia: https://en.wikipedia.org/wiki/Ruggero_Leoncavallo
   imslp: https://imslp.org/wiki/Category:Leoncavallo,_Ruggero
-  image:
+  name_sort: Leoncavallo, Ruggero
+  musescore_singles_id: 13833983
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=1615
 107288:
   path: Liliuokalani,_Queen_of_the_Hawaiian_Islands
   name: Liliʻuokalani
@@ -1231,6 +1406,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Liliʻuokalani
   imslp: https://imslp.org/wiki/Category:Liliuokalani
   image: https://upload.wikimedia.org/wikipedia/commons/6/64/Liliuokalani,_c._1891.jpg
+  name_sort: Liliuokalani, Queen of the Hawaiian Islands
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=43017
 6761364:
   path: Lindsay,_Maria
   name: Maria Lindsay
@@ -1243,8 +1420,8 @@
   link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Lindsay,+Maria
   wikidata: Q6761364
   wikipedia: https://en.wikipedia.org/wiki/Maria_Lindsay
-  imslp:
-  image:
+  name_sort: Lindsay, Maria
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=11913
 41309:
   path: Liszt,_Franz
   name: Franz Liszt
@@ -1258,7 +1435,9 @@
   wikidata: Q41309
   wikipedia: https://en.wikipedia.org/wiki/Franz_Liszt
   imslp: https://imslp.org/wiki/Category:Liszt,_Franz
-  image:
+  name_sort: Liszt, Franz
+  musescore_singles_id: 13879787
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=4870
 5078774:
   path: Lloyd,_Charles_Harford
   name: Charles Harford Lloyd
@@ -1272,7 +1451,8 @@
   wikidata: Q5078774
   wikipedia: https://en.wikipedia.org/wiki/Charles_Harford_Lloyd
   imslp: https://imslp.org/wiki/Category:Lloyd,_Charles_Harford
-  image:
+  name_sort: Lloyd, Charles Harford
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=8352
 674739:
   path: Mackenzie,_Alexander
   name: Alexander Mackenzie
@@ -1287,6 +1467,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Alexander_Mackenzie_(composer)
   imslp: https://imslp.org/wiki/Category:Mackenzie,_Alexander_Campbell
   image: https://upload.wikimedia.org/wikipedia/commons/8/81/Alexander_mackenzie_by_spy.jpg
+  name_sort: Mackenzie, Alexander
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=6604
 7304:
   path: Mahler,_Gustav
   name: Gustav Mahler
@@ -1301,6 +1483,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Gustav_Mahler
   imslp: https://imslp.org/wiki/Category:Mahler,_Gustav
   image: https://upload.wikimedia.org/wikipedia/commons/b/b7/Gustav-Mahler-Kohut.jpg
+  name_sort: Mahler, Gustav
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=1742
 5460551:
   path: Marshall,_Florence_Ashton
   name: Florence Ashton Marshall
@@ -1314,7 +1498,8 @@
   wikidata: Q5460551
   wikipedia: https://en.wikipedia.org/wiki/Florence_Ashton_Marshall
   imslp: https://imslp.org/wiki/Category:Marshall,_Florence
-  image:
+  name_sort: Marshall, Florence Ashton
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=18475
 5537967:
   path: Martin,_George_Clement
   name: George Clement Martin
@@ -1328,7 +1513,8 @@
   wikidata: Q5537967
   wikipedia: https://en.wikipedia.org/wiki/George_Martin_(organist)
   imslp: https://imslp.org/wiki/Category:Martin,_George_Clement
-  image:
+  name_sort: Martin, George Clement
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=14488
 194436:
   path: Massenet,_Jules
   name: Jules Massenet
@@ -1342,7 +1528,9 @@
   wikidata: Q194436
   wikipedia: https://en.wikipedia.org/wiki/Jules_Massenet
   imslp: https://imslp.org/wiki/Category:Massenet,_Jules
-  image:
+  name_sort: Massenet, Jules
+  musescore_singles_id: 13833914
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=5000
 447851:
   path: Mayer,_Emilie
   name: Emilie Mayer
@@ -1357,6 +1545,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Emilie_Mayer
   imslp: https://imslp.org/wiki/Category:Mayer,_Emilie
   image: https://upload.wikimedia.org/wikipedia/commons/d/d0/Emilie-mayer.jpg
+  name_sort: Mayer, Emilie
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=11092
 46096:
   path: Mendelssohn,_Felix
   name: Felix Mendelssohn
@@ -1371,6 +1561,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Felix_Mendelssohn
   imslp: https://imslp.org/wiki/Category:Mendelssohn,_Felix
   image: https://upload.wikimedia.org/wikipedia/commons/3/38/Felix_Mendelssohn_Bartholdy.jpg
+  name_sort: Mendelssohn, Felix
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=5034
 4766585:
   path: Mounsey_Bartholomew,_Ann
   name: Ann Mounsey
@@ -1383,8 +1575,10 @@
   link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Mounsey+Bartholomew,+Ann
   wikidata: Q4766585
   wikipedia: https://en.wikipedia.org/wiki/Ann_Mounsey
-  imslp:
+  imslp: https://imslp.org/wiki/Category:Mounsey_Bartholomew,_Ann
   image: https://upload.wikimedia.org/wikipedia/commons/9/9c/Ann_S_Mounsey.jpg
+  name_sort: Mounsey Bartholomew, Ann
+  musescore_singles_id: 5103562
 4968368:
   path: Munktell,_Helena
   name: Helena Munktell
@@ -1399,6 +1593,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Helena_Munktell
   imslp: https://imslp.org/wiki/Category:Munktell,_Helena
   image: https://upload.wikimedia.org/wikipedia/commons/0/0a/Helena_Munktell.jpg
+  name_sort: Munktell, Helena
+  musescore_singles_id: 5107056
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=5127
 132682:
   path: Mussorgsky,_Modest
   name: Modest Mussorgsky
@@ -1412,7 +1609,9 @@
   wikidata: Q132682
   wikipedia: https://en.wikipedia.org/wiki/Modest_Mussorgsky
   imslp: https://imslp.org/wiki/Category:Mussorgsky,_Modest
-  image:
+  name_sort: Mussorgsky, Modest
+  musescore_singles_id: 13879799
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=1960
 4989335:
   path: Netzel,_Laura
   name: Laura Netzel
@@ -1427,6 +1626,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Laura_Netzel
   imslp: https://imslp.org/wiki/Category:Netzel,_Laura
   image: https://upload.wikimedia.org/wikipedia/commons/f/f9/Laura_Netzel.jpg
+  name_sort: Netzel, Laura
+  musescore_singles_id: 5106919
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=11347
 3026218:
   path: Obradors,_Fernando
   name: Fernando Obradors
@@ -1440,7 +1642,9 @@
   wikidata: Q3026218
   wikipedia: https://en.wikipedia.org/wiki/Fernando_Obradors
   imslp: https://imslp.org/wiki/Category:Obradors,_Fernando
-  image:
+  name_sort: Obradors, Fernando
+  musescore_singles_id: 13809580
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=5218
 286294:
   path: Paladilhe,_Émile
   name: Émile Paladilhe
@@ -1454,7 +1658,9 @@
   wikidata: Q286294
   wikipedia: https://en.wikipedia.org/wiki/%C3%89mile_Paladilhe
   imslp: https://imslp.org/wiki/Category:Paladilhe,_Émile
-  image:
+  name_sort: Paladilhe, Émile
+  musescore_singles_id: 13865237
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=5265
 293171:
   path: Paradis,_Maria_Theresia_von
   name: Maria Theresia von Paradis
@@ -1469,6 +1675,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Maria_Theresia_von_Paradis
   imslp: https://imslp.org/wiki/Category:Paradis,_Maria_Theresia_von
   image: https://upload.wikimedia.org/wikipedia/commons/0/09/F._Parmantié,_1784_-_Maria_Theresia_Paradis.jpg
+  name_sort: Paradis, Maria Theresia von
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=5282
 1992128:
   path: Parratt,_Walter
   name: Walter Parratt
@@ -1483,6 +1691,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Walter_Parratt
   imslp: https://imslp.org/wiki/Category:Parratt,_Walter
   image: https://upload.wikimedia.org/wikipedia/commons/9/9b/Sir_Walter_Parratt.png
+  name_sort: Parratt, Walter
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=7889
 354250:
   path: Parry,_Hubert
   name: Hubert Parry
@@ -1497,6 +1707,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Hubert_Parry
   imslp: https://imslp.org/wiki/Category:Parry,_Charles_Hubert_Hastings
   image: https://upload.wikimedia.org/wikipedia/commons/d/d2/Hubert_Parry_c1893cr.jpg
+  name_sort: Parry, Hubert
+  musescore_singles_id: 5103579
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=5289
 105407464:
   path: Phillips,_Elizabeth
   name: Elizabeth Phillips
@@ -1508,9 +1721,8 @@
   scores: 1
   link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Phillips,+Elizabeth
   wikidata: Q105407464
-  wikipedia:
   imslp: https://imslp.org/wiki/Category:Phillips,_Elizabeth
-  image:
+  name_sort: Phillips, Elizabeth
 5363347:
   path: Philp,_Elizabeth
   name: Elizabeth Philp
@@ -1525,6 +1737,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Philp
   imslp: https://imslp.org/wiki/Category:Philp,_Elizabeth
   image: https://upload.wikimedia.org/wikipedia/commons/2/2f/Elizabeth_Philp.tif
+  name_sort: Philp, Elizabeth
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=7490
 4107299:
   path: Poldowski
   name: Poldowski
@@ -1539,6 +1753,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Poldowski
   imslp: https://imslp.org/wiki/Category:Poldowski
   image: https://upload.wikimedia.org/wikipedia/commons/c/c6/Poldowski_(Régine_(née_Wieniawski),_Lady_Dean_Paul).jpg
+  name_sort: Poldowski
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=5364
 3264560:
   path: Puget,_Loïsa
   name: Loïsa Puget
@@ -1553,6 +1769,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Loïsa_Puget
   imslp: https://imslp.org/wiki/Category:Puget,_Loïsa
   image: https://upload.wikimedia.org/wikipedia/commons/6/6c/Loïsa_Puget_by_Marie-Alexandre_Alophe.jpg
+  name_sort: Puget, Loïsa
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=8825
 1971524:
   path: Quilter,_Roger
   name: Roger Quilter
@@ -1566,7 +1784,9 @@
   wikidata: Q1971524
   wikipedia: https://en.wikipedia.org/wiki/Roger_Quilter
   imslp: https://imslp.org/wiki/Category:Quilter,_Roger
-  image:
+  name_sort: Quilter, Roger
+  musescore_singles_id: 13803067
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=5414
 6688923:
   path: Reichardt,_Louise
   name: Louise Reichardt
@@ -1580,7 +1800,8 @@
   wikidata: Q6688923
   wikipedia: https://en.wikipedia.org/wiki/Louise_Reichardt
   imslp: https://imslp.org/wiki/Category:Reichardt,_Louise
-  image:
+  name_sort: Reichardt, Louise
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=5469
 323117:
   path: Rootham,_Cyril
   name: Cyril Rootham
@@ -1595,6 +1816,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Cyril_Rootham
   imslp: https://imslp.org/wiki/Category:Rootham,_Cyril_Bradley
   image: https://upload.wikimedia.org/wikipedia/commons/0/01/Cyril_Bradley_Rootham.jpg
+  name_sort: Rootham, Cyril
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=8441
 9726:
   path: Rossini,_Gioachino
   name: Gioachino Rossini
@@ -1608,7 +1831,9 @@
   wikidata: Q9726
   wikipedia: https://en.wikipedia.org/wiki/Gioachino_Rossini
   imslp: https://imslp.org/wiki/Category:Rossini,_Gioachino
-  image:
+  name_sort: Rossini, Gioachino
+  musescore_singles_id: 13910261
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=5555
 187192:
   path: Satie,_Erik
   name: Erik Satie
@@ -1623,6 +1848,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Erik_Satie
   imslp: https://imslp.org/wiki/Category:Satie,_Erik
   image: https://upload.wikimedia.org/wikipedia/commons/7/77/Satie-erik-4ff9d0bde1749.jpg
+  name_sort: Satie, Erik
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=2461
 154770:
   path: Schoenberg,_Arnold
   name: Arnold Schoenberg
@@ -1636,7 +1863,8 @@
   wikidata: Q154770
   wikipedia: https://en.wikipedia.org/wiki/Arnold_Schoenberg
   imslp: https://imslp.org/wiki/Category:Schoenberg,_Arnold
-  image:
+  name_sort: Schoenberg, Arnold
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=2512
 64880:
   path: Schröter,_Corona
   name: Corona Schröter
@@ -1651,6 +1879,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Corona_Schröter
   imslp: https://imslp.org/wiki/Category:Schröter,_Corona
   image: https://upload.wikimedia.org/wikipedia/commons/c/c2/Korona_Schröter.jpg
+  name_sort: Schröter, Corona
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=5673
 7312:
   path: Schubert,_Franz
   name: Franz Schubert
@@ -1665,6 +1895,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Franz_Schubert
   imslp: https://imslp.org/wiki/Category:Schubert,_Franz
   image: https://upload.wikimedia.org/wikipedia/commons/1/18/Franz_Schubert_by_Wilhelm_August_Rieder_1875_larger_version.png
+  name_sort: Schubert, Franz
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=2520
 132232:
   path: Schumann,_Clara
   name: Clara Wieck
@@ -1679,6 +1911,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Clara_Schumann
   imslp: https://imslp.org/wiki/Category:Schumann,_Clara
   image: https://upload.wikimedia.org/wikipedia/commons/e/e7/Franz_Hanfstaengl_-_Clara_Schumann_(1857).jpg
+  name_sort: Schumann, Clara
+  musescore_singles_id: 5106728
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=5684
 7351:
   path: Schumann,_Robert
   name: Robert Schumann
@@ -1693,6 +1928,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Robert_Schumann
   imslp: https://imslp.org/wiki/Category:Schumann,_Robert
   image: https://upload.wikimedia.org/wikipedia/commons/1/12/Robert-schumann.jpg
+  name_sort: Schumann, Robert
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=5685
 3568956:
   path: Shield,_William
   name: William Shield
@@ -1707,6 +1944,9 @@
   wikipedia: https://en.wikipedia.org/wiki/William_Shield
   imslp: https://imslp.org/wiki/Category:Shield,_William
   image: https://upload.wikimedia.org/wikipedia/commons/b/b9/William_Shield_1795.jpg
+  name_sort: Shield, William
+  musescore_singles_id: 5106921
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=5732
 236599:
   path: Smyth,_Ethel
   name: Ethel Smyth
@@ -1721,6 +1961,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Ethel_Smyth
   imslp: https://imslp.org/wiki/Category:Smyth,_Ethel
   image: https://upload.wikimedia.org/wikipedia/commons/6/68/Ethel_Smyth.jpg
+  name_sort: Smyth, Ethel
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=5787
 4800330:
   path: Somervell,_Arthur
   name: Arthur Somervell
@@ -1735,6 +1977,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Arthur_Somervell
   imslp: https://imslp.org/wiki/Category:Somervell,_Arthur
   image: https://upload.wikimedia.org/wikipedia/commons/f/f8/Sir_Arthur_Somervell.jpg
+  name_sort: Somervell, Arthur
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=5799
 1388550:
   path: Stainer,_John
   name: John Stainer
@@ -1748,7 +1992,8 @@
   wikidata: Q1388550
   wikipedia: https://en.wikipedia.org/wiki/John_Stainer
   imslp: https://imslp.org/wiki/Category:Stainer,_John
-  image:
+  name_sort: Stainer, John
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=10229
 368264:
   path: Stanford,_Charles_Villiers
   name: Charles Villiers Stanford
@@ -1763,6 +2008,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Charles_Villiers_Stanford
   imslp: https://imslp.org/wiki/Category:Stanford,_Charles_Villiers
   image: https://upload.wikimedia.org/wikipedia/commons/c/cf/Charles_Villiers_Stanford_c1894bw.jpg
+  name_sort: Stanford, Charles Villiers
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=5824
 13894:
   path: Strauss,_Richard
   name: Richard Strauss
@@ -1777,6 +2024,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Richard_Strauss
   imslp: https://imslp.org/wiki/Category:Strauss,_Richard
   image: https://upload.wikimedia.org/wikipedia/commons/0/08/Postcard-1910_Strauss_Richard.jpg
+  name_sort: Strauss, Richard
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=5869
 212692:
   path: Sullivan,_Arthur
   name: Arthur Sullivan
@@ -1791,6 +2040,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Arthur_Sullivan
   imslp: https://imslp.org/wiki/Category:Sullivan,_Arthur
   image: https://upload.wikimedia.org/wikipedia/commons/5/53/Arthur_Sullivan_1898cr.jpg
+  name_sort: Sullivan, Arthur
+  musescore_singles_id: 5106649
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=5882
 462879:
   path: Tegnér,_Alice
   name: Alice Tegnér
@@ -1805,6 +2057,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Alice_Tegnér
   imslp: https://imslp.org/wiki/Category:Tegnér,_Alice
   image: https://upload.wikimedia.org/wikipedia/commons/4/44/Alice_Tegnér.jpg
+  name_sort: Tegnér, Alice
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=15465
 1487925:
   path: Thys,_Pauline
   name: Pauline-Marie-Elisa Thys
@@ -1818,7 +2072,8 @@
   wikidata: Q1487925
   wikipedia: https://en.wikipedia.org/wiki/Pauline_Thys
   imslp: https://imslp.org/wiki/Category:Thys,_Pauline
-  image:
+  name_sort: Thys, Pauline
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=37299
 469467:
   path: Tosti,_Francesco_Paolo
   name: Francesco Paolo Tosti
@@ -1832,7 +2087,9 @@
   wikidata: Q469467
   wikipedia: https://en.wikipedia.org/wiki/Paolo_Tosti
   imslp: https://imslp.org/wiki/Category:Tosti,_Francesco_Paolo
-  image:
+  name_sort: Tosti, Francesco Paolo
+  musescore_singles_id: 13728925
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=5990
 318077:
   path: Turina,_Joaquín
   name: Joaquín Turina
@@ -1846,7 +2103,9 @@
   wikidata: Q318077
   wikipedia: https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Turina
   imslp: https://imslp.org/wiki/Category:Turina,_Joaquín
-  image:
+  name_sort: Turina, Joaquín
+  musescore_singles_id: 14142938
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=6016
 7317:
   path: Verdi,_Giuseppe
   name: Giuseppe Verdi
@@ -1860,7 +2119,9 @@
   wikidata: Q7317
   wikipedia: https://en.wikipedia.org/wiki/Giuseppe_Verdi
   imslp: https://imslp.org/wiki/Category:Verdi,_Giuseppe
-  image:
+  name_sort: Verdi, Giuseppe
+  musescore_singles_id: 13776877
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=6061
 122998:
   path: Viardot,_Pauline
   name: Pauline Viardot
@@ -1875,6 +2136,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Pauline_Viardot
   imslp: https://imslp.org/wiki/Category:Viardot,_Pauline
   image: https://upload.wikimedia.org/wikipedia/commons/6/64/Pauline_Viardot-Garcia_3.jpg
+  name_sort: Viardot, Pauline
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=6069
 1511:
   path: Wagner,_Richard
   name: Richard Wagner
@@ -1889,6 +2152,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Richard_Wagner
   imslp: https://imslp.org/wiki/Category:Wagner,_Richard
   image: https://upload.wikimedia.org/wikipedia/commons/9/9d/RichardWagner.jpg
+  name_sort: Wagner, Richard
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=2951
 934413:
   path: Warlock,_Peter
   name: Peter Warlock
@@ -1902,7 +2167,8 @@
   wikidata: Q934413
   wikipedia: https://en.wikipedia.org/wiki/Peter_Warlock
   imslp: https://imslp.org/wiki/Category:Warlock,_Peter
-  image:
+  name_sort: Warlock, Peter
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=6123
 190933:
   path: Webern,_Anton
   name: Anton Webern
@@ -1917,6 +2183,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Anton_Webern
   imslp: https://imslp.org/wiki/Category:Webern,_Anton
   image: https://upload.wikimedia.org/wikipedia/commons/1/13/Anton_Webern_(1883–1945)_1927_©_Georg_Fayer_(1891–1950)_OeNB_10450290.png
+  name_sort: Webern, Anton
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=2979
 87276899:
   path: White,_Harold
   name: Harold White
@@ -1928,9 +2196,10 @@
   scores: 1
   link: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=White,+Harold
   wikidata: Q87276899
-  wikipedia:
   imslp: https://imslp.org/wiki/Category:White,_Harold
-  image:
+  name_sort: White, Harold
+  musescore_singles_id: 14196809
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=14479
 6006797:
   path: White,_Maude_Valérie
   name: Maude Valerie White
@@ -1945,6 +2214,8 @@
   wikipedia: https://en.wikipedia.org/wiki/Maude_Valérie_White
   imslp: https://imslp.org/wiki/Category:White,_Maude_Valérie
   image: https://upload.wikimedia.org/wikipedia/commons/a/a6/MaudeValerieWhite1901.jpg
+  name_sort: White, Maude Valérie
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=6178
 215747:
   path: Wolf,_Hugo
   name: Hugo Wolf
@@ -1959,6 +2230,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Hugo_Wolf
   imslp: https://imslp.org/wiki/Category:Wolf,_Hugo
   image: https://upload.wikimedia.org/wikipedia/commons/4/44/Postcard-1910_Hugo_Wolf.jpg
+  name_sort: Wolf, Hugo
+  musescore_singles_id: 5107057
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=6218
 246913:
   path: Wood,_Charles
   name: Charles Wood
@@ -1973,6 +2247,9 @@
   wikipedia: https://en.wikipedia.org/wiki/Charles_Wood_(composer)
   imslp: https://imslp.org/wiki/Category:Wood,_Charles
   image: https://upload.wikimedia.org/wikipedia/commons/c/c5/Charles_Wood_(composer).jpg
+  name_sort: Wood, Charles
+  musescore_singles_id: 5107059
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=6229
 78524:
   path: Zemlinsky,_Alexander_von
   name: Alexander von Zemlinsky
@@ -1986,7 +2263,9 @@
   wikidata: Q78524
   wikipedia: https://en.wikipedia.org/wiki/Alexander_von_Zemlinsky
   imslp: https://imslp.org/wiki/Category:Zemlinsky,_Alexander_von
-  image:
+  name_sort: Zemlinsky, Alexander von
+  musescore_singles_id: 13860629
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=6269
 98799:
   path: Zumsteeg,_Emilie
   name: Emilie Zumsteeg
@@ -2001,3 +2280,6 @@
   wikipedia: https://en.wikipedia.org/wiki/Emilie_Zumsteeg
   imslp: https://imslp.org/wiki/Category:Zumsteeg,_Emilie
   image: https://upload.wikimedia.org/wikipedia/commons/d/d1/Emilie_Zumsteeg,_Porträt.jpg
+  name_sort: Zumsteeg, Emilie
+  musescore_singles_id: 5107058
+  liedernet_link: https://www.lieder.net/lieder/get_settings.html?ComposerId=6289
