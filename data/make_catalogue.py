@@ -194,6 +194,10 @@ def main():
 
     rows = []  # (sort_path, composer, set_name, song, lyricist, language, links_html)
     for key, s in scores.items():
+        if not isinstance(key, int):
+            raise ValueError(f"Invalid score key {key}: not an int.")
+        if key < 0:
+            raise ValueError(f"Invalid score key {key}: negative number.")
         path = s.get("path")
         if not path:
             raise ValueError(f"No path for {key}")
