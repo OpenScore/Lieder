@@ -57,7 +57,11 @@ def process(data: dict):
 
     for item_id, entry in data.items():
         if not isinstance(entry, dict):
-            continue
+            raise ValueError(f"Invalid entry for item id: {item_id}. Not a dict")
+        if not isinstance(item_id, int):
+            raise ValueError(f"Invalid score item id: {item_id} not an int")
+        if item_id < 0:
+            raise ValueError(f"Invalid score item id: {item_id} negative")
 
         liedernet_link = entry.get("liedernet")
         if isinstance(liedernet_link, str) and liedernet_link.startswith(LIEDERNET_BASE):
