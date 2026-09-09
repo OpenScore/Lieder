@@ -2334,10 +2334,10 @@
   lyricist_url: https://imslp.org/wiki/Category:Pradels,_Octave
   lyricist: Octave Pradels
   language: FR
-  liedernet: get_text.html?TextId=12976
   audio:
   - audio_id: vonOtterForsberg2001
     audio: https://www.youtube.com/watch?v=tk1hEsGGiQg
+  liedernet: get_text.html?TextId=12976
 6262544:
   path: Chaminade,_Cécile/_/Avril_s’éveille
   imslp: '#154242'
@@ -2376,10 +2376,10 @@
   lyricist_url: https://imslp.org/wiki/Category:Wailly,_Am%C3%A9lie_de
   lyricist: Amélie de Wailly
   language: FR
-  liedernet: get_text.html?TextId=17851
   audio:
   - audio_id: vonOtterForsberg2001
     audio: https://www.youtube.com/watch?v=bIlOkaaTOJ8
+  liedernet: get_text.html?TextId=17851
 6415075:
   path: Chaminade,_Cécile/_/Chanson_de_neige
   imslp: '#154245'
@@ -2464,10 +2464,10 @@
   lyricist_url: https://imslp.org/wiki/Category:Maquet,_Th%C3%A9r%C3%A8se
   lyricist: Thérèse Maquet
   language: FR
-  liedernet: get_text.html?TextId=10761
   audio:
   - audio_id: vonOtterForsberg2001
     audio: https://www.youtube.com/watch?v=vi5KdFRW5ks
+  liedernet: get_text.html?TextId=10761
 5987667:
   path: Chaminade,_Cécile/_/L’été
   imslp: '#140920'
@@ -3154,7 +3154,7 @@
   language: FR
   liedernet: get_text.html?TextId=2936&SettingId=3238
 8830536:
-  path: Debussy,_Claude/3_Chansons_de_France/1_Rondel:_Le_temps_a_laissé_son_manteau
+  path: Debussy,_Claude/3_Chansons_de_France/01_Rondel_Le_temps_a_laissé_son_manteau
   imslp: '#9101'
   set_id: 5637153
   number: 1
@@ -3162,7 +3162,7 @@
   language: FR
   liedernet: get_text.html?TextId=17806&SettingId=19845
 8832018:
-  path: Debussy,_Claude/3_Chansons_de_France/2_La_Grotte:_Auprès_de_cette_grotte_sombre
+  path: Debussy,_Claude/3_Chansons_de_France/02_La_Grotte_Auprès_de_cette_grotte_sombre
   imslp: '#9101'
   set_id: 5637153
   number: 2
@@ -3170,7 +3170,7 @@
   language: FR
   liedernet: get_text.html?TextId=10211&SettingId=12039
 8835063:
-  path: Debussy,_Claude/3_Chansons_de_France/3_Rondel:_Pour_ce_que_Plaisance_est_morte
+  path: Debussy,_Claude/3_Chansons_de_France/03_Rondel_Pour_ce_que_Plaisance_est_morte
   imslp: '#9101'
   set_id: 5637153
   number: 3
@@ -3640,7 +3640,7 @@
   language: DE
   liedernet: get_text.html?TextId=11691
 6258870:
-  path: Faisst,_Clara_Mathilda/4_Lieder,_Op._11/1_Wanderlied
+  path: Faisst,_Clara_Mathilda/4_Lieder,_Op.11/01_Wanderlied
   imslp: '#622102'
   set_id: 5104223
   number: 1
@@ -3648,7 +3648,7 @@
   language: DE
   liedernet: get_text.html?TextId=29440
 6258930:
-  path: Faisst,_Clara_Mathilda/4_Lieder,_Op._11/2_Riport_a_me_(Piemontesisches_Lied)
+  path: Faisst,_Clara_Mathilda/4_Lieder,_Op.11/02_Riport_a_me_(Piemontesisches_Lied)
   imslp: '#622103'
   set_id: 5104223
   number: 2
@@ -3656,7 +3656,7 @@
   language: DE
   liedernet: get_text.html?TextId=29442&SettingId=97648
 6259106:
-  path: Faisst,_Clara_Mathilda/4_Lieder,_Op._11/3_Die_innere_Stadt
+  path: Faisst,_Clara_Mathilda/4_Lieder,_Op.11/03_Die_innere_Stadt
   imslp: '#622104'
   set_id: 5104223
   number: 3
@@ -3664,7 +3664,7 @@
   language: DE
   liedernet: get_text.html?TextId=79453&SettingId=97680
 6259403:
-  path: Faisst,_Clara_Mathilda/4_Lieder,_Op._11/4_Dulde,_gedulde_dich_fein
+  path: Faisst,_Clara_Mathilda/4_Lieder,_Op.11/04_Dulde,_gedulde_dich_fein
   imslp: '#622105'
   set_id: 5104223
   lyricist_url: https://imslp.org/wiki/Category:Heyse,_Paul
@@ -5170,10 +5170,10 @@
   number: 1
   lyricist: Johann Gustav Droysen
   language: DE
-  liedernet: get_text.html?TextId=5039
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=e0eNCPgLW_Y
+  liedernet: get_text.html?TextId=5039
 6013106:
   path: Hensel,_Fanny_(Mendelssohn)/3_Lieder/2_Verlust
   imslp: '#29138'
@@ -5182,10 +5182,10 @@
   number: 2
   lyricist: Heinrich Heine
   language: DE
-  liedernet: get_text.html?TextId=7805&SettingId=9352
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=x0HM4E-FCwo
+  liedernet: get_text.html?TextId=7805&SettingId=9352
 6013171:
   path: Hensel,_Fanny_(Mendelssohn)/3_Lieder/3_Die_Nonne
   imslp: '#29138'
@@ -5194,10 +5194,10 @@
   number: 3
   lyricist: Ludwig Uhland
   language: DE
-  liedernet: get_text.html?TextId=16070&SettingId=17985
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=AJju_HFV2IE
+  liedernet: get_text.html?TextId=16070&SettingId=17985
 6022316:
   path: Hensel,_Fanny_(Mendelssohn)/3_Songs/1_Das_Heimweh
   imslp: '#28641'
@@ -5205,10 +5205,10 @@
   number: 1
   lyricist: Friederike Robert
   language: DE
-  liedernet: get_text.html?TextId=13721
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=sX8qyWJXF-U
+  liedernet: get_text.html?TextId=13721
 6022185:
   path: Hensel,_Fanny_(Mendelssohn)/3_Songs/2_Italien
   imslp: '#28641'
@@ -5217,10 +5217,10 @@
   number: 2
   lyricist: Franz Grillparzer
   language: DE
-  liedernet: get_multi_text_setting.html?SettingId=7921
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=W7XAl7B0tMQ
+  liedernet: get_multi_text_setting.html?SettingId=7921
 6022146:
   path: Hensel,_Fanny_(Mendelssohn)/3_Songs/3_Suleika_und_Hatem
   imslp: '#28641'
@@ -5237,10 +5237,10 @@
   number: 1
   lyricist: Anonymous
   language: DE
-  liedernet: get_text.html?TextId=764
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=4f_gX_LPOoE
+  liedernet: get_text.html?TextId=764
 5000464:
   path: Hensel,_Fanny_(Mendelssohn)/5_Lieder,_Op.10/2_Vorwurf
   imslp: '#100337'
@@ -5249,10 +5249,10 @@
   number: 2
   lyricist: Nikolaus Lenau
   language: DE
-  liedernet: get_text.html?TextId=9995
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=J_ftLEDiNiw
+  liedernet: get_text.html?TextId=9995
 4919798:
   path: Hensel,_Fanny_(Mendelssohn)/5_Lieder,_Op.10/3_Abendbild
   imslp: '#100337'
@@ -5261,10 +5261,10 @@
   number: 3
   lyricist: Nikolaus Lenau
   language: DE
-  liedernet: get_text.html?TextId=9989&SettingId=11732
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=yf29QxFNQ84
+  liedernet: get_text.html?TextId=9989&SettingId=11732
 5000459:
   path: Hensel,_Fanny_(Mendelssohn)/5_Lieder,_Op.10/4_Im_Herbste
   imslp: '#100337'
@@ -5273,10 +5273,10 @@
   number: 4
   lyricist: Emanuel Geibel
   language: DE
-  liedernet: get_text.html?TextId=5978&SettingId=6598
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=Rbv5-W4urYM
+  liedernet: get_text.html?TextId=5978&SettingId=6598
 5000446:
   path: Hensel,_Fanny_(Mendelssohn)/5_Lieder,_Op.10/5_Bergeslust
   imslp: '#100337'
@@ -5285,10 +5285,10 @@
   number: 5
   lyricist: Joseph von Eichendorff
   language: DE
-  liedernet: get_text.html?TextId=5134&SettingId=5708
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=7frqC5Omm38
+  liedernet: get_text.html?TextId=5134&SettingId=5708
 5100543:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.1/1_Schwanenlied
   imslp: '#99178'
@@ -5297,10 +5297,10 @@
   number: 1
   lyricist: Heinrich Heine
   language: DE
-  liedernet: get_text.html?TextId=7721
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=6IMxCfqDQIA
+  liedernet: get_text.html?TextId=7721
 5004632:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.1/2_Wanderlied
   imslp: '#99178'
@@ -5309,10 +5309,10 @@
   number: 2
   lyricist: Johann Wolfgang von Goethe
   language: DE
-  liedernet: get_text.html?TextId=6659&SettingId=7700
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=p9OjrvC1L_M
+  liedernet: get_text.html?TextId=6659&SettingId=7700
 5004640:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.1/3_Warum_sind_denn_die_Rosen_so_blass
   imslp: '#99178'
@@ -5321,10 +5321,10 @@
   number: 3
   lyricist: Heinrich Heine
   language: DE
-  liedernet: get_text.html?TextId=7780
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=xS5FD_x8hEY
+  liedernet: get_text.html?TextId=7780
 5101299:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.1/4_Mayenlied
   imslp: '#99178'
@@ -5333,10 +5333,10 @@
   number: 4
   lyricist: Joseph von Eichendorff
   language: DE
-  liedernet: get_text.html?TextId=5228&SettingId=5770
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=MjoyHMHnq7U
+  liedernet: get_text.html?TextId=5228&SettingId=5770
 5004650:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.1/5_Morgenständchen
   imslp: '#99178'
@@ -5345,10 +5345,10 @@
   number: 5
   lyricist: Joseph von Eichendorff
   language: DE
-  liedernet: get_text.html?TextId=5241&SettingId=5784
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=L3w_5IQG-kc
+  liedernet: get_text.html?TextId=5241&SettingId=5784
 5101361:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.1/6_Gondellied
   imslp: '#99178'
@@ -5356,10 +5356,10 @@
   number: 6
   lyricist: Unknown
   language: DE
-  liedernet: get_text.html?TextId=22989&SettingId=730
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=Bj0yn5ud5f0
+  liedernet: get_text.html?TextId=22989&SettingId=730
 5987757:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.7/1_Nachtwanderer
   imslp: '#558449'
@@ -5367,10 +5367,10 @@
   number: 1
   lyricist: Joseph von Eichendorff
   language: DE
-  liedernet: get_text.html?TextId=5204&SettingId=5735
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=u_apfk8J-cc
+  liedernet: get_text.html?TextId=5204&SettingId=5735
 5987806:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.7/2_Erwin
   imslp: '#558449'
@@ -5378,10 +5378,10 @@
   number: 2
   lyricist: Johann Wolfgang von Goethe
   language: DE
-  liedernet: get_text.html?TextId=6385&SettingId=7134
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=Y4APc0pcCyw
+  liedernet: get_text.html?TextId=6385&SettingId=7134
 5987851:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.7/3_Frühling
   imslp: '#558449'
@@ -5389,10 +5389,10 @@
   number: 3
   lyricist: Joseph von Eichendorff
   language: DE
-  liedernet: get_text.html?TextId=53200
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=3pygD2N_8JM
+  liedernet: get_text.html?TextId=53200
 5987937:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.7/4_Du_bist_die_Ruh
   imslp: '#558449'
@@ -5400,10 +5400,10 @@
   number: 4
   lyricist: Friedrich Rückert
   language: DE
-  liedernet: get_text.html?TextId=18176&SettingId=20062
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=zNpJ63b_f3w
+  liedernet: get_text.html?TextId=18176&SettingId=20062
 5987963:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.7/5_Bitte
   imslp: '#558449'
@@ -5411,10 +5411,10 @@
   number: 5
   lyricist: Nikolaus Lenau
   language: DE
-  liedernet: get_text.html?TextId=9985&SettingId=11715
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=rbr0NJOFSxw
+  liedernet: get_text.html?TextId=9985&SettingId=11715
 5987993:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.7/6_Dein_ist_mein_Herz
   imslp: '#558449'
@@ -5422,10 +5422,10 @@
   number: 6
   lyricist: Nikolaus Lenau
   language: DE
-  liedernet: get_text.html?TextId=119984
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=3MMtJ5ftjXY
+  liedernet: get_text.html?TextId=119984
 4986023:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.9/1_Die_Ersehnte
   imslp: '#113581'
@@ -5434,10 +5434,10 @@
   number: 1
   lyricist: Ludwig Christoph Heinrich Hölty
   language: DE
-  liedernet: get_text.html?TextId=8297
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=zwf69PSKfpw
+  liedernet: get_text.html?TextId=8297
 5103883:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.9/2_Ferne
   imslp: '#113581'
@@ -5446,10 +5446,10 @@
   number: 2
   lyricist: Johann Ludwig Tieck
   language: DE
-  liedernet: get_text.html?TextId=15772&SettingId=17615
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=lUQ19vZ1rxo
+  liedernet: get_text.html?TextId=15772&SettingId=17615
 5108166:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.9/3_Der_Rosenkranz
   imslp: '#113581'
@@ -5458,10 +5458,10 @@
   number: 3
   lyricist: Johann Heinrich Voss
   language: DE
-  liedernet: get_text.html?TextId=17235&SettingId=19166
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=1RD83njHE2Q
+  liedernet: get_text.html?TextId=17235&SettingId=19166
 4986026:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.9/4_Die_frühen_Gräber
   imslp: '#113581'
@@ -5470,10 +5470,10 @@
   number: 4
   lyricist: Friedrich Gottlieb Klopstock
   language: DE
-  liedernet: get_text.html?TextId=9436&SettingId=11199
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=p_vutuiVA7o
+  liedernet: get_text.html?TextId=9436&SettingId=11199
 5103913:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.9/5_Der_Maiabend
   imslp: '#113581'
@@ -5482,10 +5482,10 @@
   number: 5
   lyricist: Johann Heinrich Voss
   language: DE
-  liedernet: get_text.html?TextId=17237&SettingId=19167
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=HhO83THOacI
+  liedernet: get_text.html?TextId=17237&SettingId=19167
 4986030:
   path: Hensel,_Fanny_(Mendelssohn)/6_Lieder,_Op.9/6_Die_Mainacht
   imslp: '#113581'
@@ -5494,10 +5494,10 @@
   number: 6
   lyricist: Ludwig Christoph Heinrich Hölty
   language: DE
-  liedernet: get_text.html?TextId=8304&SettingId=9941
   audio:
   - audio_id: KolbShrut1992
     audio: https://www.youtube.com/watch?v=-98niy-k3is
+  liedernet: get_text.html?TextId=8304&SettingId=9941
 6022950:
   path: Hensel,_Fanny_(Mendelssohn)/Gartenlieder,_Op.3/1_Hörst_du_nicht_die_Bäume_rauschen
   imslp: '#558571'
@@ -11247,7 +11247,7 @@
   imslp: '#529227'
   set_id: 5103592
   lyricist_url: https://imslp.org/wiki/Category:Housman,_Alfred_Edward
-  number: 3
+  number: 2
   lyricist: Alfred Edward Housman
   language: EN
   liedernet: get_text.html?TextId=8366&SettingId=10021
@@ -11256,7 +11256,7 @@
   imslp: '#529227'
   set_id: 5103592
   lyricist_url: https://imslp.org/wiki/Category:Housman,_Alfred_Edward
-  number: 4
+  number: 3
   lyricist: Alfred Edward Housman
   language: EN
   liedernet: get_text.html?TextId=8364
@@ -11265,7 +11265,7 @@
   imslp: '#529227'
   set_id: 5103592
   lyricist_url: https://imslp.org/wiki/Category:Housman,_Alfred_Edward
-  number: 5
+  number: 4
   lyricist: Alfred Edward Housman
   language: EN
   liedernet: get_text.html?TextId=8372&SettingId=10033
@@ -11274,7 +11274,7 @@
   imslp: '#529227'
   set_id: 5103592
   lyricist_url: https://imslp.org/wiki/Category:Housman,_Alfred_Edward
-  number: 6
+  number: 5
   lyricist: Alfred Edward Housman
   language: EN
   liedernet: get_text.html?TextId=8380&SettingId=10051
@@ -11283,7 +11283,7 @@
   imslp: '#529227'
   set_id: 5103592
   lyricist_url: https://imslp.org/wiki/Category:Housman,_Alfred_Edward
-  number: 7
+  number: 6
   lyricist: Alfred Edward Housman
   language: EN
   liedernet: get_text.html?TextId=8412&SettingId=10155
@@ -11292,7 +11292,7 @@
   imslp: '#529227'
   set_id: 5103592
   lyricist_url: https://imslp.org/wiki/Category:Housman,_Alfred_Edward
-  number: 8
+  number: 7
   lyricist: Alfred Edward Housman
   language: EN
   liedernet: get_text.html?TextId=8404&SettingId=10133
@@ -11301,7 +11301,7 @@
   imslp: '#529227'
   set_id: 5103592
   lyricist_url: https://imslp.org/wiki/Category:Housman,_Alfred_Edward
-  number: 9
+  number: 8
   lyricist: Alfred Edward Housman
   language: EN
   liedernet: get_text.html?TextId=8362&SettingId=10008
@@ -11310,7 +11310,7 @@
   imslp: '#529227'
   set_id: 5103592
   lyricist_url: https://imslp.org/wiki/Category:Housman,_Alfred_Edward
-  number: 10
+  number: 9
   lyricist: Alfred Edward Housman
   language: EN
   liedernet: get_text.html?TextId=8383&SettingId=10061
@@ -11319,7 +11319,7 @@
   imslp: '#529227'
   set_id: 5103592
   lyricist_url: https://imslp.org/wiki/Category:Housman,_Alfred_Edward
-  number: 2
+  number: 10
   lyricist: Alfred Edward Housman
   language: EN
   liedernet: get_text.html?TextId=8392
@@ -11789,7 +11789,7 @@
   imslp: '#44645'
   set_id: 5026081
   lyricist_url: https://imslp.org/wiki/Category:Wesendonck,_Mathilde
-  number: 5
+  number: 2
   lyricist: Mathilde Wesendonck
   language: DE
   liedernet: get_text.html?TextId=17391
@@ -11798,7 +11798,7 @@
   imslp: '#44645'
   set_id: 5026081
   lyricist_url: https://imslp.org/wiki/Category:Wesendonck,_Mathilde
-  number: 2
+  number: 3
   lyricist: Mathilde Wesendonck
   language: DE
   liedernet: get_text.html?TextId=17385
@@ -11807,7 +11807,7 @@
   imslp: '#44645'
   set_id: 5026081
   lyricist_url: https://imslp.org/wiki/Category:Wesendonck,_Mathilde
-  number: 3
+  number: 4
   lyricist: Mathilde Wesendonck
   language: DE
   liedernet: get_text.html?TextId=17387
@@ -11816,7 +11816,7 @@
   imslp: '#44645'
   set_id: 5026081
   lyricist_url: https://imslp.org/wiki/Category:Wesendonck,_Mathilde
-  number: 4
+  number: 5
   lyricist: Mathilde Wesendonck
   language: DE
   liedernet: get_text.html?TextId=17389
