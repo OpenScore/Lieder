@@ -184,7 +184,7 @@ def main():
             comp = composers.get(comp_key)
             if comp:
                 is_singles = (set_rec.get("path", "").endswith("/_"))
-                return comp["name"], ("—" if is_singles else set_rec.get("name", "—"))
+                return comp["name_sort"], ("—" if is_singles else set_rec.get("name", "—"))
         # fall back to the composer segment of the score's own path
         first_seg = s.get("path", "").split("/")[0]
         comp_key = composer_path_to_key.get(first_seg)
