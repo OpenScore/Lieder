@@ -38,7 +38,6 @@ def main():
         help=f"Root directory that paths are relative to (default: {SCORE_DIR})",
     )
     ap.add_argument("--key", default="path", help="Field name holding the relative path (default: 'path')")
-    ap.add_argument("--missing-only", default=True, action="store_true", help="Only print missing entries")
     args = ap.parse_args()
 
     root = Path(args.root).expanduser().resolve()
@@ -53,6 +52,7 @@ def main():
 
     total = 0
     missing = 0
+    non_leaf = 0
 
     for item_id, item in data.items():
 
@@ -68,14 +68,26 @@ def main():
         rel_path = item[args.key]
         full_path = root / rel_path
 
-        exists = full_path.exists()
-        if not exists:
+        if not full_path.exists():
             missing += 1
             print(f"MISSING  {item_id}: {rel_path}")
-        elif not args.missing_only:
-            print(f"OK       {item_id}: {rel_path}")
 
-    print(f"\n{total - missing}/{total} paths found, {missing} missing.")
+        for item in full_path.iterdir():
+            if item.is_dir():
+                if not item.name.startswith("."):
+                    non_leaf += 1
+                    print(f"NON-LEAF {item_id}: {item}")
+
+    if missing == 0:
+        print(f"All {total} found")
+    else:
+        print(f"** {missing}/{total} missing.")
+
+    if non_leaf == 0:
+        print(f"All {total} are leaf paths")
+    else:
+        print(f"{non_leaf}/{total} are not leaf paths")
+
     sys.exit(1 if missing else 0)
 
 
